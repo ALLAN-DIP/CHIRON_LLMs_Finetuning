@@ -51,7 +51,12 @@ if __name__ == "__main__":
         if model_config.torch_dtype in ["auto", None]
         else getattr(torch, model_config.torch_dtype)
     )
-    quantization_config = get_quantization_config(model_config)
+    # quantization_config = get_quantization_config(model_config)
+    quantization_config = None
+
+    # if isinstance(model_config.lora_target_modules, str):
+    #     lora_target_modules = model_config.lora_target_modules.replace("[", "").replace("]", "").split(",")
+    
     model_kwargs = dict(
         revision=model_config.model_revision,
         trust_remote_code=model_config.trust_remote_code,
