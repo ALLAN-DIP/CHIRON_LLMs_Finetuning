@@ -1,14 +1,10 @@
 # CHIRON_LLMs_finetuning
 
-## Installation
+## Model files
 
-Use the provided Makefile to install this project by running the following from the project root directory (the same directory as this README). Ensure the `python` in `PATH` is 3.11 before running this command:
+fine-tuned llama2 model files:https://drive.google.com/drive/u/2/folders/1mypOCyJfca_lF7Ji7NUZuWD7j7xesWcE
 
-```bash
-make install
-```
-
-If the installation process fails, is interrupted, or for any reason needs to be restarted, run `git clean -xdf` to reset the repository's state.
+Download model files into model/checkpoint/out/ and use it by running inference.py
 
 ## Contributing
 
