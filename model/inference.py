@@ -11,7 +11,7 @@ import time
 from tqdm import tqdm
 
 
-def load_model(base_model_name, adapter_path, tokenizer_path, device='cpu'):
+def load_model(base_model_name, adapter_path, tokenizer_path,device='cpu'):
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
     model = AutoModelForCausalLM.from_pretrained(base_model_name)
     model = PeftModel.from_pretrained(model, adapter_path)
@@ -37,13 +37,12 @@ def generate_text(prompt, tokenizer, model, device='cpu'):
 if __name__ == "__main__":
     overall_time = time.time()
     base_model_name = "meta-llama/Llama-2-7b-chat-hf"
-    adapter_path = '../output/no_board_history_with_sys_history_cicero_10epoch_lr5e-5_batch2'
-    tokenizer_path = '../output/no_board_history_with_sys_history_cicero_10epoch_lr5e-5_batch2'
+    adapter_path = 'checkpoint/output/no_board_history_with_sys_history_cicero_10epoch_lr5e-5_batch2'
+    tokenizer_path = 'checkpoint/output/no_board_history_with_sys_history_cicero_10epoch_lr5e-5_batch2'
     data_path = '../dataset/inference_no_board_history_with_sys_history_cicero.json'
     split = 'val'
-
+    access_token = "your_token_here"
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
-    
     tokenizer, model = load_model(base_model_name, adapter_path, tokenizer_path, device)
 
     with open(data_path) as f:
@@ -53,7 +52,7 @@ if __name__ == "__main__":
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(('id', 'prompt', 'desired_output', 'model_output'))
     for sample in tqdm(data):
-        index = sample['text'].find('[/INST] ')
+        index = sample['text'].find('[/INST]')
         model_input = sample['text'][:index+8]
         desired_output = sample['text'][index+8:-4]
         index = model_input.find('<</SYS>>\n\n')
@@ -61,6 +60,7 @@ if __name__ == "__main__":
         generated_text = generate_text(model_input, tokenizer, model, device)
         index = generated_text.find('[/INST] ')
         model_output = generated_text[index+8:]
+        print(generated_text)
         with open('val_no_board_history_with_sys_history_cicero_10epoch_lr5e-5_batch2.csv', 'a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow((sample['id'], prompt, desired_output, model_output))
