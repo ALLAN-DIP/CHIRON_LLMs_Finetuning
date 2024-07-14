@@ -136,4 +136,4 @@ if __name__ == "__main__":
     # generate_data(board_path, train_path, eval_path, 'no_board_history_with_sys_history_v2.json', use_board=False, only_history=True, system_prompt=True)
     generate_data(board_path, train_path, eval_path, test_path,
                   'no_board_history_with_sys_history_cicero.json', 
-                  use_board=False, only_history=True, system_prompt=True, cicero_path=cicero_path)
+                  use_board=True, only_history=True, system_prompt=True, cicero_path=cicero_path)
