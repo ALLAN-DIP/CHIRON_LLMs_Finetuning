@@ -1,0 +1,179 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello! What are your initial plans?",
+        "input": "My response to ITALY:'Hello! What are your initial plans?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Still hashing it out.",
+        "input": "Message from ITALY:'Still hashing it out.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response is vague but still in line with the initial phase of the game when plans are being formulated, showing no signs of deceit or aggression in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Cool. I don't like Russia so far, so an A/I that can stop a juggernaut would be my preference right now.",
+        "input": "My response to ITALY:'Cool. I don't like Russia so far, so an A/I that can stop a juggernaut would be my preference right now.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I haven't heard from Russia yet.",
+        "input": "Message from ITALY:'I haven't heard from Russia yet.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response is a simple statement regarding their lack of communication with Russia, indicating transparency and a focus on current diplomatic efforts rather than deception."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Oof. So you decided to attack Austria and now Russia and Turkey are in a much better position. My advice would be to apologize to Austria and fight against this juggernaut that could be forming. Attacking Austria is not gonna work well for you.",
+        "input": "My response to ITALY:'Oof. So you decided to attack Austria and now Russia and Turkey are in a much better position. My advice would be to apologize to Austria and fight against this juggernaut that could be forming. Attacking Austria is not gonna work well for you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So there is definitely a juggernaut forming",
+        "input": "My response to ITALY:'So there is definitely a juggernaut forming'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm okay with that.",
+        "input": "Message from ITALY:'I'm okay with that.'.If the cicero recommended order for me is: F DEN S F SWE, A HOL S A BEL, A RUH - MUN, F KIE S F DEN. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response agrees with your observation about the juggernaut forming, indicating potential alignment with your concerns, and showing openness to the strategic dynamics in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm okay with that",
+        "input": "Message from ITALY:'I'm okay with that'.If the cicero recommended order for me is: F DEN S F SWE, A HOL S A BEL, A RUH - MUN, F KIE S F DEN. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response aligns with your observation about the juggernaut forming, suggesting potential cooperation in addressing the emerging threat, which could benefit your position in the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ummm... a juggernaut means Russia and Turkey hold their alliance above an alliance with Austria or Italy. Russia confirmed in chat with me that he has been planning to work with Turkey since the beginning.",
+        "input": "My response to ITALY:'Ummm... a juggernaut means Russia and Turkey hold their alliance above an alliance with Austria or Italy. Russia confirmed in chat with me that he has been planning to work with Turkey since the beginning.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Hmm I thought it was something else",
+        "input": "Message from ITALY:'Hmm I thought it was something else'.If the cicero recommended order for me is: F DEN S F SWE, A HOL S A BEL, A RUH - MUN, F KIE S F DEN. Should I trust ITALY?",
+        "output": "You should not trust the message. Italy's response shows a disconnect with the information and strategy you shared, indicating a lack of alignment in understanding the current dynamics of the game, which may lead to potential miscommunication or miscoordination in future moves."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "I'm thoroughly confused as to what is happening in the east. Russia seems to have lied to everyone",
+        "input": "My response to ITALY:'I'm thoroughly confused as to what is happening in the east. Russia seems to have lied to everyone'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "He asks me to stab every turn. Hes allied with everyone, begging them to stab. Then everyone is like, watch out for the jugg or watch out for the Austronaut.",
+        "input": "Message from ITALY:'He asks me to stab every turn. Hes allied with everyone, begging them to stab. Then everyone is like, watch out for the jugg or watch out for the Austronaut.'.If the cicero recommended order for me is: A HOL - KIE, A RUH - MUN, F BAL S F KIE - DEN, F KIE - DEN. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response offers insight into their interactions with Russia and the complex dynamics in the game, indicating a degree of transparency and sharing of important strategic information that could benefit your strategic decision-making."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Austria would do a key or speed lepanto and wanted to do blue water which was very pro Russian. It's on him for trusting Russia over me.",
+        "input": "Message from ITALY:'Austria would do a key or speed lepanto and wanted to do blue water which was very pro Russian. It's on him for trusting Russia over me.'.If the cicero recommended order for me is: A HOL - KIE, A RUH - MUN, F BAL S F KIE - DEN, F KIE - DEN. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's communication reveals their perception of Austria's strategic choices and their assessment of the situation, highlighting potential rifts in alliances and suggesting a willingness to discuss and analyze the game dynamics openly."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Wouldnt",
+        "input": "Message from ITALY:'Wouldnt'.If the cicero recommended order for me is: A HOL - KIE, A RUH - MUN, F BAL S F KIE - DEN, F KIE - DEN. Should I trust ITALY?",
+        "output": "You should not trust the message. Italy's simple response of \"Wouldn't\" lacks context and may not provide clear insight into their intentions or thoughts, potentially leaving room for misinterpretation or misunderstanding in further interactions with them."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "So are you working with Turkey now? Or Austria?",
+        "input": "My response to ITALY:'So are you working with Turkey now? Or Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Considering I'm in Syria, Im not sure if the question is rhetorical.",
+        "input": "Message from ITALY:'Considering I'm in Syria, Im not sure if the question is rhetorical.'.If the cicero recommended order for me is: A HOL - KIE, A RUH - MUN, F BAL S F KIE - DEN, F KIE - DEN. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response reflects clarity in their communication by recognizing the geographical constraints that influence their current alliances, suggesting a level of honesty and awareness that can contribute positively to diplomatic relations and strategic decision-making."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "If you arent using Tyrolia, tapping Bohemia would be super helpful to me.",
+        "input": "My response to ITALY:'If you arent using Tyrolia, tapping Bohemia would be super helpful to me.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I'll keep it in mind.",
+        "input": "Message from ITALY:'I'll keep it in mind.'.If the cicero recommended order for me is: A HOL S F KIE, F KIE S F BER, A MUN S F BER, F BER S F KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response indicates openness to considering your suggestion, demonstrating a willingness to cooperate or collaborate, which could pave the way for beneficial interactions in future turns."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I can hold munich",
+        "input": "Message from ITALY:'I can hold munich'.If the cicero recommended order for me is: A HOL S F KIE, F KIE S F BER, A MUN S F BER, F BER S F KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's statement about holding Munich aligns with the strategic orders you provided, indicating a potential alignment or cooperation in securing your interests, which bodes well for building a productive alliance in the game."
+      }
+    ]
+  }
+]

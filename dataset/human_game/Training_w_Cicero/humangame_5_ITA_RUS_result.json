@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Got any juicy gossip?",
+        "input": "Message from RUSSIA:'Hi Italy! Got any juicy gossip?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message from RUSSIA. The message seems harmless, but it could be an attempt to gather information about your plans, especially since there are no concrete negotiations or proposals included in the message."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Nothing yet, you?",
+        "input": "My response to RUSSIA:'Nothing yet, you?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.",
+        "input": "Message from RUSSIA:'Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message from RUSSIA. The sudden proposal for an alliance and aggressive strategy against Turkey could be a ploy to manipulate your moves and weaken your position on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "That's you, me and Austria?",
+        "input": "My response to RUSSIA:'That's you, me and Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.",
+        "input": "Message from RUSSIA:'Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message from RUSSIA. The sudden shift in strategy presented by Russia could indicate a lack of sincerity or a potential attempt to manipulate you into making moves that benefit Russia more than yourself."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds like a plan!",
+        "input": "My response to RUSSIA:'Sounds like a plan!'.",
+        "output": ""
+      }
+    ]
+  }
+]

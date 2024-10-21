@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! Got any thoughts about Sweden?",
+        "input": "Message from RUSSIA:'Hey Germany! Got any thoughts about Sweden?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Given your current orders to move towards Denmark, Russia's inquiry about Sweden is likely an attempt to gather information about your intentions in the region and potentially strategize against you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I do, but I'm curious as to what you'd suggest.",
+        "input": "My response to RUSSIA:'I do, but I'm curious as to what you'd suggest.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.",
+        "input": "Message from RUSSIA:'Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's explanation aligns with the potential benefits of a strong Russia-Germany alliance, indicating a desire for collaboration and stability in the region. Their acknowledgment of Russia's vulnerability also suggests honesty in the communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "My response to RUSSIA:'I'm in'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Just stay out of pru and sil unless you give me some heads up",
+        "input": "My response to RUSSIA:'Just stay out of pru and sil unless you give me some heads up'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "You got it.",
+        "input": "Message from RUSSIA:'You got it.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's straightforward agreement and willingness to respect your territories indicate a level of trustworthiness and commitment to the alliance. Their prompt and concise response suggests sincerity in their intentions."
+      }
+    ]
+  }
+]

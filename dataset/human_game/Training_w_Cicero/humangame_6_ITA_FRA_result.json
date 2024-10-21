@@ -1,0 +1,44 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Greetings Italy!\n\nWould you be up for a DMZ in piedmont? I think it would benefit both of us if we didn't go to war rn. Looking forwards to a great game!\n-France",
+        "input": "Message from FRANCE:'Greetings Italy!\n\nWould you be up for a DMZ in piedmont? I think it would benefit both of us if we didn't go to war rn. Looking forwards to a great game!\n-France'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust FRANCE?",
+        "output": "You should trust the message. France's proposal of a DMZ in Piedmont aligns with their message of wanting to avoid a war, which indicates a potential interest in maintaining a peaceful relationship with you. Your planned move of A VEN to hold also doesn't suggest aggression towards France, making it a suitable response to their offer."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey italy. You there?",
+        "input": "Message from FRANCE:'Hey italy. You there?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust FRANCE?",
+        "output": "You should not trust the message. The sudden change in tone from a friendly proposal to a more urgent-sounding inquiry without any significant development in the game suggests potential inconsistency in France's intentions, possibly indicating a shift in their strategy towards you. Be cautious and consider seeking more context before fully trusting France in this situation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Thinking of a leponto? Or hitting austria early?",
+        "input": "Message from FRANCE:'Thinking of a leponto? Or hitting austria early?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's mention of a Lepanto or attacking Austria early contrasts with their previous suggestions of establishing a DMZ and avoiding conflict, indicating potential duplicity in their intentions towards you. Given the change in tone and strategy proposed, it would be prudent to approach France's messages with caution and consider alternative diplomatic options."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hey Italy; I don't know if you have noticed but Russia is huge rn and is about to crush both you and turkey, and then proceed to run over the rest of the map. Idk how your relationship with turkey or Italy is, but you guys really need to work together to stop Russia. You don't seem like a very talkative type but it's never to late to change...",
+        "input": "Message from FRANCE:'Hey Italy; I don't know if you have noticed but Russia is huge rn and is about to crush both you and turkey, and then proceed to run over the rest of the map. Idk how your relationship with turkey or Italy is, but you guys really need to work together to stop Russia. You don't seem like a very talkative type but it's never to late to change...'.If the cicero recommended order for me is: F TUN - WES, F NAP - ION, F ROM - TYS, A VEN - TRI, A TRI - VIE. Should I trust FRANCE?",
+        "output": "You should trust the message. France's warning about the potential threat posed by Russia to both you and Turkey shows a willingness to collaborate and address the larger issue at hand, indicating a genuine interest in shaping a collective response to the evolving dynamics of the game. Your planned moves of coordinating with Turkey against Russia further support the idea of fostering cooperation with France in this critical moment."
+      }
+    ]
+  }
+]

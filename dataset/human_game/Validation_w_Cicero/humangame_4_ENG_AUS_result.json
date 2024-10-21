@@ -1,0 +1,86 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Hello Austria!",
+        "input": "My response to AUSTRIA:'Hello Austria!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I believe we  may have shared interests on the eastern half of the map",
+        "input": "My response to AUSTRIA:'I believe we  may have shared interests on the eastern half of the map'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I do believe you are correct",
+        "input": "Message from AUSTRIA:'I do believe you are correct'.If the cicero recommended order for me is: A LVP - YOR, F NTH - DEN, F NWG - NWY. Should I trust AUSTRIA?",
+        "output": "You should trust Austria. The reciprocation of your statement about shared interests on the eastern half of the map indicates a mutual understanding and potential alignment. Given the positive response, it seems Austria is likely open to collaboration in the east."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hello!",
+        "input": "My response to AUSTRIA:'Hello!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "If you don't mind me asking, are you getting along with your neighbors?",
+        "input": "My response to AUSTRIA:'If you don't mind me asking, are you getting along with your neighbors?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?",
+        "input": "Message from AUSTRIA:'I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?'.If the cicero recommended order for me is: A YOR H, F EDI - NTH, F ENG S F EDI - NTH, F NWY - SKA. Should I trust AUSTRIA?",
+        "output": "You should trust Austria. Austria's open communication about their current relationships indicates a willingness to share information and potentially cooperate. Given the context provided, there seems to be sincerity in their message."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "I am in quite the situation right now",
+        "input": "My response to AUSTRIA:'I am in quite the situation right now'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly",
+        "input": "My response to AUSTRIA:'Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly'.",
+        "output": ""
+      }
+    ]
+  }
+]

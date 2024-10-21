@@ -1,0 +1,572 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello, my friend - I would like to work with you long-term.  Please let me know which direction you'd like to go first - into Austria or into Turkey.  Your choice will be my direction too.",
+        "input": "Message from RUSSIA:'Hello, my friend - I would like to work with you long-term.  Please let me know which direction you'd like to go first - into Austria or into Turkey.  Your choice will be my direction too.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia might be attempting to manipulate your movements by appearing friendly, but their flexibility to go either direction based on your choice raises suspicions. Stick to your initial plan and maintain caution."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm still figuring it out.",
+        "input": "My response to RUSSIA:'I'm still figuring it out.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What are your first impressions? Germany obviously doesn't like you.",
+        "input": "My response to RUSSIA:'What are your first impressions? Germany obviously doesn't like you.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What makes you think that Germany doesn't \"like\" me?",
+        "input": "Message from RUSSIA:'What makes you think that Germany doesn't \"like\" me?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response seems defensive and questioning, indicating a potential lack of transparency or genuine interest in collaboration. Proceed with caution and maintain a skeptical approach towards their intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "He said it.",
+        "input": "My response to RUSSIA:'He said it.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "He said that he didn't like me?  What are we, middle school kids?",
+        "input": "Message from RUSSIA:'He said that he didn't like me?  What are we, middle school kids?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's dismissive tone and reaction to the mention of Germany's feelings implies they are focusing on the larger diplomatic picture rather than petty interpersonal dynamics. Proceed with caution, but there is potential for a meaningful long-term collaboration based on their response."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Apparently.  I haven't talked to anyone enough. Maybe he's just trying to stop a wintergreen.",
+        "input": "My response to RUSSIA:'Apparently.  I haven't talked to anyone enough. Maybe he's just trying to stop a wintergreen.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well ... what are your thoughts on a Wintergreen?  That's a Russia-Italy partnership, right?",
+        "input": "Message from RUSSIA:'Well ... what are your thoughts on a Wintergreen?  That's a Russia-Italy partnership, right?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's mention of a potential Russia-Italy partnership, known as Wintergreen, aligns with traditional strategies and demonstrates a willingness to explore collaborative possibilities. Proceed with cautious optimism and consider further communication to solidify the partnership."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "It is Russo-Italian.",
+        "input": "My response to RUSSIA:'It is Russo-Italian.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Austria is going to hedgehog though so I doubt we can get together soon.",
+        "input": "My response to RUSSIA:'Austria is going to hedgehog though so I doubt we can get together soon.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "hedgehog?  You mean he's going to open with his fleet to Venice?",
+        "input": "Message from RUSSIA:'hedgehog?  You mean he's going to open with his fleet to Venice?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's focus on Austria's potential moves and detailed knowledge of possible strategies may indicate a desire to gather information rather than genuine collaboration. Maintain caution and carefully consider the implications of sharing further details with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Yes he's adamant on a ven move.",
+        "input": "My response to RUSSIA:'Yes he's adamant on a ven move.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Interesting. That did not appear to be a hedgehog.",
+        "input": "Message from RUSSIA:'Interesting. That did not appear to be a hedgehog.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust RUSSIA?",
+        "output": "You should trust the message. In acknowledging the unexpected strategy from Austria, Russia's observation seems genuine and aligns with the shifting dynamics of the game. Proceed with caution and continue to assess the situation for potential collaboration with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "No I'm not sure what he's doing.",
+        "input": "My response to RUSSIA:'No I'm not sure what he's doing.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I wish you were in Tyrol.",
+        "input": "Message from RUSSIA:'I wish you were in Tyrol.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's expressed wish for your unit to be in Tyrol could indicate a potential threat or desire to limit your options strategically. Exercise caution and consider keeping a close eye on Russia's movements."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well I thought the move would fail.",
+        "input": "My response to RUSSIA:'Well I thought the move would fail.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Who did you think would open there?",
+        "input": "Message from RUSSIA:'Who did you think would open there?'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's inquiry about your strategic predictions demonstrates an interest in understanding your perspective and potentially collaborating based on shared insights. Stay vigilant and explore the opportunity for diplomatic exchange with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Nobody but without ven it'd be bad.",
+        "input": "My response to RUSSIA:'Nobody but without ven it'd be bad.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Do you want to attack Austria together? You could try for Trieste again or go for position.",
+        "input": "Message from RUSSIA:'Do you want to attack Austria together? You could try for Trieste again or go for position.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal to collaborate on an attack against Austria aligns with potential long-term strategic benefits for both parties. Consider exploring the opportunity for a coordinated effort while staying observant of Russia's movements to ensure mutual trust."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "so... are doing a crafty lepanto or would you like to team up on Austria together? I\u2019d be down for a split of Austria, then we take out turkey. Thoughts?",
+        "input": "Message from RUSSIA:'so... are doing a crafty lepanto or would you like to team up on Austria together? I\u2019d be down for a split of Austria, then we take out turkey. Thoughts?'.",
+        "output": "You should trust the message. Russia's suggestion of collaborating against Austria and then Turkey aligns with potential mutual benefits and a strategic advantage for both parties. Consider discussing further details and solidifying plans for a coordinated effort."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "He can't stop us both!",
+        "input": "My response to RUSSIA:'He can't stop us both!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "You really like Tyrolia!",
+        "input": "Message from RUSSIA:'You really like Tyrolia!'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's observation about your affinity for Tyrolia indicates an awareness of your recent moves and may suggest an openness to building a stronger alliance. Consider continuing the conversation and exploring potential collaborative strategies with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I heard there was a supply center rush in Germany and wanted my fair share.",
+        "input": "My response to RUSSIA:'I heard there was a supply center rush in Germany and wanted my fair share.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Interesting. Usually Italy doesn\u2019t bypass Austria to go after German dots. That\u2019s an unsustainable position.  We also have two on Vienna, if you\u2019re interested.",
+        "input": "Message from RUSSIA:'Interesting. Usually Italy doesn\u2019t bypass Austria to go after German dots. That\u2019s an unsustainable position.  We also have two on Vienna, if you\u2019re interested.'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's concern about the sustainability of bypassing Austria for German supply centers and their mention of Vienna as a potential target indicate a willingness to coordinate and work towards common goals. Proceed with caution and explore the opportunity for collaboration with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Looks like you're full on moving towards Germany",
+        "input": "My response to RUSSIA:'Looks like you're full on moving towards Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "you online?",
+        "input": "Message from RUSSIA:'you online?'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust RUSSIA?",
+        "output": "You should be cautious and not trust the message. Russia's sudden shift in tone without addressing the previous discussion points or strategic plans may indicate a lack of attention or commitment to the proposed collaboration. It would be wise to approach further interactions with Russia with vigilance."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "So, I'd be curious as to your thoughts going into this year.  Any interest in working together to divide up Austria quickly, and then take out Turkey?",
+        "input": "Message from RUSSIA:'So, I'd be curious as to your thoughts going into this year.  Any interest in working together to divide up Austria quickly, and then take out Turkey?'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, F APU - ADR, A SYR - ARM. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal to collaborate in dividing up Austria swiftly and then eliminating Turkey aligns with your strategic interests and could potentially lead to mutual gains. Consider discussing further details and solidifying plans for a joint effort while maintaining vigilance in the partnership."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Looks like you were working with Austria there. Changing it up?",
+        "input": "My response to RUSSIA:'Looks like you were working with Austria there. Changing it up?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "He disbanded an army. And left himself wide open to us.",
+        "input": "Message from RUSSIA:'He disbanded an army. And left himself wide open to us.'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, F APU - ADR, A SYR - ARM. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's explanation of Austria's vulnerable position due to disbanding an army demonstrates an opportunity for strategic advantage and potential collaboration. Proceed with caution, but consider exploring the possibility of working together to capitalize on the situation."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I think it would be in our mutual benefit to coordinate",
+        "input": "Message from RUSSIA:'I think it would be in our mutual benefit to coordinate'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, A ARM - SMY, F ADR - TRI. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal to coordinate for mutual benefit aligns with your strategic interests and could lead to shared success in the game. Consider engaging further in discussions and solidifying plans collaboratively while remaining vigilant in the partnership."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Alright. I'm in a good spot. What's the plan. I' got units on Turkey and Austria. I want to grow.",
+        "input": "My response to RUSSIA:'Alright. I'm in a good spot. What's the plan. I' got units on Turkey and Austria. I want to grow.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I could support you into ANK",
+        "input": "Message from RUSSIA:'I could support you into ANK'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, A ARM - SMY, F ADR - TRI. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's offer to support your move into Ankara indicates a willingness to collaborate and support your growth in the game. Proceed cautiously, but consider this as an opportunity to strengthen your position while maintaining a cooperative stance with Russia."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I\u2019d like to do a long term split of the 8-9 centers. So, maybe I have long term ownership of ANK, but I\u2019m willing to put you in there now.",
+        "input": "Message from RUSSIA:'I\u2019d like to do a long term split of the 8-9 centers. So, maybe I have long term ownership of ANK, but I\u2019m willing to put you in there now.'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, A ARM - SMY, F ADR - TRI. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal for a long-term split of centers and offering immediate support for your unit into Ankara demonstrates a collaborative and forward-thinking approach. Consider this as a chance to secure a strong partnership with Russia while staying cautious and mindful of your own strategic interests."
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Yeah. You probably should have worked with me. Or submitted orders.",
+        "input": "Message from RUSSIA:'Yeah. You probably should have worked with me. Or submitted orders.'.",
+        "output": "You should not trust the message. Russia's reference to missed opportunities and a somewhat critical tone may suggest a lack of genuine commitment to collaboration or a shifting stance in the game. Be cautious and reassess the dynamics of your interaction with Russia moving forward."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Or both.",
+        "input": "Message from RUSSIA:'Or both.'.",
+        "output": "You should not trust the message. Russia's short and ambiguous response could hint at potential frustration or uncertainty in the partnership. Exercise caution and consider reassessing your diplomatic approach with Russia in the upcoming phases."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "Meh, I hate this platform. It's alright. With chat down this game is a bust anyway.",
+        "input": "My response to RUSSIA:'Meh, I hate this platform. It's alright. With chat down this game is a bust anyway.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Yet, you didn\u2019t get on the \u201crestart\u201d bus with everyone else.",
+        "input": "Message from RUSSIA:'Yet, you didn\u2019t get on the \u201crestart\u201d bus with everyone else.'.",
+        "output": "You should not trust the message. Russia's comment could be interpreted as a jab at your decision-making or lack of adaptation to the changing dynamics of the game. It's crucial to remain cautious and thoughtful in your interactions with Russia, especially given the apparent disagreement in strategies."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "That\u2019s pretty disingenuous on your part. I don\u2019t seem to have a problem, and this is my first online game in years.",
+        "input": "Message from RUSSIA:'That\u2019s pretty disingenuous on your part. I don\u2019t seem to have a problem, and this is my first online game in years.'.",
+        "output": "You should trust the message. Russia's response acknowledges their positive experience and asserts your disingenuity, indicating a genuine attempt to defend their position and express their perspective. Consider engaging in a constructive dialogue to address any misunderstandings and potentially rebuild trust in the communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "I thought there would be a more formal ask on the restart. I didnt know if it was necessary for me to say anything.",
+        "input": "My response to RUSSIA:'I thought there would be a more formal ask on the restart. I didnt know if it was necessary for me to say anything.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Literally everybody else was saying something.",
+        "input": "Message from RUSSIA:'Literally everybody else was saying something.'.",
+        "output": "You should trust the message. Russia's straightforward response highlights the importance of active participation and communication within the game, hinting at the expectations set by other players. Moving forward, consider being more proactive in interactions to align better with the dynamics of the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "And good for you. I haven't missed any turns in my 3 conspiracy games.",
+        "input": "My response to RUSSIA:'And good for you. I haven't missed any turns in my 3 conspiracy games.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "And, I even asked you to chime in. But, like every other request of you I\u2019ve made - you ignored it.",
+        "input": "Message from RUSSIA:'And, I even asked you to chime in. But, like every other request of you I\u2019ve made - you ignored it.'.",
+        "output": "You should not trust the message. Russia's accusatory tone and mention of previous ignored requests may indicate a sense of frustration or perceived lack of cooperation on your part. Exercise caution and evaluate the dynamics of your relationship with Russia in light of these statements."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "And I was waiting for the moderator to say what he needed.",
+        "input": "My response to RUSSIA:'And I was waiting for the moderator to say what he needed.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "That\u2019s great. Why could t you get your orders in for the game that you\u2019re getting paid to participate in?",
+        "input": "Message from RUSSIA:'That\u2019s great. Why could t you get your orders in for the game that you\u2019re getting paid to participate in?'.",
+        "output": "You should not trust the message. Russia's accusation of not submitting orders for a game you are supposed to be paid for may be manipulative or misleading. It's important to address any misunderstandings or confrontations diplomatically and clarify your actions to maintain transparency in your interactions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "He did. He said he\u2019s restart them game if all players agreed. Dude, it\u2019s cool. You thought you had an advantageous position so why restart?",
+        "input": "Message from RUSSIA:'He did. He said he\u2019s restart them game if all players agreed. Dude, it\u2019s cool. You thought you had an advantageous position so why restart?'.",
+        "output": "You should trust the message. Russia's explanation of the restarting conditions and reasoning behind your decision not to restart the game aligns with transparency and offers a perspective on your strategic approach. Take this as an opportunity to clarify any misunderstandings and seek common ground for future interactions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "But own it. Don\u2019t pretend, after you bolo some moves, that you wanted the restart all along. That\u2019s disingenuous.",
+        "input": "Message from RUSSIA:'But own it. Don\u2019t pretend, after you bolo some moves, that you wanted the restart all along. That\u2019s disingenuous.'.",
+        "output": "You should not trust the message. Russia's accusation of disingenuity and questioning your motives may indicate a lack of trust or attempt to sow discord. It's essential to address these concerns openly and honestly to foster clearer communication and build a more reliable diplomatic relationship."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "You still married to Austria?",
+        "input": "Message from RUSSIA:'You still married to Austria?'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's inquiry about your allegiance to Austria may signal a desire to gauge the nature of your relationships in the game. Exercise caution and assess the intentions behind Russia's question before sharing sensitive information or making commitments."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "He hasnt spoken to me. Not that I blame him.",
+        "input": "My response to RUSSIA:'He hasnt spoken to me. Not that I blame him.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "What did I miss, your orders don't look agressive towards him",
+        "input": "Message from RUSSIA:'What did I miss, your orders don't look agressive towards him'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's observation of your non-aggressive moves towards Austria, combined with their inquiry about the situation, indicates a genuine interest in understanding your stance and potential diplomatic openings. Proceed cautiously but consider engaging further in dialogue to explore possible collaboration with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Nothing. After missing orders I think he's through.",
+        "input": "My response to RUSSIA:'Nothing. After missing orders I think he's through.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "too bad France is on your ass, otherwise you could possibly slip into Trieste.",
+        "input": "Message from RUSSIA:'too bad France is on your ass, otherwise you could possibly slip into Trieste.'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of the immediate threat from France and the suggestion of a potential opportunity for you to advance into Trieste shows a level of strategic analysis that could benefit your position. Considering this, it appears that Russia is offering a valuable insight for your benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah and France wont talk. Its okay. It all my fault.",
+        "input": "My response to RUSSIA:'Yeah and France wont talk. Its okay. It all my fault.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Like a candle, burning from both ends.  You lit up the table, my friend - but you're running out of wick.",
+        "input": "Message from RUSSIA:'Like a candle, burning from both ends.  You lit up the table, my friend - but you're running out of wick.'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's poetic analogy indicates an understanding of the intense dynamics at play in the game and the urgency of the current situation. Consider this as a signal to reevaluate your strategies and potentially seek new alliances or tactics to navigate the complexities of the game board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "I'd be fine if I hit the submit button",
+        "input": "My response to RUSSIA:'I'd be fine if I hit the submit button'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Won't you be down to four centers?",
+        "input": "Message from RUSSIA:'Won't you be down to four centers?'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should be cautious and not trust the message. Russia's direct question about the potential loss of centers may indicate a focus on your vulnerability and could be seen as a probing tactic. It is advisable to approach the conversation carefully and consider your strategic moves before revealing too much information to Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah I'm gonna die. Not much I can do about it.",
+        "input": "My response to RUSSIA:'Yeah I'm gonna die. Not much I can do about it.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "well ... you could make up for taking SEV when you did. \ud83d\ude42",
+        "input": "Message from RUSSIA:'well ... you could make up for taking SEV when you did. \ud83d\ude42'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's mention of past actions in a playful manner could be interpreted as a reminder of prior mistrust or grievances. Proceed with caution and consider the implications of potential past misunderstandings as you navigate further interactions with Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Not sure where you're going with this",
+        "input": "My response to RUSSIA:'Not sure where you're going with this'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Sometimes when players accept that their game is over they try to help out the players whose games they ruined in the process.",
+        "input": "Message from RUSSIA:'Sometimes when players accept that their game is over they try to help out the players whose games they ruined in the process.'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's mention of players helping others after accepting their game is over might suggest a willingness to consider future collaboration or a shift towards cooperative gameplay. Explore this avenue cautiously and see if there are potential opportunities for mutual benefit in your interactions with Russia."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "For example, when you walked into Sevastapol, you blew up my position and really put by game in ruins.  Maybe you would like to do something to remedy this.  Let me know what Austria is doing, etc.  I really think you'd be having a much better game if you had just ran in on Austria while you had the chance - which is something I was trying to coordinate with you.",
+        "input": "Message from RUSSIA:'For example, when you walked into Sevastapol, you blew up my position and really put by game in ruins.  Maybe you would like to do something to remedy this.  Let me know what Austria is doing, etc.  I really think you'd be having a much better game if you had just ran in on Austria while you had the chance - which is something I was trying to coordinate with you.'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's explanation of past actions and the potential for collaboration to remedy the situation may indicate a genuine desire to improve the relationship and gameplay dynamics. Consider engaging in open communication and exploring the possibility of working together strategically while remaining cautious and attentive to mutual benefits."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah, honestly you're the only one to contact me",
+        "input": "My response to RUSSIA:'Yeah, honestly you're the only one to contact me'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "I try to talk to everyone. The facilitator  has old me that this is one of the last talkative games he\u2019s run. I think it\u2019s because everyone is in line trying to get tickets to go see Frozen II.",
+        "input": "Message from RUSSIA:'I try to talk to everyone. The facilitator  has old me that this is one of the last talkative games he\u2019s run. I think it\u2019s because everyone is in line trying to get tickets to go see Frozen II.'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's casual comment about the talkative nature of the game and external factors like the movie \"Frozen II\" demonstrates a light-hearted approach to the game's dynamics. It suggests an openness to communication and potential collaboration. Proceed with openness and consider further engagement with Russia to explore diplomatic possibilities."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "*told, least",
+        "input": "Message from RUSSIA:'*told, least'.If the cicero recommended order for me is: F TYS - TUN, F ION S F TYS - TUN, F NAP - TYS, A VEN S A TYR - PIE, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's minor correction in their message is likely innocuous and does not affect the overall context of the conversation. It indicates attention to detail rather than any deceptive intent. Continue engaging in conversation and collaboration with Russia while remaining cautious and observant."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "I usually do, but this interface makes it less fluid.",
+        "input": "My response to RUSSIA:'I usually do, but this interface makes it less fluid.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1908M",
+        "message": "Why would you keep the isolated army?",
+        "input": "Message from RUSSIA:'Why would you keep the isolated army?'.If the cicero recommended order for me is: F TYS - ROM, A PIE - VEN, F NAP S F TYS - ROM, A RUM - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's inquiry about your isolated army could suggest an interest in understanding your strategic moves and potentially offering advice or collaboration opportunities. Consider engaging in a discussion with Russia about your decision-making process and be open to exchanging insights for mutual benefit."
+      }
+    ]
+  }
+]

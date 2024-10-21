@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello neighbor. We have quite an historic relationship. I hope we can keep the peace. Dmz tyrolia?",
+        "input": "My response to AUSTRIA:'Hello neighbor. We have quite an historic relationship. I hope we can keep the peace. Dmz tyrolia?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me",
+        "input": "Message from AUSTRIA:'Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "'You should trust the message.' Austria's response aligns with their initial message and indicates a willingness to cooperate by agreeing to establish a DMZ in Tyrol."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Excellent! :)",
+        "input": "My response to AUSTRIA:'Excellent! :)'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Any further action you might want to take together?",
+        "input": "My response to AUSTRIA:'Any further action you might want to take together?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Probably best to just stay on alert at the moment and respond to any threats as they arise",
+        "input": "Message from AUSTRIA:'Probably best to just stay on alert at the moment and respond to any threats as they arise'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "'You should not trust the message.' Austria's response seems overly cautious and non-committal, which could indicate a hidden agenda or lack of genuine willingness to collaborate further."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah sounds like a good plan :)",
+        "input": "My response to AUSTRIA:'Yeah sounds like a good plan :)'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Seems like you're playing it slow. I'm not sure if you've talked to turkey, but I think you've got a golden opportunity to move with him on Russia. What you do afterwards is your business",
+        "input": "My response to AUSTRIA:'Seems like you're playing it slow. I'm not sure if you've talked to turkey, but I think you've got a golden opportunity to move with him on Russia. What you do afterwards is your business'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not to cast aspersions, but what will you be doing should I move my forces to attack Russia?",
+        "input": "Message from AUSTRIA:'Not to cast aspersions, but what will you be doing should I move my forces to attack Russia?'.If the cicero recommended order for me is: F HOL - BEL, A RUH - MUN, A KIE - DEN. Should I trust AUSTRIA?",
+        "output": "'You should not trust the message.' Austria's response raises suspicion by questioning your actions in the event of them attacking Russia, indicating a potential lack of commitment to cooperation and hinting at a possible betrayal."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Ohhhh haha no I'm not looking to move on you. I moved all my troops that opposite way. I think it's genuinely good for you (especially with Italy starting a Lepanto) and if Russia is busy it frees me up in the west. You see what I'm saying?",
+        "input": "My response to AUSTRIA:'Ohhhh haha no I'm not looking to move on you. I moved all my troops that opposite way. I think it's genuinely good for you (especially with Italy starting a Lepanto) and if Russia is busy it frees me up in the west. You see what I'm saying?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I did think that was your reasoning, but one can't be too careful! \ud83d\ude02",
+        "input": "Message from AUSTRIA:'I did think that was your reasoning, but one can't be too careful! \ud83d\ude02'.If the cicero recommended order for me is: F HOL - BEL, A RUH - MUN, A KIE - DEN. Should I trust AUSTRIA?",
+        "output": "'You should trust the message.' Austria's response shows understanding of your reasoning and humor, indicating a level of trust and potentially genuine intentions for collaboration."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "Is there any chance you could disrupt SIL for me this turn, or are you too caught up with the French and English?",
+        "input": "Message from AUSTRIA:'Is there any chance you could disrupt SIL for me this turn, or are you too caught up with the French and English?'.If the cicero recommended order for me is: A BEL - HOL, F HOL - KIE, A RUH S F HOL - KIE, A MUN S F HOL - KIE, A BER S F HOL - KIE. Should I trust AUSTRIA?",
+        "output": "'You should not trust the message.' Austria's request to disrupt your own units in Silesia indicates a potential betrayal or attempt to weaken your position, especially considering the current board dynamics with France and England."
+      }
+    ]
+  }
+]

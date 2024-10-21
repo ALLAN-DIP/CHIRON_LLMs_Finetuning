@@ -1,0 +1,181 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!",
+        "input": "Message from FRANCE:'Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their suggested alliance to take out Germany quickly contradicts their initial friendly approach, indicating potential deception for their own benefit. Proceed with caution and consider alternate diplomatic strategies to protect your interests."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.",
+        "input": "My response to FRANCE:'Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "Message from FRANCE:'Sounds good'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their concise response aligns with your initial plan, indicating a willingness to cooperate. Continue monitoring their actions in subsequent turns to ensure mutual trust and cooperation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm going to do a standard opening too, MAO, Spain, and burgundy",
+        "input": "Message from FRANCE:'I'm going to do a standard opening too, MAO, Spain, and burgundy'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their announcement of a standard opening is consistent with their previous communication and suggests a genuine intent to work together towards a mutual goal. Continue collaborating and verifying intentions through future moves to solidify the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Stab out the gate? Interesting tactics.",
+        "input": "My response to FRANCE:'Stab out the gate? Interesting tactics.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.",
+        "input": "Message from FRANCE:'Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH - LON, F NWG C A EDI - NWY. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their comment about future collaboration while referencing trust issues after a potential stab indicates a lack of sincerity and raises doubts about their intentions. Proceed cautiously and consider exploring other diplomatic options to protect your position."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.",
+        "input": "Message from FRANCE:'Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.'.If the cicero recommended order for me is: F YOR - EDI, A LVP - YOR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their acknowledgment of Germany's betrayal and call for unity against a common threat aligns with the current board situation and signals a willingness to collaborate for a shared goal. Consider reinforcing this alliance to counter the growing threat posed by Germany."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Sending this to everyone btw",
+        "input": "Message from FRANCE:'Sending this to everyone btw'.If the cicero recommended order for me is: F YOR - EDI, A LVP - YOR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. By informing all players about the ongoing situation, they are being transparent and inclusive, which indicates a level of sincerity in their intentions. Consider continuing to work together to address the threat posed by Germany effectively."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Are you going to back off?",
+        "input": "My response to FRANCE:'Are you going to back off?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "how do you feel about supporting me into the north sea?",
+        "input": "My response to FRANCE:'how do you feel about supporting me into the north sea?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "will do, with both fleets.",
+        "input": "Message from FRANCE:'will do, with both fleets.'.If the cicero recommended order for me is: A YOR - EDI, F EDI - NTH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their direct and affirmative response to supporting your move into the North Sea with both fleets suggests a commitment to collaboration and aligns with your strategic interest. Capitalize on this supportive gesture to further strengthen your position in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "I was going to support myself in, but this actually works out a lot better",
+        "input": "Message from FRANCE:'I was going to support myself in, but this actually works out a lot better'.If the cicero recommended order for me is: A YOR - EDI, F EDI - NTH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their willingness to adjust their plans for mutual benefit demonstrates flexibility and a genuine willingness to cooperate. Proceed with the alliance and continue working together towards shared goals."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "I thought you were supporting me in! What happened? We gotta get him out of N Sea",
+        "input": "My response to FRANCE:'I thought you were supporting me in! What happened? We gotta get him out of N Sea'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget",
+        "input": "Message from FRANCE:'oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget'.If the cicero recommended order for me is: A YOR S F EDI, F EDI S F LON - NTH. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their explanation of forgetting to support your move raises concerns about their reliability and attention to details crucial in Diplomacy gameplay. Proceed cautiously and consider diversifying your alliances to safeguard against potential oversights."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "So what now?",
+        "input": "My response to FRANCE:'So what now?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "I'm supporting you into Nth with one fleet",
+        "input": "Message from FRANCE:'I'm supporting you into Nth with one fleet'.If the cicero recommended order for me is: A YOR S F EDI, F EDI S F LON - NTH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their confirmation of supporting you into the North Sea with one fleet aligns with your shared objective and indicates a continued willingness to collaborate effectively. Proceed with the alliance and coordinate further moves to strengthen your position against common adversaries."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i clearly didn't get this message in time",
+        "input": "My response to FRANCE:'i clearly didn't get this message in time'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i think thats it, we're toast",
+        "input": "My response to FRANCE:'i think thats it, we're toast'.",
+        "output": ""
+      }
+    ]
+  }
+]

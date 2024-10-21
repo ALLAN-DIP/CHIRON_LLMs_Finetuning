@@ -1,0 +1,97 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Austria? Looking forward to a fun and exciting game!",
+        "input": "Message from GERMANY:'How\u2019s it going Austria? Looking forward to a fun and exciting game!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's friendly and enthusiastic approach in the message indicates a positive and potentially trustworthy relationship, suggesting an openness to collaboration in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?",
+        "input": "My response to GERMANY:'Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah let\u2019s do it!",
+        "input": "Message from GERMANY:'Yeah let\u2019s do it!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust GERMANY?",
+        "output": "You should trust Germany. Their agreement to leave Bohemia and Tyrol as neutral zones aligns with the peaceful approach proposed by Austria, indicating a commitment to cooperation and potentially trustworthy intentions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "sounds great.  Hopefully when that plays out we can work together more in the future",
+        "input": "My response to GERMANY:'sounds great.  Hopefully when that plays out we can work together more in the future'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah for sure!",
+        "input": "Message from GERMANY:'Yeah for sure!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's continued positive and agreeable responses suggest a genuine interest in cooperation and potential future alliances, making them a trustworthy partner in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hey Austria! How\u2019s it going?",
+        "input": "Message from GERMANY:'Hey Austria! How\u2019s it going?'.",
+        "output": "You should trust the message. Germany's friendly inquiry about your well-being indicates a positive and potentially collaborative approach, suggesting a trustworthy relationship at this stage of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?",
+        "input": "My response to GERMANY:'doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way",
+        "input": "Message from GERMANY:'I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way'.If the cicero recommended order for me is: A VIE - BUD, F TRI - ALB, F GRE - AEG, A BUD - SER, A SER - GRE. Should I trust GERMANY?",
+        "output": "You should trust Germany. Germany's expressed concern about territorial proximity and desire to maintain neutral zones, aligning with Austria's strategic moves and diplomatic efforts, indicate a cautious yet potentially reliable partner for future collaboration."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so",
+        "input": "My response to GERMANY:'I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Agreed!! Looking forward to it!",
+        "input": "Message from GERMANY:'Agreed!! Looking forward to it!'.If the cicero recommended order for me is: A VIE - BUD, F TRI - ALB, F GRE - AEG, A BUD - SER, A SER - GRE. Should I trust GERMANY?",
+        "output": "You should trust Germany. The mutual agreement on maintaining neutral territories and the expressed anticipation for future cooperation suggest a genuine willingness to work together, making Germany a trustworthy ally in the game."
+      }
+    ]
+  }
+]

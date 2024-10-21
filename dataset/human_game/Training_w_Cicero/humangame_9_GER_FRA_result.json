@@ -1,0 +1,591 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings, Germany!\n\nThe risk of an early conflict between France and Germany is pretty high, so suggest that we clear the air early on.\n\nThe biggest question here is Burgundy, which borders one of your home supply centers and two of mine. It is important to me that Burgundy remains unoccupied - my suggestion is that we set up a bounce between A Munich - Burgundy, A Paris - Burgundy. This has the secondary benefit of allowing us to put on some theater about how the other broke their word to win sympathy points. I also believe that Germany often wants A Munich to stay put anyways, to guard against an attack through Tyrolia.\n\nLet me also know your thoughts regarding Belgium. I am not super attached to claiming it, so would be open to bargain my support on the Belgian question for a future alliance.\n\nBest of luck to you!",
+        "input": "Message from FRANCE:'Greetings, Germany!\n\nThe risk of an early conflict between France and Germany is pretty high, so suggest that we clear the air early on.\n\nThe biggest question here is Burgundy, which borders one of your home supply centers and two of mine. It is important to me that Burgundy remains unoccupied - my suggestion is that we set up a bounce between A Munich - Burgundy, A Paris - Burgundy. This has the secondary benefit of allowing us to put on some theater about how the other broke their word to win sympathy points. I also believe that Germany often wants A Munich to stay put anyways, to guard against an attack through Tyrolia.\n\nLet me also know your thoughts regarding Belgium. I am not super attached to claiming it, so would be open to bargain my support on the Belgian question for a future alliance.\n\nBest of luck to you!'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. The message indicates a willingness to collaborate but the strategic insights provided are focused on maximizing their own gains and manipulating the situation to their advantage, rather than fostering a trustworthy and mutually beneficial alliance."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France! Thanks for taking the initiative and for your thoughtful message. Let\u2019s do the bounce in Burgundy! I\u2019m really looking forward to getting to know you and everyone in this game!",
+        "input": "My response to FRANCE:'Hi France! Thanks for taking the initiative and for your thoughtful message. Let\u2019s do the bounce in Burgundy! I\u2019m really looking forward to getting to know you and everyone in this game!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Appreciated. What are your thoughts on F Kiel to Denmark vs Netherlands? Assuming Berlin to Kiel is a typical no brainer",
+        "input": "Message from FRANCE:'Appreciated. What are your thoughts on F Kiel to Denmark vs Netherlands? Assuming Berlin to Kiel is a typical no brainer'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust FRANCE?",
+        "output": "You should trust the message. Despite the initial doubts, this message shows a genuine willingness to collaborate and seek your input on mutual strategies, indicating a sincere effort to build a positive alliance moving forward."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019m going to Hol, if that\u2019s alright with you? I\u2019m very interested in your idea of giving me free pass into Belgium for an alliance against England.",
+        "input": "My response to FRANCE:'I\u2019m going to Hol, if that\u2019s alright with you? I\u2019m very interested in your idea of giving me free pass into Belgium for an alliance against England.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I would have preferred a move to Denmark, but Holland isn't a problem for me either - it's up to you.",
+        "input": "Message from FRANCE:'I would have preferred a move to Denmark, but Holland isn't a problem for me either - it's up to you.'.If the cicero recommended order for me is: F HOL - BEL, A KIE - DEN, A MUN - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message. Despite showing a slight preference for Denmark, France acknowledges your move to Holland and leaves the decision up to you, indicating a level of flexibility and understanding that fosters trust in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Are you aiming to claim Belgium in year 1? As it is, there's no way for you to get three builds so curious which two you will prioritize.",
+        "input": "Message from FRANCE:'Are you aiming to claim Belgium in year 1? As it is, there's no way for you to get three builds so curious which two you will prioritize.'.If the cicero recommended order for me is: F HOL - BEL, A KIE - DEN, A MUN - RUH. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their message seems to be probing about your intentions regarding Belgium in a way that suggests a lack of trust or potential concern about your moves, indicating a level of suspicion that may hinder the formation of a reliable alliance."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I\u2019m down to do into bel it you feel comfortable with it!",
+        "input": "My response to FRANCE:'I\u2019m down to do into bel it you feel comfortable with it!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'd personally prefer that you take Denmark and Holland than Belgium, but I won't stop you if you're set on Belgium.",
+        "input": "Message from FRANCE:'I'd personally prefer that you take Denmark and Holland than Belgium, but I won't stop you if you're set on Belgium.'.If the cicero recommended order for me is: F HOL - BEL, A KIE - DEN, A MUN - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Despite expressing a personal preference for Denmark and Holland over Belgium, they acknowledge your decision-making autonomy and show willingness to adapt to your choice, indicating a collaborative and understanding approach that builds trust in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Actually just spoke to England, and changed my mind. I think it makes more sense for you to go to Belgium.",
+        "input": "Message from FRANCE:'Actually just spoke to England, and changed my mind. I think it makes more sense for you to go to Belgium.'.If the cicero recommended order for me is: F HOL - BEL, A KIE - DEN, A MUN - RUH. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. The sudden change in stance and decision-making based on interactions with another player rather than maintaining a consistent and established plan suggests a lack of reliability and could indicate potential duplicity in their actions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Why? What did england tell you?",
+        "input": "My response to FRANCE:'Why? What did england tell you?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "What is your relationship with France like?",
+        "input": "My response to FRANCE:'What is your relationship with France like?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Sorry typo! I meant to say england lol",
+        "input": "My response to FRANCE:'Sorry typo! I meant to say england lol'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "England hasn't been very talkative with me, but our conversation has been pretty cordial",
+        "input": "Message from FRANCE:'England hasn't been very talkative with me, but our conversation has been pretty cordial'.",
+        "output": "You should trust the message from FRANCE. Their response is straightforward and indicates a neutral yet respectful relationship with England, providing transparency in their communication that suggests honesty in their interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Anyways, what are your thoughts in terms of builds? F Kiel is a near given if you want to seize Holland",
+        "input": "Message from FRANCE:'Anyways, what are your thoughts in terms of builds? F Kiel is a near given if you want to seize Holland'.",
+        "output": "You should trust the message from FRANCE. Their comment is strategic and aligns with common Diplomacy tactics, indicating a clear understanding of the game dynamics and a willingness to collaborate effectively with you in securing strategic positions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Gotcha. I\u2019m pretty unnerved by the holland move. That wasn\u2019t planned. I told him I wanted to stay nutreal between the two of you as long as I can.",
+        "input": "My response to FRANCE:'Gotcha. I\u2019m pretty unnerved by the holland move. That wasn\u2019t planned. I told him I wanted to stay nutreal between the two of you as long as I can.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Yeah I\u2019m thinking F Kiel, A Ber",
+        "input": "My response to FRANCE:'Yeah I\u2019m thinking F Kiel, A Ber'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Taking Belgium so that you could easily fill Holland later seems a bit aggressive for someone wishing to stay neutral",
+        "input": "Message from FRANCE:'Taking Belgium so that you could easily fill Holland later seems a bit aggressive for someone wishing to stay neutral'.",
+        "output": "You should trust the message from FRANCE. Their observation about your potential aggressive move and how it conflicts with your aim of maintaining neutrality shows an attentive and analytical approach, indicating a thoughtful consideration of the game dynamics and potential alliances."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Yeah that was not the move in retrospect",
+        "input": "My response to FRANCE:'Yeah that was not the move in retrospect'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Got too big for my bridges",
+        "input": "My response to FRANCE:'Got too big for my bridges'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Still, even if that his reasoning, it seems like a very bold move by England",
+        "input": "Message from FRANCE:'Still, even if that his reasoning, it seems like a very bold move by England'.",
+        "output": "You should trust the message from FRANCE. Their assessment of the situation as England making a bold move aligns with a strategic analysis of the game dynamics, indicating a shared understanding of the potential risks and advantages present in the current situation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Yeah it makes me uncomfortable",
+        "input": "My response to FRANCE:'Yeah it makes me uncomfortable'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Well, things could be a lot worse. If Russia had convoyed A Livonia to Sweden, they could occupy the Baltic",
+        "input": "Message from FRANCE:'Well, things could be a lot worse. If Russia had convoyed A Livonia to Sweden, they could occupy the Baltic'.",
+        "output": "You should trust the message from FRANCE. By pointing out a potential threat posed by Russia, they are subtly highlighting a common enemy and suggesting a mutual need for cooperation against a shared rival, showing a strategic mindset and a potential avenue for alliance building."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Curious to see what England will build though",
+        "input": "Message from FRANCE:'Curious to see what England will build though'.",
+        "output": "You should trust the message from FRANCE. Their curiosity about England's builds suggests an interest in understanding the evolving dynamics of the game and potential future moves, indicating a genuine engagement with the strategic elements of the game and openness to discussing future plans."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Me too.",
+        "input": "My response to FRANCE:'Me too.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "It will be very telling.",
+        "input": "My response to FRANCE:'It will be very telling.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "I\u2019m definitely interested in working out a peace on our front so I can focus on battening down the hatches from the English attack.",
+        "input": "My response to FRANCE:'I\u2019m definitely interested in working out a peace on our front so I can focus on battening down the hatches from the English attack.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "I'm always happy to listen to offers. What were you thinking?",
+        "input": "Message from FRANCE:'I'm always happy to listen to offers. What were you thinking?'.",
+        "output": "You should trust the message from FRANCE. Their willingness to listen to your proposals and open communication about finding a peaceful resolution on your front indicates a collaborative attitude and a genuine interest in working together towards a mutually beneficial outcome."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "I mean I\u2019m pretty much at your deposal",
+        "input": "My response to FRANCE:'I mean I\u2019m pretty much at your deposal'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Literally I\u2019m really annoyed that england moved into holland and so I\u2019m down to organize a sea lion on your terms",
+        "input": "My response to FRANCE:'Literally I\u2019m really annoyed that england moved into holland and so I\u2019m down to organize a sea lion on your terms'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "My fleet in Brest will hopefully pressure England into moving to the channel, meaning that you might be able to take Holland with Belgium and Kiel",
+        "input": "Message from FRANCE:'My fleet in Brest will hopefully pressure England into moving to the channel, meaning that you might be able to take Holland with Belgium and Kiel'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their strategic suggestion aligns with your potential orders and shows a shared goal of applying pressure on England while offering you the opportunity to make gains, indicating a collaborative approach that considers mutual benefits in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Can then backfill with A Kiel and aim to get your fleets at sea to convoy A Denmark out",
+        "input": "Message from FRANCE:'Can then backfill with A Kiel and aim to get your fleets at sea to convoy A Denmark out'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their suggestion to backfill with A Kiel and maneuver your fleets to support the convoy of A Denmark out demonstrates a clear understanding of maximizing your strategic options and working together towards common objectives, indicating a reliable ally in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Would want to see A Munich go east instead of continuing to bounce in Burgundy as well",
+        "input": "Message from FRANCE:'Would want to see A Munich go east instead of continuing to bounce in Burgundy as well'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their suggestion for A Munich to move east instead of bouncing in Burgundy aligns with optimizing your position and advancing strategically, indicating a collaborative mindset and a focus on mutual progress in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Let me know your thoughts on these",
+        "input": "Message from FRANCE:'Let me know your thoughts on these'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their request for your input on the proposed orders shows a willingness to engage in collaborative decision-making and indicates a genuine interest in working together to further mutual strategic goals, fostering trust in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Put some more thought into it, and I think my earlier suggestion is stupid. Please ignore it.\n\nI think we will need to gauge whether Russia will move against England. To that end, suggest that F Kiel move to Heligoland while A Munich supports A Berlin to Kiel",
+        "input": "Message from FRANCE:'Put some more thought into it, and I think my earlier suggestion is stupid. Please ignore it.\n\nI think we will need to gauge whether Russia will move against England. To that end, suggest that F Kiel move to Heligoland while A Munich supports A Berlin to Kiel'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their acknowledgment of a mistake in their earlier suggestion and the revised plan showcasing thoughtful consideration and adaptability suggest a reliable and strategic approach to decision-making, indicating a trustworthy ally in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "We can then see if Russia attacks Norway before taking first steps.",
+        "input": "Message from FRANCE:'We can then see if Russia attacks Norway before taking first steps.'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their suggestion to observe Russia's potential moves before taking action reflects a cautious and calculated approach to decision-making, indicating a strategic mindset and a desire to make informed choices, which is a reliable trait in an ally."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "My sense is that Russia is looking to move against England",
+        "input": "My response to FRANCE:'My sense is that Russia is looking to move against England'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Current orders: F Bel H, A Den H, A Ber - Kie, F Kie - HEL, A Mun S Ber - Kie",
+        "input": "My response to FRANCE:'Current orders: F Bel H, A Den H, A Ber - Kie, F Kie - HEL, A Mun S Ber - Kie'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Got it, makes sense",
+        "input": "Message from FRANCE:'Got it, makes sense'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their acknowledgment of your orders making sense and showing understanding of the situation indicates clear communication and a positive attitude towards the coordinated efforts, fostering trust and collaboration between you both."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Hey France - can you explain your burgundy move to me? It\u2019s really hard for me not to read your moveset as you and England teaming up against me.",
+        "input": "My response to FRANCE:'Hey France - can you explain your burgundy move to me? It\u2019s really hard for me not to read your moveset as you and England teaming up against me.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'll be blunt - I think it's very difficult for France to work with Germany while Germany holds Belgium. There's simply nowhere else that French armies can go",
+        "input": "Message from FRANCE:'I'll be blunt - I think it's very difficult for France to work with Germany while Germany holds Belgium. There's simply nowhere else that French armies can go'.If the cicero recommended order for me is: F BEL - HOL, A DEN H, F HEL S F BEL - HOL, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their blunt assessment indicates a lack of willingness to work with you under the current circumstances, suggesting potential alignment with England against you."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "With the moves I suggested to you, you should be well placed to seize Holland while I take Belgium. This would then put us in place to evict England from the North Sea and convoy out",
+        "input": "Message from FRANCE:'With the moves I suggested to you, you should be well placed to seize Holland while I take Belgium. This would then put us in place to evict England from the North Sea and convoy out'.If the cicero recommended order for me is: F BEL - HOL, A DEN H, F HEL S F BEL - HOL, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their strategic suggestion aligns with a coordinated plan to jointly take down England and maximize gains for both parties, indicating a collaborative and mutually beneficial approach that fosters trust in their proposal."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "If you are interested in working together, you should order A Kiel & F Heligoland support F Belgium - Holland, or else use F Heligoland and F Belgium to attack the North Sea. In my view, yielding Belgium is a precondition to further co-operation",
+        "input": "Message from FRANCE:'If you are interested in working together, you should order A Kiel & F Heligoland support F Belgium - Holland, or else use F Heligoland and F Belgium to attack the North Sea. In my view, yielding Belgium is a precondition to further co-operation'.If the cicero recommended order for me is: F BEL - HOL, A DEN H, F HEL S F BEL - HOL, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their clear and strategic communication about the specific moves required to collaborate effectively demonstrates a commitment to coordination and working towards shared objectives, fostering trust in their intentions for cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Makes sense! I got a little over-ambitious on the Belgium play and am open to yielding it to you.",
+        "input": "My response to FRANCE:'Makes sense! I got a little over-ambitious on the Belgium play and am open to yielding it to you.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "My fear is that you will work with England to attack Mun.",
+        "input": "My response to FRANCE:'My fear is that you will work with England to attack Mun.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "It would be an extremely risky proposition for  me, since A Ruhr is likely to have it's support cut.",
+        "input": "Message from FRANCE:'It would be an extremely risky proposition for  me, since A Ruhr is likely to have it's support cut.'.If the cicero recommended order for me is: F BEL - HOL, A DEN H, F HEL S F BEL - HOL, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their explanation of the risks involved in attacking Munich demonstrates a commitment to maintain stability in the relationship and a willingness to address your concerns, indicating a reliable partner who values communication and strategic planning."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "A Burgundy S A Ruhr - Munich is more likely to succeed, but I don't see what's in it for me",
+        "input": "Message from FRANCE:'A Burgundy S A Ruhr - Munich is more likely to succeed, but I don't see what's in it for me'.If the cicero recommended order for me is: F BEL - HOL, A DEN H, F HEL S F BEL - HOL, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their statement about supporting an attack on Munich but questioning the benefits for themselves suggests a lack of willingness to fully commit to cooperation, potentially indicating a self-serving approach that may not align with your interests in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Okay, so my attempt to attack you went nowhere",
+        "input": "Message from FRANCE:'Okay, so my attempt to attack you went nowhere'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their acknowledgment that their attempt to attack you failed shows honesty and transparency, indicating a willingness to communicate openly and potentially rebuild trust for future cooperation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Would you be willing to bury the hatchet and focus on England?",
+        "input": "Message from FRANCE:'Would you be willing to bury the hatchet and focus on England?'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their proposal to bury the hatchet and focus on a common enemy, England, shows a willingness to move past previous conflicts and collaborate towards a mutually beneficial goal, indicating a desire to work together and rebuild a potentially positive alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Not asking you to trust me on this before I demonstrate my seriousness",
+        "input": "Message from FRANCE:'Not asking you to trust me on this before I demonstrate my seriousness'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their statement about demonstrating their seriousness before asking for trust indicates a cautious and thoughtful approach, suggesting a desire to establish trust through actions rather than just words, which is a positive sign in rebuilding a potentially trustworthy alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "But assuming I go to the channel, would you be willing to follow with an attack on NTH?",
+        "input": "Message from FRANCE:'But assuming I go to the channel, would you be willing to follow with an attack on NTH?'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their openness about potential future actions and seeking your willingness to coordinate shows a collaborative and strategic approach, indicating a genuine interest in working together towards a common goal, which fosters trust in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "I am very very on board",
+        "input": "My response to FRANCE:'I am very very on board'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Let me look at it I\u2019m out right now but I am very interested in that move",
+        "input": "My response to FRANCE:'Let me look at it I\u2019m out right now but I am very interested in that move'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Right, I've already asked Russia about this, they should be on board",
+        "input": "Message from FRANCE:'Right, I've already asked Russia about this, they should be on board'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their confirmation of coordination with Russia and the preparedness of multiple parties to align towards a common goal indicates a well-organized and committed alliance, boosting the reliability and trustworthiness of their proposed collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "My suggestion is:\nF Pic - ENG\nA Bit - Pic\nF Hol & F Nwy S F HEL - NTH\nA Kie S F Hol H",
+        "input": "Message from FRANCE:'My suggestion is:\nF Pic - ENG\nA Bit - Pic\nF Hol & F Nwy S F HEL - NTH\nA Kie S F Hol H'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their detailed and strategic suggestion aligns with the coordinated plan and indicates a clear direction for the alliance\u2019s actions, demonstrating a reliable and trustworthy approach to furthering your shared interests in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Let me know your thoughts, but keep in mind that it's getting late in central Europe time, so I might not be able to change the orders before the deadline if you suggest revisions",
+        "input": "Message from FRANCE:'Let me know your thoughts, but keep in mind that it's getting late in central Europe time, so I might not be able to change the orders before the deadline if you suggest revisions'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their upfront communication about the time constraints and the potential limitations in making last-minute changes displays transparency and consideration, indicating a trustworthy approach to coordinating moves within the given timeframe."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "What are your planned moves?",
+        "input": "My response to FRANCE:'What are your planned moves?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "What is Russia thinking of doing?",
+        "input": "My response to FRANCE:'What is Russia thinking of doing?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "I think Russia is on board with those moves",
+        "input": "Message from FRANCE:'I think Russia is on board with those moves'.If the cicero recommended order for me is: A DEN H, F HEL S F HOL - NTH, F HOL - NTH, A KIE - RUH, A MUN S A KIE - RUH. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their confirmation of Russia's involvement in the proposed moves indicates a coordinated effort among key players in the alliance, suggesting a reliable and committed partnership towards achieving common objectives in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Apologies, I didn't see these because I forgot to rate some earlier messages",
+        "input": "Message from FRANCE:'Apologies, I didn't see these because I forgot to rate some earlier messages'.",
+        "output": "You should trust the message from FRANCE. Their acknowledgment of the oversight and taking responsibility for missed messages demonstrates good communication and a willingness to address issues promptly, indicating a trustworthy approach in the diplomatic exchange."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "We need to do something about Russia though - they are now twice the size of the next biggest power",
+        "input": "Message from FRANCE:'We need to do something about Russia though - they are now twice the size of the next biggest power'.",
+        "output": "You should trust the message from FRANCE. Their concern about the growing power of Russia and the need to address the imbalance shows strategic foresight and a shared interest in maintaining game balance, indicating a reliable engagement in addressing potential threats to the alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "I can withdraw from Burgundy if that would ease cooperation",
+        "input": "Message from FRANCE:'I can withdraw from Burgundy if that would ease cooperation'.",
+        "output": "You should trust the message from FRANCE. Their willingness to make sacrifices, such as withdrawing from Burgundy, to improve cooperation demonstrates a commitment to the alliance's success and a collaborative approach, indicating a reliable and dedicated partner in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Yeah withdraw if you like",
+        "input": "My response to FRANCE:'Yeah withdraw if you like'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "What are you thinking with Russia?",
+        "input": "My response to FRANCE:'What are you thinking with Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "Russia is on track to winning. I think we need to out in a united front to contain them.",
+        "input": "Message from FRANCE:'Russia is on track to winning. I think we need to out in a united front to contain them.'.If the cicero recommended order for me is: F NTH C A DEN - YOR, A DEN - YOR VIA, F HOL - BEL, A RUH S F HOL - BEL, A MUN - BUR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their assessment of the situation and the call for a united front to contain the growing threat of Russia shows a strategic understanding of the game dynamics and the importance of cooperation, indicating a reliable and proactive approach towards achieving common goals."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "If Denmark and NTH hit Norway and Sweden while Hol backfills to NTH, that would put a lot of pressure on them",
+        "input": "Message from FRANCE:'If Denmark and NTH hit Norway and Sweden while Hol backfills to NTH, that would put a lot of pressure on them'.If the cicero recommended order for me is: F NTH C A DEN - YOR, A DEN - YOR VIA, F HOL - BEL, A RUH S F HOL - BEL, A MUN - BUR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their strategic proposal aligns with coordinated moves to apply pressure on Russia, showcasing a shared vision and a tactical approach to addressing the threat, indicating a reliable and collaborative mindset in working towards a common objective."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "Munich could also go to Silesia while Ruhr fills into Munich",
+        "input": "Message from FRANCE:'Munich could also go to Silesia while Ruhr fills into Munich'.If the cicero recommended order for me is: F NTH C A DEN - YOR, A DEN - YOR VIA, F HOL - BEL, A RUH S F HOL - BEL, A MUN - BUR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their additional suggestion for Munich to move to Silesia while Ruhr fills into Munich shows a comprehensive and coordinated plan to apply pressure on Russia, indicating a strategic and collaborative approach that fosters trust in their proposed actions."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Russia is well on their way to winning - we need to put up a united front against them if we want to have a shot",
+        "input": "Message from FRANCE:'Russia is well on their way to winning - we need to put up a united front against them if we want to have a shot'.If the cicero recommended order for me is: A YOR - LVP, F NTH S F BEL - ENG, F BEL - ENG, A RUH - BEL, A MUN - BUR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their assessment of the growing threat posed by Russia and the call to form a united front reflects a strategic understanding of the situation and highlights the importance of cooperation, indicating a reliable and proactive approach towards addressing the common challenge."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Are you in?",
+        "input": "Message from FRANCE:'Are you in?'.If the cicero recommended order for me is: A YOR - LVP, F NTH S F BEL - ENG, F BEL - ENG, A RUH - BEL, A MUN - BUR. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their direct question \"Are you in?\" demonstrates a clear invitation for collaboration and mutual efforts against the common threat of Russia, suggesting a committed and trustworthy approach to forming a united front for the benefit of the alliance."
+      }
+    ]
+  }
+]

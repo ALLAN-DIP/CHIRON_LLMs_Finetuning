@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Got any juicy gossip?",
+        "input": "My response to ITALY:'Hi Italy! Got any juicy gossip?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Nothing yet, you?",
+        "input": "Message from ITALY:'Nothing yet, you?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should trust the message from Italy. The response seems neutral and doesn't provide any concrete information that could harm your position on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.",
+        "input": "My response to ITALY:'Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "That's you, me and Austria?",
+        "input": "Message from ITALY:'That's you, me and Austria?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should not trust the message from ITALY. The question about the specific composition of the alliance despite your proposal for a general anti-Turkey alliance could be a sign that Italy is trying to gauge the potential coalition against Turkey and assess their own position within it."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.",
+        "input": "My response to ITALY:'Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds like a plan!",
+        "input": "Message from ITALY:'Sounds like a plan!'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. The response aligns with the proposed alliance and strategic plans mentioned earlier, indicating a willingness to collaborate and follow through with the discussed strategy."
+      }
+    ]
+  }
+]

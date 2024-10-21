@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello dearest Italy. How goes things in your section of Europe?",
+        "input": "Message from ENGLAND:'Hello dearest Italy. How goes things in your section of Europe?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "'You should not trust the message.' The casual tone of the message from ENGLAND doesn't provide any actionable information and doesn't indicate any real strategic alliance or plans."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Turning my attention to Greece for now, but would be interested in a long-term strategy against France!",
+        "input": "My response to ENGLAND:'Turning my attention to Greece for now, but would be interested in a long-term strategy against France!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hello Italy!",
+        "input": "Message from ENGLAND:'Hello Italy!'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust ENGLAND?",
+        "output": "'You should trust the message.' Your mention of a long-term strategy against France in the previous phase could indicate a common goal and potential alliance with ENGLAND against France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I'd like to discuss the Franco-German conflict with you",
+        "input": "Message from ENGLAND:'I'd like to discuss the Franco-German conflict with you'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust ENGLAND?",
+        "output": "'You should trust the message.' ENGLAND's interest in discussing the Franco-German conflict aligns with your potential long-term strategy against France, indicating a shared interest in coordination and potential alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Italy? If you are available I have an offer for you.",
+        "input": "Message from ENGLAND:'Italy? If you are available I have an offer for you.'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust ENGLAND?",
+        "output": "'You should trust the message.' ENGLAND's direct offer to you could indicate a willingness to collaborate and potentially form an alliance, especially considering your shared interests in countering France and discussing the Franco-German conflict."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I am listening!",
+        "input": "My response to ENGLAND:'I am listening!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/",
+        "input": "Message from ENGLAND:'So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust ENGLAND?",
+        "output": "'You should not trust the message.' ENGLAND's proposal to exchange French/German lands in the south for your involvement seems opportunistic and may not align with your long-term goals or benefit your position."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "?*",
+        "input": "Message from ENGLAND:'?*'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust ENGLAND?",
+        "output": "'You should not trust the message.' The cryptic nature of the message ('?*') does not provide any clear or actionable information, making it difficult to ascertain ENGLAND's intentions or trustworthiness."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "My northern neighbors, how goes it?",
+        "input": "My response to ENGLAND:'My northern neighbors, how goes it?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "How are your relations with Russia and France?",
+        "input": "My response to ENGLAND:'How are your relations with Russia and France?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hello dearest Italy, I have reasonably close relations with my fellow northerners",
+        "input": "Message from ENGLAND:'Hello dearest Italy, I have reasonably close relations with my fellow northerners'.If the cicero recommended order for me is: A TUN H, A TYR - VEN, F NAP - ROM, F APU - NAP. Should I trust ENGLAND?",
+        "output": "'You should trust the message.' ENGLAND's mention of reasonably close relations with their fellow northerners, which includes you, indicates a potential willingness to cooperate with you against common threats or rivals."
+      }
+    ]
+  }
+]

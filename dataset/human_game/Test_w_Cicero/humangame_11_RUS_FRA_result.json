@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, how is it over there in the east?",
+        "input": "Message from FRANCE:'Hey Russia, how is it over there in the east?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should not trust the message. The message from France seems casual and does not provide any strategic information, suggesting a lack of genuine interest in your well-being, which could indicate a potential attempt to mislead you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?",
+        "input": "My response to FRANCE:'Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How do you know they are plotting each-others destruction? Not sure which side to take yet.",
+        "input": "Message from FRANCE:'How do you know they are plotting each-others destruction? Not sure which side to take yet.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response shows a genuine curiosity about the situation in the west and expresses uncertainty about their next moves, which aligns with their previous message suggesting a transparent and open communication style."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Inception obviously",
+        "input": "My response to FRANCE:'Inception obviously'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.",
+        "input": "Message from FRANCE:'One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's assurance about wanting a strong England and implying that Germany is an easy target might indicate a potential attempt to manipulate you into making moves that benefit France's own position. Their advice seems self-serving and could be a tactic to sow discord among you and your neighbors."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Germany is going to move into sweden with englands support. Germany is also moving two armies east.",
+        "input": "Message from FRANCE:'Germany is going to move into sweden with englands support. Germany is also moving two armies east.'.If the cicero recommended order for me is: A STP - MOS, F BOT - STP/SC, A WAR - GAL, F SEV S A RUM, A RUM S A WAR - GAL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's information about Germany's intentions aligns with the board status and is consistent with a strategic analysis of the current situation, indicating a reliable and trustworthy source of information."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "how do you know?",
+        "input": "My response to FRANCE:'how do you know?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "see?",
+        "input": "Message from FRANCE:'see?'.If the cicero recommended order for me is: A FIN - SWE, F BOT S A FIN - SWE, A WAR - MOS, F SEV - RUM, A GAL - VIE. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's cryptic message of 'see?' lacks substance and does not provide any strategic information, suggesting a lack of clear communication and potentially attempting to manipulate you without providing proper reasoning."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "yeah Germany has done me real dirty these last couple of moves",
+        "input": "My response to FRANCE:'yeah Germany has done me real dirty these last couple of moves'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "eh not that bad. althought they are sending two units over to you.",
+        "input": "Message from FRANCE:'eh not that bad. althought they are sending two units over to you.'.If the cicero recommended order for me is: A FIN - SWE, F BOT S A FIN - SWE, A WAR - MOS, F SEV - RUM, A GAL - VIE. Should I trust FRANCE?",
+        "output": "You should not trust the message. France appears to downplay the impact of Germany's moves against you, which could indicate a lack of genuine concern for your best interests or an attempt to mislead you about the potential threat from Germany. Be cautious and keep a close eye on Germany's movements."
+      }
+    ]
+  }
+]

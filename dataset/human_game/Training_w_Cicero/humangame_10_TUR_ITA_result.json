@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area?",
+        "input": "Message from ITALY:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ITALY?",
+        "output": "You should trust the message. Italy is showing interest in understanding your territorial aims, which might indicate a willingness to negotiate and potentially collaborate in the future."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.",
+        "input": "My response to ITALY:'For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That's fair enough. Do let me know if you ever need a hand with anything... Or anyone",
+        "input": "Message from ITALY:'That's fair enough. Do let me know if you ever need a hand with anything... Or anyone'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's offer to help and support indicates a willingness to cooperate and potentially form a productive relationship, suggesting reliability in their statements."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I will be sure to let you know if I need your help",
+        "input": "My response to ITALY:'I will be sure to let you know if I need your help'.",
+        "output": ""
+      }
+    ]
+  }
+]

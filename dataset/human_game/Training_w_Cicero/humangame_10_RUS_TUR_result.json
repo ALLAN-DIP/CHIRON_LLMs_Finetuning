@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?",
+        "input": "My response to TURKEY:'Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.",
+        "input": "Message from TURKEY:'I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust TURKEY?",
+        "output": "You should not trust the message. While the message talks about forming an alliance and proposing a DMZ in the Black Sea, their planned moves of moving Western into the Balkans and Mediterranean Sea are contradictory to establishing a strong alliance with you as Russia. Be cautious as their actions may not align with their words."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sounds good lets call a dmz in the black sea",
+        "input": "My response to TURKEY:'Sounds good lets call a dmz in the black sea'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "What's our move this year?",
+        "input": "My response to TURKEY:'What's our move this year?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I've been away from the game for a while",
+        "input": "My response to TURKEY:'I've been away from the game for a while'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Not sure yet, what are your thoughts?",
+        "input": "Message from TURKEY:'Not sure yet, what are your thoughts?'.If the cicero recommended order for me is: F BOT - STP/SC, A WAR - UKR, A SEV - ARM, F BLA S A SEV - ARM, A RUM S A SER - BUL. Should I trust TURKEY?",
+        "output": "You should trust the message. The response from Turkey asking for your thoughts on the moves shows a willingness to collaborate and make joint decisions, indicating a sincere attempt to work together. Given the current situation, there seems to be an opening for cooperation and building trust with Turkey."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it",
+        "input": "My response to TURKEY:'Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.",
+        "input": "Message from TURKEY:'That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.'.If the cicero recommended order for me is: F BOT - STP/SC, A LVN - STP, A SEV S A RUM - ARM, F BLA C A RUM - ARM, A RUM - ARM VIA. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's willingness to support your strategic movements and coordinate actions against potential threats shows a commitment to working together towards common goals in the game. Their request to withdraw your fleet from the Black Sea aligns with the proposed plan of focusing on defending against Italy and indicates honesty in their intentions."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.",
+        "input": "My response to TURKEY:'Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'll defend con from both ank and smy.",
+        "input": "Message from TURKEY:'I'll defend con from both ank and smy.'.If the cicero recommended order for me is: F BOT - LVN, A WAR - LVN, A ARM - ANK, F BLA S A ARM - ANK, A RUM - UKR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's response aligns with your concerns and their willingness to protect Constantinople demonstrates a commitment to the alliance's success. Their actions appear to be in line with the shared goal of countering potential threats from Austria and Italy."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?",
+        "input": "My response to TURKEY:'Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?'.",
+        "output": ""
+      }
+    ]
+  }
+]

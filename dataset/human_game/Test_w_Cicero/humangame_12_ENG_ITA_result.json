@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!",
+        "input": "My response to ITALY:'Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Just to be clear, that was all in a pasta life.",
+        "input": "Message from ITALY:'Just to be clear, that was all in a pasta life.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - YOR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response appears to be a playful and friendly banter, without any indication of betrayal or potential harm. It's safe to assume the message is in good spirits."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.",
+        "input": "My response to ITALY:'From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.'.",
+        "output": ""
+      }
+    ]
+  }
+]

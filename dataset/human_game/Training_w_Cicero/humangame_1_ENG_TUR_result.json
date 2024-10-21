@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.",
+        "input": "My response to TURKEY:'Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi well depends if austria is on board brobably containment",
+        "input": "Message from TURKEY:'Hi well depends if austria is on board brobably containment'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - YOR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's response about Austria and possible containment indicates a willingness to collaborate against a common foe, Russia, rather than focus on confronting you, England."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?",
+        "input": "My response to TURKEY:'That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "It\u2019s a bounce in the black",
+        "input": "Message from TURKEY:'It\u2019s a bounce in the black'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - YOR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's decision to bounce in the Black Sea suggests honesty and a commitment to open communication with you regarding their moves and potential cooperation in the region."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.",
+        "input": "My response to TURKEY:'Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Probably not",
+        "input": "Message from TURKEY:'Probably not'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH S A PIC - BEL, F NWG C A EDI - NWY. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's brief response aligns with your inquiry about their potential collaboration with Russia, indicating they are not heavily allied and may not be planning to dominate the board together, providing you with valuable strategic information."
+      }
+    ]
+  }
+]

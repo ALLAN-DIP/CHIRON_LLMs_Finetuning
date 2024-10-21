@@ -1,0 +1,289 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany, nice to make your acquaintance. \n\nI've been thinking about this game alot, because the fact that it will only last until 1910 really changes my strategy. Add in that no one is likely to NMR and I believe it will be near impossible to solo. \n\nNormally when playing Russia I try to grab a couple German centers around 1904, allowing me to hold over the stalemate line setting up a solo when I conquer the East. Since I'm not intending to solo in this game, however, it doesn't make sense to go after your centers. It would be much better for both of us, I believe, to agree to a pact of non aggression. I could even offer some help against England, if there came a time when you wished that. What do you think?",
+        "input": "Message from RUSSIA:'Hello Germany, nice to make your acquaintance. \n\nI've been thinking about this game alot, because the fact that it will only last until 1910 really changes my strategy. Add in that no one is likely to NMR and I believe it will be near impossible to solo. \n\nNormally when playing Russia I try to grab a couple German centers around 1904, allowing me to hold over the stalemate line setting up a solo when I conquer the East. Since I'm not intending to solo in this game, however, it doesn't make sense to go after your centers. It would be much better for both of us, I believe, to agree to a pact of non aggression. I could even offer some help against England, if there came a time when you wished that. What do you think?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. The message from Russia seems overly detailed and strategic, indicating possible manipulation to gain your trust. Additionally, offering non-aggression and help against a mutual enemy could be a ploy to divert your attention while planning an attack at a later stage."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Interesting points.  I've been thinking about how the format and time limitation might change the game as well.\n\nFor transparency, England reached out to me as well, and generally I think Germany working with England is, in a vacuum, the best course.\n\nI'm fine with a non-aggression pact, but we need to set pretty clear ground rules - I'm significantly more vulnerable than you.  Interested in each of us setting up a proposal, and see how well they match?",
+        "input": "My response to RUSSIA:'Interesting points.  I've been thinking about how the format and time limitation might change the game as well.\n\nFor transparency, England reached out to me as well, and generally I think Germany working with England is, in a vacuum, the best course.\n\nI'm fine with a non-aggression pact, but we need to set pretty clear ground rules - I'm significantly more vulnerable than you.  Interested in each of us setting up a proposal, and see how well they match?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How about a commitment to something like the following through Spring 2003.  We can revisit or extend from there, and of course any of these are subject to specific agreement otherwise:\n\n- Total DMZ in SIL & PRU\n- No German units in BoT or LVN\n- Germany concedes Sweden, but only to be occupied by fleets.\n- No Russian units in BAL\n- No army builds in Berlin\n- No army builds in StP\n- Notify before a build in WAR\n\nWhat do you think?",
+        "input": "My response to RUSSIA:'How about a commitment to something like the following through Spring 2003.  We can revisit or extend from there, and of course any of these are subject to specific agreement otherwise:\n\n- Total DMZ in SIL & PRU\n- No German units in BoT or LVN\n- Germany concedes Sweden, but only to be occupied by fleets.\n- No Russian units in BAL\n- No army builds in Berlin\n- No army builds in StP\n- Notify before a build in WAR\n\nWhat do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I agree to all of those points.\n\nJust to be clear, England is not necessarily a target of mine, but if necessary I can act as an insurance policy against English aggression for you.",
+        "input": "Message from RUSSIA:'I agree to all of those points.\n\nJust to be clear, England is not necessarily a target of mine, but if necessary I can act as an insurance policy against English aggression for you.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's agreement to the proposed terms and willingness to act as insurance against English aggression align with their previous commitment to a non-aggression pact and potential collaboration against a common enemy, indicating consistency and cooperation in their intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "By the way, for whatever it's worth I am hearing talk coming back to me that you are looking to open north.  Again, it's spring '01, so talk is pretty cheap.  But just thought I'd flag it for you.",
+        "input": "My response to RUSSIA:'By the way, for whatever it's worth I am hearing talk coming back to me that you are looking to open north.  Again, it's spring '01, so talk is pretty cheap.  But just thought I'd flag it for you.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Talk is cheap, and after Spring resolution you will see that I fully intend to abide by our agreement. \n\nThe fact that you brought this up with me really builds trust with me. I did tell Austria that I was heading North West, but obviously that is a lie. I hope that you see it to be in your best interest to keep that confidential because I truly do intend to work with you all the way through 1910.",
+        "input": "Message from RUSSIA:'Talk is cheap, and after Spring resolution you will see that I fully intend to abide by our agreement. \n\nThe fact that you brought this up with me really builds trust with me. I did tell Austria that I was heading North West, but obviously that is a lie. I hope that you see it to be in your best interest to keep that confidential because I truly do intend to work with you all the way through 1910.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of the misinformation given to Austria and the emphasis on maintaining trust with you, coupled with a commitment to uphold the agreement, suggests a genuine intention to cooperate and work together, reinforcing their reliability in this phase."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well, what do you think about how the spring went?  Looks like it couldn't have gone too much better for you.  You have the drop on BOTH Austria and Turkey.\n\n...which makes me think you don't.  You strike me as too good a player to not understand that opening heavy against both of them forces them to join forces, which means a nasty stalemate.  Therefore, I'm smelling a slingshot.\n\nSo...Con-AEG and A Bul S a Russian BLA C A Ank-Rum?  Or maybe support from Ukraine while Bul takes a shot at Greece?  Are you and Italy going to coordinate moves so you don't bounce each other?",
+        "input": "My response to RUSSIA:'Well, what do you think about how the spring went?  Looks like it couldn't have gone too much better for you.  You have the drop on BOTH Austria and Turkey.\n\n...which makes me think you don't.  You strike me as too good a player to not understand that opening heavy against both of them forces them to join forces, which means a nasty stalemate.  Therefore, I'm smelling a slingshot.\n\nSo...Con-AEG and A Bul S a Russian BLA C A Ank-Rum?  Or maybe support from Ukraine while Bul takes a shot at Greece?  Are you and Italy going to coordinate moves so you don't bounce each other?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Sorry, I missed your message, it's been a wild week at work.\n\nI hesitate to give away too much detail, but I will be very clear in stating that I intend to focus on my Southern sphere of influence for the foreseeable future. \n\nIt does look like you and England will likely have France cornered by 1902. England doesn't really have any where to go after that happens other than your centers and a few of mine. I just want you to know that it's critical for my sgame to have you holding back any threats coming in from the North, and I'll offer you any support that I have available in the North when necessary.",
+        "input": "Message from RUSSIA:'Sorry, I missed your message, it's been a wild week at work.\n\nI hesitate to give away too much detail, but I will be very clear in stating that I intend to focus on my Southern sphere of influence for the foreseeable future. \n\nIt does look like you and England will likely have France cornered by 1902. England doesn't really have any where to go after that happens other than your centers and a few of mine. I just want you to know that it's critical for my sgame to have you holding back any threats coming in from the North, and I'll offer you any support that I have available in the North when necessary.'.If the cicero recommended order for me is: F HOL S A RUH - BEL, A RUH - BEL, A MUN - BUR. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response seems vague and lacks concrete details or commitments, potentially leaving room for strategic ambiguity or hidden intentions. The mention of needing you to hold back threats from the North while offering support without specifying further actions raises suspicion about their possible ulterior motives."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "It was a very nice open for you.",
+        "input": "My response to RUSSIA:'It was a very nice open for you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "It seems you'll have to focus South, what with the clear Lucy-pulling-the-football-away-from-Charlie-Brown that just occurred at the Black Sea.\n\nWhere do you plan to build?  We agreed no builds in Warsaw, and no armies in StP.  So it seems you should have a second fleet in the north to help with England?  Unless you're planning to defer.",
+        "input": "My response to RUSSIA:'It seems you'll have to focus South, what with the clear Lucy-pulling-the-football-away-from-Charlie-Brown that just occurred at the Black Sea.\n\nWhere do you plan to build?  We agreed no builds in Warsaw, and no armies in StP.  So it seems you should have a second fleet in the north to help with England?  Unless you're planning to defer.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "I had toyed with asking permission for Warsaw, but after evaluating more it will be Moscow, F NC StP and Sevastopol. \n\nAnd yeah the South is chaos right now, but it's controlled chaos.",
+        "input": "Message from RUSSIA:'I had toyed with asking permission for Warsaw, but after evaluating more it will be Moscow, F NC StP and Sevastopol. \n\nAnd yeah the South is chaos right now, but it's controlled chaos.'.",
+        "output": "You should trust the message. Russia's transparent explanation of their build choices aligns with the previously established agreements, indicating a commitment to honoring the terms discussed. The acknowledgment of the chaotic situation in the South also denotes honesty and a shared understanding of the current dynamics on the board."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Well, we've been more or less jockeying for position, huh?  I hate to do this, but I want to give you a heads up that I have to break our agreement and end our NAP a season early.  It's not what I planned or intended, but right now this game will turn either way on a dime.  You played the beginning of the game beautifully, but gained so much so fast that you not only forced Austria and Turkey into an alliance, but England and I as well.  So much so that we let France up off the mat, too.\n\n...and I kinda hate you for that because I really hate allying with England as Germany, and I had France absolutely wrecked.\n\nI expect to enjoy playing this out with you either way.  And I'm fascinated to see how this fall goes in the Southeast.  What a tangled mess, both the tactics and the diplomacy!\n\nBest,\n- Kaiser",
+        "input": "My response to RUSSIA:'Well, we've been more or less jockeying for position, huh?  I hate to do this, but I want to give you a heads up that I have to break our agreement and end our NAP a season early.  It's not what I planned or intended, but right now this game will turn either way on a dime.  You played the beginning of the game beautifully, but gained so much so fast that you not only forced Austria and Turkey into an alliance, but England and I as well.  So much so that we let France up off the mat, too.\n\n...and I kinda hate you for that because I really hate allying with England as Germany, and I had France absolutely wrecked.\n\nI expect to enjoy playing this out with you either way.  And I'm fascinated to see how this fall goes in the Southeast.  What a tangled mess, both the tactics and the diplomacy!\n\nBest,\n- Kaiser'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I appreciate the honesty. I would like to propose an alternative. Use this turn to get the drop on England, then you, Turkey and I can take this all the way to a three way draw in 1910. Turkey and I have been working together closely since the opening move, but we've covered it well. Turkey has the remnants of Austria and Italy to fight, and you have the West to conquer. I can help you both without putting myself close to a solo. I've shown myself to be a trustworthy Ally to you and I truly mean it when I say that I want us to have the lions share of the spoils in 1910. A three way alliance between you, Turkey and I makes perfect sense strategically.",
+        "input": "Message from RUSSIA:'I appreciate the honesty. I would like to propose an alternative. Use this turn to get the drop on England, then you, Turkey and I can take this all the way to a three way draw in 1910. Turkey and I have been working together closely since the opening move, but we've covered it well. Turkey has the remnants of Austria and Italy to fight, and you have the West to conquer. I can help you both without putting myself close to a solo. I've shown myself to be a trustworthy Ally to you and I truly mean it when I say that I want us to have the lions share of the spoils in 1910. A three way alliance between you, Turkey and I makes perfect sense strategically.'.If the cicero recommended order for me is: F HEL - DEN, A RUH - MUN, F BAL - SWE, A KIE S F HEL - DEN, A TYR - BOH. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's sudden proposal for a three-way alliance and a strategic shift to target England raises suspicions about their true intentions, especially after the recent escalation in the game. The rapid change in strategy and the offer for a grand alliance could potentially be a tactic to gain an advantage or exploit the situation for personal gain."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "So, I don't think that's going to happen.\n\nI recognize the risk I run with all allies at my back, but such is the life of the Kaiser who does not eliminate at least one of France or England.\n\nI choose to play this game with much more trust than most.  In this particular case I don't have a ton of choice in the matter.",
+        "input": "My response to RUSSIA:'So, I don't think that's going to happen.\n\nI recognize the risk I run with all allies at my back, but such is the life of the Kaiser who does not eliminate at least one of France or England.\n\nI choose to play this game with much more trust than most.  In this particular case I don't have a ton of choice in the matter.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Your Ally isn't going to be much help if they fail to enter orders. I can support you into Sweden this Fall in exchange for some minor concessions. We could probably even get you into the North Sea simultaneously.",
+        "input": "Message from RUSSIA:'Your Ally isn't going to be much help if they fail to enter orders. I can support you into Sweden this Fall in exchange for some minor concessions. We could probably even get you into the North Sea simultaneously.'.If the cicero recommended order for me is: F DEN - SWE, F BAL C A KIE - LVN, A KIE - LVN VIA, A MUN - SIL, A TYR - BOH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal to support you into Sweden in exchange for minor concessions aligns with their previous offers for collaboration, demonstrating a consistent willingness to assist you strategically. The specific and actionable plan provided indicates a genuine intention to support your advancement, reinforcing trust in their proposed cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I can't believe you didn't sniff out the Livonia convoy.  I was figuring it was a <50% chance of going through.  Or maybe it's what you wanted me to do?!?!",
+        "input": "My response to RUSSIA:'I can't believe you didn't sniff out the Livonia convoy.  I was figuring it was a <50% chance of going through.  Or maybe it's what you wanted me to do?!?!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I was more concerned with losing Norway, to be honest. I've kind of retreated into a posture that's more defensive than it probably should be, but if you and England are going to present a United front I really can't do anything else, except to hope that A) you reconsider your alliances or B) England decides to stab you (my least preferred option)",
+        "input": "Message from RUSSIA:'I was more concerned with losing Norway, to be honest. I've kind of retreated into a posture that's more defensive than it probably should be, but if you and England are going to present a United front I really can't do anything else, except to hope that A) you reconsider your alliances or B) England decides to stab you (my least preferred option)'.If the cicero recommended order for me is: F SKA - NWY, F BAL S F SWE, A MUN - SIL, A LVN - STP, A TYR - VEN. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's communication about their defensive posture and concerns aligns with the current board dynamics and suggests a willingness to adapt to the changing situation. The expression of hope for potential shifts in alliances and the preference to avoid conflict with you indicate a desire to maintain a cooperative stance, supporting the notion of trust in their intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I'd like to present another thought for you. Let's assume that you and England continue to push against me, and Turkey begins to wrap up Italy (quite possible considering that Turkey is likely to get into the Ionian this turn). \n\nBecause I must move all units Northward to defend against E/G, I'm absolutely forced to leave my Southern border undefended. If Turkey grows to 12 or 13 centers they could easily roll up my Southern Centers and solo this whole thing.\n\nI hope I'm not coming off as beating a dead horse here, but it makes so much sense for us to be aligned. \n\n1) A G/R/T Alliance can be easily balanced until 1910. \n2) I am already positioned to help you against England.\n3) England's NMR means they are an unstable Ally for you, but might make it easy for you to gain their centers quickly.\n4) Forcing me to defend in the North invites a Turkish solo.\n5) I have already proven myself to be a trustworthy ally by abiding the agreement set forth at the beginning of the game.\n\nI enjoy playing with you, and I really desperately want to work with you, for game and for personal reasons.",
+        "input": "Message from RUSSIA:'I'd like to present another thought for you. Let's assume that you and England continue to push against me, and Turkey begins to wrap up Italy (quite possible considering that Turkey is likely to get into the Ionian this turn). \n\nBecause I must move all units Northward to defend against E/G, I'm absolutely forced to leave my Southern border undefended. If Turkey grows to 12 or 13 centers they could easily roll up my Southern Centers and solo this whole thing.\n\nI hope I'm not coming off as beating a dead horse here, but it makes so much sense for us to be aligned. \n\n1) A G/R/T Alliance can be easily balanced until 1910. \n2) I am already positioned to help you against England.\n3) England's NMR means they are an unstable Ally for you, but might make it easy for you to gain their centers quickly.\n4) Forcing me to defend in the North invites a Turkish solo.\n5) I have already proven myself to be a trustworthy ally by abiding the agreement set forth at the beginning of the game.\n\nI enjoy playing with you, and I really desperately want to work with you, for game and for personal reasons.'.If the cicero recommended order for me is: F SKA - NWY, F BAL S F SWE, A MUN - SIL, A LVN - STP, A TYR - VEN. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's sudden proposal for a grand alliance appears to be a tactical maneuver, as it contradicts their previous conversations about defensive postures and concerns regarding your alliance with England. The urgency and reasoning presented suggest possible desperation to shift the balance of power, raising suspicions on the sincerity of their intentions and the potential for strategic manipulation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "You can't reasonably have had hope to keep Norway through the year under almost any circumstances.  Even, as it turns out, with an England NMR.\n\nYou're fundamentally correct, and Italy is a wild card in this thing for sure.  And I would enjoy playing this one out with you as well.  But it might have to be smack talk.\n\nIf you're concerned about a potential continental Caliphate, show me.  Support Tyr-Tri.  I'm not saying I'm going to make that move - I might - but I'll take it as a strong sign that you're serious about us working together, and about the Turkish threat.",
+        "input": "My response to RUSSIA:'You can't reasonably have had hope to keep Norway through the year under almost any circumstances.  Even, as it turns out, with an England NMR.\n\nYou're fundamentally correct, and Italy is a wild card in this thing for sure.  And I would enjoy playing this one out with you as well.  But it might have to be smack talk.\n\nIf you're concerned about a potential continental Caliphate, show me.  Support Tyr-Tri.  I'm not saying I'm going to make that move - I might - but I'll take it as a strong sign that you're serious about us working together, and about the Turkish threat.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "That was a very rough turn for you. If you want to negotiate I'm open, I could make things easier for you in the South in exchange for help against England in the North.",
+        "input": "Message from RUSSIA:'That was a very rough turn for you. If you want to negotiate I'm open, I could make things easier for you in the South in exchange for help against England in the North.'.If the cicero recommended order for me is: F SKA - SWE, F SWE - BAL, A MUN - BOH, A LVN - WAR, A SIL S A LVN - WAR, A TYR S A MUN - BOH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's willingness to negotiate and offer assistance in the South in exchange for cooperation against England in the North indicates a collaborative approach and a potential path to mutual benefit. This approach aligns with their previous communication about working together strategically, emphasizing a consistent intent to find common ground and support each other's interests."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "It was a rough turn for both of us, I think.  Given my current situation, there isn't a worse possible play for me than antagonizing England... assuming he's not already aligned with France.  He's made no move to show me that he is or isn't.\n\nWhat I can do is work to make England see that if France can't be trusted, trying to force his way in through StP is a death sentence: growth will be too slow, France will have to circle back for him, and his forces will be committed to that logjam in the Northeast.\n\nI should be able to convince him to convoy to Belgium, and that's his only army.  Should give you plenty of breathing room.  I'll try to convince him to focus on France.  Self-serving, but probably in his best interests anyway.\n\nI'll be in touch.",
+        "input": "My response to RUSSIA:'It was a rough turn for both of us, I think.  Given my current situation, there isn't a worse possible play for me than antagonizing England... assuming he's not already aligned with France.  He's made no move to show me that he is or isn't.\n\nWhat I can do is work to make England see that if France can't be trusted, trying to force his way in through StP is a death sentence: growth will be too slow, France will have to circle back for him, and his forces will be committed to that logjam in the Northeast.\n\nI should be able to convince him to convoy to Belgium, and that's his only army.  Should give you plenty of breathing room.  I'll try to convince him to focus on France.  Self-serving, but probably in his best interests anyway.\n\nI'll be in touch.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "I just wrote the following to England:",
+        "input": "My response to RUSSIA:'I just wrote the following to England:'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "So that was interesting.  I'm actually not that bad off as long as France and Russia aren't coordinating, and more importantly, as long as you aren't with France.\n\nSince clearly France can't be trusted, and obviously he'll have to come for you at some point to go for the win, maybe a convoy to Belgium is in order?  You can hold StP easily, get 2 builds, prevent France from getting any, and change the balance of power pretty dramatically.\n\nIf you really trust France you could also convoy to Holland and take a stab at crippling me permanently - he'll get +1 or +2, you'll get +2.  Though you risk bouncing with France if he gets greedy.  But if he builds, and you see a F Mar, you're in for a rough go.  If it's me, convoy to Belgium is the smarter play.  I don't even see it as a stab on your end - our alliance was three-way, and it is broken.  If you weren't in on it, it's broken for all of us.",
+        "input": "My response to RUSSIA:'So that was interesting.  I'm actually not that bad off as long as France and Russia aren't coordinating, and more importantly, as long as you aren't with France.\n\nSince clearly France can't be trusted, and obviously he'll have to come for you at some point to go for the win, maybe a convoy to Belgium is in order?  You can hold StP easily, get 2 builds, prevent France from getting any, and change the balance of power pretty dramatically.\n\nIf you really trust France you could also convoy to Holland and take a stab at crippling me permanently - he'll get +1 or +2, you'll get +2.  Though you risk bouncing with France if he gets greedy.  But if he builds, and you see a F Mar, you're in for a rough go.  If it's me, convoy to Belgium is the smarter play.  I don't even see it as a stab on your end - our alliance was three-way, and it is broken.  If you weren't in on it, it's broken for all of us.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "(pt 2:)\nIn either case, it's probably not a great idea to try to force your way into Russia via StP.  You've got it, and can hold it easily - there's a reason it's part of the stalemate lines.  You need to grow as fast as you can, or you're just waiting for a knife.  I was waiting for Turkey to stab Russia to give you an opening.  It didn't come, so I tried to force it and opened myself.  But if Turkey stabs now he'll collapse too quickly for you to get (or at least get with any chance to defend) more than one more center.\n\nI would strongly consider figuring out lines and conditions with Russia so you can both dedicate your forces elsewhere.  And I say that knowing that a highly likely place for Russia to dedicate forces is at me.  But since the second most likely (and possibly first) is at Turkey, which takes a partner from France, it's worth the risk.\n\nWhat's on your mind?",
+        "input": "My response to RUSSIA:'(pt 2:)\nIn either case, it's probably not a great idea to try to force your way into Russia via StP.  You've got it, and can hold it easily - there's a reason it's part of the stalemate lines.  You need to grow as fast as you can, or you're just waiting for a knife.  I was waiting for Turkey to stab Russia to give you an opening.  It didn't come, so I tried to force it and opened myself.  But if Turkey stabs now he'll collapse too quickly for you to get (or at least get with any chance to defend) more than one more center.\n\nI would strongly consider figuring out lines and conditions with Russia so you can both dedicate your forces elsewhere.  And I say that knowing that a highly likely place for Russia to dedicate forces is at me.  But since the second most likely (and possibly first) is at Turkey, which takes a partner from France, it's worth the risk.\n\nWhat's on your mind?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "(wrap up:)\nAs I look at what I just wrote, I am going to cut/paste it to Russia to facilitate discussions among the three of us.",
+        "input": "My response to RUSSIA:'(wrap up:)\nAs I look at what I just wrote, I am going to cut/paste it to Russia to facilitate discussions among the three of us.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "So, by \"on France's side\" you mean \"supporting yourself into Tyrolia,\" right?",
+        "input": "My response to RUSSIA:'So, by \"on France's side\" you mean \"supporting yourself into Tyrolia,\" right?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "Naw, it's too late.  If you had moved to Armenia, the Black Sea, and Ukraine last turn you would have suddenly been a prohibitive favorite to solo.  England isn't going anywhere, you can remove him at your leisure.  Now?  Who knows.",
+        "input": "My response to RUSSIA:'Naw, it's too late.  If you had moved to Armenia, the Black Sea, and Ukraine last turn you would have suddenly been a prohibitive favorite to solo.  England isn't going anywhere, you can remove him at your leisure.  Now?  Who knows.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1906M",
+        "message": "A Ber S Boh - Mun\nF Den - Kie\nA Gal - Boh",
+        "input": "My response to RUSSIA:'A Ber S Boh - Mun\nF Den - Kie\nA Gal - Boh'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "So, can we agree that we all need to put everything aside and stop Turkey?  He's 3 away from the solo...\n\nI know I can't do much, but I can support y'all as needed and do whatever else I can.\n\n(Sending to all remaining powers that aren't Turkey)",
+        "input": "My response to RUSSIA:'So, can we agree that we all need to put everything aside and stop Turkey?  He's 3 away from the solo...\n\nI know I can't do much, but I can support y'all as needed and do whatever else I can.\n\n(Sending to all remaining powers that aren't Turkey)'.",
+        "output": ""
+      }
+    ]
+  }
+]

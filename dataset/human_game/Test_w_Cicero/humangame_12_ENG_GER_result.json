@@ -1,0 +1,65 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "How's it going Germany just wanted to reach out and get your thoughts on the game?",
+        "input": "My response to GERMANY:'How's it going Germany just wanted to reach out and get your thoughts on the game?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts",
+        "input": "Message from GERMANY:'Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - YOR. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's response seems positive, mentioning a potential alliance against common threats and aligning with your shared objective of dealing with France. Their willingness to collaborate and their proposed division of roles could be a genuine opportunity for a successful partnership. Proceed with caution and consider working with Germany to achieve your mutual goals in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.",
+        "input": "My response to GERMANY:'I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?",
+        "input": "My response to GERMANY:'It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.",
+        "input": "Message from GERMANY:'I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.'.If the cicero recommended order for me is: A EDI - YOR, F LON - NTH, F NTH - SKA, A NWY H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's agreement to allow you to have the centers in Russia in exchange for keeping Sweden indicates a willingness to follow through on the previously agreed upon plan and suggests a commitment to the alliance. Proceed with the agreed orders and continue working together to achieve your strategic goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Alright that's seems reasonable.",
+        "input": "My response to GERMANY:'Alright that's seems reasonable.'.",
+        "output": ""
+      }
+    ]
+  }
+]

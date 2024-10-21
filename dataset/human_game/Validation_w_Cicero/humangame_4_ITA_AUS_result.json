@@ -1,0 +1,163 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, what are your thoughts on Tyr? Any ideas for opening moves more generally?",
+        "input": "My response to AUSTRIA:'Hi Austria, what are your thoughts on Tyr? Any ideas for opening moves more generally?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I'd like to see Tyr remain a DMZ as not to provoke any hostilies between myself, you or Germany. Thoughts?",
+        "input": "Message from AUSTRIA:'I'd like to see Tyr remain a DMZ as not to provoke any hostilies between myself, you or Germany. Thoughts?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's proposal for Tyr being a DMZ aligns with their desire to avoid hostilities, indicating they are looking for peaceful interactions, which is consistent with their message in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Works for me! Are you looking to expand into the Balkans first? Would you be interested in Italy-Austria alliance to take on Turkey there?",
+        "input": "My response to AUSTRIA:'Works for me! Are you looking to expand into the Balkans first? Would you be interested in Italy-Austria alliance to take on Turkey there?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I believe conflict between Russia and Turkey is inevitable so I plan to wait and see what happens there. I'd appreciate support in the future should it come to it, and rest assured that I will endeavour to help you should you be attacked",
+        "input": "Message from AUSTRIA:'I believe conflict between Russia and Turkey is inevitable so I plan to wait and see what happens there. I'd appreciate support in the future should it come to it, and rest assured that I will endeavour to help you should you be attacked'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's response indicates a reluctance to commit to an alliance with you against Turkey at this moment, suggesting they may prioritize their interests over a potential partnership with you in the future."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Keeping Russia out of Rum, nice. How deep does this alliance with Turkey run?",
+        "input": "My response to AUSTRIA:'Keeping Russia out of Rum, nice. How deep does this alliance with Turkey run?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "We're on good terms and it seems to be working out for both of us thus far\n\nHow are you with Germany and France?",
+        "input": "Message from AUSTRIA:'We're on good terms and it seems to be working out for both of us thus far\n\nHow are you with Germany and France?'.If the cicero recommended order for me is: F ION - AEG, F ROM - TYS, A VEN - APU, A GRE - BUL. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's vague response about their alliance with Turkey and shifting the conversation to your relationships with Germany and France could indicate they are not fully transparent about their intentions, possibly hinting at a different strategy than what they are presenting."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "How would you feel about moving out of Greece and taking Tunisia instead?",
+        "input": "Message from AUSTRIA:'How would you feel about moving out of Greece and taking Tunisia instead?'.If the cicero recommended order for me is: F ION - AEG, F ROM - TYS, A VEN - APU, A GRE - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's proposal to have you move out of Greece and take Tunisia aligns with their apparent desire to work together in securing gains, indicating a level of cooperation and potential coordination between both of you in the region."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "what's in it for me?",
+        "input": "My response to AUSTRIA:'what's in it for me?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I'd like to hold it for at least one more season, but then will probably move out",
+        "input": "My response to AUSTRIA:'I'd like to hold it for at least one more season, but then will probably move out'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "What happened to Tyr being a DMZ, and what happened with Greece? I'm willing to give you the benefit of the doubt as I've cocked up with convoys many times",
+        "input": "Message from AUSTRIA:'What happened to Tyr being a DMZ, and what happened with Greece? I'm willing to give you the benefit of the doubt as I've cocked up with convoys many times'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's inquiry about Tyr and Greece, along with admitting previous mistakes, may indicate a lack of sincerity or possible manipulation to gain information about your actions, potentially creating doubt about their intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Turns out drunk orders are bad orders",
+        "input": "My response to AUSTRIA:'Turns out drunk orders are bad orders'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "What are you planning doing this turn?",
+        "input": "Message from AUSTRIA:'What are you planning doing this turn?'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's straightforward question about your plans indicates a direct and open line of communication, suggesting they are seeking to understand your intentions rather than trying to deceive you at this stage of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Turning on France to the east",
+        "input": "My response to AUSTRIA:'Turning on France to the east'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Not sure I like how powerful you're letting Turkey get though...",
+        "input": "My response to AUSTRIA:'Not sure I like how powerful you're letting Turkey get though...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Now that the Turks have stabbed you in the back, would you be willing to support my fleet Apulian-Ionian?",
+        "input": "My response to AUSTRIA:'Now that the Turks have stabbed you in the back, would you be willing to support my fleet Apulian-Ionian?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Consider it done",
+        "input": "Message from AUSTRIA:'Consider it done'.If the cicero recommended order for me is: A TUN H, A TYR - VEN, F NAP - ROM, F APU - NAP. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's prompt and affirmative response displays a willingness to support your fleet movement, indicating a reliable and cooperative stance that aligns with their commitment to assist you against Turkey."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Thanks, much appreciated - Hoping to work together more going forward!",
+        "input": "My response to AUSTRIA:'Thanks, much appreciated - Hoping to work together more going forward!'.",
+        "output": ""
+      }
+    ]
+  }
+]

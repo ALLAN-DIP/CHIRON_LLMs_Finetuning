@@ -1,0 +1,44 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Austria, just dropping in to say hello. Our paths probably won\u2019t cross for a while, but may I suggest you attack Russia? I think an Austria-turkey alliance would work well, since I\u2019ve seen *WAY* to many games where Russia is left to their own devices and all of the sudden have half the board. Anyways, good luck and have fun!",
+        "input": "My response to AUSTRIA:'Hey Austria, just dropping in to say hello. Our paths probably won\u2019t cross for a while, but may I suggest you attack Russia? I think an Austria-turkey alliance would work well, since I\u2019ve seen *WAY* to many games where Russia is left to their own devices and all of the sudden have half the board. Anyways, good luck and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I wish you luck as well.  perhaps we can work together further into the game.",
+        "input": "Message from AUSTRIA:'I wish you luck as well.  perhaps we can work together further into the game.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response indicates a willingness to potentially collaborate in the future, suggesting a positive and open attitude towards future cooperation. It aligns well with your friendly message and could pave the way for a beneficial alliance."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "So.. what are you thinking about Russia? I would hate to see them run off with the game this early on... especially because turkey doesn't seem like the most competent player.",
+        "input": "My response to AUSTRIA:'So.. what are you thinking about Russia? I would hate to see them run off with the game this early on... especially because turkey doesn't seem like the most competent player.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I am honestly undecided.  Russia had a nice first turn, but we also agreed on a good neutral territory and that promise was kept so.. I like people who are trustworthy",
+        "input": "Message from AUSTRIA:'I am honestly undecided.  Russia had a nice first turn, but we also agreed on a good neutral territory and that promise was kept so.. I like people who are trustworthy'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Despite Austria's indication of valuing trustworthiness, their non-committal stance on Russia raises concerns about their true intentions. Proceed with caution and continue to monitor their interactions with other players."
+      }
+    ]
+  }
+]

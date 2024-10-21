@@ -1,0 +1,68 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?",
+        "input": "My response to GERMANY:'So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey! That sounds like a good route, I'm up for it",
+        "input": "Message from GERMANY:'Hey! That sounds like a good route, I'm up for it'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's positive response to the proposition of a northern triple aligns with your proposal and increases the likelihood of the alliance being genuine and beneficial for your position on the board."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Have you talked to England about it yet?",
+        "input": "Message from GERMANY:'Have you talked to England about it yet?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquiry about your communication with England shows a genuine interest in ensuring the success of the proposed alliance and suggests a collaborative approach to decision-making within the alliance. This supports the idea of a trustworthy partnership with Germany."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "England's on board, as far as I can tell",
+        "input": "My response to GERMANY:'England's on board, as far as I can tell'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Awesome, I talked to them about being on board too",
+        "input": "Message from GERMANY:'Awesome, I talked to them about being on board too'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. The confirmation that England is also on board with the proposed alliance aligns with the previous conversation and strengthens the credibility of the alliance. It indicates a united front and increases the likelihood of a successful cooperation with Germany and England to achieve your strategic goals."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What are you thinking for your initial moves?",
+        "input": "Message from GERMANY:'What are you thinking for your initial moves?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquiry about your initial moves indicates a genuine interest in coordinating strategies within the alliance and working towards a successful outcome. This collaborative approach fosters trust and suggests a committed partnership with Germany for future turns."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.",
+        "input": "My response to GERMANY:'So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.'.",
+        "output": ""
+      }
+    ]
+  }
+]

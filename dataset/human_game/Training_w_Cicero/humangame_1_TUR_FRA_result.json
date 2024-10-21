@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure",
+        "input": "Message from FRANCE:'Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their message appears overly friendly and encouraging, possibly trying to manipulate you into focusing on other regions while they make moves against you in the Balkans. Be cautious and prioritize securing your borders instead of blindly believing in potential alliances offered by neighbors."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Well yeah depends on the neighbors",
+        "input": "My response to FRANCE:'Well yeah depends on the neighbors'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Any additional thoughts after negotiations by any chance?",
+        "input": "Message from FRANCE:'Any additional thoughts after negotiations by any chance?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their follow-up message seems to be probing for more information, possibly to gather intel and exploit any weaknesses in your strategy. Stay cautious and continue focusing on securing your borders against any potential threats."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No not yet everyone seems rather tepid",
+        "input": "My response to FRANCE:'No not yet everyone seems rather tepid'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's true.",
+        "input": "Message from FRANCE:'Yeah, that's true.'.If the cicero recommended order for me is: A ARM - ANK, F ANK - CON, A BUL - GRE. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their response aligns with your observation of the current negotiations, indicating a shared understanding and potentially genuine interaction. Considering the context, it seems safe to trust their message for now."
+      }
+    ]
+  }
+]

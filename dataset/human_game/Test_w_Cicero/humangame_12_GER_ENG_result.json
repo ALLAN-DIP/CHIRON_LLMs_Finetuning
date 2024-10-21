@@ -1,0 +1,65 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "How's it going Germany just wanted to reach out and get your thoughts on the game?",
+        "input": "Message from ENGLAND:'How's it going Germany just wanted to reach out and get your thoughts on the game?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ENGLAND?",
+        "output": "You should trust the message. The message from England seems friendly and non-committal, and there are no immediate red flags indicating any potential betrayal in this phase of the game. It's important to maintain diplomatic relationships in the early stages of the game until more information is revealed."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts",
+        "input": "My response to ENGLAND:'Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.",
+        "input": "Message from ENGLAND:'I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ENGLAND?",
+        "output": "You should not trust the message. While England's response seems positive and willing to collaborate, their mention of stalemating with Russia could be a red flag indicating potential intentions to form a strong alliance with Russia. Proceed with caution and keep a close eye on England's moves in the upcoming phases."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?",
+        "input": "Message from ENGLAND:'It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?'.",
+        "output": "You should trust the message. England's proposal for a peaceful division of northern territories and their observation of Russia's lack of aggression in the north aligns with your shared interests and could be a genuine opportunity for collaboration against common threats. Consider working together to solidify your position in the north."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.",
+        "input": "My response to ENGLAND:'I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Alright that's seems reasonable.",
+        "input": "Message from ENGLAND:'Alright that's seems reasonable.'.If the cicero recommended order for me is: A HOL S A BUR - BEL, A BUR - BEL, F KIE - DEN, F SWE - SKA, A MUN - RUH. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's simple agreement with your proposal without adding any additional conditions indicates a willingness to cooperate and suggests that they may indeed be open to sharing the centers in Russia as discussed. Proceed with the planned moves and continue fostering this collaboration."
+      }
+    ]
+  }
+]

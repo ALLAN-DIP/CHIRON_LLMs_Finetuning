@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Turkey? Looking forward to a fun and exciting game!",
+        "input": "My response to TURKEY:'How\u2019s it going Turkey? Looking forward to a fun and exciting game!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "it's going good!",
+        "input": "Message from TURKEY:'it's going good!'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. The lack of specific details or strategic discussion in their response may indicate a lack of commitment to working with you, potentially keeping their options open for other alliances."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That\u2019s great! I\u2019m so excited for this game",
+        "input": "My response to TURKEY:'That\u2019s great! I\u2019m so excited for this game'.",
+        "output": ""
+      }
+    ]
+  }
+]

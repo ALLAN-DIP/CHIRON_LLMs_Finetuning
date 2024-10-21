@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "What's the play, mate? Something I can help with?",
+        "input": "Message from FRANCE:'What's the play, mate? Something I can help with?'.If the cicero recommended order for me is: A TYR - VIE, F ALB - ION, A BUD H, A SER - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Even though the message seems friendly and cooperative, their lack of specific offers or suggestions indicates they might not genuinely intend to assist you strategically."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?",
+        "input": "My response to FRANCE:'Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1907M",
+        "message": "More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00",
+        "input": "Message from FRANCE:'More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00'.If the cicero recommended order for me is: A VIE S F ADR - TRI, A RUM - BUL, F ADR - TRI, A SER S A RUM - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message from FRANCE. Their joking tone and indication of being willing to give up SCs to ITALY suggest a potential lack of commitment towards your alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.",
+        "input": "My response to FRANCE:'Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Italy stabs you in the back. What a shock.",
+        "input": "My response to FRANCE:'Italy stabs you in the back. What a shock.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Might I recommend striking back with your last dying breath? Join me and destroy Italy.",
+        "input": "My response to FRANCE:'Might I recommend striking back with your last dying breath? Join me and destroy Italy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "I invited him in. England has been my bigger issue",
+        "input": "Message from FRANCE:'I invited him in. England has been my bigger issue'.If the cicero recommended order for me is: A VIE S A TRI - BUD, A TRI - BUD. Should I trust FRANCE?",
+        "output": "You should trust the message from FRANCE. Their comment about England being a bigger issue aligns with the current board status, indicating a credible assessment of the situation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Disgusting",
+        "input": "My response to FRANCE:'Disgusting'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "France, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.",
+        "input": "My response to FRANCE:'France, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I certainly agree. Have you had any dialogue with Germany or Italy yet?",
+        "input": "Message from FRANCE:'I certainly agree. Have you had any dialogue with Germany or Italy yet?'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust FRANCE?",
+        "output": "You should trust the message. The message from France is consistent with the diplomatic approach of exchanging information early in the game, and there is no indication of deception in the conversation so far."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Germany and I have agreed to demilitarize bohemia and tyrolia, and nothing from Italy yet. How about you?",
+        "input": "My response to FRANCE:'Germany and I have agreed to demilitarize bohemia and tyrolia, and nothing from Italy yet. How about you?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I haven\u2019t heard from Germany or Italy. Me and England have agreed to dmz the channel. That\u2019s about it.",
+        "input": "Message from FRANCE:'I haven\u2019t heard from Germany or Italy. Me and England have agreed to dmz the channel. That\u2019s about it.'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust FRANCE?",
+        "output": "You should not trust the message. France claiming to have agreed to a demilitarized zone with England in the Channel contradicts your shared strategy of exchanging information early in the game, potentially indicating a lack of transparency or honesty in their communication."
+      }
+    ]
+  }
+]

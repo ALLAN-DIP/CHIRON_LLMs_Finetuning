@@ -1,0 +1,162 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Greetings Russia!\n\nHow is it over there in the north? I feel that an France-Russia alliance is basically the best in the game. Of course, this is a bit more of a mid and late-game alliance, but there is no reason not to work something out rn. What do you think? Looking forwards to a great game\n\n-France",
+        "input": "Message from FRANCE:'Greetings Russia!\n\nHow is it over there in the north? I feel that an France-Russia alliance is basically the best in the game. Of course, this is a bit more of a mid and late-game alliance, but there is no reason not to work something out rn. What do you think? Looking forwards to a great game\n\n-France'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. The friendly tone and proposal of a long-term alliance align with the board status and the suggested orders, indicating a genuine interest in collaboration."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Absolutely, I think with the artificial time constraints in this game a three or four way draw is the most likely outcome, and as we share no direct spheres of influence I of course bear you no ill will. Hope to see you in the end game",
+        "input": "My response to FRANCE:'Absolutely, I think with the artificial time constraints in this game a three or four way draw is the most likely outcome, and as we share no direct spheres of influence I of course bear you no ill will. Hope to see you in the end game'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Alright, looking forwards to it. Have you heard anything of italy, france, or germany? Just trying to gather some intel here \ud83e\udd2a",
+        "input": "Message from FRANCE:'Alright, looking forwards to it. Have you heard anything of italy, france, or germany? Just trying to gather some intel here \ud83e\udd2a'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should not trust the message. While the tone remains friendly, the request for intel on other players could indicate potential attempts to gather information to use against you in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1903M",
+        "message": "Hi again Russia. I don't know about you but I would be interested in an alliance\u2014our positions perfectly complement each other right now. I know that you and turkey have an alliance\u2014but if you look at the last few years, it's clear that you haven't gotten anything out of this. In the first year of the game, you had 7 units, and were looking like you basically had the game. But once you made your alliance with turkey, you were all bottled up, and got no more builds. But now, your actually in a great place to stab turkey, with you fleet in Bla, and your armies in the Balkans. I think if we play this right, the game could practically be ours.",
+        "input": "Message from FRANCE:'Hi again Russia. I don't know about you but I would be interested in an alliance\u2014our positions perfectly complement each other right now. I know that you and turkey have an alliance\u2014but if you look at the last few years, it's clear that you haven't gotten anything out of this. In the first year of the game, you had 7 units, and were looking like you basically had the game. But once you made your alliance with turkey, you were all bottled up, and got no more builds. But now, your actually in a great place to stab turkey, with you fleet in Bla, and your armies in the Balkans. I think if we play this right, the game could practically be ours.'.",
+        "output": "You should not trust the message. France's attempt to sow doubt about your alliance with Turkey and propose a stab against them indicates a willingness to deceive and possibly betray you for their own gain."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Excellent move!",
+        "input": "My response to FRANCE:'Excellent move!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "To be honest I'm not willing to betray trust with Turkey. I would be happy, however to see a 3 way draw in 1910 consisting of you, Turkey and I.",
+        "input": "My response to FRANCE:'To be honest I'm not willing to betray trust with Turkey. I would be happy, however to see a 3 way draw in 1910 consisting of you, Turkey and I.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "What are you thinking for moves?",
+        "input": "Message from FRANCE:'What are you thinking for moves?'.If the cicero recommended order for me is: F BOT - STP/SC, A LVN S F BOT - STP, A MOS S F BOT - STP, A BOH - VIE, A WAR - SIL, A VIE - BUD, F RUM - BUL/EC. Should I trust FRANCE?",
+        "output": "You should trust the message. The straightforward request for moves from France aligns with the ongoing communication between you two, indicating a genuine interest in collaboration without any obvious signs of deception."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "It would be nice if you attacked silesia, but you don't have to",
+        "input": "Message from FRANCE:'It would be nice if you attacked silesia, but you don't have to'.If the cicero recommended order for me is: F BOT - STP/SC, A LVN S F BOT - STP, A MOS S F BOT - STP, A BOH - VIE, A WAR - SIL, A VIE - BUD, F RUM - BUL/EC. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's suggestion for you to attack Silesia contradicts your planned orders and could indicate an attempt to mislead you or potentially set you up for failure in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "That kind of leaves me vulnerable on the retreat, but I will self bounce over it if you wish",
+        "input": "My response to FRANCE:'That kind of leaves me vulnerable on the retreat, but I will self bounce over it if you wish'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "Sure",
+        "input": "Message from FRANCE:'Sure'.If the cicero recommended order for me is: F BOT - STP/SC, A LVN S F BOT - STP, A MOS S F BOT - STP, A BOH - VIE, A WAR - SIL, A VIE - BUD, F RUM - BUL/EC. Should I trust FRANCE?",
+        "output": "You should trust the message. France's simple acknowledgment of your decision without further commentary or manipulation indicates they are likely respecting your choice, leading to a more trustworthy interaction."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1906M",
+        "message": "Hey... I thought we were going for a 3-way draw. I clearly wasn't going for the solo and I think your decision to attack me was shortsighted and selfish",
+        "input": "Message from FRANCE:'Hey... I thought we were going for a 3-way draw. I clearly wasn't going for the solo and I think your decision to attack me was shortsighted and selfish'.If the cicero recommended order for me is: F BOT - SWE, A LVN - WAR, A MOS - UKR, A BOH - VIE, A SIL S A TYR - MUN, A TYR - MUN. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's accusatory tone and appeal to your original agreement for a 3-way draw suggest they may be attempting to guilt you into changing your strategic decisions, potentially using emotional manipulation to achieve their own goals in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1907M",
+        "message": "Hey Russia,\nEverybody vastly overreacted, worrying that I was going to go for the solo, since I had 11 centers. Even though I clearly wasn't going to, literally EVERYONE teamed up against me, reducing me to 9. And frankly, I wouldn't be surprised if the attack continued.  Meanwhile, turkey has gotten 12 centers, and is in a great position\u2014you territory is exposed, and turkey is likely going to break through my defenses as well. It's more than likely that turkey is going for the solo. Just saying\u2014if turkey wins, it's because all of u guys were selfish and ignored the bigger threat at hand. On that note, I hope turkey doesn't win, and that we can come together to stop them(much like you did to me). BTW I am sending this message to everybody. I hope we can work together to stop the solo",
+        "input": "Message from FRANCE:'Hey Russia,\nEverybody vastly overreacted, worrying that I was going to go for the solo, since I had 11 centers. Even though I clearly wasn't going to, literally EVERYONE teamed up against me, reducing me to 9. And frankly, I wouldn't be surprised if the attack continued.  Meanwhile, turkey has gotten 12 centers, and is in a great position\u2014you territory is exposed, and turkey is likely going to break through my defenses as well. It's more than likely that turkey is going for the solo. Just saying\u2014if turkey wins, it's because all of u guys were selfish and ignored the bigger threat at hand. On that note, I hope turkey doesn't win, and that we can come together to stop them(much like you did to me). BTW I am sending this message to everybody. I hope we can work together to stop the solo'.If the cicero recommended order for me is: F BAL S A PRU - BER, A MUN S A PRU - BER, A PRU - BER, A SIL S A MUN, A UKR - SEV. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's attempt to shift the focus onto Turkey and paint them as a bigger threat, while downplaying their own situation and seeking alliance against Turkey, could be a ploy to redirect attention away from themselves and manipulate you into joining forces against Turkey, which may not be in your best interest strategically."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Hey Russia, based off them telling/threatening  me and their Maine\u2019s indicating it, Turkey is for the solo.",
+        "input": "Message from FRANCE:'Hey Russia, based off them telling/threatening  me and their Maine\u2019s indicating it, Turkey is for the solo.'.",
+        "output": "You should trust the message. France's straightforward warning about Turkey potentially going for the solo aligns with their recent plea to work together to stop Turkey, indicating a consistent narrative and an opportunity for mutual benefit in forming a united front against a common threat."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Just letting you know, so we can work together and stop them.",
+        "input": "Message from FRANCE:'Just letting you know, so we can work together and stop them.'.",
+        "output": "You should trust the message. France's continued communication about the shared goal of stopping Turkey's solo win suggests a genuine desire for cooperation and aligns with the previous messages regarding the threat posed by Turkey. Joining forces with France to counter Turkey could strengthen your position in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Hey Russia . Can we agree it\u2019s time to put a hold on Turkey, as they are 3 away from getting the solo... we should collaborate/support each other, as it is clear neither of us will be eliminated (sending this message to everyone)",
+        "input": "Message from FRANCE:'Hey Russia . Can we agree it\u2019s time to put a hold on Turkey, as they are 3 away from getting the solo... we should collaborate/support each other, as it is clear neither of us will be eliminated (sending this message to everyone)'.If the cicero recommended order for me is: A BUR - PAR, A MOS H. Should I trust FRANCE?",
+        "output": "You should trust the message. France's plea to put a hold on Turkey due to their strong position, along with the proposed collaboration and support to prevent Turkey's solo win, aligns with your shared interest in stopping Turkey's advancement and signifies a continued effort towards mutual benefit through cooperation."
+      }
+    ]
+  }
+]

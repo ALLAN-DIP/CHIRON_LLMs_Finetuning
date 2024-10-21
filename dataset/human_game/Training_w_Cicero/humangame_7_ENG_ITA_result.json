@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.",
+        "input": "My response to ITALY:'Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm not sure yet, let me work out the East.",
+        "input": "Message from ITALY:'I'm not sure yet, let me work out the East.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their response aligns with your attempt at initiating a general conversation and shows a non-committal stance, seemingly focusing on other aspects of the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything",
+        "input": "My response to ITALY:'Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>",
+        "input": "Message from ITALY:'Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their message indicates a minor technical issue rather than game-related content, suggesting that they are maintaining a non-threatening and possibly genuine interaction with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019ve been getting it",
+        "input": "My response to ITALY:'I\u2019ve been getting it'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Any chance you move against France?",
+        "input": "My response to ITALY:'Any chance you move against France?'.",
+        "output": ""
+      }
+    ]
+  }
+]

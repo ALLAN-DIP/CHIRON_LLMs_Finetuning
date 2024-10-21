@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?",
+        "input": "My response to FRANCE:'Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "Message from FRANCE:'Sounds good'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - YOR. Should I trust FRANCE?",
+        "output": "You should trust the message. France agreeing to a DMZ in the channel aligns with the suggested strategy of maintaining peace and could facilitate early cooperation between your two countries."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up",
+        "input": "Message from FRANCE:'That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH - SKA, F NWG C A EDI - NWY. Should I trust FRANCE?",
+        "output": "You should not trust the message. Although France is suggesting to maintain the DMZ in the Channel, their comment about Germany potentially having problems coming up could indicate a possible shift in their intentions, so caution is advised."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.",
+        "input": "My response to FRANCE:'Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "sounds good",
+        "input": "Message from FRANCE:'sounds good'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH - SKA, F NWG C A EDI - NWY. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response of \"sounds good\" to your update on ongoing discussions with Germany and Russia indicates a positive and supportive attitude towards your diplomatic efforts in the north."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?",
+        "input": "My response to FRANCE:'Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m supporting Paris to burgundy FYI",
+        "input": "My response to FRANCE:'I\u2019m supporting Paris to burgundy FYI'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Hello France",
+        "input": "My response to FRANCE:'Hello France'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "How you doing?",
+        "input": "My response to FRANCE:'How you doing?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Any chance you\u2019d support me into Spain?",
+        "input": "My response to FRANCE:'Any chance you\u2019d support me into Spain?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "I can offer keeping you in the game so you make the draw.",
+        "input": "My response to FRANCE:'I can offer keeping you in the game so you make the draw.'.",
+        "output": ""
+      }
+    ]
+  }
+]

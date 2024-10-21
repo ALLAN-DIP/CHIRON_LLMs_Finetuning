@@ -1,0 +1,261 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Salut!\nJust checking in, letting you know the embassy is open, and if you decide to move in a direction I might be able to get involved in, we can probably come to a reasonable arrangement on cooperation.\nBonne journ\u00e9e!",
+        "input": "My response to FRANCE:'Salut!\nJust checking in, letting you know the embassy is open, and if you decide to move in a direction I might be able to get involved in, we can probably come to a reasonable arrangement on cooperation.\nBonne journ\u00e9e!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey! I'm pretty flexible. Do you like to open north or against Germany?",
+        "input": "Message from FRANCE:'Hey! I'm pretty flexible. Do you like to open north or against Germany?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's message indicates a willingness to cooperate and discuss strategic options, which is a positive sign for potential collaboration in the game. However, remain cautious and verify their intentions through further interactions before fully committing to any plans."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Not especially - depends on how squirrelly the English player comes off in initial negotiations.  So far he's scanning as moderately squirrelly \ud83d\ude03",
+        "input": "My response to FRANCE:'Not especially - depends on how squirrelly the English player comes off in initial negotiations.  So far he's scanning as moderately squirrelly \ud83d\ude03'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Haha \ud83d\ude02. Moderately squirrelly is pretty accurate.",
+        "input": "Message from FRANCE:'Haha \ud83d\ude02. Moderately squirrelly is pretty accurate.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response aligns with your assessment of the English player and shows a level of understanding and agreement, indicating a potential for trustworthy communication and coordination between your two powers."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Checking back in before the deadline- it's a bit uncertain in the West, and it would be interesting to hear about your read.",
+        "input": "Message from FRANCE:'Checking back in before the deadline- it's a bit uncertain in the West, and it would be interesting to hear about your read.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's consistent communication and interest in your perspective suggest an ongoing effort to establish a trustworthy relationship and potentially collaborate strategically in the game. Be open to sharing your insights and further discussing the situation to gauge mutual understanding and alignment of interests."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Looks like Italy's gonna head away from you pretty aggressively.  England still strikes me as squirrelly - he says he's super-concerned about Germany, but I'm not sure I'm buying that.",
+        "input": "My response to FRANCE:'Looks like Italy's gonna head away from you pretty aggressively.  England still strikes me as squirrelly - he says he's super-concerned about Germany, but I'm not sure I'm buying that.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Thanks- that's great to hear and is confirming what I have been gathering. England is especially hard to read and I'm not sure I buy that either, but at least he's also telling me that he is worried about Germany.",
+        "input": "Message from FRANCE:'Thanks- that's great to hear and is confirming what I have been gathering. England is especially hard to read and I'm not sure I buy that either, but at least he's also telling me that he is worried about Germany.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response indicates that they are processing the unfolding dynamics and corroborating information received from you, displaying a consistent and thoughtful approach to the game. This demonstrates a level of engagement that suggests they are likely being genuine in their interactions."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Looking good for you since you will be able to pick up Sweden. The lack of northern German prescence might mean a greater opportunity in Scandinavia for you. What were your thoughts about turkey's move to Armenia?",
+        "input": "Message from FRANCE:'Looking good for you since you will be able to pick up Sweden. The lack of northern German prescence might mean a greater opportunity in Scandinavia for you. What were your thoughts about turkey's move to Armenia?'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust FRANCE?",
+        "output": "You should trust the message. France's acknowledgment of your potential gains in Scandinavia and interest in discussing Turkey's moves suggest a genuine attempt to engage in strategic discussions and potentially align interests for mutual benefit in the game. Proceed with cautious optimism and continue evaluating France's actions for further collaboration."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "\u0425\u0440\u0435\u043d \u0437\u043d\u0430\u0435\u0442?\nI'm not thrilled with it, to be sure.",
+        "input": "My response to FRANCE:'\u0425\u0440\u0435\u043d \u0437\u043d\u0430\u0435\u0442?\nI'm not thrilled with it, to be sure.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I am worried that England and Germany are working together, which would be bad for both of us. I wonder if we can convince England to take Denmark? Perhaps by pointing out the threats in the south, and the need to prop you up.",
+        "input": "Message from FRANCE:'I am worried that England and Germany are working together, which would be bad for both of us. I wonder if we can convince England to take Denmark? Perhaps by pointing out the threats in the south, and the need to prop you up.'.If the cicero recommended order for me is: F SWE - NWY, A MOS S F BLA - SEV, A WAR - UKR, F BLA - SEV, A RUM S A SER - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's concern about a potential English-German alliance aligns with your strategic interests, indicating a shared understanding of the game dynamics. The suggestion to sway England towards taking Denmark to address mutual threats demonstrates a willingness to collaborate and strategize together in a way that benefits both of your positions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Just wanted to say that your moves this turn were really something. Well played!",
+        "input": "Message from FRANCE:'Just wanted to say that your moves this turn were really something. Well played!'.If the cicero recommended order for me is: F SWE - NWY, A MOS S F BLA - SEV, A WAR - UKR, F BLA - SEV, A RUM S A SER - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's compliment on your recent moves reflects a positive acknowledgment of your gameplay and may indicate a genuine appreciation for your strategic decisions. This positive interaction can help foster trust and potential collaboration between your powers in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "You as well. Looks like you have your territory well defended now.",
+        "input": "My response to FRANCE:'You as well. Looks like you have your territory well defended now.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yeah, for sure. Last season I was in panic mode, but it looks like the tables have turned with England choosing to fight Germany instead of team up with him.",
+        "input": "Message from FRANCE:'Yeah, for sure. Last season I was in panic mode, but it looks like the tables have turned with England choosing to fight Germany instead of team up with him.'.If the cicero recommended order for me is: F SWE - NWY, A MOS S F BLA - SEV, A WAR - UKR, F BLA - SEV, A RUM S A SER - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's acknowledgment of the shifting dynamics and the impact on their position reveals transparency in their assessment of the board, suggesting an openness to discussing strategic considerations with you. Their willingness to share insights and concerns indicates a potential for trustworthy communication and collaboration in navigating the game's complexities."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "You're welcome on that one. \ud83d\ude00",
+        "input": "My response to FRANCE:'You're welcome on that one. \ud83d\ude00'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Haha- thank you! Didn't realize you were pulling strings behind the scenes, but I really appreciate you doing so.",
+        "input": "Message from FRANCE:'Haha- thank you! Didn't realize you were pulling strings behind the scenes, but I really appreciate you doing so.'.If the cicero recommended order for me is: F SWE - NWY, A MOS S F BLA - SEV, A WAR - UKR, F BLA - SEV, A RUM S A SER - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's lighthearted response and appreciation for your actions indicate a positive rapport and a level of trust between your powers. The acknowledgment of your behind-the-scenes influence suggests a recognition of your strategic abilities and a willingness to collaborate closely in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Hey, I needed him focused elsewhere than St Pete, and that was a direction I could help in",
+        "input": "My response to FRANCE:'Hey, I needed him focused elsewhere than St Pete, and that was a direction I could help in'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "\ud83d\udc4d",
+        "input": "Message from FRANCE:'\ud83d\udc4d'.If the cicero recommended order for me is: F SWE - NWY, A MOS S F BLA - SEV, A WAR - UKR, F BLA - SEV, A RUM S A SER - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. France's simple positive emoji response indicates agreement and understanding with your explanation, suggesting that they are receptive to your strategic considerations and are likely on the same page in terms of game dynamics. This brief but affirmative response signals a continued basis for trust and potential collaboration between your powers."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "I'm not sure what is happening in the West anymore. Some of it is due to the bot being down, but England's moves were pretty shocking to see. Any thoughts?",
+        "input": "Message from FRANCE:'I'm not sure what is happening in the West anymore. Some of it is due to the bot being down, but England's moves were pretty shocking to see. Any thoughts?'.If the cicero recommended order for me is: F BAL S A SIL - BER, A STP - NWY, A SIL - BER, A ARM - ANK, F BLA S A ARM - ANK, A RUM S A BUD. Should I trust FRANCE?",
+        "output": "You should trust the message. France's expression of uncertainty and shared observations about the unexpected moves in the West imply a sense of openness and honesty in their communication. Their willingness to seek your thoughts on the evolving situation suggests a genuine interest in collaborating and strategizing together in light of the changing dynamics of the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Not strong ones. I feel like I need to cover my ass, but aside from that?",
+        "input": "My response to FRANCE:'Not strong ones. I feel like I need to cover my ass, but aside from that?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Yeah, I feel that too. With England withdrawing I'm assuming you are no longer hitting Germany with your units, unless you have Italian help. If that is the case I might also stop aggravating Germany",
+        "input": "Message from FRANCE:'Yeah, I feel that too. With England withdrawing I'm assuming you are no longer hitting Germany with your units, unless you have Italian help. If that is the case I might also stop aggravating Germany'.If the cicero recommended order for me is: F BAL S A SIL - BER, A STP - NWY, A SIL - BER, A ARM - ANK, F BLA S A ARM - ANK, A RUM S A BUD. Should I trust FRANCE?",
+        "output": "You should trust the message. France's consideration of your potential strategies and their willingness to adapt their own plans based on the changing dynamics demonstrate a collaborative mindset and a shared interest in finding mutually beneficial solutions. Their thoughtful approach indicates a level of trustworthiness in their communication, paving the way for continued engagement and coordinated efforts in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "I am not pressing Germany this turn.",
+        "input": "My response to FRANCE:'I am not pressing Germany this turn.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Yeah, that turn went about as I expected.",
+        "input": "My response to FRANCE:'Yeah, that turn went about as I expected.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Should we throw to AI?",
+        "input": "Message from FRANCE:'Should we throw to AI?'.If the cicero recommended order for me is: F BAL - SWE, A STP - NWY, A SIL - GAL, A SEV - ARM, F BLA S A RUM - BUL, A RUM - BUL, A ANK S A SEV - ARM. Should I trust FRANCE?",
+        "output": "You should trust the message. France's proposal to form an alliance with Austria and Italy suggests an openness to strategic collaboration and potential coordination among your powers to navigate the current game dynamics. Consider discussing the specifics of how this alliance would operate to ensure alignment of goals before committing fully."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Maybe?  I mean, I'm not opposed",
+        "input": "My response to FRANCE:'Maybe?  I mean, I'm not opposed'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1904M",
+        "message": "I am starting to get frustrated with England, who has not replied to my messages for over a year while clowning around instead of helping stop the Italy Austria alliance. What's stopping me from throwing is Germany asking me not to. And then she took Belgium, lol.",
+        "input": "Message from FRANCE:'I am starting to get frustrated with England, who has not replied to my messages for over a year while clowning around instead of helping stop the Italy Austria alliance. What's stopping me from throwing is Germany asking me not to. And then she took Belgium, lol.'.",
+        "output": "You should not trust the message. France's frustration with England and the mention of considerations based on Germany's requests suggest a potential willingness to prioritize personal grievances over strategic alliances. Proceed with caution and reevaluate the trustworthiness of France's intentions, as their actions may not align with the best interests of a potential alliance with you."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1904M",
+        "message": "Not sure what my game plan is here. Right now I'm working on getting Germany to build a fleet. My theory is that if Germany can pivot towards England then it may be a salvageable game. Eliminating England ASAP and there's a possibility we can end up in a draw once AI tensions build. But that is impossible if they see a weak north full of infighting that they can just roll over- then they have no reason to ever turn on eachother.",
+        "input": "Message from FRANCE:'Not sure what my game plan is here. Right now I'm working on getting Germany to build a fleet. My theory is that if Germany can pivot towards England then it may be a salvageable game. Eliminating England ASAP and there's a possibility we can end up in a draw once AI tensions build. But that is impossible if they see a weak north full of infighting that they can just roll over- then they have no reason to ever turn on eachother.'.",
+        "output": "You should trust the message. France's detailed explanation of their game plan and strategic considerations reflects a thoughtful approach and a willingness to collaborate strategically to create a more balanced and competitive playing field. Their focus on incentivizing Germany to shift alignment and targeting England for elimination suggests a potential alignment of interests that could lead to coordinated efforts for mutual benefit in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "Yep.  I have the south stopped cold at this point - and I told Austria after the Winter turn they would get two and then be stuck - but that means y'all gotta work your shit out and lock the other side, or this is an AI steamroll",
+        "input": "My response to FRANCE:'Yep.  I have the south stopped cold at this point - and I told Austria after the Winter turn they would get two and then be stuck - but that means y'all gotta work your shit out and lock the other side, or this is an AI steamroll'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "And if England starts nibbling from behind, this'll become the easiest throw ever",
+        "input": "My response to FRANCE:'And if England starts nibbling from behind, this'll become the easiest throw ever'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, England! How's it going in your part of the world?",
+        "input": "Message from ITALY:'Greetings, England! How's it going in your part of the world?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust ITALY?",
+        "output": "You should trust the message. ITALY's friendly greeting and inquiry about your well-being demonstrate a positive and potentially collaborative attitude, suggesting a willingness to engage in diplomatic dialogue."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...",
+        "input": "My response to ITALY:'Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How about your side of things?",
+        "input": "My response to ITALY:'How about your side of things?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ah yes, pretty much the same here",
+        "input": "Message from ITALY:'Ah yes, pretty much the same here'.If the cicero recommended order for me is: A YOR - NWY VIA, F NTH C A YOR - NWY, F NWG - BAR. Should I trust ITALY?",
+        "output": "You should trust the message. ITALY's agreement with your sentiment and response of \"pretty much the same\" suggests a similarity in perspectives or situations, indicating a potential alignment of interests and a basis for further cooperation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019m curious about your feel on Russia?",
+        "input": "Message from ITALY:'I\u2019m curious about your feel on Russia?'.If the cicero recommended order for me is: A YOR - NWY VIA, F NTH C A YOR - NWY, F NWG - BAR. Should I trust ITALY?",
+        "output": "You should trust the message. ITALY's genuine interest in your perspective on Russia and desire for insight demonstrate a willingness to engage in strategic discussions and potentially form alliances based on shared information."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Haven't gotten much of an impression yet, to be honest.",
+        "input": "My response to ITALY:'Haven't gotten much of an impression yet, to be honest.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Do you have any insight into France's moves this season?",
+        "input": "Message from ITALY:'Do you have any insight into France's moves this season?'.If the cicero recommended order for me is: A LON H, F NTH - DEN, A WAL H, F NWY - SWE. Should I trust ITALY?",
+        "output": "You should trust the message. ITALY's inquiry about France's moves signals a strategic interest in gathering information, indicating a potential willingness to collaborate or share insights for mutual benefit in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Not a goddamned lick! The French work in mysterious ways.",
+        "input": "My response to ITALY:'Not a goddamned lick! The French work in mysterious ways.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Yes, it seems so :/",
+        "input": "Message from ITALY:'Yes, it seems so :/'.If the cicero recommended order for me is: A LON H, F NTH - DEN, A WAL H, F NWY - SWE. Should I trust ITALY?",
+        "output": "You should trust the message. ITALY's empathetic response, acknowledging the mystery surrounding France's moves, reflects a shared understanding and potentially opens up avenues for further strategic discussions or coordination in the game."
+      }
+    ]
+  }
+]

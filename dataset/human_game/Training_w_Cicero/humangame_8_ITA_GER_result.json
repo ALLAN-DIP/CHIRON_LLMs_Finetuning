@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings, Germany. How are things up north?",
+        "input": "My response to GERMANY:'Greetings, Germany. How are things up north?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.",
+        "input": "Message from GERMANY:'Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should not trust the message from Germany. The message could be an attempt to sow discord and create distrust between you and your neighbors, potentially leading you to make moves that benefit Germany's position."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other",
+        "input": "My response to GERMANY:'France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "\ud83d\udc4d\ud83c\udffd",
+        "input": "Message from GERMANY:'\ud83d\udc4d\ud83c\udffd'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message from Germany. The exchange of friendly emojis after your message indicates a positive response and willingness to cooperate, aligning with the idea of watching out for each other as you mentioned in your previous correspondence."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.",
+        "input": "Message from GERMANY:'England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.'.",
+        "output": "You should not trust the message from Germany. The message could be an attempt to manipulate you into turning against Austria, potentially serving Germany's interests rather than your own."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see",
+        "input": "My response to GERMANY:'Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Are you planning to help Austria move back to into Vie?",
+        "input": "My response to GERMANY:'Are you planning to help Austria move back to into Vie?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "not sure yet",
+        "input": "Message from GERMANY:'not sure yet'.If the cicero recommended order for me is: A TUN - SYR VIA, F ION C A TUN - SYR, A VEN - TUS, F EAS C A TUN - SYR. Should I trust GERMANY?",
+        "output": "You should not trust the message from Germany. The lack of a clear response to your question and the vague statement \"not sure yet\" may indicate hesitancy or potential deceit, which could lead to a misalignment of goals between you and Germany in future interactions."
+      }
+    ]
+  }
+]

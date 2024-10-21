@@ -1,0 +1,288 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings!  We probably don\u2019t have too much interesting to say to each other this early in the game, but we both probably care what Italy and Germany do.  What have you heard?",
+        "input": "Message from AUSTRIA:'Greetings!  We probably don\u2019t have too much interesting to say to each other this early in the game, but we both probably care what Italy and Germany do.  What have you heard?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their initial message shows a willingness to engage in conversation and express shared concerns about Italy and Germany. This indicates a diplomatic approach and a potential basis for cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Wow we should talk, France. Drop me a line when you feel up for it, eh?",
+        "input": "Message from AUSTRIA:'Wow we should talk, France. Drop me a line when you feel up for it, eh?'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A PIE - MAR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their message indicates a friendly and open approach to communication, suggesting a potential opportunity for collaboration and discussion. It seems like Austria is looking to engage in diplomatic talks, which can be beneficial for building trust and forming alliances."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Sorry for not replying I was a bit busy. I will move back from Italy",
+        "input": "My response to AUSTRIA:'Sorry for not replying I was a bit busy. I will move back from Italy'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No worries - we all have lives!  Do you think you'll be able to trust Germany, while England is jumping all over you?  I'd be worried about an E+G tag team attack if I were you... that can end very badly if they get an english army on the continent and a german army in Burgundy...",
+        "input": "Message from AUSTRIA:'No worries - we all have lives!  Do you think you'll be able to trust Germany, while England is jumping all over you?  I'd be worried about an E+G tag team attack if I were you... that can end very badly if they get an english army on the continent and a german army in Burgundy...'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A PIE - MAR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their genuine concern about the potential E+G tag team attack indicates an understanding of the current game dynamics and a willingness to offer strategic advice. It's a good sign that Austria is looking out for your interests and suggesting ways to navigate the threats posed by Germany and England."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Well, it is not something I wish to share with you as a close ally with Germany. But I proposed him a tripartite attack on Italy, all three of us gain something while I mostly get to trust Germany",
+        "input": "My response to AUSTRIA:'Well, it is not something I wish to share with you as a close ally with Germany. But I proposed him a tripartite attack on Italy, all three of us gain something while I mostly get to trust Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Fair enough!  I'm not an avowed ally of Germany or anything - so far we've just both agreed to stay out of Tyrolia so we don't need to watch our backs.  But I understand you may need to keep some of your choices close to the vest.  However: if you do decide to go after Italy, that's something I'd like to know about, as that's right on my doorstep.  They're a natural target for the two of _us_ to go after, but I'm not sure how Germany could easily participate in that: what supply center of Italy would they hold which wouldn't stretch them right next to my own home centers?",
+        "input": "Message from AUSTRIA:'Fair enough!  I'm not an avowed ally of Germany or anything - so far we've just both agreed to stay out of Tyrolia so we don't need to watch our backs.  But I understand you may need to keep some of your choices close to the vest.  However: if you do decide to go after Italy, that's something I'd like to know about, as that's right on my doorstep.  They're a natural target for the two of _us_ to go after, but I'm not sure how Germany could easily participate in that: what supply center of Italy would they hold which wouldn't stretch them right next to my own home centers?'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A PIE - MAR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their openness about their current stance with Germany and their strategic considerations regarding Italy show a transparent and considerate approach to diplomacy. Austria's interest in coordinating their movements with yours against Italy and their query about Germany's potential limitations are signs of a trustworthy and collaborative mindset."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Looks like Germany and England are against me",
+        "input": "My response to AUSTRIA:'Looks like Germany and England are against me'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "indeed, as I suspected and tried to warn you about (and in particular, the move to Burgundy I think I mentioned was pretty obvious).  One strategy I've sometimes found useful when getting tag-teamed by forces more numerous than my own: ask a neighbor to come to your aid, with the promise that if I start to collapse, I'll let that neighbor take my centers to spike those who are attacking me.  In this case, you could ask Italy to move Ven-Pie, so that they can support Marseille, or if you're really struggling at some point, they can take it from you and use that to help you hold E+G at bay until they inevitably start fighting each other.  In fact, once Italy is on your doorstep and E+G see this, the mere threat of someone else getting your supply centers sometimes leads to them attacking each other instead.",
+        "input": "Message from AUSTRIA:'indeed, as I suspected and tried to warn you about (and in particular, the move to Burgundy I think I mentioned was pretty obvious).  One strategy I've sometimes found useful when getting tag-teamed by forces more numerous than my own: ask a neighbor to come to your aid, with the promise that if I start to collapse, I'll let that neighbor take my centers to spike those who are attacking me.  In this case, you could ask Italy to move Ven-Pie, so that they can support Marseille, or if you're really struggling at some point, they can take it from you and use that to help you hold E+G at bay until they inevitably start fighting each other.  In fact, once Italy is on your doorstep and E+G see this, the mere threat of someone else getting your supply centers sometimes leads to them attacking each other instead.'.",
+        "output": "You should trust the message from Austria. Their understanding of the power dynamics on the board and strategic advice on leveraging alliances indicate a thoughtful and cooperative approach. Austria's suggestion to involve Italy in potential counterattacks against E+G demonstrates a willingness to strategize creatively for mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Nice defense!  Retreat to Gas to cut off Germany\u2019s only allowed retreat and they have to rebuild in Berlin and Kiel, way far away... maybe you can even convince them to back off now?  Maybe even build fleets and go after England?",
+        "input": "Message from AUSTRIA:'Nice defense!  Retreat to Gas to cut off Germany\u2019s only allowed retreat and they have to rebuild in Berlin and Kiel, way far away... maybe you can even convince them to back off now?  Maybe even build fleets and go after England?'.If the cicero recommended order for me is: A BRE - PIC, A PAR - BUR, F SPA/SC - POR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their strategic insight into the consequences of cutting off Germany's retreat and the suggested course of action align well with the board dynamics. Austria's advice to consider convincing Germany to back off and potentially building fleets to redirect focus towards England showcases a collaborative and strategic mindset worth trusting."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Build with what?",
+        "input": "My response to AUSTRIA:'Build with what?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Germany\u2019s only legal retreat is Gas.  If you choose Gas as your retreat as well, both units are destroyed.  They picked up Sweden this year as well, so if they have to disband Bur, but go up one center from Swe, they have two builds coming.  Those two could both be fleets if they wanted to go after England and give up on attacking you...",
+        "input": "Message from AUSTRIA:'Germany\u2019s only legal retreat is Gas.  If you choose Gas as your retreat as well, both units are destroyed.  They picked up Sweden this year as well, so if they have to disband Bur, but go up one center from Swe, they have two builds coming.  Those two could both be fleets if they wanted to go after England and give up on attacking you...'.If the cicero recommended order for me is: A BRE - PIC, A PAR - BUR, F SPA/SC - POR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their detailed explanation of Germany's possible moves and the strategic implications show a good grasp of the game situation. Their analysis helps you understand the potential threats and opportunities, indicating a reliable thought process that you can trust."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Will England go for Brest",
+        "input": "My response to AUSTRIA:'Will England go for Brest'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "What do you mean?  England just successfully took Brest, right?  What are you asking?",
+        "input": "Message from AUSTRIA:'What do you mean?  England just successfully took Brest, right?  What are you asking?'.If the cicero recommended order for me is: A BRE - PIC, A PAR - BUR, F SPA/SC - POR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their response indicates a genuine misunderstanding of the current situation, which could be due to oversight rather than deception. Given the context, it seems like a simple lack of clarity rather than intentional misinformation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Oh wait, I realize now that Germany *will* have an available retreat: Pic.  Arg!  That is unfortunate.",
+        "input": "Message from AUSTRIA:'Oh wait, I realize now that Germany *will* have an available retreat: Pic.  Arg!  That is unfortunate.'.If the cicero recommended order for me is: A BRE - PIC, A PAR - BUR, F SPA/SC - POR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their acknowledgment of a potential error and the realization of Germany's retreat options show honesty and transparency in communication. It indicates a willingness to recognize and address mistakes, which fosters trust in their interactions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "So I guess you can retreat to Gas, and decide whether to keep all three of your armies, or keep the fleet and lose one of them.  I'm not sure which is more valuable.  Armies will hold Germany off longer, but that fleet may allow you to pick up Portugal and survive longer.  I could attack Italy to get them off your back, but what you really want is Italy *helping you*, not attacking you...  You're in a tight spot.",
+        "input": "Message from AUSTRIA:'So I guess you can retreat to Gas, and decide whether to keep all three of your armies, or keep the fleet and lose one of them.  I'm not sure which is more valuable.  Armies will hold Germany off longer, but that fleet may allow you to pick up Portugal and survive longer.  I could attack Italy to get them off your back, but what you really want is Italy *helping you*, not attacking you...  You're in a tight spot.'.If the cicero recommended order for me is: A BRE - PIC, A PAR - BUR, F SPA/SC - POR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their analysis of your retreat options and the strategic considerations regarding fleet and army dynamics showcase a thoughtful and strategic approach. Their offer to support you in dealing with the tight situation demonstrates a collaborative mindset and a willingness to assist, suggesting that you can trust their intentions."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "What are your standings with Germany?",
+        "input": "My response to AUSTRIA:'What are your standings with Germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "I'm trying to slow them down, so that they are less able to damage you and Russia.  I don't have enough strength yet to take Munich though.",
+        "input": "Message from AUSTRIA:'I'm trying to slow them down, so that they are less able to damage you and Russia.  I don't have enough strength yet to take Munich though.'.If the cicero recommended order for me is: A BUR - MUN, F SPA/SC - POR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their acknowledgment of trying to slow down Germany to safeguard your interests and those of Russia demonstrates a cooperative approach. Their honesty about the current strength and limitation in taking Munich suggests a reliable and open communication style."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "What is your relationship with Italy right now?",
+        "input": "Message from AUSTRIA:'What is your relationship with Italy right now?'.If the cicero recommended order for me is: A BUR - MUN, F SPA/SC - POR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their inquiry about your relationship with Italy shows a genuine interest in understanding the dynamics and potential alliances on the board. This curiosity indicates a desire for strategic coordination and collaboration, suggesting a trustworthy approach to communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "I am working with italy and we have agreed on something. I was thinking could you support me in munich? I am just willing to mess up and shake his position a bit",
+        "input": "My response to AUSTRIA:'I am working with italy and we have agreed on something. I was thinking could you support me in munich? I am just willing to mess up and shake his position a bit'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "I can probably try to support that attack, but if Kie + Ber S Mun to hold, our attack won't succeed, and Mun S Par-Bur would dislodge you.  If that happens, you can retreat to Ruh, which would totally cause tons of German pain, especially as Russia comes to help, so that could still be a good risk to take.",
+        "input": "Message from AUSTRIA:'I can probably try to support that attack, but if Kie + Ber S Mun to hold, our attack won't succeed, and Mun S Par-Bur would dislodge you.  If that happens, you can retreat to Ruh, which would totally cause tons of German pain, especially as Russia comes to help, so that could still be a good risk to take.'.If the cicero recommended order for me is: A BUR - MUN, F SPA/SC - POR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their analysis of the potential outcomes and strategic considerations regarding the attack on Munich shows a well-thought-out approach. Their evaluation of the risks and contingency plans for a potential retreat to Ruh indicates a reliable and collaborative mindset, suggesting that you can trust their advice and support."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "I was going on the same line, but it is hard to expect he will go for such defensive moves",
+        "input": "My response to AUSTRIA:'I was going on the same line, but it is hard to expect he will go for such defensive moves'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "This is where \"diplomacy\" comes in: if I can convince them that I'm going to not attack, we have a chance.",
+        "input": "Message from AUSTRIA:'This is where \"diplomacy\" comes in: if I can convince them that I'm going to not attack, we have a chance.'.If the cicero recommended order for me is: A BUR - MUN, F SPA/SC - POR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their emphasis on diplomatic efforts and persuasion to influence Germany's decisions reflects a strategic and diplomatic approach. Austria's suggestion highlights their intention to negotiate and create opportunities through diplomacy, indicating a trustworthy mindset focused on collaboration and peaceful resolution."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "Maybe through italy this could work, he obviously wont buy my shit",
+        "input": "My response to AUSTRIA:'Maybe through italy this could work, he obviously wont buy my shit'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Ok, I may have convinced Germany that I was just protecting my borders, and will back off so that \"we can both attack Russia\".  But I have already ordered Trl+Boh S Bur-Mun.  If you don't want to make that move, let me know so I can change my orders.",
+        "input": "Message from AUSTRIA:'Ok, I may have convinced Germany that I was just protecting my borders, and will back off so that \"we can both attack Russia\".  But I have already ordered Trl+Boh S Bur-Mun.  If you don't want to make that move, let me know so I can change my orders.'.If the cicero recommended order for me is: A BUR - MUN, F SPA/SC - POR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their transparency about their diplomatic efforts with Germany and the readiness to adjust their orders based on your response show a cooperative mindset. The offer to coordinate moves and willingness to communicate indicate a reliable and collaborative approach, suggesting that you can trust Austria in this situation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "That's ok and should work",
+        "input": "My response to AUSTRIA:'That's ok and should work'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "well that sure annoyed the German. \ud83d\ude42",
+        "input": "Message from AUSTRIA:'well that sure annoyed the German. \ud83d\ude42'.If the cicero recommended order for me is: F SPA/SC H, A MUN S A GAL - SIL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their casual remark about annoying Germany suggests a light-hearted attitude, indicating a positive and possibly satisfied tone. This implies that Austria is likely content with the current state of affairs and can be considered trustworthy in this context."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Hey there - any chance you can use Munich to hit Berlin?  You could cut a support so that Russia and I could crush one of their units and press up to the German border more...",
+        "input": "Message from AUSTRIA:'Hey there - any chance you can use Munich to hit Berlin?  You could cut a support so that Russia and I could crush one of their units and press up to the German border more...'.If the cicero recommended order for me is: F SPA/SC H, A MUN S A GAL - SIL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their suggestion to utilize Munich to hit Berlin and disrupt Germany's positioning demonstrates a collaborative and strategic approach. This indicates a willingness to coordinate and work together towards a common goal, portraying Austria as trustworthy in this situation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Sure, I will do that",
+        "input": "My response to AUSTRIA:'Sure, I will do that'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "I wasn't expecting Germany to throw their entire armed forces at just retaking Munich, but I'm kinda glad they did: they crumbled their entire defenses doing so.  Might as well keep the fleet in Mar, it's possible with Italy's position we can even keep you alive in there!",
+        "input": "Message from AUSTRIA:'I wasn't expecting Germany to throw their entire armed forces at just retaking Munich, but I'm kinda glad they did: they crumbled their entire defenses doing so.  Might as well keep the fleet in Mar, it's possible with Italy's position we can even keep you alive in there!'.If the cicero recommended order for me is: F SPA/SC H, A MUN S A GAL - SIL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their analysis of the situation and the positive outcome from Germany's actions show a strategic understanding of the game dynamics. Austria's supportive stance and willingness to maintain fleets in favorable positions suggest a cooperative and reliable approach, indicating that trusting Austria in this scenario is advisable."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Well I did my best here",
+        "input": "My response to AUSTRIA:'Well I did my best here'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Surviving a concerted 2:1 this long is no small feat!  Wish I could\u2019ve been able to help sooner.  For what it\u2019s worth I\u2019m not attacking Italy for now so that they can continue to work together with you to hold E/G off",
+        "input": "Message from AUSTRIA:'Surviving a concerted 2:1 this long is no small feat!  Wish I could\u2019ve been able to help sooner.  For what it\u2019s worth I\u2019m not attacking Italy for now so that they can continue to work together with you to hold E/G off'.If the cicero recommended order for me is: F SPA/SC H, A MUN S A GAL - SIL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from Austria. Their acknowledgment of your efforts and the strategic decision not to attack Italy in order to maintain a coalition against E/G demonstrate a reliable and considerate approach. Austria's continued support and communication align with a cooperative and trustworthy stance, indicating that you can rely on Austria in this context."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Thanks, I have tried my best to break that alliance but to no avail. I do understand that you as Austria and Italy won't be interested in fighting Germany in early game. No hard feelings against anyone, but I do feel like revenging on Germany or England in any way possible.",
+        "input": "My response to AUSTRIA:'Thanks, I have tried my best to break that alliance but to no avail. I do understand that you as Austria and Italy won't be interested in fighting Germany in early game. No hard feelings against anyone, but I do feel like revenging on Germany or England in any way possible.'.",
+        "output": ""
+      }
+    ]
+  }
+]

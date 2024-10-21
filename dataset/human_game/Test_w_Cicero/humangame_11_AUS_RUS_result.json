@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Russia?",
+        "input": "My response to RUSSIA:'How\u2019s it going Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, how's your relationship with Turkey?",
+        "input": "Message from RUSSIA:'Hi Austria, how's your relationship with Turkey?'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust RUSSIA?",
+        "output": "You should not trust the message. There is no reason for Russia to inquire about your relationship with Turkey so early in the game, it seems like a probing question to gain strategic information."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Pretty basic so far, how about you?",
+        "input": "My response to RUSSIA:'Pretty basic so far, how about you?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Ouch, so aggressive",
+        "input": "My response to RUSSIA:'Ouch, so aggressive'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Living for the bounce!",
+        "input": "Message from RUSSIA:'Living for the bounce!'.If the cicero recommended order for me is: A VIE - TRI, F TRI - ALB, A SER - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. The playful tone of the message indicates transparency and a willingness to engage in tactical play, aligning with the concept of bouncing for mutual benefit."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I could say the same thing to you",
+        "input": "Message from RUSSIA:'I could say the same thing to you'.If the cicero recommended order for me is: A VIE - TRI, F TRI - ALB, A SER - BUL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. The response from Russia seems defensive and potentially insincere, indicating a lack of genuine cooperation or positive intent towards you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "How\u2019s that?",
+        "input": "My response to RUSSIA:'How\u2019s that?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "rumania is yours if you want it!",
+        "input": "Message from RUSSIA:'rumania is yours if you want it!'.If the cicero recommended order for me is: A UKR S A BUD - RUM, F ALB S A GRE, A BUD - RUM, A SER S A BUD - RUM. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's offer of giving you control of Rumania aligns with the support they are providing to you in S1901M and F1901M, indicating a genuine willingness to work together."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Sounds good!",
+        "input": "My response to RUSSIA:'Sounds good!'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.",
+        "input": "Message from AUSTRIA:'Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's message aligns with the typical stance of mutual neutrality between Germany and Austria, indicating a likelihood of honesty in their intentions. Additionally, their actions on the board do not contradict their message, further suggesting reliability in their statement."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.",
+        "input": "Message from AUSTRIA:'I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. In the previous conversation, Austria mentioned a stance of mutual neutrality, yet their current message specifically mentions avoiding Tyrolia and Munich, indicating a potential misalignment between their words and actions, leading to a lack of trustworthiness in their intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Keep Tyr and Boh clear and I'm content with mutual neutrality",
+        "input": "My response to AUSTRIA:'Keep Tyr and Boh clear and I'm content with mutual neutrality'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Good to hear. Hope we can persuade Italy to do the same!",
+        "input": "Message from AUSTRIA:'Good to hear. Hope we can persuade Italy to do the same!'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response aligns with your request to keep Tyrolia clear, indicating a willingness to cooperate with your preferences. Their mention of involving Italy in the mutual neutrality further suggests consistency in their intentions, increasing the trustworthiness of their message."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "\ud83d\udc40",
+        "input": "My response to AUSTRIA:'\ud83d\udc40'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.",
+        "input": "Message from AUSTRIA:'Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.'.",
+        "output": "You should not trust the message. Austria's explanation seems like a convenient excuse to justify their actions of potentially taking centers, which could indicate a lack of genuine intention to maintain a neutral stance with you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Yeah, some stuff came up and I missed the first turn. I am playing though.",
+        "input": "My response to AUSTRIA:'Yeah, some stuff came up and I missed the first turn. I am playing though.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "All right good to know. I can back off then",
+        "input": "Message from AUSTRIA:'All right good to know. I can back off then'.",
+        "output": "You should trust the message. Austria's acknowledgment of your explanation and willingness to back off indicates a responsive and understanding attitude, aligning with their earlier commitment to mutual neutrality. Their decision to respect your situation increases the trustworthiness of their message."
+      }
+    ]
+  }
+]

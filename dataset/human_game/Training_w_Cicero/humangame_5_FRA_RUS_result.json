@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.",
+        "input": "My response to RUSSIA:'Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.",
+        "input": "Message from RUSSIA:'I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's response to your message is consistent with maintaining a neutral stance and not revealing any potential alliances or strategies, aligning with your diplomatic approach. Proceed with caution and continue to gather information before making any commitments."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds good. Let me know.",
+        "input": "My response to RUSSIA:'Sounds good. Let me know.'.",
+        "output": ""
+      }
+    ]
+  }
+]

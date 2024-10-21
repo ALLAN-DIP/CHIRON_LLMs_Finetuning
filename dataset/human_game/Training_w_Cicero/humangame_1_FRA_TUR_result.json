@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure",
+        "input": "My response to TURKEY:'Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Well yeah depends on the neighbors",
+        "input": "Message from TURKEY:'Well yeah depends on the neighbors'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their response indicates cautiousness and recognition of the importance of neighbor dynamics, suggesting they are aware of potential threats and are likely being honest in their communication. Proceed with some level of trust, while remaining observant of their actions on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Any additional thoughts after negotiations by any chance?",
+        "input": "My response to TURKEY:'Any additional thoughts after negotiations by any chance?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No not yet everyone seems rather tepid",
+        "input": "Message from TURKEY:'No not yet everyone seems rather tepid'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A BUR S A MUN. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their response indicates that negotiations have been uneventful so far, suggesting a lack of immediate aggression or strong alliances forming against you. Proceed cautiously, but you can lean towards some level of trust in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's true.",
+        "input": "My response to TURKEY:'Yeah, that's true.'.",
+        "output": ""
+      }
+    ]
+  }
+]

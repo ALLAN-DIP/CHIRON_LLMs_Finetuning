@@ -1,0 +1,84 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France",
+        "input": "My response to AUSTRIA:'Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Oh my bad Austria \ud83d\ude33",
+        "input": "My response to AUSTRIA:'Oh my bad Austria \ud83d\ude33'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well, same could go for you ig",
+        "input": "My response to AUSTRIA:'Well, same could go for you ig'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm the same, have heard nothing from Italy.",
+        "input": "Message from AUSTRIA:'I'm the same, have heard nothing from Italy.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response aligns with your previous exchange, indicating a lack of significant communication with Italy. This consistency in communication suggests a genuine sharing of information and potential alignment in interests in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.",
+        "input": "My response to AUSTRIA:'Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42",
+        "input": "Message from AUSTRIA:'I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42'.If the cicero recommended order for me is: A BRE H, A BUR S A BEL, A PAR S A BRE, F POR - MAO. Should I trust AUSTRIA?",
+        "output": "You should trust Austria. Their response indicates awareness of the developing situation, including the alignment of Italy with Russia and the potential collaboration of Turkey and Germany against the threat. Austria's openness about the dynamics suggests a willingness to work together and share information honestly."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b",
+        "input": "My response to AUSTRIA:'Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha",
+        "input": "Message from AUSTRIA:'Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha'.If the cicero recommended order for me is: A BRE H, A BUR S A BEL, A PAR S A BRE, F POR - MAO. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's jesting response and mention of Turkey collaborating with Russia could indicate a level of skepticism or amusement at the difficult situation you are facing, suggesting a lack of genuine support or willingness to collaborate."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "\ud83d\ude08 watch me",
+        "input": "My response to AUSTRIA:'\ud83d\ude08 watch me'.",
+        "output": ""
+      }
+    ]
+  }
+]

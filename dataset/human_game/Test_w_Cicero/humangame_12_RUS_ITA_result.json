@@ -1,0 +1,75 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy! How\u2019s it going?!",
+        "input": "My response to ITALY:'Hey Italy! How\u2019s it going?!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey hey, what can I say?",
+        "input": "Message from ITALY:'Hey hey, what can I say?'.If the cicero recommended order for me is: F STP/SC - FIN, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should trust the message. The response from Italy aligns with your tone and content, indicating a friendly interaction. Since there are no apparent discrepancies or signs of deceit, it seems safe to trust Italy based on this exchange."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hahha what\u2019s good?",
+        "input": "My response to ITALY:'Hahha what\u2019s good?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To crush your enemies, see them driven before you, and hear the lamentations of their women",
+        "input": "Message from ITALY:'To crush your enemies, see them driven before you, and hear the lamentations of their women'.If the cicero recommended order for me is: F BOT - STP/SC, A WAR - MOS, A UKR - SEV. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response echoes the aggressive tone of your message, indicating a shared understanding and potential willingness to work towards common goals. It appears safe to trust Italy based on this promising interaction."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hahahah that\u2019s the spirit sir!",
+        "input": "My response to ITALY:'Hahahah that\u2019s the spirit sir!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Hey Italy - what\u2019s good?",
+        "input": "My response to ITALY:'Hey Italy - what\u2019s good?'.",
+        "output": ""
+      }
+    ]
+  }
+]

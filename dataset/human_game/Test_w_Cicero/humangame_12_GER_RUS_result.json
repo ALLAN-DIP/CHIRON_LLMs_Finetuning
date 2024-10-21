@@ -1,0 +1,70 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! How\u2019s it going? Looking forward to a fun game!",
+        "input": "Message from RUSSIA:'Hey Germany! How\u2019s it going? Looking forward to a fun game!'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. The conversation is friendly and non-committal, which is typical for the early stages of Diplomacy. It doesn't raise any immediate red flags or suggest any deceitful intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together",
+        "input": "My response to RUSSIA:'Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work",
+        "input": "Message from RUSSIA:'Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work'.",
+        "output": "You should trust the message. It's plausible for a player to be busy and fall behind - it could genuinely be the reason for the delayed response. Since there hasn't been any previous indication of deceitful behavior, it's reasonable to trust Russia's explanation for the delay."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol",
+        "input": "Message from RUSSIA:'But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol'.",
+        "output": "You should not trust the message. Russia's comment can be interpreted as subtly insincere or patronizing, possibly hinting at an ulterior motive or attempting to manipulate your feelings about the situation. Proceed with caution and keep an eye on Russia's actions in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.",
+        "input": "My response to RUSSIA:'To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Haha word",
+        "input": "Message from RUSSIA:'Haha word'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response, 'Haha word,' is dismissive and lacks engagement or meaningful interaction. It might indicate a lack of interest in building a solid relationship or coordinating plans with you."
+      }
+    ]
+  }
+]

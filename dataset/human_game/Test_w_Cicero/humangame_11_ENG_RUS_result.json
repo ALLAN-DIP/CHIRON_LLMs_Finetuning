@@ -1,0 +1,123 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia, we should discuss Scandinavia and Germany.  I think that's where we will be overlapping.  Have you decided where you stand with germany?",
+        "input": "My response to RUSSIA:'Hello Russia, we should discuss Scandinavia and Germany.  I think that's where we will be overlapping.  Have you decided where you stand with germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi England - We are friendly right now, trying to figure out where they're headed. Can we split Sweden and Norway up North and leave it at a truce for now?",
+        "input": "Message from RUSSIA:'Hi England - We are friendly right now, trying to figure out where they're headed. Can we split Sweden and Norway up North and leave it at a truce for now?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's proposal aligns with your strategic positioning to split Scandinavia peacefully, indicating a willingness to collaborate and a shared understanding of mutual benefits in the region."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "it seems germany and France are teaming up against me.  Do you think we can work together against Germany?",
+        "input": "My response to RUSSIA:'it seems germany and France are teaming up against me.  Do you think we can work together against Germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I don't know, 2 fleets east seems pretty hostile to Russia to me!!",
+        "input": "Message from RUSSIA:'I don't know, 2 fleets east seems pretty hostile to Russia to me!!'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH - LON, F NWG C A EDI - NWY. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia expressing concern about the potential threat posed by two fleets in the east shows an awareness of your strategic moves, indicating honesty and a cautious approach towards future collaborations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well if it makes you feel any better I\u2019ll be using a fleet to take Norway and my second fleet is covering London.",
+        "input": "My response to RUSSIA:'Well if it makes you feel any better I\u2019ll be using a fleet to take Norway and my second fleet is covering London.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well",
+        "input": "Message from RUSSIA:'perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well'.If the cicero recommended order for me is: A EDI - NWY VIA, F NTH - LON, F NWG C A EDI - NWY. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's alignment with your proposed strategy for splitting up Norway and Sweden and willingness to cooperate against common enemies signals a genuine commitment to working together and indicates a reliable alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Great to hear",
+        "input": "My response to RUSSIA:'Great to hear'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "What\u2019s with the hold in barents???",
+        "input": "My response to RUSSIA:'What\u2019s with the hold in barents???'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "can you not support germany in sweden this round?",
+        "input": "Message from RUSSIA:'can you not support germany in sweden this round?'.If the cicero recommended order for me is: A YOR - WAL, F LON - ENG, F NTH S F LON - ENG, F NWY S A FIN - SWE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's request regarding Germany's position in Sweden appears to be an attempt to manipulate your actions and potentially divert your focus away from other strategic objectives, indicating a self-serving agenda and potential untrustworthiness."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Id plan to move army, so its not going anywhere once it gets there",
+        "input": "Message from RUSSIA:'Id plan to move army, so its not going anywhere once it gets there'.If the cicero recommended order for me is: A YOR - WAL, F LON - ENG, F NTH S F LON - ENG, F NWY S A FIN - SWE. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's explanation of their plan to move an army to Sweden aligns with your strategic moves, indicating a shared understanding and potential for cooperation, suggesting reliability in their communication."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yeah but you could have supported me into Denmark. We are both in bad positions right now. We need to work together better.",
+        "input": "My response to RUSSIA:'Yeah but you could have supported me into Denmark. We are both in bad positions right now. We need to work together better.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "sure thing, but you're the one whose been supporting germany up until now...",
+        "input": "Message from RUSSIA:'sure thing, but you're the one whose been supporting germany up until now...'.",
+        "output": "You should not trust the message. Russia's reminder about your support for Germany may indicate a sense of distrust or manipulation, suggesting a potential attempt to shift blame or sow discord between your powers, which could undermine the existing cooperation."
+      }
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello, Austria.  \nLook, I'd love to be besties and all that, and maybe we'll get there.  But for now can I assume that we both have bigger fish to fry, and that we both know that attacking each other early will mean mutually assured destruction?\n\nI'm open to a non-aggression pact, possibly with sharing information, natirally.  Outside of that, let me know what's on your mind and we'll go from there.\n\nBest,\n\n- Kaiser",
+        "input": "My response to AUSTRIA:'Hello, Austria.  \nLook, I'd love to be besties and all that, and maybe we'll get there.  But for now can I assume that we both have bigger fish to fry, and that we both know that attacking each other early will mean mutually assured destruction?\n\nI'm open to a non-aggression pact, possibly with sharing information, natirally.  Outside of that, let me know what's on your mind and we'll go from there.\n\nBest,\n\n- Kaiser'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "No thoughts on the start of the game?  Any information I can share, or vice-versa?\n\nYou're pretty quiet down there...",
+        "input": "My response to AUSTRIA:'No thoughts on the start of the game?  Any information I can share, or vice-versa?\n\nYou're pretty quiet down there...'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I actually thought I'd responded sorry. I don't know why we can't be best friends. Germany does well then Austria can do well and vice versa. Not much from.my neighbours. You got anything from Italy?",
+        "input": "Message from AUSTRIA:'I actually thought I'd responded sorry. I don't know why we can't be best friends. Germany does well then Austria can do well and vice versa. Not much from.my neighbours. You got anything from Italy?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. Despite their friendly tone and suggestion of forming a strong bond, their sudden interest in your relationship and lack of substantial strategic content in their messages may indicate a possible attempt to divert your attention while pursuing their own agenda."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Nothing from you or Italy until now.  You'll be shocked to learn that Turkey mused about how much he loves to play Germany and open to Tyrolia.  \ud83d\ude02\n\nCan't blame a guy for trying, I guess!\n\nAnyway, for now I'm good with a short pact to stay out of Tyrolia (unless you've planned a bounce with Italy or something, but that would be weird ). Maybe limit it to 1901 for now?  I don't have any plans in that neighborhood, but I don't want to bind your hands if something comes up with Russia or Italy.",
+        "input": "My response to AUSTRIA:'Nothing from you or Italy until now.  You'll be shocked to learn that Turkey mused about how much he loves to play Germany and open to Tyrolia.  \ud83d\ude02\n\nCan't blame a guy for trying, I guess!\n\nAnyway, for now I'm good with a short pact to stay out of Tyrolia (unless you've planned a bounce with Italy or something, but that would be weird ). Maybe limit it to 1901 for now?  I don't have any plans in that neighborhood, but I don't want to bind your hands if something comes up with Russia or Italy.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Tyr 1901 for me would be pretty crazy and no I don't plan for it so I'm happy to agree to it. I've got nothing from Italy either so I'll just have to play defensively there. Russia seems to be interested in opening north",
+        "input": "Message from AUSTRIA:'Tyr 1901 for me would be pretty crazy and no I don't plan for it so I'm happy to agree to it. I've got nothing from Italy either so I'll just have to play defensively there. Russia seems to be interested in opening north'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their consistent stance towards maintaining a non-aggression pact aligns with their previous communication, showing a clear commitment to the agreed-upon terms and a genuine desire to work collaboratively."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I wish I could say \"what can I do to help you,\" but I have nothing in range.\n\nWhat I am doing is sowing some seeds of doubt with Italy - floating the idea that Russia and Turkey are working together, and backhandedly noting how bad it will be for him if they are, and they wipe you out quickly.\n\nYou have a best probabilistic set of moves, but the best you can realistically hope for is maybe 1 build if you go +Greece, +Serbia, -Trieste.  Maybe.\n\nIf I were you, I'd reach out to Italy.  Suggest that he take Tunis, and instead of forcing him out of Trieste, you'll take Greece and move on.  Tell him you're going to move to Trieste because it's your best move.  It is.  Request that he move to Vienna, because that's Russia's best move (it is) and you want to prevent him from getting another build.\n\nYou'd move Bud-Tri, and Ser S Alb-Gre.",
+        "input": "My response to AUSTRIA:'I wish I could say \"what can I do to help you,\" but I have nothing in range.\n\nWhat I am doing is sowing some seeds of doubt with Italy - floating the idea that Russia and Turkey are working together, and backhandedly noting how bad it will be for him if they are, and they wipe you out quickly.\n\nYou have a best probabilistic set of moves, but the best you can realistically hope for is maybe 1 build if you go +Greece, +Serbia, -Trieste.  Maybe.\n\nIf I were you, I'd reach out to Italy.  Suggest that he take Tunis, and instead of forcing him out of Trieste, you'll take Greece and move on.  Tell him you're going to move to Trieste because it's your best move.  It is.  Request that he move to Vienna, because that's Russia's best move (it is) and you want to prevent him from getting another build.\n\nYou'd move Bud-Tri, and Ser S Alb-Gre.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Scenario 1: Italy agrees.\n1a) Italy moves to Vienna, Russia moves to Vienna, Ukraine moves to Galacia.  None of those moves work and, unless Turkey and Italy are working together (or Turkey inexplicably moves Bul-Ser) you get Greece and build in Vienna.\n\n1b) Italy moves to Vienna, Russia to Budapest.  You're in the same position, but losing Budapest instead of Trieste.\n\nScenario 2: Double-cross, and Italy thinks you're lying:\n2a) Italy moves to Tri-Budapest and Venice-Trieste.  Russia gets Vienna if it moves there, nothing if to Budapest.\n2b) Ven S Tri H, F ION - Alb (He thinks you're going to support yourself back into Vienna). You get Greece, Russia gets Vienna if it moves there, nothing if it moves to Budapest.\n2c) Tri-Bud, Ven-Tyr - bounces.",
+        "input": "My response to AUSTRIA:'Scenario 1: Italy agrees.\n1a) Italy moves to Vienna, Russia moves to Vienna, Ukraine moves to Galacia.  None of those moves work and, unless Turkey and Italy are working together (or Turkey inexplicably moves Bul-Ser) you get Greece and build in Vienna.\n\n1b) Italy moves to Vienna, Russia to Budapest.  You're in the same position, but losing Budapest instead of Trieste.\n\nScenario 2: Double-cross, and Italy thinks you're lying:\n2a) Italy moves to Tri-Budapest and Venice-Trieste.  Russia gets Vienna if it moves there, nothing if to Budapest.\n2b) Ven S Tri H, F ION - Alb (He thinks you're going to support yourself back into Vienna). You get Greece, Russia gets Vienna if it moves there, nothing if it moves to Budapest.\n2c) Tri-Bud, Ven-Tyr - bounces.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Scenario 3: Double cross, Italy believes you.\n3a) Tri holds, support from Venice (thought you were truthful about Bud-Tri, but left out that you were supporting yourself.  That would be incredibly stupid on your part, with Russia at your back and intentionally antagonizing Italy.  Here again, it comes down to whether Russia moves to Vienna or Budapest.)\n3b) Ion-Gre, Tri-Vie, Ven-Tyr (he won't go to Trieste if he thinks you're moving there, because a bounce is as good as taking it). You still take Greece.  You end up in Trieste.  You keep all 3 home centers if Russia goes to Vienna (and +2!) or lose Budapest if he goes there (+1).\n\nNote: if Italy is coordinating with Russia or Turkey, all this is out the window.  But in that case you're hosed no matter what.\n\nHow's that for more input than you wanted?  Sorry about that.  Anyway, rough open!  Good luck on the recovery - even selfishly, you getting beat up early is nothing but bad news for me!",
+        "input": "My response to AUSTRIA:'Scenario 3: Double cross, Italy believes you.\n3a) Tri holds, support from Venice (thought you were truthful about Bud-Tri, but left out that you were supporting yourself.  That would be incredibly stupid on your part, with Russia at your back and intentionally antagonizing Italy.  Here again, it comes down to whether Russia moves to Vienna or Budapest.)\n3b) Ion-Gre, Tri-Vie, Ven-Tyr (he won't go to Trieste if he thinks you're moving there, because a bounce is as good as taking it). You still take Greece.  You end up in Trieste.  You keep all 3 home centers if Russia goes to Vienna (and +2!) or lose Budapest if he goes there (+1).\n\nNote: if Italy is coordinating with Russia or Turkey, all this is out the window.  But in that case you're hosed no matter what.\n\nHow's that for more input than you wanted?  Sorry about that.  Anyway, rough open!  Good luck on the recovery - even selfishly, you getting beat up early is nothing but bad news for me!'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I really am sorry about that spam.  I started thinking about your situation, playing it forward, and taking a couple notes, and then...\n\nI guess at a certain point it just seemed like a shame to waste it.\n\n\ud83e\udd7a",
+        "input": "My response to AUSTRIA:'I really am sorry about that spam.  I started thinking about your situation, playing it forward, and taking a couple notes, and then...\n\nI guess at a certain point it just seemed like a shame to waste it.\n\n\ud83e\udd7a'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Haha no worries. My fault really. Russia tells me this grand plan of going North. Throws in a weird move in his plan with Warsaw and I respond with the thumbs down, you're lying on all fronts. But then I don't play the appropriate moves to back it up. I heard nothing from Italy so assumed he'd open standard. Should've just hedgehogged but I like getting a fast start with Austria. Anyway, Russia is probably working with Italy. Still haven't heard back from them at all. At least Eng / Fra don't look friendly for you but you're going to have Russian problems pretty quickly.",
+        "input": "Message from AUSTRIA:'Haha no worries. My fault really. Russia tells me this grand plan of going North. Throws in a weird move in his plan with Warsaw and I respond with the thumbs down, you're lying on all fronts. But then I don't play the appropriate moves to back it up. I heard nothing from Italy so assumed he'd open standard. Should've just hedgehogged but I like getting a fast start with Austria. Anyway, Russia is probably working with Italy. Still haven't heard back from them at all. At least Eng / Fra don't look friendly for you but you're going to have Russian problems pretty quickly.'.If the cicero recommended order for me is: F HOL S A RUH - BEL, A RUH - BEL, A MUN - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their detailed explanation of their interactions with Russia and their strategic insights into the situation demonstrate a clear effort to keep you informed and work collaboratively. Their transparency about their potential missteps and their observations about the dynamics within the game indicate a genuine attempt to build trust and share valuable information with you."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Still nothing from Italy, and Russia can't build in Warsaw without breaking his NAP.  You really need to be working with Turkey - I told him the same thing.  I can put pressure on Italy by pressuring France.\n\nBut look, for transparency: if you're sunk, and I'm in position... I'm interested in eating your centers.  I won't do it unless and until you're ready to call it, though.",
+        "input": "My response to AUSTRIA:'Still nothing from Italy, and Russia can't build in Warsaw without breaking his NAP.  You really need to be working with Turkey - I told him the same thing.  I can put pressure on Italy by pressuring France.\n\nBut look, for transparency: if you're sunk, and I'm in position... I'm interested in eating your centers.  I won't do it unless and until you're ready to call it, though.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "When you're thinking about your moves, plan on me moving to Tyrolia.  Unless he supports himself in (unlikely) I'll either bounce him or be there in the fall.  If you want to brainstorm on moves (and I can do the same with Turkey) let me know.\n\nIf you're not sure if you can trust me, consider - if you go down early, I'm sunk.  Yes, I want to be involved so I'll be in position to gobble you up so that Russia can't.  But for what it's worth I promise I will help you unless you think it's hopeless.",
+        "input": "My response to AUSTRIA:'When you're thinking about your moves, plan on me moving to Tyrolia.  Unless he supports himself in (unlikely) I'll either bounce him or be there in the fall.  If you want to brainstorm on moves (and I can do the same with Turkey) let me know.\n\nIf you're not sure if you can trust me, consider - if you go down early, I'm sunk.  Yes, I want to be involved so I'll be in position to gobble you up so that Russia can't.  But for what it's worth I promise I will help you unless you think it's hopeless.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "...and I'll be transparent about it either way.",
+        "input": "My response to AUSTRIA:'...and I'll be transparent about it either way.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Looks like the Cossack bit off more than he can chew.  He should be either -1 or -2 in the South this year.  From what I can see, you & Turkey can lose the guessing game with any move set except one.\n\nAny way I can help?",
+        "input": "My response to AUSTRIA:'Looks like the Cossack bit off more than he can chew.  He should be either -1 or -2 in the South this year.  From what I can see, you & Turkey can lose the guessing game with any move set except one.\n\nAny way I can help?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "To both Austria and Turkey...\n\nIn case you want to play with it, here's the sandbox:  https://www.backstabbr.com/sandbox/5637073032183808\n\nI can't solve it.  Here's what I know:\n1) we have to assume Italy is working with Russia.  So my Tyr-Tri is a lock.\n2) we have to assume that Russia takes Ankara.\n3) Barring very unusual moves, the only place we can possibly Rumania from is Budapest.  Exception to this is a sneaky Rum-Bul move, but that's unlikely.\n4) *Almost* sure that Vienna has to hit Galacia, but depending on other moves supporting Budapest is almost as good.",
+        "input": "My response to AUSTRIA:'To both Austria and Turkey...\n\nIn case you want to play with it, here's the sandbox:  https://www.backstabbr.com/sandbox/5637073032183808\n\nI can't solve it.  Here's what I know:\n1) we have to assume Italy is working with Russia.  So my Tyr-Tri is a lock.\n2) we have to assume that Russia takes Ankara.\n3) Barring very unusual moves, the only place we can possibly Rumania from is Budapest.  Exception to this is a sneaky Rum-Bul move, but that's unlikely.\n4) *Almost* sure that Vienna has to hit Galacia, but depending on other moves supporting Budapest is almost as good.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Russia is friendly with Turkey now too so we can't assume ank falls although likely considering how Russia is playing.",
+        "input": "Message from AUSTRIA:'Russia is friendly with Turkey now too so we can't assume ank falls although likely considering how Russia is playing.'.If the cicero recommended order for me is: F HEL - DEN, A RUH - MUN, F BAL - SWE, A KIE S F HEL - DEN, A TYR - BOH. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. Their mention of Russia being friendly with Turkey after previously stating concerns about Russia and Italy working together raises doubts about their consistency and reliability. It's important to remain cautious and consider alternative scenarios as their shifting alliances could impact your strategic decisions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Their play has been very weird indeed.  It looked like a classic pretend stab, then a real one, then the double support last season.  But it looked the last turn was you and Turkey working together and him getting fed up with the Russo-Turkish mess.\n\nI'll be more careful, though.",
+        "input": "My response to AUSTRIA:'Their play has been very weird indeed.  It looked like a classic pretend stab, then a real one, then the double support last season.  But it looked the last turn was you and Turkey working together and him getting fed up with the Russo-Turkish mess.\n\nI'll be more careful, though.'.",
+        "output": ""
+      }
+    ]
+  }
+]

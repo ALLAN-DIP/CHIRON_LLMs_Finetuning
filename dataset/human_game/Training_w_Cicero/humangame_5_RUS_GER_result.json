@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! Got any thoughts about Sweden?",
+        "input": "My response to GERMANY:'Hey Germany! Got any thoughts about Sweden?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I do, but I'm curious as to what you'd suggest.",
+        "input": "Message from GERMANY:'I do, but I'm curious as to what you'd suggest.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's response seeking your suggestion about Sweden could be a tactic to extract information about your strategic intentions in the region, potentially to exploit it in their favor in future moves. Their curiosity might not be genuine and could indicate a hidden agenda."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.",
+        "input": "My response to GERMANY:'Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "Message from GERMANY:'I'm in'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's agreement to the proposed alliance and strategic reasoning aligns with the potential benefits of a Russia-Germany partnership. Their acknowledgment of Russia's vulnerability and a shared interest in mutual growth indicate their commitment to working together for joint success."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Just stay out of pru and sil unless you give me some heads up",
+        "input": "Message from GERMANY:'Just stay out of pru and sil unless you give me some heads up'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's request for you to stay out of Prussia and Silesia, while conditional on prior notification, may indicate a level of distrust or desire to control your movements in the region. Proceed with caution and ensure mutual communication to prevent misunderstandings."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "You got it.",
+        "input": "My response to GERMANY:'You got it.'.",
+        "output": ""
+      }
+    ]
+  }
+]

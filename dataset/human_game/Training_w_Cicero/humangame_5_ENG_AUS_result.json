@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "England, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.",
+        "input": "Message from AUSTRIA:'England, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust AUSTRIA?",
+        "output": "You should trust the message. AUSTRIA's message shows a diplomatic approach by acknowledging the early stage of the game and expressing a desire for mutual information-sharing, indicating a potential basis for collaboration and trust-building in future interactions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Agreed, but I would also be happy to",
+        "input": "My response to AUSTRIA:'Agreed, but I would also be happy to'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Good to hear. Awaiting messages from Russia who I imagine is the most important player that we both need to deal with.",
+        "input": "Message from AUSTRIA:'Good to hear. Awaiting messages from Russia who I imagine is the most important player that we both need to deal with.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust AUSTRIA?",
+        "output": "You should trust the message. AUSTRIA's message displays a shared understanding of the strategic importance of Russia in the game, indicating a potential alignment in priorities and a willingness to work together towards common goals, which aligns well with your diplomatic approach."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "So far, they've promised me they're not going for a Juggernaut, but pretty much every Russia would say that",
+        "input": "My response to AUSTRIA:'So far, they've promised me they're not going for a Juggernaut, but pretty much every Russia would say that'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "They also told me they wanted to go after Turkey early; have you heard anything about that? Cuz if not, I'd have to think he's being sneaky ya",
+        "input": "My response to AUSTRIA:'They also told me they wanted to go after Turkey early; have you heard anything about that? Cuz if not, I'd have to think he's being sneaky ya'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Russia said the same to me",
+        "input": "Message from AUSTRIA:'Russia said the same to me'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust AUSTRIA?",
+        "output": "You should trust the message. AUSTRIA's response reaffirms the information you shared about Russia, indicating transparency and consistency in their communication with you, suggesting a potential alignment in the information being exchanged and a basis for further collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Ah ok, that's a bit reassuring at least",
+        "input": "My response to AUSTRIA:'Ah ok, that's a bit reassuring at least'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "Just a heads up I'll be moving to Mun again, so we'll end up bouncing if you go for it",
+        "input": "My response to AUSTRIA:'Just a heads up I'll be moving to Mun again, so we'll end up bouncing if you go for it'.",
+        "output": ""
+      }
+    ]
+  }
+]

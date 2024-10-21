@@ -1,0 +1,49 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Hey Germany, looks like you missed the first turn but what are you plans for the future?",
+        "input": "My response to GERMANY:'Hey Germany, looks like you missed the first turn but what are you plans for the future?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'm not on good odds with Russia at this point so wouldn't mind working together against them",
+        "input": "My response to GERMANY:'I'm not on good odds with Russia at this point so wouldn't mind working together against them'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game",
+        "input": "Message from GERMANY:'IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game'.If the cicero recommended order for me is: F ANK - BLA, A SMY - ANK, A BUL - RUM, F CON S F ANK - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message from GERMANY. Their uncertainty about their chances and willingness to potentially work together if they survive indicates a level of honesty and openness in their communication. It could be advantageous to establish a cooperative relationship while also keeping an eye on potential developments in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure, though I can see that is a big if at the moment!",
+        "input": "My response to GERMANY:'Sure, though I can see that is a big if at the moment!'.",
+        "output": ""
+      }
+    ]
+  }
+]

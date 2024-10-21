@@ -1,0 +1,83 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Austria! How\u2019s it going? Looking forward to a fun game!",
+        "input": "Message from RUSSIA:'Hey Austria! How\u2019s it going? Looking forward to a fun game!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust RUSSIA?",
+        "output": "You should not trust the message from RUSSIA. Their friendly tone could be a tactic to gain your trust while potentially planning moves against you. Be cautious and prioritize your own strategic interests."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?",
+        "input": "My response to RUSSIA:'As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?",
+        "input": "My response to RUSSIA:'Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again",
+        "input": "Message from RUSSIA:'I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again'.",
+        "output": "You should not trust the message from RUSSIA. Despite their explanation for the delay, their lack of commitment or concrete plans may indicate they are not fully dedicated to collaboration and could be using excuses to buy time or deceive you. Be cautious and prioritize your own strategic interests."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "All good. :)",
+        "input": "My response to RUSSIA:'All good. :)'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "What\u2019s up Austria?",
+        "input": "Message from RUSSIA:'What\u2019s up Austria?'.If the cicero recommended order for me is: A TYR - VEN, A TRI S A TYR - VEN, F GRE - BUL/SC, A BUD - VIE, A SER S F GRE - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message from RUSSIA. The casual tone of their message aligns with previous interactions, indicating they may genuinely be seeking communication and cooperation. Additionally, their proposed moves show a consistency with potential collaboration."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Feeling good, I think things are going well.",
+        "input": "My response to RUSSIA:'Feeling good, I think things are going well.'.",
+        "output": ""
+      }
+    ]
+  }
+]

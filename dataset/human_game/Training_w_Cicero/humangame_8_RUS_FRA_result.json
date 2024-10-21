@@ -1,0 +1,180 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "We come from France.  No, wait, *you* come from France.\nHey there - just don't forget to keep me in the loop if there ends up being something we can collude on.",
+        "input": "My response to FRANCE:'We come from France.  No, wait, *you* come from France.\nHey there - just don't forget to keep me in the loop if there ends up being something we can collude on.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I will, and same to you: don\u2019t be a stranger \ud83d\ude42",
+        "input": "Message from FRANCE:'I will, and same to you: don\u2019t be a stranger \ud83d\ude42'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. The friendly tone in the current message from France aligns with their previous message, indicating a willingness to collaborate moving forward."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "lol - man, I made the comment to Turkey that the Italian would probably go ahead and dive for Smy because it was low-risk and even having to turn around and deal with you the chance of an extra unit would be helpful, but I didn't think the poor bastard would actually move his army to the corner of the board out of the way, given your positioning.  Wow.  I dunno what you said to him, but he *really* misread that position",
+        "input": "My response to FRANCE:'lol - man, I made the comment to Turkey that the Italian would probably go ahead and dive for Smy because it was low-risk and even having to turn around and deal with you the chance of an extra unit would be helpful, but I didn't think the poor bastard would actually move his army to the corner of the board out of the way, given your positioning.  Wow.  I dunno what you said to him, but he *really* misread that position'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Haha italy must be some kinda optimist because i said *nothing* to them!\n...I\u2019ll be honest with you, I advised Turkey to try and snatch sevastopol, and I had you slated to lose at least one dot! How you got England to help you in the north and turkey on your side is an impressive mystery to me. I\u2019d ask if you wanted to be allies but it\u2019s clear you have your pick",
+        "input": "Message from FRANCE:'Haha italy must be some kinda optimist because i said *nothing* to them!\n...I\u2019ll be honest with you, I advised Turkey to try and snatch sevastopol, and I had you slated to lose at least one dot! How you got England to help you in the north and turkey on your side is an impressive mystery to me. I\u2019d ask if you wanted to be allies but it\u2019s clear you have your pick'.If the cicero recommended order for me is: A STP - LVN, F BOT - SWE, F SEV S A RUM, A UKR - WAR, A GAL - BUD, A VIE S A GAL - BUD. Should I trust FRANCE?",
+        "output": "You should not trust the message. The contradictory nature of advising Turkey to attack you while expressing surprise at your successful alliances indicates a lack of transparency and potential duplicity in France's intentions."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "You can never have too many friends. \ud83d\ude04",
+        "input": "My response to FRANCE:'You can never have too many friends. \ud83d\ude04'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "OMG that Mediterranean position. That's just gross.",
+        "input": "My response to FRANCE:'OMG that Mediterranean position. That's just gross.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Right?! I thought for sure Italy\u2019d try to defend more!",
+        "input": "Message from FRANCE:'Right?! I thought for sure Italy\u2019d try to defend more!'.If the cicero recommended order for me is: A LVN - PRU, F STP/SC - BOT, A WAR - SIL, A GAL - VIE, A BUD S A GAL - VIE. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response to your comment aligns with the current board situation and shows a shared understanding of the game dynamics, indicating a level of honesty in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "It\u2019s kind of a mess in the east rn. Is anyone helping austria defend, as far as you know?",
+        "input": "Message from FRANCE:'It\u2019s kind of a mess in the east rn. Is anyone helping austria defend, as far as you know?'.If the cicero recommended order for me is: A LVN - PRU, F STP/SC - BOT, A WAR - SIL, A GAL - VIE, A BUD S A GAL - VIE. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's inquiry about Austria's defense without mentioning their own actions or intentions in the region raises suspicion about their true motives and potential plans to exploit the situation in the east."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "I kinda half expect Italy to try and help him, seeing as he's not that interested in Italy.",
+        "input": "My response to FRANCE:'I kinda half expect Italy to try and help him, seeing as he's not that interested in Italy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Go to hell. Or, Hel, rather. It'll be fun. \ud83d\ude03",
+        "input": "My response to FRANCE:'Go to hell. Or, Hel, rather. It'll be fun. \ud83d\ude03'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Mmm wouldn\u2019t it be convenient for you if Germany had their hands full",
+        "input": "Message from FRANCE:'Mmm wouldn\u2019t it be convenient for you if Germany had their hands full'.If the cicero recommended order for me is: A LVN - PRU, F STP/SC H, A WAR - SIL, A GAL - VIE, A BUD - TRI. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's comment insinuates a potential collaboration between you and Germany against them, possibly hinting at strategies to deter you from taking action against them."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Wouldn't it, though?  Mainly it would just be entertaining",
+        "input": "My response to FRANCE:'Wouldn't it, though?  Mainly it would just be entertaining'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1909M",
+        "message": "We ending this with a three way or four way?",
+        "input": "My response to FRANCE:'We ending this with a three way or four way?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1909M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1909M",
+        "message": "Please get into skagerrak and remove that last German unit before the game ends this year",
+        "input": "My response to FRANCE:'Please get into skagerrak and remove that last German unit before the game ends this year'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1910M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1910M",
+        "message": "Perfect. Finland will support skagerrak to Sweden.",
+        "input": "My response to FRANCE:'Perfect. Finland will support skagerrak to Sweden.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "Hi Russia--so sorry my phone stopped sending me discord notifications for no apparent reason. I just placed an order accordingly.",
+        "input": "Message from FRANCE:'Hi Russia--so sorry my phone stopped sending me discord notifications for no apparent reason. I just placed an order accordingly.'.If the cicero recommended order for me is: F HEL S A KIE - DEN, A KIE - DEN, A FIN S A STP - NWY, A STP - NWY, A MUN - KIE, A BER S A MUN - KIE, A LVN - STP, A PRU - SIL, A PIE S A ROM - TUS, A SIL - MUN. Should I trust FRANCE?",
+        "output": "You should trust the message. France's explanation about the issue with their notification settings and their prompt action following your latest move indicates reliability and a genuine effort to communicate effectively."
+      }
+    ]
+  }
+]

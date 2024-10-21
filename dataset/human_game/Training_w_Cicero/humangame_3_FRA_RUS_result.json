@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France! I'll let you know if I hear anything you want to know about the way the board is shaping up, I hope you'll do the same. \ud83d\ude03",
+        "input": "Message from RUSSIA:'Hi France! I'll let you know if I hear anything you want to know about the way the board is shaping up, I hope you'll do the same. \ud83d\ude03'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's response is friendly and open, consistent with the positive tone of your conversation, indicating a willingness to cooperate and share information."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Always, my czarist friend.  Just starting to touch base with people, so nothing much of interest yet.",
+        "input": "My response to RUSSIA:'Always, my czarist friend.  Just starting to touch base with people, so nothing much of interest yet.'.",
+        "output": ""
+      }
+    ]
+  }
+]

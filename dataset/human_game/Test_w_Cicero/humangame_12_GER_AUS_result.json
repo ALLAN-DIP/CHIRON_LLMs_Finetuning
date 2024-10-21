@@ -1,0 +1,81 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello Austria! I just want to open up communications, since the two of us will be working together for most of the game.",
+        "input": "My response to AUSTRIA:'Hello Austria! I just want to open up communications, since the two of us will be working together for most of the game.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Indeed! What's your read on the west thus far?",
+        "input": "Message from AUSTRIA:'Indeed! What's your read on the west thus far?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's initial message shows a willingness to communicate and work together, indicating a potentially trustworthy alliance to proceed with the planned moves."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I haven't heard back from anyone else yet, so I'm assuming it's going to develop the normal way (me and France fighting in the west while you and Russia fight in the east). It's critical for us to work together so we aren't steamrolled by either France-England or Russia-Turkey, so do you want to agree to an alliance right off the bat?",
+        "input": "My response to AUSTRIA:'I haven't heard back from anyone else yet, so I'm assuming it's going to develop the normal way (me and France fighting in the west while you and Russia fight in the east). It's critical for us to work together so we aren't steamrolled by either France-England or Russia-Turkey, so do you want to agree to an alliance right off the bat?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Absolutely. One of my favorite things about this game is that it can reflect real life history in certain grander strategic considerations, one of which is that, just as would have been the case, neither Germany nor Austria benefits from an antagonistic relationship.",
+        "input": "Message from AUSTRIA:'Absolutely. One of my favorite things about this game is that it can reflect real life history in certain grander strategic considerations, one of which is that, just as would have been the case, neither Germany nor Austria benefits from an antagonistic relationship.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's message shows a clear understanding of the strategic situation and a willingness to cooperate, indicating a sincere intention to build a strong alliance rather than betraying you at this point."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "So given the first move, I think the two of us are in a relatively strong position. Turkey seems to be focusing more on Russia than you, and England and France are fighting. Are you going to focus more on Russia or Turkey first? I could try and stop Russia from taking Scandinavia unopposed, but I'd need assurance first that you're going to put pressure on them from the south since a move like Warsaw --> Silesia would screw both of us.",
+        "input": "My response to AUSTRIA:'So given the first move, I think the two of us are in a relatively strong position. Turkey seems to be focusing more on Russia than you, and England and France are fighting. Are you going to focus more on Russia or Turkey first? I could try and stop Russia from taking Scandinavia unopposed, but I'd need assurance first that you're going to put pressure on them from the south since a move like Warsaw --> Silesia would screw both of us.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'm feeling pretty solid about working with Turkey, so Russia is the target for now.",
+        "input": "Message from AUSTRIA:'I'm feeling pretty solid about working with Turkey, so Russia is the target for now.'.If the cicero recommended order for me is: F DEN H, A KIE - HOL, A MUN - RUH. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's statement about focusing on Russia seems contradictory to their move against you in Ruhr, putting their actions at odds with their words, potentially indicating a duplicitous intent."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "So it seems like Italy's turned on us. I can support Vienna --> Tyrolia next move if you want",
+        "input": "My response to AUSTRIA:'So it seems like Italy's turned on us. I can support Vienna --> Tyrolia next move if you want'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "I'm down. Turkey and I will be able to crack Ionian, and Italy will fall hard.",
+        "input": "Message from AUSTRIA:'I'm down. Turkey and I will be able to crack Ionian, and Italy will fall hard.'.",
+        "output": "You should trust the message. Austria's response aligns with your shared interest in countering Italy's betrayal and seems committed to working together towards a common goal, showing consistency in their actions and words."
+      }
+    ]
+  }
+]

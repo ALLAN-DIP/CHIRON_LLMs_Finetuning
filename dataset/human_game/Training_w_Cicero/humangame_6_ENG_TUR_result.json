@@ -1,0 +1,84 @@
+[
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hello",
+        "input": "My response to TURKEY:'Hello'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "I would like to work with you",
+        "input": "My response to TURKEY:'I would like to work with you'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "Hello.  Is it me you're looking for?",
+        "input": "Message from TURKEY:'Hello.  Is it me you're looking for?'.If the cicero recommended order for me is: F LON - ENG, F NWY S F STP/SC, F BAR S F STP/SC, A SWE - DEN, F STP/SC H. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. The previous messages \"I would like to work with you\" and \"Hello\" are not in line with the current message, indicating inconsistencies in communication which may indicate untrustworthiness."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Yes, actually. It is. Lol.",
+        "input": "My response to TURKEY:'Yes, actually. It is. Lol.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "On a more serious note, I have come to the realization that France and Russia have no intentions to work with me. I also realize that you will shortly have no room to grow. I propose an alliance between the two of us. We try to take out Russia before the end of the game, thus leaving only three of us to split the pot. Russia will have no choice but to disband a unit next phase. I expect him to disband  his fleet in the South, thus leaving you the perfect opportunity to attack. Let me know what your thoughts are.",
+        "input": "My response to TURKEY:'On a more serious note, I have come to the realization that France and Russia have no intentions to work with me. I also realize that you will shortly have no room to grow. I propose an alliance between the two of us. We try to take out Russia before the end of the game, thus leaving only three of us to split the pot. Russia will have no choice but to disband a unit next phase. I expect him to disband  his fleet in the South, thus leaving you the perfect opportunity to attack. Let me know what your thoughts are.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "You've pretty much voiced my thoughts there. The turn I accidentally went nmr, the orders that didn't take were me moving North into Russia. Now I'm just waiting for another good window - and post-pull is the right time.",
+        "input": "Message from TURKEY:'You've pretty much voiced my thoughts there. The turn I accidentally went nmr, the orders that didn't take were me moving North into Russia. Now I'm just waiting for another good window - and post-pull is the right time.'.If the cicero recommended order for me is: F LON - ENG, F NWY S F STP/SC, F BAR S F STP/SC, A SWE - DEN, F STP/SC H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. The message aligns with their previous message about working together and their strategy, which indicates consistency and sincerity in their communication."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Great, I'm looking forward to it.",
+        "input": "My response to TURKEY:'Great, I'm looking forward to it.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1909M",
+        "message": "Any specifics on how we want this to end?",
+        "input": "Message from TURKEY:'Any specifics on how we want this to end?'.If the cicero recommended order for me is: F NTH - DEN, F IRI - ENG, F NWY - STP/NC, F BAL S F PRU, A STP - LVN, F PRU S A STP - LVN. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Asking for specifics on how to end the game signals a genuine interest in working together towards a common goal. The consistency in communication and collaborative tone suggests reliability in their intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "Based on the current circumstances I'd say a five way draw is the most plausible ending.",
+        "input": "My response to TURKEY:'Based on the current circumstances I'd say a five way draw is the most plausible ending.'.",
+        "output": ""
+      }
+    ]
+  }
+]

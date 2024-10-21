@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area?",
+        "input": "My response to TURKEY:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.",
+        "input": "Message from TURKEY:'For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's goals appear to be focused on securing territories around the Black Sea. This aligns with the idea that they might not pose an immediate threat to your positions in the Mediterranean."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That's fair enough. Do let me know if you ever need a hand with anything... Or anyone",
+        "input": "My response to TURKEY:'That's fair enough. Do let me know if you ever need a hand with anything... Or anyone'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I will be sure to let you know if I need your help",
+        "input": "Message from TURKEY:'I will be sure to let you know if I need your help'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's response indicates a willingness to communicate and potentially work together when needed, which suggests a level of trustworthiness in their statements."
+      }
+    ]
+  }
+]

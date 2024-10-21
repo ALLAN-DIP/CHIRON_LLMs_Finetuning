@@ -1,0 +1,86 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Hello Austria!",
+        "input": "Message from ENGLAND:'Hello Austria!'.If the cicero recommended order for me is: A VIE - TRI, F TRI - ALB, A SER - GRE. Should I trust ENGLAND?",
+        "output": "You should not trust the message. There has been no indication of a specific agreement or reason for England to be reaching out at this point, so it's safer to approach with caution and not take their message at face value."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I believe we  may have shared interests on the eastern half of the map",
+        "input": "Message from ENGLAND:'I believe we  may have shared interests on the eastern half of the map'.If the cicero recommended order for me is: A VIE - TRI, F TRI - ALB, A SER - GRE. Should I trust ENGLAND?",
+        "output": "You should trust the message. The message indicates a potential alignment of interests in the eastern half of the map, which aligns with your suggested moves towards Turkey. Proceed with cautious optimism in engaging England based on this shared interest."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I do believe you are correct",
+        "input": "My response to ENGLAND:'I do believe you are correct'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hello!",
+        "input": "Message from ENGLAND:'Hello!'.",
+        "output": "You should not trust the message. Given the lack of specific content or context in the message and the fact that there hasn't been a recent established trust or alliance, it's advisable to approach with caution and not place immediate trust in England's greeting."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "If you don't mind me asking, are you getting along with your neighbors?",
+        "input": "Message from ENGLAND:'If you don't mind me asking, are you getting along with your neighbors?'.",
+        "output": "You should trust the message. England's inquiry about your relationship with your neighbors is a non-threatening and common diplomatic question, indicating a peaceful and potentially inquisitive stance. It would be reasonable to engage in a dialogue about this topic."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?",
+        "input": "My response to ENGLAND:'I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "I am in quite the situation right now",
+        "input": "Message from ENGLAND:'I am in quite the situation right now'.If the cicero recommended order for me is: A VIE S A BUD - GAL, F TRI - ALB, A BUD - GAL, A SER S A RUM. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's statement indicating a challenging situation suggests vulnerability and potential willingness to cooperate. Considering your suggested moves, there could be an opportunity for collaboration to mutual benefit."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly",
+        "input": "Message from ENGLAND:'Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly'.If the cicero recommended order for me is: A VIE S A BUD - GAL, F TRI - ALB, A BUD - GAL, A SER S A RUM. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's openness about their situation and acknowledging that things aren't too bad indicates a level of transparency and stability. This suggests that there could be room for cooperation and potentially forming an alliance based on shared interests."
+      }
+    ]
+  }
+]

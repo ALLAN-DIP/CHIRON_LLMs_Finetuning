@@ -1,0 +1,86 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Arrivederci my friend to the south. Could we agree on a dmz in tyrolia? I've already contacted Austria about it and am waiting on a response",
+        "input": "My response to ITALY:'Arrivederci my friend to the south. Could we agree on a dmz in tyrolia? I've already contacted Austria about it and am waiting on a response'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How are you thinking of moving to open up the game and are you open to any ideas?",
+        "input": "My response to ITALY:'How are you thinking of moving to open up the game and are you open to any ideas?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?",
+        "input": "Message from ITALY:'Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's agreement on the DMZ in Tyrolia and inquiry about Austria's response align with your proposed strategy, indicating a cooperative approach and potential for a reliable partnership with Italy."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yes. He seemed to be in agreement. Who are you looking to move on to open up?",
+        "input": "My response to ITALY:'Yes. He seemed to be in agreement. Who are you looking to move on to open up?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Just checking in again. Who are you looking to move on? Might you be interested in working together against France? I could help you solidify quite a good bit of Mediterranean",
+        "input": "My response to ITALY:'Just checking in again. Who are you looking to move on? Might you be interested in working together against France? I could help you solidify quite a good bit of Mediterranean'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I'm not sure if I'm not getting my messages or something or if you're not getting mine. Just lmk",
+        "input": "My response to ITALY:'I'm not sure if I'm not getting my messages or something or if you're not getting mine. Just lmk'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "sorry been out and about. Definitely not a fan of the French spread - Do you have anything specific in mind?",
+        "input": "Message from ITALY:'sorry been out and about. Definitely not a fan of the French spread - Do you have anything specific in mind?'.If the cicero recommended order for me is: A BEL - RUH, A DEN S F NWY - SWE, F HOL - BEL, A KIE - MUN, A BER S A KIE - MUN. Should I trust ITALY?",
+        "output": "You should not trust the message. Italy's response expressing displeasure with the French advancement and seeking specific plans from Germany raises suspicions of potential ulterior motives or lack of transparency in their intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I figured Marseilles and at least part of Iberia would go to you. Give me a sec to look at the map",
+        "input": "My response to ITALY:'I figured Marseilles and at least part of Iberia would go to you. Give me a sec to look at the map'.",
+        "output": ""
+      }
+    ]
+  }
+]

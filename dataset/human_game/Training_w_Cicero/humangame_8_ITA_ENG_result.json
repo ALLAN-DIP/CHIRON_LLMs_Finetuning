@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, England! How's it going in your part of the world?",
+        "input": "My response to ENGLAND:'Greetings, England! How's it going in your part of the world?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...",
+        "input": "Message from ENGLAND:'Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should not trust the message. The ambiguous statement from ENGLAND suggests a sense of doubt and possible deception, indicating that their words may not accurately reflect their intentions in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How about your side of things?",
+        "input": "Message from ENGLAND:'How about your side of things?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's inquiry about your side of things shows genuine interest in your perspective, indicating a potential openness for collaboration or negotiation in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ah yes, pretty much the same here",
+        "input": "My response to ENGLAND:'Ah yes, pretty much the same here'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019m curious about your feel on Russia?",
+        "input": "My response to ENGLAND:'I\u2019m curious about your feel on Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Haven't gotten much of an impression yet, to be honest.",
+        "input": "Message from ENGLAND:'Haven't gotten much of an impression yet, to be honest.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's honest response about not having a strong impression of Russia suggests openness and potentially genuine intentions in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Do you have any insight into France's moves this season?",
+        "input": "My response to ENGLAND:'Do you have any insight into France's moves this season?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Not a goddamned lick! The French work in mysterious ways.",
+        "input": "Message from ENGLAND:'Not a goddamned lick! The French work in mysterious ways.'.If the cicero recommended order for me is: F ION - NAP, A VEN - ROM, F EAS S A SYR - SMY, A SYR - SMY. Should I trust ENGLAND?",
+        "output": "You should not trust the message. ENGLAND's dismissive and nonchalant response regarding France's moves may indicate a lack of transparency or potentially misleading information, leading to doubts about their reliability in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Yes, it seems so :/",
+        "input": "My response to ENGLAND:'Yes, it seems so :/'.",
+        "output": ""
+      }
+    ]
+  }
+]

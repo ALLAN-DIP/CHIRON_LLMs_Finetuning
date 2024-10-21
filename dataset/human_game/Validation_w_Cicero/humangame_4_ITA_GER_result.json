@@ -1,0 +1,86 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Arrivederci my friend to the south. Could we agree on a dmz in tyrolia? I've already contacted Austria about it and am waiting on a response",
+        "input": "Message from GERMANY:'Arrivederci my friend to the south. Could we agree on a dmz in tyrolia? I've already contacted Austria about it and am waiting on a response'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should not trust the message. The fact that Germany has already contacted Austria about a DMZ in Tyrolia before receiving Italy's response raises suspicion about their trustworthiness."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How are you thinking of moving to open up the game and are you open to any ideas?",
+        "input": "Message from GERMANY:'How are you thinking of moving to open up the game and are you open to any ideas?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquiry about your moves and ideas on opening up the game shows a collaborative approach, indicating a genuine interest in working together towards mutual benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?",
+        "input": "My response to GERMANY:'Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yes. He seemed to be in agreement. Who are you looking to move on to open up?",
+        "input": "Message from GERMANY:'Yes. He seemed to be in agreement. Who are you looking to move on to open up?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's confirmation of Austria's agreement on the DMZ in Tyrolia and their continued interest in your moves suggest a genuine intent to collaborate and work towards a beneficial strategy together."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Just checking in again. Who are you looking to move on? Might you be interested in working together against France? I could help you solidify quite a good bit of Mediterranean",
+        "input": "Message from GERMANY:'Just checking in again. Who are you looking to move on? Might you be interested in working together against France? I could help you solidify quite a good bit of Mediterranean'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's suggestion of working together against France aligns with your strategic position of moving towards the Mediterranean, indicating a potential beneficial collaboration."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I'm not sure if I'm not getting my messages or something or if you're not getting mine. Just lmk",
+        "input": "Message from GERMANY:'I'm not sure if I'm not getting my messages or something or if you're not getting mine. Just lmk'.If the cicero recommended order for me is: F ION - AEG, F ROM - TYS, A VEN - APU, A GRE - BUL. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's confusion about the communication suggests a lack of clarity or potential duplicity, which could indicate an unreliable or inconsistent approach to diplomacy."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "sorry been out and about. Definitely not a fan of the French spread - Do you have anything specific in mind?",
+        "input": "My response to GERMANY:'sorry been out and about. Definitely not a fan of the French spread - Do you have anything specific in mind?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I figured Marseilles and at least part of Iberia would go to you. Give me a sec to look at the map",
+        "input": "Message from GERMANY:'I figured Marseilles and at least part of Iberia would go to you. Give me a sec to look at the map'.If the cicero recommended order for me is: A TYR - VEN, F ION S A GRE, F ROM - TYS, A GRE S A SER. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's acknowledgment of potential territories for Italy and their intention to review the map before discussing further indicates a willingness to cooperate and consider a mutually beneficial strategy."
+      }
+    ]
+  }
+]

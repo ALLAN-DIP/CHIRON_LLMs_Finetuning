@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!",
+        "input": "Message from ENGLAND:'Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should trust the message. The message from England appears to be a friendly gesture and doesn't provide any specific strategic information or alliances that could harm you. It's safe to assume it's just a goodwill message."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Just to be clear, that was all in a pasta life.",
+        "input": "My response to ENGLAND:'Just to be clear, that was all in a pasta life.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.",
+        "input": "Message from ENGLAND:'From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should not trust the message. While England's message seems to be light-hearted, the mention of potential betrayal in a joking manner could suggest a level of caution or suspicion towards you. It's advisable to be wary and not take this message at face value."
+      }
+    ]
+  }
+]

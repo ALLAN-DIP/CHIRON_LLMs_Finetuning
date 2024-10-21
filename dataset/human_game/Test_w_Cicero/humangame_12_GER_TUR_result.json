@@ -1,0 +1,153 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey! Just opening up communication",
+        "input": "My response to TURKEY:'Hello Turkey! Just opening up communication'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Comms channel authenticated. Ready to receive transmissions!",
+        "input": "Message from TURKEY:'Comms channel authenticated. Ready to receive transmissions!'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should trust the message. The initial friendly communication and the lack of any aggressive stance or suspicious moves suggest that Turkey is open to collaborating peacefully at this stage."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Wait, so why are you attacking both France and England at the same time?  That seems... dangerous?",
+        "input": "Message from TURKEY:'Wait, so why are you attacking both France and England at the same time?  That seems... dangerous?'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's inquiry about your strategy indicates concern for your actions and potential implications, suggesting genuine interest in understanding your motives rather than immediately assuming hostility."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I wasn't attacking them, I had non-aggression with them and I had assumed they would've been preoccupied with Russia at least for a few years. I think I can kick out their army in Holland, and from there I guess we'll see what happens.",
+        "input": "My response to TURKEY:'I wasn't attacking them, I had non-aggression with them and I had assumed they would've been preoccupied with Russia at least for a few years. I think I can kick out their army in Holland, and from there I guess we'll see what happens.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "\"non-aggression\" doesn't exist in this game, in my experience.  You either have allies who you work with to divide spoils, or you have people fighting you or about to.",
+        "input": "Message from TURKEY:'\"non-aggression\" doesn't exist in this game, in my experience.  You either have allies who you work with to divide spoils, or you have people fighting you or about to.'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's blunt statement about the non-existence of non-aggression in the game and the implication that everyone is either an ally or an adversary suggests a more competitive and potentially confrontational stance, which may indicate a lack of willingness to cooperate peacefully."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Moving Kie-Hel is a clear act of aggression against England.  Which is fine since they attacked you at the same time, but if they hadn't, they certainly would now!",
+        "input": "Message from TURKEY:'Moving Kie-Hel is a clear act of aggression against England.  Which is fine since they attacked you at the same time, but if they hadn't, they certainly would now!'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's interpretation of your move as an act of aggression and the assumption that England would retaliate even if unprovoked indicates a hostile perception, which could potentially lead to a lack of trust or collaboration in future interactions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I agree, I was mostly relying on the fact that England wouldn't attack France, Russia, AND me at the same time.",
+        "input": "My response to TURKEY:'I agree, I was mostly relying on the fact that England wouldn't attack France, Russia, AND me at the same time.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "We'll see how things play out",
+        "input": "My response to TURKEY:'We'll see how things play out'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "England didn't - they *helped* Russia, and given they didn't move to ECH last season, they've clearly been resolving their issues with France.  I would assume they are talking a lot at this point.",
+        "input": "Message from TURKEY:'England didn't - they *helped* Russia, and given they didn't move to ECH last season, they've clearly been resolving their issues with France.  I would assume they are talking a lot at this point.'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's detailed analysis of the moves made by England and the speculation about their current alliances and discussions suggest a high level of strategic awareness and a willingness to analyze the game dynamics closely, potentially making them a formidable and calculating player."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "They're taken ECH now, and even if the support into Sweden proves Russia and England have an alliance there isn't much they can do. I agree that I'm in a bit of a tight spot, but I still have full confidence, especially with you and Austria taking on Russia and Italy so effectively.",
+        "input": "My response to TURKEY:'They're taken ECH now, and even if the support into Sweden proves Russia and England have an alliance there isn't much they can do. I agree that I'm in a bit of a tight spot, but I still have full confidence, especially with you and Austria taking on Russia and Italy so effectively.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I just gave Russia back their supply center, so they're actually building 2 units now, fyi...",
+        "input": "Message from TURKEY:'I just gave Russia back their supply center, so they're actually building 2 units now, fyi...'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's decision to return a supply center to Russia, which enables them to build additional units, could potentially strengthen Russia's position and pose a greater threat to other players, indicating a strategic move that may not align with your long-term interests."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Shit...",
+        "input": "My response to TURKEY:'Shit...'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "What you need is an ally you can count on, or you'll be going down quickly unless the board changes significantly.  Maybe start talking to France?",
+        "input": "Message from TURKEY:'What you need is an ally you can count on, or you'll be going down quickly unless the board changes significantly.  Maybe start talking to France?'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's suggestion to seek out alliances and the specific recommendation to consider conversing with France indicates a willingness to provide strategic advice and potentially collaborate on altering the current dynamics of the board, showcasing a cooperative and helpful approach."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "already have been",
+        "input": "My response to TURKEY:'already have been'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Heh, talking while punching hard into Bur makes it hard to come up with a good alliance plan...",
+        "input": "Message from TURKEY:'Heh, talking while punching hard into Bur makes it hard to come up with a good alliance plan...'.If the cicero recommended order for me is: A BEL S F KIE - HOL, F DEN - SWE, A RUH S F KIE - HOL, F KIE - HOL, A MUN S A BUR. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's acknowledgment of aggressive moves towards Burgundy and the resulting challenge in devising a solid alliance plan while simultaneously engaging in military actions indicates a focus on immediate tactical gains over long-term diplomatic partnerships, suggesting a potential untrustworthy or self-interested approach."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Hey there.  Who do you hate most?  Russia, France, or England?",
+        "input": "Message from TURKEY:'Hey there.  Who do you hate most?  Russia, France, or England?'.If the cicero recommended order for me is: A HOL - KIE, A MUN S A HOL - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's direct question about which power you dislike the most implies a potentially divisive or manipulative approach, seeking to exploit existing tensions rather than foster cooperative strategies, indicating a likelihood of strategic deceit or betrayal."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "Tbh, they all played well. I'm not mad, it was mostly me who fucked up anyways",
+        "input": "My response to TURKEY:'Tbh, they all played well. I'm not mad, it was mostly me who fucked up anyways'.",
+        "output": ""
+      }
+    ]
+  }
+]

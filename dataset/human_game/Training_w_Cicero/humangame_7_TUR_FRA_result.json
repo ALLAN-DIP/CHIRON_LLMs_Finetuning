@@ -1,0 +1,118 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04",
+        "input": "Message from FRANCE:'Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message. The friendly and casual tone in the message from France does not guarantee their sincerity, especially when their recommended order for you is not aligned with your best interest as Turkey."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello monsieur President. Greater pleasure would be to work together.",
+        "input": "My response to FRANCE:'Hello monsieur President. Greater pleasure would be to work together.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I would love for that too. How do things in the east seem to be developing?",
+        "input": "Message from FRANCE:'I would love for that too. How do things in the east seem to be developing?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should trust the message. The positive response from France to your willingness to work together, along with their inquiry about the development in the east, indicates a genuine interest in collaboration."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "They're going slowly but steady, soon steamy. And what about the western part?",
+        "input": "My response to FRANCE:'They're going slowly but steady, soon steamy. And what about the western part?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "The battle for Belgium will be interesting for sure \ud83d\ude05",
+        "input": "Message from FRANCE:'The battle for Belgium will be interesting for sure \ud83d\ude05'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message. The reference to the battle for Belgium being interesting suggests potential conflicting interests with France, which could indicate they may not have genuine intentions towards cooperation with Turkey."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.",
+        "input": "My response to FRANCE:'Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Wrong person \ud83d\ude1b",
+        "input": "Message from FRANCE:'Wrong person \ud83d\ude1b'.If the cicero recommended order for me is: F ANK - BLA, A BUL - GRE, A CON - BUL. Should I trust FRANCE?",
+        "output": "You should not trust the message. The dismissive and slightly playful response from France, along with their denial of involvement in your plans to collaborate against Austria, may indicate a lack of sincerity or potential deception."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Oops",
+        "input": "My response to FRANCE:'Oops'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "I'll provide support into ION if you'd like :S",
+        "input": "Message from FRANCE:'I'll provide support into ION if you'd like :S'.If the cicero recommended order for me is: F AEG - BUL/SC, F EAS - SMY, A GRE S A BUL - SER, A BUL - SER. Should I trust FRANCE?",
+        "output": "You should trust the message. France offering support into the Ionian Sea aligns with your strategic interests as Turkey, indicating a potential willingness to work together towards a common goal."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "\ud83d\ude04",
+        "input": "Message from FRANCE:'\ud83d\ude04'.If the cicero recommended order for me is: F AEG - BUL/SC, F EAS - SMY, A GRE S A BUL - SER, A BUL - SER. Should I trust FRANCE?",
+        "output": "You should not trust the message. The simple and generic smiley face may not provide enough reassurance of France's intentions or commitment to support your moves as Turkey in this phase."
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "Any idea how you'd like to approach Italy this season?",
+        "input": "Message from FRANCE:'Any idea how you'd like to approach Italy this season?'.If the cicero recommended order for me is: F ADR - TRI, F AEG - SMY, A GRE - SER, A BUL S A GRE - SER. Should I trust FRANCE?",
+        "output": "You should trust the message. France's inquiry about your strategy towards Italy indicates a willingness to coordinate and collaborate with you, aligning with your orders to focus on your moves to Italy."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now",
+        "input": "My response to FRANCE:'Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now'.",
+        "output": ""
+      }
+    ]
+  }
+]

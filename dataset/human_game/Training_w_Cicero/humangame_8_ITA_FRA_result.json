@@ -1,0 +1,229 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings! How are things in France so far? Let me know if I can be of assistance in the future, would be happy to work together as neighbors",
+        "input": "My response to FRANCE:'Greetings! How are things in France so far? Let me know if I can be of assistance in the future, would be happy to work together as neighbors'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "So would I, Italy! I think I'm going to focus on taking out my upstairs neighbor to start off, but don't be a stranger \ud83d\ude42",
+        "input": "Message from FRANCE:'So would I, Italy! I think I'm going to focus on taking out my upstairs neighbor to start off, but don't be a stranger \ud83d\ude42'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust FRANCE?",
+        "output": "You should not trust the message. France mentioning focusing on their \"upstairs neighbor\" while suggesting cooperation with you might indicate they are planning an attack on you instead, especially in the context of them going after their other neighbors."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "And let me know if you'd like to nail down any agreements wrt the mediterranean",
+        "input": "Message from FRANCE:'And let me know if you'd like to nail down any agreements wrt the mediterranean'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN - TYR, A APU - TUN VIA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's offer to discuss agreements regarding the Mediterranean aligns well with your planned move to the region, indicating a potential opportunity for collaboration and coordination."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Sounds good! \ud83d\ude42 I think Germany is nervous about you and England working together",
+        "input": "My response to FRANCE:'Sounds good! \ud83d\ude42 I think Germany is nervous about you and England working together'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Ugh",
+        "input": "My response to FRANCE:'Ugh'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Nothing personal. We can still negotiate! If you're willing to give up Tunisia and one peninsular dot of your choice, I'll help you out in the mediterranean?",
+        "input": "Message from FRANCE:'Nothing personal. We can still negotiate! If you're willing to give up Tunisia and one peninsular dot of your choice, I'll help you out in the mediterranean?'.",
+        "output": "You should not trust the message. France's offer to help you in the Mediterranean in exchange for you giving up strategic territories may not be genuine and could put you at a disadvantage in future dealings."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Actually, I'd settle for just Tunisia, since that would allow me to move my Wes fleet back to Mao and work on suppressing Britain. I would want to keep an army in Pie and a fleet floating in Wes with Tys as a DMZ. Other than that, I'd get totally out of your hair so you can keep stirring up big trouble in little Anatolia?",
+        "input": "Message from FRANCE:'Actually, I'd settle for just Tunisia, since that would allow me to move my Wes fleet back to Mao and work on suppressing Britain. I would want to keep an army in Pie and a fleet floating in Wes with Tys as a DMZ. Other than that, I'd get totally out of your hair so you can keep stirring up big trouble in little Anatolia?'.",
+        "output": "You should trust the message. France's revised offer to only ask for Tunisia in exchange for their cooperation and willingness to withdraw from interfering in your affairs could be a genuine attempt at cooperation and may benefit both of your positions on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "Hey! Yes that all sounds good.  You can have Tunisia, and I\u2019m cool with Tys as a DMZ",
+        "input": "My response to FRANCE:'Hey! Yes that all sounds good.  You can have Tunisia, and I\u2019m cool with Tys as a DMZ'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "Do you have any feel of what Germany will be doing? Seems like they\u2019re just focused on Russia?",
+        "input": "My response to FRANCE:'Do you have any feel of what Germany will be doing? Seems like they\u2019re just focused on Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "That's all they've mentioned to me as well. Why do you ask?",
+        "input": "Message from FRANCE:'That's all they've mentioned to me as well. Why do you ask?'.",
+        "output": "You should trust the message. France's confirmation of Germany's focus on Russia aligns with your observation, indicating they are likely being truthful in their response to your query."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "I think Austria was trying to work with G to knock Russia out of Vie. But it seems like Germany is more focused north, for now",
+        "input": "My response to FRANCE:'I think Austria was trying to work with G to knock Russia out of Vie. But it seems like Germany is more focused north, for now'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "So just to be clear, I\u2019ll be moving into Pie and staying there, then convoying tus-tun this turn. Then i\u2019ll move wes-mao. That all sound okay?",
+        "input": "Message from FRANCE:'So just to be clear, I\u2019ll be moving into Pie and staying there, then convoying tus-tun this turn. Then i\u2019ll move wes-mao. That all sound okay?'.If the cicero recommended order for me is: F ION C A SYR - NAP, A VEN - PIE, F EAS C A SYR - NAP, A SYR - NAP VIA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's clear and specific plan for their moves indicates honesty and a desire for cooperation, which aligns well with your own strategy."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Yes, sounds good. Thanks for the update",
+        "input": "My response to FRANCE:'Yes, sounds good. Thanks for the update'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Still need to coordinate some things before deciding on my moves, but I'll keep you updated. Main goal is aiming for turkey",
+        "input": "My response to FRANCE:'Still need to coordinate some things before deciding on my moves, but I'll keep you updated. Main goal is aiming for turkey'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "What happened to the convoy?",
+        "input": "My response to FRANCE:'What happened to the convoy?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I decided on a different sequence of moves out of fear you\u2019d reneg and try to stop me",
+        "input": "Message from FRANCE:'I decided on a different sequence of moves out of fear you\u2019d reneg and try to stop me'.If the cicero recommended order for me is: F ION - NAP, A VEN - ROM, F EAS S A SYR - SMY, A SYR - SMY. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's explanation for changing their moves out of fear suggests a lack of trust in your intentions and could indicate a shift in their strategy to prioritize their own safety over alliance commitments."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Ah I see",
+        "input": "My response to FRANCE:'Ah I see'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Pretty ruthless how you're treating Austria, eh?",
+        "input": "Message from FRANCE:'Pretty ruthless how you're treating Austria, eh?'.If the cicero recommended order for me is: F ION - NAP, A VEN - ROM, F EAS S A SYR - SMY, A SYR - SMY. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's comment on your actions towards Austria could hint at potential disapproval or skepticism towards your gameplay decisions, which may indicate a strained or changing relationship between you both."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Austria started ignoring me...",
+        "input": "My response to FRANCE:'Austria started ignoring me...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Oh wow--you didn't take Trieste? I take back what I said about ruthlessness",
+        "input": "Message from FRANCE:'Oh wow--you didn't take Trieste? I take back what I said about ruthlessness'.",
+        "output": "You should trust the message. France's acknowledgment of your decision not to take Trieste suggests they are observant of board dynamics and may appreciate your restraint, indicating a potential shift towards rebuilding trust or understanding between your countries."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "No, I wish I had known what moves he entered haha",
+        "input": "My response to FRANCE:'No, I wish I had known what moves he entered haha'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "you could have retreated there, instead of to Rome?",
+        "input": "Message from FRANCE:'you could have retreated there, instead of to Rome?'.",
+        "output": "You should not trust the message. France's suggestion for you to retreat to Trieste instead of Rome may indicate they are trying to influence your moves in a way that benefits them, potentially signaling a lack of genuine concern for your best interests."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "I figured Austria would just take it back anyways and then leave me just as stranded",
+        "input": "My response to FRANCE:'I figured Austria would just take it back anyways and then leave me just as stranded'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Austria'd be down to one dot--ya can't take back anything with one dot! (I'd have helped them though, of course). Still, that's a whole year you'd have had four units instead of three",
+        "input": "Message from FRANCE:'Austria'd be down to one dot--ya can't take back anything with one dot! (I'd have helped them though, of course). Still, that's a whole year you'd have had four units instead of three'.",
+        "output": "You should trust the message. France's explanation of the board dynamics regarding Austria's potential vulnerability and their willingness to assist Austria aligns with the situation on the board, indicating a transparent and reasonable discussion that could foster mutual understanding between your countries."
+      }
+    ]
+  }
+]

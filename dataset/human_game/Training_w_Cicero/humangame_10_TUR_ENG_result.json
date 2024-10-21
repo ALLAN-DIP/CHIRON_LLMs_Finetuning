@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey",
+        "input": "Message from ENGLAND:'Hey'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. The lack of specifics and depth in the message from ENGLAND, coupled with the absence of any strategic content or negotiation hints, indicates a lack of sincerity and a potential for deceit."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello",
+        "input": "My response to ENGLAND:'Hello'.",
+        "output": ""
+      }
+    ]
+  }
+]

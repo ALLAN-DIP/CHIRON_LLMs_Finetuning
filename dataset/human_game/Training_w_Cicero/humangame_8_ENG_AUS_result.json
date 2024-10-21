@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!",
+        "input": "Message from AUSTRIA:'Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. While Austria seems open to sharing intel, be cautious as their message does not provide a concrete commitment to collaboration. It's always wise to verify and establish more solid communication before fully trusting their intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.",
+        "input": "My response to AUSTRIA:'If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.'.",
+        "output": ""
+      }
+    ]
+  }
+]

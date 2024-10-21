@@ -1,0 +1,889 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey neighbors ~~\nWhat would you say to a western triple? We'd have to be careful about it and simulate some in fighting to prevent the east from teaming up in response, but I think we can pull it off",
+        "input": "Message from ENGLAND:'Hey neighbors ~~\nWhat would you say to a western triple? We'd have to be careful about it and simulate some in fighting to prevent the east from teaming up in response, but I think we can pull it off'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their proposal for a Western triple alliance aligns with your previous interactions and strategic discussions, indicating a shared willingness to collaborate towards a common goal, ensuring a harmonious relationship within the alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I\u2019m down. What did Germany say?",
+        "input": "My response to ENGLAND:'I\u2019m down. What did Germany say?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sounds like their in if you are",
+        "input": "Message from ENGLAND:'Sounds like their in if you are'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. The confirmation that Germany is on board with the proposed Western triple reinforces the credibility of the alliance and aligns with the collaborative approach suggested, ensuring a reliable partnership in moving forward."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "So we doing this?",
+        "input": "My response to ENGLAND:'So we doing this?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "DMZ the channel?",
+        "input": "My response to ENGLAND:'DMZ the channel?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I agree with the DMZ -- I definitely think we can pull the Western triple off",
+        "input": "Message from ENGLAND:'I agree with the DMZ -- I definitely think we can pull the Western triple off'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their agreement to the proposed DMZ and confidence in the Western triple plan confirms their commitment to the alliance's objectives, indicating trustworthiness and a cooperative attitude towards working together effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Especially with this chat format, it'll be hard for our opponents to easily coordinate an opposition",
+        "input": "Message from ENGLAND:'Especially with this chat format, it'll be hard for our opponents to easily coordinate an opposition'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their recognition of the advantages provided by the chat format to prevent opposition coordination shows strategic thinking and a proactive approach to the alliance, reinforcing trust and a shared commitment to the proposed plans."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Let\u2019s march East!",
+        "input": "My response to ENGLAND:'Let\u2019s march East!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Great, glad we're on board !/",
+        "input": "Message from ENGLAND:'Great, glad we're on board !/'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their affirmation of being on board with marching East aligns with the established plan and indicates a cooperative stance towards advancing the alliance's objectives, fostering trust and collaboration within the partnership."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "hm, so the German missed turn might complicate our choices",
+        "input": "Message from ENGLAND:'hm, so the German missed turn might complicate our choices'.If the cicero recommended order for me is: F MAO - POR, A BUR - BEL, A MAR - SPA. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their acknowledgment of the potential impact of Germany's missed turn on the situation demonstrates awareness and a strategic mindset, indicating reliability and a thoughtful approach to decision-making within the alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Let\u2019s swoop in",
+        "input": "My response to ENGLAND:'Let\u2019s swoop in'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Ok, yes, let's capitalize on this",
+        "input": "Message from ENGLAND:'Ok, yes, let's capitalize on this'.If the cicero recommended order for me is: F MAO - POR, A BUR - BEL, A MAR - SPA. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their agreement to capitalize on the situation created by Germany's missed turn affirms a shared strategic vision and readiness to act decisively, indicating a trustworthy and committed stance within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Would you be ok building an army in Brest, and I'll do the same in London? Just so we keep the channel well and truly DMZd",
+        "input": "Message from ENGLAND:'Would you be ok building an army in Brest, and I'll do the same in London? Just so we keep the channel well and truly DMZd'.",
+        "output": "You should trust the message from ENGLAND. Their proposal to build matching armies in Brest and London to solidify the DMZ in the English Channel demonstrates a commitment to maintaining peace and stability in the region, indicating reliability and a cooperative approach to the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "What are we thinking for builds?",
+        "input": "Message from ENGLAND:'What are we thinking for builds?'.",
+        "output": "You should trust the message from ENGLAND. Their inquiry about the builds displays a willingness to engage in strategic planning and decision-making together, indicating a collaborative mindset and a desire to coordinate effectively within the alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I want to build 2 fleets to hold the med. a stab here would be horrible for me. I don\u2019t need to give you any reason to ally with Germany again. Let\u2019s do this together my man. I think you should also build a fleet in London if it makes you feel more comfortable.",
+        "input": "My response to ENGLAND:'I want to build 2 fleets to hold the med. a stab here would be horrible for me. I don\u2019t need to give you any reason to ally with Germany again. Let\u2019s do this together my man. I think you should also build a fleet in London if it makes you feel more comfortable.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Ok, that's fair -- I think I'll hold off on the fleet in london for now; I don't think Germany is sure I'm stabbing them yet",
+        "input": "Message from ENGLAND:'Ok, that's fair -- I think I'll hold off on the fleet in london for now; I don't think Germany is sure I'm stabbing them yet'.",
+        "output": "Is there anything else you would like to know or discuss further in this situation?"
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "What we thinking?",
+        "input": "My response to ENGLAND:'What we thinking?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I think I'll try to get into Hel, and convoy something in in the fall? Or what do you think",
+        "input": "Message from ENGLAND:'I think I'll try to get into Hel, and convoy something in in the fall? Or what do you think'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their proposal to get into Hel and convoy something indicates a collaborative effort and a desire to coordinate effectively, showcasing alignment within the alliance and a commitment to shared strategic objectives."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Why don\u2019t you tap Kiel and I support you in to Holland?",
+        "input": "My response to ENGLAND:'Why don\u2019t you tap Kiel and I support you in to Holland?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Oh, good idea yea",
+        "input": "Message from ENGLAND:'Oh, good idea yea'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their positive response to your suggestion and agreement with the plan indicates a willingness to cooperate and a shared understanding of the strategic moves, fostering trust and reliability within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I'd go with that if you're ok with it",
+        "input": "Message from ENGLAND:'I'd go with that if you're ok with it'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their confirmation of going along with the plan discussed demonstrates a cooperative attitude and a readiness to act in alignment with the alliance's decisions, suggesting reliability and a cohesive partnership."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Wait actually, getting into Hel might be more important in the spring? Cuz we can still go for hol in the fall, and hel will help hold den and go for kie",
+        "input": "Message from ENGLAND:'Wait actually, getting into Hel might be more important in the spring? Cuz we can still go for hol in the fall, and hel will help hold den and go for kie'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their strategic reasoning behind focusing on getting into Hel first to secure positions and then aiming for Hol in the fall shows a thoughtful approach to coordination and indicates a commitment to advance the alliance's goals effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I guess maybe we should also consider going after Russia, just cuz they're getting really strong at the moment, and if they build anything else in the north, we'll basically never have a shot at getting through later",
+        "input": "Message from ENGLAND:'I guess maybe we should also consider going after Russia, just cuz they're getting really strong at the moment, and if they build anything else in the north, we'll basically never have a shot at getting through later'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should be cautious and seek clarification from ENGLAND. Their suggestion to consider targeting Russia due to their growing strength raises concerns about the direction of the alliance and potential diverging interests, prompting a need for further discussion to ensure alignment and trust within the partnership."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Idk, let me know what you think",
+        "input": "Message from ENGLAND:'Idk, let me know what you think'.If the cicero recommended order for me is: A BEL H, F BRE - ENG, A PAR - BUR, F POR - MAO, A SPA - GAS, F MAR - SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their openness to your input and request for feedback shows a collaborative approach and a willingness to consider your thoughts, indicating a respectful and communicative stance within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I'd take your support from lon to hol this turn if you're still ok with giving it?",
+        "input": "Message from ENGLAND:'I'd take your support from lon to hol this turn if you're still ok with giving it?'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their request for support from London to Holland aligns with the planned coordination and indicates a collaborative effort within the alliance, ensuring reliability and cooperation in working together towards common strategic objectives."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "with Germany's second NMR that changes things up a bit",
+        "input": "My response to ENGLAND:'with Germany's second NMR that changes things up a bit'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "i would feel much more comforatble putting a fleet there instead of army",
+        "input": "My response to ENGLAND:'i would feel much more comforatble putting a fleet there instead of army'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "i would support north sea or hel in if you want?",
+        "input": "My response to ENGLAND:'i would support north sea or hel in if you want?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "actually, how are you thinking we should carve germany?",
+        "input": "My response to ENGLAND:'actually, how are you thinking we should carve germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "do you want to take kiel and berlin and I can take holand and munich?  I can keep an army in holland to make you more comfortable.",
+        "input": "My response to ENGLAND:'do you want to take kiel and berlin and I can take holand and munich?  I can keep an army in holland to make you more comfortable.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "That sounds fair to me",
+        "input": "Message from ENGLAND:'That sounds fair to me'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their agreement with the proposed division of German territories and retention of an army in Holland reflects alignment with the discussed strategy, demonstrating trustworthiness and a cooperative approach within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Should I support you in, or I should I start our attack on Russia?",
+        "input": "Message from ENGLAND:'Should I support you in, or I should I start our attack on Russia?'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their openness to discussion about supporting you or attacking Russia indicates a transparent and collaborative decision-making process within the alliance, suggesting reliability and a shared commitment to strategic coordination."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Yes please. I could use the fleet in Marseilles to take the med.",
+        "input": "My response to ENGLAND:'Yes please. I could use the fleet in Marseilles to take the med.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Whoops",
+        "input": "My response to ENGLAND:'Whoops'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Answers you too late",
+        "input": "My response to ENGLAND:'Answers you too late'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That\u2019s ok. Great job capturing st. Pete.",
+        "input": "My response to ENGLAND:'That\u2019s ok. Great job capturing st. Pete.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Next year I\u2019ll get into holland.",
+        "input": "My response to ENGLAND:'Next year I\u2019ll get into holland.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Alright, sounds good to me \ud83d\udc4d",
+        "input": "Message from ENGLAND:'Alright, sounds good to me \ud83d\udc4d'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their positive response indicates agreement and establishes a cooperative approach, fostering trust and reliability within the alliance as you work towards common goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Also what are your thoughts on builds next year? The presence of a fleet in Mao is kinda scary on my end, cuz it can always stab to Iri\nbut if you feel like you need it there for your own protection, I understand completely and I can just build something to sit around holding down the fort on my end",
+        "input": "Message from ENGLAND:'Also what are your thoughts on builds next year? The presence of a fleet in Mao is kinda scary on my end, cuz it can always stab to Iri\nbut if you feel like you need it there for your own protection, I understand completely and I can just build something to sit around holding down the fort on my end'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their concern about the fleet in Mao and willingness to adjust their builds accordingly to accommodate the alliance's needs and concerns shows a cooperative and considerate approach, indicating trust in their intentions to maintain a strong and reliable alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "not sure about builds.  i would like another fleet in the med.  The only reason I saty in MAO is because you're in North sea.  I'm happy to move out if you will/can.",
+        "input": "My response to ENGLAND:'not sure about builds.  i would like another fleet in the med.  The only reason I saty in MAO is because you're in North sea.  I'm happy to move out if you will/can.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Ok, that's fair. I guess it's kind of hard for England to do much of anything without a fleet in Nth, so I guess your fleet in Mao will stay",
+        "input": "Message from ENGLAND:'Ok, that's fair. I guess it's kind of hard for England to do much of anything without a fleet in Nth, so I guess your fleet in Mao will stay'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their understanding of the strategic importance of the fleet in the North Sea and readiness to adjust builds accordingly demonstrates adaptability and support for maintaining a balanced and effective alliance, indicating trustworthiness and a cooperative mindset."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "So I'll go ahead and support you Bel\u2192Hol then?",
+        "input": "Message from ENGLAND:'So I'll go ahead and support you Bel\u2192Hol then?'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their commitment to support you in Belgium moving to Holland aligns with the planned coordination, indicating a collaborative mindset and a willingness to work together effectively within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Tho it might also make sense to use Kiel to make sure Russia can't do Ber\u2192Bal, Pru\u2192Ber, cuz that could get me in some trouble I think",
+        "input": "Message from ENGLAND:'Tho it might also make sense to use Kiel to make sure Russia can't do Ber\u2192Bal, Pru\u2192Ber, cuz that could get me in some trouble I think'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their strategic suggestion to utilize Kiel to prevent potential Russian movements reflects a collaborative approach and a shared interest in ensuring the alliance's stability, indicating reliability and a thoughtful engagement within the partnership."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Anyways, let me know what you think we should go for",
+        "input": "Message from ENGLAND:'Anyways, let me know what you think we should go for'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their open-ended inquiry about the strategy demonstrates a collaborative and inclusive approach, encouraging discussion and shared decision-making within the alliance, indicating trustworthiness and a cooperative mindset."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "You could support me with North Sea unless you planned on moving outta there",
+        "input": "My response to ENGLAND:'You could support me with North Sea unless you planned on moving outta there'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Ah, I planned on using Nth to follow up into Den after taking Swe",
+        "input": "Message from ENGLAND:'Ah, I planned on using Nth to follow up into Den after taking Swe'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their explanation of using the North Sea to follow up into Denmark after taking Sweden indicates a clear and strategic plan, fostering trust in their intentions and a coordinated approach within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "I guess I could take Swe with Nwy tho hm",
+        "input": "Message from ENGLAND:'I guess I could take Swe with Nwy tho hm'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their consideration of taking Sweden with Norway reflects adaptive thinking and potential support for the alliance's objectives, indicating a collaborative and strategic mindset, fostering trust in their decision-making process."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "I should most likely be able to support you in this turn at least",
+        "input": "Message from ENGLAND:'I should most likely be able to support you in this turn at least'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their assurance of being able to support you in the upcoming turn demonstrates reliability and a commitment to the agreed plan, reinforcing trust and a cooperative spirit within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Ok, put in the orders supporting you to Hol",
+        "input": "Message from ENGLAND:'Ok, put in the orders supporting you to Hol'.If the cicero recommended order for me is: A BEL - HOL, A BUR S A MUN, F NAF - TUN, F TUN - ION, F TYS S F TUN - ION, A TUS - VEN. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their commitment to supporting you in Holland aligns with the planned coordination, indicating a cooperative effort and a reliable partnership within the alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "???",
+        "input": "My response to ENGLAND:'???'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "change your mind?",
+        "input": "My response to ENGLAND:'change your mind?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "oh, you wrote that after adjudication",
+        "input": "My response to ENGLAND:'oh, you wrote that after adjudication'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "just checking in ~~ what's up with the move back to Mao?",
+        "input": "Message from ENGLAND:'just checking in ~~ what's up with the move back to Mao?'.If the cicero recommended order for me is: A BEL - HOL, A BUR S A MUN, F NAF - TUN, F TUN - ION, F TYS S F TUN - ION, A TUS - VEN. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their inquiry about the move back to the Mid-Atlantic Ocean shows an interest in understanding the strategic decisions within the alliance, indicating open communication and a collaborative approach, fostering trust and cooperation."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1903M",
+        "message": "I only moved to North Africa to block the retreat there. I can\u2019t leave MAO empty as long as you\u2019re in North Sea.",
+        "input": "My response to ENGLAND:'I only moved to North Africa to block the retreat there. I can\u2019t leave MAO empty as long as you\u2019re in North Sea.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "ah I see, ok that makes sense",
+        "input": "Message from ENGLAND:'ah I see, ok that makes sense'.",
+        "output": "Based on the cordial and understanding response from ENGLAND, you can trust their message. Their acknowledgment of your reasoning and acceptance of your move displays mutual respect and cooperative engagement within the alliance, fostering a foundation of trust and collaboration."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Do you have plans for the army in Bel? If not, id appreciate the support in holding Kie. Anyways, let me know what you think we should go for",
+        "input": "Message from ENGLAND:'Do you have plans for the army in Bel? If not, id appreciate the support in holding Kie. Anyways, let me know what you think we should go for'.If the cicero recommended order for me is: A HOL S A BUR - RUH, F MAO - WES, A BUR - RUH, A PAR - BUR, F MAR - LYO, F TUN - ION, F TYS S F TUN - ION, A PIE - VEN. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their request for support in holding Kiel and stance of seeking your input for further plans displays collaboration and a willingness to work together, fostering trust and indicating a cooperative alliance dynamic."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Hey france, you there?",
+        "input": "Message from ENGLAND:'Hey france, you there?'.If the cicero recommended order for me is: A HOL S A BUR - RUH, F MAO - WES, A BUR - RUH, A PAR - BUR, F MAR - LYO, F TUN - ION, F TYS S F TUN - ION, A PIE - VEN. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their attempt to establish contact with you reflects their intent to communicate and coordinate effectively, showcasing a desire for teamwork and collaboration within the alliance, which is essential for building trust and achieving shared goals."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "yes, i can support kiel.  i'd really like us to move out of the  the north sea and MAO this turn.  they are a useless waste of resources now.",
+        "input": "My response to ENGLAND:'yes, i can support kiel.  i'd really like us to move out of the  the north sea and MAO this turn.  they are a useless waste of resources now.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "North sea is kinda how I convoy my armies to where I need to go tho",
+        "input": "Message from ENGLAND:'North sea is kinda how I convoy my armies to where I need to go tho'.If the cicero recommended order for me is: A BEL - RUH, A HOL S A BEL - RUH, F MAO H, A BUR S A BEL - RUH, F LYO - TYS, F TYS - NAP, A PIE - VEN, F ION S F TYS - NAP. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their explanation regarding the strategic utility of the North Sea for convoying armies demonstrates strategic understanding and highlights their commitment to maximizing resources effectively, indicating a sound rationale and a cooperative approach within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "This is kind of a weird thing to say, but I think I need to point out that this is a good opportunity to stab me from a tactical perspective;\nWith a a fleet build in Bre, you can keep me out of eng while walking into Lvp\n\nThat being said, I think we still have a lot to gain by working together. As we stand, we are certainly stronger than any other pair of nations, and we probably have fighting chances against the rest of the board even if they all united against us. In the near future even, you are closing in on breaking the Italian resistance, and I am close to doing the same for Russia\n\nDivided however, I believe the victory of either of us will be much less guaranteed, what with so much of our resources focused solely on each other.",
+        "input": "Message from ENGLAND:'This is kind of a weird thing to say, but I think I need to point out that this is a good opportunity to stab me from a tactical perspective;\nWith a a fleet build in Bre, you can keep me out of eng while walking into Lvp\n\nThat being said, I think we still have a lot to gain by working together. As we stand, we are certainly stronger than any other pair of nations, and we probably have fighting chances against the rest of the board even if they all united against us. In the near future even, you are closing in on breaking the Italian resistance, and I am close to doing the same for Russia\n\nDivided however, I believe the victory of either of us will be much less guaranteed, what with so much of our resources focused solely on each other.'.",
+        "output": "You should trust the message from ENGLAND. Their openness about the potential risk of a stab demonstrates honesty and transparency regarding the strategic dynamics between your countries. This level of transparency and honesty is a positive sign of cooperation, and their logical reasoning around the benefits of maintaining your alliance further supports trust in their message."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "in any case , I look forward to our shared victory and hope you feel the same",
+        "input": "Message from ENGLAND:'in any case , I look forward to our shared victory and hope you feel the same'.",
+        "output": "You should trust the message from ENGLAND. Their positive attitude towards a shared victory indicates a willingness to work together towards a common goal, reinforcing the trust and cooperation between your countries."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "I just keep being bothered by the North Sea fleet. I need to waste 2 units (one in MAO and one in Holland) to prevent a stab. You can continue to convoy via Norwegian Sea and I can use those units to push East. Can we give it a shot? I too would like to continue working together.",
+        "input": "My response to ENGLAND:'I just keep being bothered by the North Sea fleet. I need to waste 2 units (one in MAO and one in Holland) to prevent a stab. You can continue to convoy via Norwegian Sea and I can use those units to push East. Can we give it a shot? I too would like to continue working together.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "Also, planned on building army Paris not fleet Brest",
+        "input": "My response to ENGLAND:'Also, planned on building army Paris not fleet Brest'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Ok, I can move out of Nth this turn -- I'll also support you Hol\u2192Kie if you're ok with that (I'll try to use Kie to take Ber), and that will hopefully help you take Mun as well",
+        "input": "Message from ENGLAND:'Ok, I can move out of Nth this turn -- I'll also support you Hol\u2192Kie if you're ok with that (I'll try to use Kie to take Ber), and that will hopefully help you take Mun as well'.If the cicero recommended order for me is: A BEL S A HOL, A HOL S A BUR - RUH, F MAO - IRI, A BUR - RUH, A PAR - BUR, F WES - MAO, F TYS - ROM, A PIE - VEN, F NAP S F TYS - ROM. Should I trust ENGLAND?",
+        "output": "You should not trust the message. This message raises concerns about a possible stab from England, as they are pointing out opportunities to potentially stab you and highlighting the risks of staying in the North Sea while emphasizing the benefits of working together."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, sounds like a plan. So we\u2019re both on the same page, I move to med and you move to Norwegian and we\u2019re good?",
+        "input": "My response to ENGLAND:'Ok, sounds like a plan. So we\u2019re both on the same page, I move to med and you move to Norwegian and we\u2019re good?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Yep, pretty much. I'm also considering moving to Nwy for now in case I need to support stp",
+        "input": "Message from ENGLAND:'Yep, pretty much. I'm also considering moving to Nwy for now in case I need to support stp'.If the cicero recommended order for me is: A BEL S A HOL, A HOL S A BUR - RUH, F MAO - IRI, A BUR - RUH, A PAR - BUR, F WES - MAO, F TYS - ROM, A PIE - VEN, F NAP S F TYS - ROM. Should I trust ENGLAND?",
+        "output": "You should trust the message. The plan discussed by England aligns with the moves suggested in the cicero order, indicating consistency and shared goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Great work this turn, we're doing really well \ud83d\udc4d",
+        "input": "Message from ENGLAND:'Great work this turn, we're doing really well \ud83d\udc4d'.If the cicero recommended order for me is: A BEL S A HOL, A HOL S A BUR - RUH, F MAO - IRI, A BUR - RUH, A PAR - BUR, F WES - MAO, F TYS - ROM, A PIE - VEN, F NAP S F TYS - ROM. Should I trust ENGLAND?",
+        "output": "You should trust the message. The positive feedback from England indicates a cooperative and friendly attitude, reinforcing the trustworthiness of the communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, cool. For sure",
+        "input": "My response to ENGLAND:'Ok, cool. For sure'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "what's the plan stan",
+        "input": "My response to ENGLAND:'what's the plan stan'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "RE: builds",
+        "input": "My response to ENGLAND:'RE: builds'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1905M",
+        "message": "Russia has several disbands so hopefully we make more progress there this year. And you can start to work on Austria once Italy is done?",
+        "input": "Message from ENGLAND:'Russia has several disbands so hopefully we make more progress there this year. And you can start to work on Austria once Italy is done?'.",
+        "output": "You should trust the message. The message shows an understanding of the current board dynamics and a clear strategy for progressing the game. The plan to focus on Russia and then Austria once Italy is taken care of aligns well with the game situation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1905M",
+        "message": "Ah",
+        "input": "Message from ENGLAND:'Ah'.",
+        "output": "You should not trust the message. The response seems dismissive and lacks engagement with the strategic discussion initiated by the previous message. It indicates a lack of interest or involvement in the planned course of action."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1905M",
+        "message": "I'll probably build an army",
+        "input": "Message from ENGLAND:'I'll probably build an army'.",
+        "output": "You should trust the message. The concise and straightforward reply aligns with the ongoing conversation, indicating a clear decision regarding the build phase without complicating the current strategy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1905M",
+        "message": "What are you thinking on you're end?",
+        "input": "Message from ENGLAND:'What are you thinking on you're end?'.",
+        "output": "You should trust the message. The inquisitive tone seeks input from the counterpart, showing a willingness to collaborate and consider different perspectives for future actions."
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1906M",
+        "message": "don't freak out.  My fleet Brest was built before I saw your message so I built it as a precaution.  I plan on moving it into MAO and then into the Med.  Let's carry onward.",
+        "input": "My response to ENGLAND:'don't freak out.  My fleet Brest was built before I saw your message so I built it as a precaution.  I plan on moving it into MAO and then into the Med.  Let's carry onward.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Ok, I think I need to move den to nth so I can convoy the army over anyways, if that's ok with you",
+        "input": "Message from ENGLAND:'Ok, I think I need to move den to nth so I can convoy the army over anyways, if that's ok with you'.If the cicero recommended order for me is: A BEL - RUH, F BRE - MAO, A BUR S A RUH - MUN, A RUH - MUN, A KIE S A RUH - MUN, A MAR - PIE, F TUN - ION, F TYS S F TUN - ION, A TUS - ROM, F NAP - APU, F ROM - NAP. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's decision to move the fleet from Brest to the Mediterranean Sea aligns with their previous messages about supporting the Western Triple and their concerns about the fleet in North Sea. Their actions seem consistent with maintaining the alliance and working towards a shared victory."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1906M",
+        "message": "\ud83d\udc4d\ud83c\udffd",
+        "input": "My response to ENGLAND:'\ud83d\udc4d\ud83c\udffd'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Whats up with the move to Eng? Are we still good?",
+        "input": "Message from ENGLAND:'Whats up with the move to Eng? Are we still good?'.If the cicero recommended order for me is: A HOL S A KIE, F MAO - WES, A RUH - MUN, A KIE S A RUH - MUN, A MUN - BOH, F TYS - ION, A PIE S A TUS - VEN, F ION - ADR, A TUS - VEN, F ROM H, F APU S A TUS - VEN. Should I trust ENGLAND?",
+        "output": "You should not trust the message. The moves and supports detailed do not align with the current situation on the board and may indicate a change in plans or potential deception. Consider seeking further clarification and reassurance from England regarding the intended actions and next steps."
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1906M",
+        "message": "Yes I was just worried about your move there so I did it to bounce. I\u2019ll be moving back into MAO and building fleet Marseilles and Army Paris. We\u2019re still good.",
+        "input": "My response to ENGLAND:'Yes I was just worried about your move there so I did it to bounce. I\u2019ll be moving back into MAO and building fleet Marseilles and Army Paris. We\u2019re still good.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1906M",
+        "message": "Alright, glad to hear it",
+        "input": "Message from ENGLAND:'Alright, glad to hear it'.",
+        "output": "You should trust the message. The conversation between you and England shows a commitment to working together despite some strategic considerations, and the decision to clarify and confirm plans together demonstrates openness and cooperation."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Man why you gotta do us like that",
+        "input": "Message from ENGLAND:'Man why you gotta do us like that'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The tone of the message appears concerned but not confrontational, showing a willingness to communicate and address any issues."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Like it's not even a good time to stab ..",
+        "input": "Message from ENGLAND:'Like it's not even a good time to stab ..'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "Is there anything else you would like me to do?"
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "Where else are you going to go if not after me?",
+        "input": "My response to ENGLAND:'Where else are you going to go if not after me?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "I have and will continue to be 100% happy to keep convoying armies onto the continent to press south from there",
+        "input": "Message from ENGLAND:'I have and will continue to be 100% happy to keep convoying armies onto the continent to press south from there'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The support and coordination from England align with your current strategy to expand southward."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "I have Warsaw and Sev in my sights, and I can help with Austria as well",
+        "input": "Message from ENGLAND:'I have Warsaw and Sev in my sights, and I can help with Austria as well'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The plan aligns with your strategy to expand southward and supports your coordination with England to target Austria and potentially Russia."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "And it's not like I think you, me or turkey will really get eliminated before 1910 -- I just want to make sure we don't have Austria or Russia hanging on",
+        "input": "Message from ENGLAND:'And it's not like I think you, me or turkey will really get eliminated before 1910 -- I just want to make sure we don't have Austria or Russia hanging on'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The statement indicates a commitment to eliminate Austria and potentially Russia before 1910, aligning with your strategic goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "And if I have swing my focus back west, it gets harder to guarantee that",
+        "input": "Message from ENGLAND:'And if I have swing my focus back west, it gets harder to guarantee that'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The indication of focusing back west aligns with your strategic goal and ensures mutual cooperation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "Why are you not convoying from Norwegian like we discussed?",
+        "input": "My response to ENGLAND:'Why are you not convoying from Norwegian like we discussed?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "In spring 1906 I wanted to guarantee support into  Stp",
+        "input": "Message from ENGLAND:'In spring 1906 I wanted to guarantee support into  Stp'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's explanation aligns with the strategic goal discussed previously. Trusting them in this phase would benefit your mutual cooperation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "And I was also nervous cuz you built a friggin fleet in Brest -- like you can't do that and then expect me to stay out of the North sea",
+        "input": "Message from ENGLAND:'And I was also nervous cuz you built a friggin fleet in Brest -- like you can't do that and then expect me to stay out of the North sea'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should not trust the message. England is expressing concern about your fleet in Brest being a potential threat to them, indicating a lack of trust in their intentions moving forward. Consider reevaluating your position and preparing for possible conflict."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "I would have been happy to move on out again once your fleet was gone south",
+        "input": "Message from ENGLAND:'I would have been happy to move on out again once your fleet was gone south'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. England is indicating willingness to de-escalate the situation once your fleet is no longer positioned to threaten them, showing a commitment to peace and cooperation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Wasnt you getting your fleet out of Mao (let alone Brest) part of why I agreed to vacate Nth in the first place ~~?",
+        "input": "Message from ENGLAND:'Wasnt you getting your fleet out of Mao (let alone Brest) part of why I agreed to vacate Nth in the first place ~~?'.If the cicero recommended order for me is: F ENG C A BEL - WAL, A BEL - WAL VIA, A HOL S A KIE, F BRE - MAO, A KIE H, A PAR - PIC, A MUN S A KIE, F ION H, A TUS - PIE, F ROM - TYS, A VEN S A TUS - PIE, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. England is reminding you of the agreement you had to vacate North Sea once your fleet in MAO was moved, implying they are reminding you of your commitments and expecting reciprocity."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Anyways, what do you think of drawing once Austria and Russia are gone -- I don't think anyone else can get eliminated before the game ends in 1910",
+        "input": "Message from ENGLAND:'Anyways, what do you think of drawing once Austria and Russia are gone -- I don't think anyone else can get eliminated before the game ends in 1910'.If the cicero recommended order for me is: F IRI - ENG, A BEL S A HOL, A HOL S A BEL, F BRE S F IRI - ENG, A PIC - BUR, F MAR - SPA/SC, A PIE - TYR, F ION H, F NAP S F ION, A VEN S A PIE - TYR, F ADR - TRI, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. England is proposing a draw once Austria and Russia are eliminated, indicating a desire for a cooperative and successful conclusion of the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "Im up for that",
+        "input": "My response to ENGLAND:'Im up for that'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Is turkey on board for the draw?",
+        "input": "My response to ENGLAND:'Is turkey on board for the draw?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1909M",
+        "message": "That's what they've been saying to me",
+        "input": "Message from ENGLAND:'That's what they've been saying to me'.If the cicero recommended order for me is: F BRE - ENG, F MAO S F BRE - ENG, A PIC - BEL, A RUH S A PIC - BEL, A TYR - MUN, F ION H, F NAP S F ION, A VEN H, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The conversation about a potential draw and mutual interest suggests a level of cooperation and alignment of goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1909M",
+        "message": "Have you heard anything from them?",
+        "input": "Message from ENGLAND:'Have you heard anything from them?'.If the cicero recommended order for me is: F BRE - ENG, F MAO S F BRE - ENG, A PIC - BEL, A RUH S A PIC - BEL, A TYR - MUN, F ION H, F NAP S F ION, A VEN H, F ADR S F ION, F APU S F ION. Should I trust ENGLAND?",
+        "output": "You should trust the message. The discussion about coordination and potential draw indicates a willingness to work together towards a common goal."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Alrighty",
+        "input": "My response to ENGLAND:'Alrighty'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Not in a few days",
+        "input": "My response to ENGLAND:'Not in a few days'.",
+        "output": ""
+      }
+    ]
+  }
+]

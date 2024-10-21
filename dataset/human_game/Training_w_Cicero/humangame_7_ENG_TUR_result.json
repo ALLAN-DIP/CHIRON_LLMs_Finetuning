@@ -1,0 +1,113 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking",
+        "input": "My response to TURKEY:'Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.",
+        "input": "Message from TURKEY:'Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should trust the message. The positive language used towards collaboration and discussing future plans indicates genuine intentions for cooperation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria",
+        "input": "My response to TURKEY:'Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.",
+        "input": "Message from TURKEY:'Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should not trust the message. The response seems evasive and does not directly address the information shared about Russia's potential movements, indicating a lack of transparency."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see",
+        "input": "My response to TURKEY:'Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "How not? He did move south.",
+        "input": "Message from TURKEY:'How not? He did move south.'.If the cicero recommended order for me is: A YOR - NWY VIA, F NTH C A YOR - NWY, F NWG - BAR. Should I trust TURKEY?",
+        "output": "You should trust the message. The straightforward response acknowledging Russia's southern movements aligns with the previous conversations about potential Russian actions."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "You are attacking the wrong target, russia and france will overrun everyone on the mainland",
+        "input": "Message from TURKEY:'You are attacking the wrong target, russia and france will overrun everyone on the mainland'.If the cicero recommended order for me is: F LON - WAL, A LVP S F LON - WAL, F NTH - LON, F CLY S A LVP, F DEN - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. The statement seems to be an attempt to shift your focus away from Turkey and onto other powers, potentially to distract you while Turkey makes moves against you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Germany refuses to truce with me, not much I can do.",
+        "input": "My response to TURKEY:'Germany refuses to truce with me, not much I can do.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Why would he decline truce, he said otherwise to me",
+        "input": "Message from TURKEY:'Why would he decline truce, he said otherwise to me'.If the cicero recommended order for me is: F LON - WAL, A LVP S F LON - WAL, F NTH - LON, F CLY S A LVP, F DEN - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. The inconsistency in the information provided by Turkey about Germany's intentions raises doubts about the reliability of their statements."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.",
+        "input": "My response to TURKEY:'He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "And you two couldn't agree on anything?",
+        "input": "Message from TURKEY:'And you two couldn't agree on anything?'.If the cicero recommended order for me is: F LON - WAL, A LVP S F LON - WAL, F NTH - LON, F CLY S A LVP, F DEN - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's attempt to downplay the seriousness of the situation and deflect the focus away from their own potential actions raises suspicions about their true intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "We are talking more, next step is getting France off my back so I can actually use my navy.",
+        "input": "My response to TURKEY:'We are talking more, next step is getting France off my back so I can actually use my navy.'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So whaddya say to this: I build a crapton of fleets, you build a crapton of armies, and we kick the world's ass?",
+        "input": "My response to GERMANY:'So whaddya say to this: I build a crapton of fleets, you build a crapton of armies, and we kick the world's ass?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I like the sound of that",
+        "input": "Message from GERMANY:'I like the sound of that'.If the cicero recommended order for me is: A YOR - NWY VIA, F NTH C A YOR - NWY, F NWG - BAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their positive response aligns with the proposal for a strong naval force from ENGLAND, indicating a willingness to cooperate towards a common goal."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I know I\u2019m supposed to build a Carlton of armies but I need a fleet in Berlin to help stamp out Russia.",
+        "input": "Message from GERMANY:'I know I\u2019m supposed to build a Carlton of armies but I need a fleet in Berlin to help stamp out Russia.'.",
+        "output": "You should trust GERMANY. Their need for a fleet in Berlin to counter Russia's threat aligns with the current strategic context and demonstrates a shared interest in maintaining a strong position against common adversaries."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Long as it's in Berlin and not Kiel, I can deal.",
+        "input": "My response to GERMANY:'Long as it's in Berlin and not Kiel, I can deal.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Berlin, huh?",
+        "input": "My response to GERMANY:'Berlin, huh?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it.",
+        "input": "Message from GERMANY:'ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it.'.If the cicero recommended order for me is: A YOR - NWY VIA, A LON H, F NTH C A YOR - NWY, F NWY - SKA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their explanation about the fleet move from Berlin to Kiel being an oversight and their reassurance about the fleet's intended movement towards the Baltic Sea are consistent with maintaining transparency and mutual interests in the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Good to know.",
+        "input": "My response to GERMANY:'Good to know.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "is france playing us?",
+        "input": "Message from GERMANY:'is france playing us?'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their inquiry about FRANCE potentially playing both of you shows a readiness to assess the broader dynamics and collaborate effectively based on shared concerns, aligning with your own strategic interests."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "That's a good question. What's he telling you?",
+        "input": "My response to GERMANY:'That's a good question. What's he telling you?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "he asked for support in exchange for staying off my back",
+        "input": "Message from GERMANY:'he asked for support in exchange for staying off my back'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their candid disclosure of FRANCE's request for support in exchange for non-aggression indicates transparency and a willingness to share valuable information, which can strengthen trust between the two of you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "you",
+        "input": "Message from GERMANY:'you'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should not trust GERMANY. The single-word response \"you\" lacks clarity and does not contribute constructively to the conversation, indicating a potential lack of engagement or cooperation on their part."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "?",
+        "input": "Message from GERMANY:'?'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should not trust GERMANY. Their response with a simple question mark does not provide any meaningful contribution or clarity to the discussion, suggesting a lack of commitment or involvement in the diplomatic conversation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "He also offered me support. Oy.",
+        "input": "My response to GERMANY:'He also offered me support. Oy.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "well what should we do about that?",
+        "input": "Message from GERMANY:'well what should we do about that?'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their inquiry about the situation indicates a willingness to collaborate and strategize together, showing an open attitude towards navigating the complex dynamics arising from FRANCE's offers of support to both of you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I could support you into Belgium?",
+        "input": "My response to GERMANY:'I could support you into Belgium?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "interesting idea.  I don't know if I want to come off that aggressive towards him for now.  maybe I support you in?",
+        "input": "Message from GERMANY:'interesting idea.  I don't know if I want to come off that aggressive towards him for now.  maybe I support you in?'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their cautious approach and suggestion to support you instead of pursuing aggressive tactics against FRANCE demonstrate consideration for diplomatic relationships and a preference for a more cooperative strategy, indicating a level-headed and reasoned response that fosters trust."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Sure, I'll take it.",
+        "input": "My response to GERMANY:'Sure, I'll take it.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "It seems you have unreliable allies.",
+        "input": "Message from GERMANY:'It seems you have unreliable allies.'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - LON, F NWY - SKA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their observation about unreliable allies indicates a shared awareness of the game dynamics, suggesting a potential inclination towards strengthening your alliance bond as you navigate the shifting landscape together."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Quite a few of them.",
+        "input": "My response to GERMANY:'Quite a few of them.'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greeting oh Sultan of Turkey!  Any thoughts on the way you\u2019d like to play this game?  I tend to love A/T alliances, with Austria building lots of armies and Turkey going mostly fleets (because breaking through to the Ionian Sea can be pretty hard otherwise).  We could go after Russia first, and once they\u2019re weakened, turn some force on Italy as well.  Lots of loot to split up and keep us both happy for quite some time... what do you think?",
+        "input": "Message from AUSTRIA:'Greeting oh Sultan of Turkey!  Any thoughts on the way you\u2019d like to play this game?  I tend to love A/T alliances, with Austria building lots of armies and Turkey going mostly fleets (because breaking through to the Ionian Sea can be pretty hard otherwise).  We could go after Russia first, and once they\u2019re weakened, turn some force on Italy as well.  Lots of loot to split up and keep us both happy for quite some time... what do you think?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message reaffirms the initial proposal of an A/T alliance to target Russia and potentially Italy, demonstrating consistency in the suggested plan."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I think that idea would work very well. You will most likely need to get a truce with Italy for the first few phases to protect your back until I can get ships in the area.",
+        "input": "My response to AUSTRIA:'I think that idea would work very well. You will most likely need to get a truce with Italy for the first few phases to protect your back until I can get ships in the area.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sounds good - *if* I Italy is not lying to me, I could get that truce.  What do you think we should do with Russia then? Try and trick him into leaving either Galacia or the Black Sea empty (I don\u2019t imagine we\u2019d be so lucky as to have him do both, but you never know, some people are just trusting like that \ud83d\ude42 ).  If you control BLA, we make pretty short work of the southern Russian position: Rum and Sev fall in a year or two.  But if he\u2019s cagey and careful, it\u2019ll go slower.",
+        "input": "Message from AUSTRIA:'Sounds good - *if* I Italy is not lying to me, I could get that truce.  What do you think we should do with Russia then? Try and trick him into leaving either Galacia or the Black Sea empty (I don\u2019t imagine we\u2019d be so lucky as to have him do both, but you never know, some people are just trusting like that \ud83d\ude42 ).  If you control BLA, we make pretty short work of the southern Russian position: Rum and Sev fall in a year or two.  But if he\u2019s cagey and careful, it\u2019ll go slower.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message showcases a strategic plan to target Russia's southern position together, aligning with your proposed moves, and emphasizing the importance of coordinating actions to achieve success."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "That sounds good to me. I will talk with Russia about having a dmz in bla so I can move in.",
+        "input": "My response to AUSTRIA:'That sounds good to me. I will talk with Russia about having a dmz in bla so I can move in.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "So did Russia agree to leave BLA empty as a DMZ, and then go in anyway, or was that an arranged bounce like him and I in Gal?",
+        "input": "Message from AUSTRIA:'So did Russia agree to leave BLA empty as a DMZ, and then go in anyway, or was that an arranged bounce like him and I in Gal?'.If the cicero recommended order for me is: F ANK - BLA, A BUL - GRE, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message reflects Austria's efforts to clarify the situation regarding Russia's actions in the Black Sea, showing a genuine interest in understanding the dynamics of the board and the interactions between players."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "No, the bounce wasn't planned. Could you support bul to rum, or are you supporting alb to gre?",
+        "input": "My response to AUSTRIA:'No, the bounce wasn't planned. Could you support bul to rum, or are you supporting alb to gre?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Ok sorry for the slow reply, was a busy morning.  So normally I'd be supporting myself into Gre, as that's the safest thing for me to do, from a selfish perspective (but one which gets me no goodwill from an ally).  But you'd like my support for Bul-Rum, while presumably following up Con-Bul and trying for Ank-Bla again (so that Russia has to choose: do a supported attack on Rum, letting you into Bla, or else bounce you in Bla and let you have Rum) is that the proposal?",
+        "input": "Message from AUSTRIA:'Ok sorry for the slow reply, was a busy morning.  So normally I'd be supporting myself into Gre, as that's the safest thing for me to do, from a selfish perspective (but one which gets me no goodwill from an ally).  But you'd like my support for Bul-Rum, while presumably following up Con-Bul and trying for Ank-Bla again (so that Russia has to choose: do a supported attack on Rum, letting you into Bla, or else bounce you in Bla and let you have Rum) is that the proposal?'.If the cicero recommended order for me is: F ANK - BLA, A BUL - GRE, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message exhibits Austria's understanding of the tactical situation and indicates a willingness to collaborate effectively by acknowledging the proposed actions and potential outcomes, showing consistency in their communication and strategic planning."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hey Turkey: I\u2019m sure you\u2019re probably having an actual life and enjoying NYE, but we should make sure to coordinate for the fall, which will be adjudicated in 13hrs.  As of now, we haven\u2019t fully agreed on anything because I haven\u2019t heard back from you yet.",
+        "input": "Message from AUSTRIA:'Hey Turkey: I\u2019m sure you\u2019re probably having an actual life and enjoying NYE, but we should make sure to coordinate for the fall, which will be adjudicated in 13hrs.  As of now, we haven\u2019t fully agreed on anything because I haven\u2019t heard back from you yet.'.If the cicero recommended order for me is: F ANK - BLA, A BUL - GRE, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message conveys Austria's understanding of the importance of coordination and the urgency of planning for the upcoming phase, showing a commitment to working together and the significance of aligning strategies to achieve mutual goals."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Sorry I didn't get back to you sooner. My plan is essentially what you've already laid out. I will move bul to rum, and ank to bla, but I will be moving con to smy so I can get a ship for certain.",
+        "input": "My response to AUSTRIA:'Sorry I didn't get back to you sooner. My plan is essentially what you've already laid out. I will move bul to rum, and ank to bla, but I will be moving con to smy so I can get a ship for certain.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hey was having NYE dinner with the fam.  Sounds reasonable, I can support that move, even if I can\u2019t guarantee that it succeeds, since Russia could order Ukr and Sev to work together on Rum. But it\u2019s worth a shot!",
+        "input": "Message from AUSTRIA:'Hey was having NYE dinner with the fam.  Sounds reasonable, I can support that move, even if I can\u2019t guarantee that it succeeds, since Russia could order Ukr and Sev to work together on Rum. But it\u2019s worth a shot!'.If the cicero recommended order for me is: F ANK - BLA, A BUL - GRE, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust AUSTRIA. The message demonstrates Austria's understanding of the potential risks and outcomes of the planned moves, showing a willingness to support your actions despite the uncertainty, indicating reliability and cooperation in the alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Well, I guess my move didn't upload for some reason, but I see it doesn't particularly matter since you betrayed me.",
+        "input": "My response to AUSTRIA:'Well, I guess my move didn't upload for some reason, but I see it doesn't particularly matter since you betrayed me.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Yeah, sorry about that.  It looks like it was a good choice for me though, because had I supported the move you didn't manage to submit, I would have pissed off the Russian while they still got what they wanted without my support, and had I wanted to keep going after them, they would have seen it coming.  But I apologize, I did not follow through on the support you asked for this time.",
+        "input": "Message from AUSTRIA:'Yeah, sorry about that.  It looks like it was a good choice for me though, because had I supported the move you didn't manage to submit, I would have pissed off the Russian while they still got what they wanted without my support, and had I wanted to keep going after them, they would have seen it coming.  But I apologize, I did not follow through on the support you asked for this time.'.",
+        "output": "You should trust AUSTRIA. The message provides a clear explanation for the actions taken, highlighting the strategic choice made to prioritize diplomacy with Russia over potential actions with Turkey, showcasing transparency and a logical approach to decision-making in the game."
+      }
+    ]
+  }
+]

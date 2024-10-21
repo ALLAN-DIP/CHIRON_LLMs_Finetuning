@@ -1,0 +1,68 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?",
+        "input": "Message from RUSSIA:'So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. The proposal of a northern triple could be a diversion tactic to mask Russian intentions, and the nature of the suggested alliance could potentially leave you in a vulnerable position on the board. It's better to maintain caution and consider other alliances that might better serve your interests in the long run."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey! That sounds like a good route, I'm up for it",
+        "input": "My response to RUSSIA:'Hey! That sounds like a good route, I'm up for it'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Have you talked to England about it yet?",
+        "input": "My response to RUSSIA:'Have you talked to England about it yet?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "England's on board, as far as I can tell",
+        "input": "Message from RUSSIA:'England's on board, as far as I can tell'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. The confirmation that England is also on board with the proposed alliance aligns with the previous conversation and increases the likelihood of the alliance being genuine and beneficial for your position on the board."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Awesome, I talked to them about being on board too",
+        "input": "My response to RUSSIA:'Awesome, I talked to them about being on board too'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What are you thinking for your initial moves?",
+        "input": "My response to RUSSIA:'What are you thinking for your initial moves?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.",
+        "input": "Message from RUSSIA:'So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.'.If the cicero recommended order for me is: F DEN S F BAL - SWE, A HOL S A RUH - BEL, A RUH - BEL, F BAL - SWE, A MUN H. Should I trust RUSSIA?",
+        "output": "You should trust the message. The warning about the potential dangers of a Western triple for Germany aligns with strategic Diplomacy advice, and the insight provided by Russia could be crucial for your decision-making in maintaining a strong position on the board."
+      }
+    ]
+  }
+]

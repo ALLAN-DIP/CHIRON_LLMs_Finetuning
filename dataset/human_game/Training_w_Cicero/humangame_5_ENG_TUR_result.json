@@ -1,0 +1,574 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "We are ever so far apart, but let's keep in touch ya (especially if you want to head Russia's way~~)",
+        "input": "My response to TURKEY:'We are ever so far apart, but let's keep in touch ya (especially if you want to head Russia's way~~)'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sure, I think it would be great to keep in touch",
+        "input": "Message from TURKEY:'Sure, I think it would be great to keep in touch'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should not trust the message. The previous message from TURKEY indicates a potential interest in working towards Russia, which may contradict the willingness to maintain contact with you given your current plans."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Great ~~ sounds good",
+        "input": "My response to TURKEY:'Great ~~ sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Hey England, looks like I'll be pitted against Russia for the game so if you want to work together that would be awesome",
+        "input": "Message from TURKEY:'Hey England, looks like I'll be pitted against Russia for the game so if you want to work together that would be awesome'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should trust the message. TURKEY's goal aligns with the message given the current board status, making it beneficial for you to consider working together against their common enemy, Russia."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I'll definitely see what I can do -- with Russia getting into Sweden for free, that's not good for either of us",
+        "input": "My response to TURKEY:'I'll definitely see what I can do -- with Russia getting into Sweden for free, that's not good for either of us'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Yeah, did you talk to germany or are they just away?",
+        "input": "Message from TURKEY:'Yeah, did you talk to germany or are they just away?'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should not trust the message. The question about whether Germany is inactive or not raises doubts about Turkey's intentions, given their previous proposition to work together against Russia."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I've heard from them, I think they just weren't used to the interface or something",
+        "input": "My response to TURKEY:'I've heard from them, I think they just weren't used to the interface or something'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Hm, alright. Let's hope they make up for it then",
+        "input": "Message from TURKEY:'Hm, alright. Let's hope they make up for it then'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should trust the message. The message from Turkey seems supportive and doesn't raise any immediate red flags based on the current context of the conversation."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Do you have any plans to go for Stp?",
+        "input": "Message from TURKEY:'Do you have any plans to go for Stp?'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should not trust the message. The sudden inquiry about your plans regarding St. Petersburg could indicate Turkey's potential interest in stalling or obstructing your strategy in that direction."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I probably will, tho I think sweden'll come first",
+        "input": "My response to TURKEY:'I probably will, tho I think sweden'll come first'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Depends on pressure of germany but taking nwy will put you adjacent to stp, forcing his hand",
+        "input": "Message from TURKEY:'Depends on pressure of germany but taking nwy will put you adjacent to stp, forcing his hand'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's suggestion to take Norway to pressure Russia into defending St. Petersburg could possibly benefit Turkey's position or strategy rather than being solely in your favor."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yea, for sure",
+        "input": "My response to TURKEY:'Yea, for sure'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "wow both you and france are off to great starts",
+        "input": "Message from TURKEY:'wow both you and france are off to great starts'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's observation about both you and France having great starts aligns with the current board status where both England and France have expanded their positions successfully."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Do you know what france is planning to do?",
+        "input": "Message from TURKEY:'Do you know what france is planning to do?'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's inquiry about France's plans could indicate their intentions to potentially exploit information about your relationship with France for their benefit."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Im really not too sure, the Brest build has me kinda nervous tbh",
+        "input": "My response to TURKEY:'Im really not too sure, the Brest build has me kinda nervous tbh'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "F did have three builds. I can see why F would notwant to waste it and they kind of don't have anywhere to go but through Germany, Italy or you",
+        "input": "Message from TURKEY:'F did have three builds. I can see why F would notwant to waste it and they kind of don't have anywhere to go but through Germany, Italy or you'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's analysis of France's situation appears reasonable and offers insights into the potential constraints and options available for France to take action, showing a clear understanding of the game dynamics."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Best to convince them that Germany is the right choice given the prominence of Russia & Austria",
+        "input": "Message from TURKEY:'Best to convince them that Germany is the right choice given the prominence of Russia & Austria'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's suggestion to steer France towards Germany due to the threat posed by Russia and Austria aligns with your strategic interest in maintaining stability in the region by preventing a potential French incursion towards your territories."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "That's the plan yea -- we'll see how it goes anyways",
+        "input": "My response to TURKEY:'That's the plan yea -- we'll see how it goes anyways'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "How are things on your end of the continent?",
+        "input": "My response to TURKEY:'How are things on your end of the continent?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Seems russia & austria are pretty close. I'm hoping austria will get uncomfortable being so open to a russia stab at least or their alliance falls apart.",
+        "input": "Message from TURKEY:'Seems russia & austria are pretty close. I'm hoping austria will get uncomfortable being so open to a russia stab at least or their alliance falls apart.'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's assessment of the situation between Russia and Austria indicates an awareness of the dynamics on their side of the board, which could lead to potential opportunities for collaboration or shifting alliances."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Now the question is if that happens before or after I get waltzed over",
+        "input": "Message from TURKEY:'Now the question is if that happens before or after I get waltzed over'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's statement reveals their vulnerability and genuine concern about being potentially overwhelmed, indicating a level of honesty that could lead to a sincere alliance or collaboration for mutual benefit."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Italy doesn't seem too competent. Not sure.",
+        "input": "Message from TURKEY:'Italy doesn't seem too competent. Not sure.'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's assessment of Italy's competency may indicate a willingness to exploit Italy's perceived weaknesses, potentially using them as a tool in their own strategy without genuine intentions for collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Yea lol",
+        "input": "My response to TURKEY:'Yea lol'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Russia's looking kinda scary to be honest",
+        "input": "My response to TURKEY:'Russia's looking kinda scary to be honest'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Their board setup is on point atm. They may have some weakness if you can get 3 fleets to Stp but that's about it",
+        "input": "Message from TURKEY:'Their board setup is on point atm. They may have some weakness if you can get 3 fleets to Stp but that's about it'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's analysis of Russia's strengths and potential weaknesses demonstrates a clear understanding of the game situation and provides strategic advice on how to potentially counteract Russia's power, showing a willingness to collaborate in facing common threats."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Maybe if germany wakes up",
+        "input": "Message from TURKEY:'Maybe if germany wakes up'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's reliance on Germany waking up to address the Russian threat implies a lack of proactive agency on their part and may indicate a strategy that hinges on external factors rather than active collaboration."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Tbh, I'm not sure Austria should allow Russia to gain more ground.",
+        "input": "Message from TURKEY:'Tbh, I'm not sure Austria should allow Russia to gain more ground.'.If the cicero recommended order for me is: F EDI - NTH, A LON H, F NTH - HEL, A DEN - KIE, F NWY S F EDI - NTH. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's concern about Austria allowing Russia to expand may indicate a potential opportunity for collaboration or a shared interest in containing Russian growth, suggesting a willingness to work together towards common goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "me and France should be able to hold them in north if France doesn't end up stabbing me at least, but they could definitely get out of control if Austria slips up ya",
+        "input": "My response to TURKEY:'me and France should be able to hold them in north if France doesn't end up stabbing me at least, but they could definitely get out of control if Austria slips up ya'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "The way it's looking, we're going to have to work together against France.",
+        "input": "Message from TURKEY:'The way it's looking, we're going to have to work together against France.'.",
+        "output": "You should trust the message. Turkey's recognition of the growing threat posed by France indicates a potential shift in their strategy towards collaboration and aligning their interests with yours in countering a common adversary."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1905M",
+        "message": "What makes you say that?",
+        "input": "My response to TURKEY:'What makes you say that?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "Well, F wins when they get 16 centers. They will get +1 from italy, that is 12. Then Mun, Tyr are fairly easy. 14. You see where I'm getting at?",
+        "input": "Message from TURKEY:'Well, F wins when they get 16 centers. They will get +1 from italy, that is 12. Then Mun, Tyr are fairly easy. 14. You see where I'm getting at?'.",
+        "output": "You should trust the message. Turkey's analysis of France's potential path to victory and the ease with which they could gain more centers emphasizes the urgency of collaborating to prevent France from achieving a dominant position."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "ah it's 18 actually.",
+        "input": "Message from TURKEY:'ah it's 18 actually.'.",
+        "output": "You should not trust the message. Turkey providing incorrect information about the number of centers required for France to win raises doubts about the accuracy of their analysis and could potentially impact the validity of their strategic assessments."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1905M",
+        "message": "Wait, isn't it 18?",
+        "input": "My response to TURKEY:'Wait, isn't it 18?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "yeah, sorry",
+        "input": "Message from TURKEY:'yeah, sorry'.",
+        "output": "You should trust the message. Turkey's acknowledgment of the mistake and subsequent correction demonstrates transparency and a willingness to acknowledge and rectify errors, enhancing the credibility of their communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1905M",
+        "message": "I'm not saying it's an immediate thing, but something to keep in mind.",
+        "input": "Message from TURKEY:'I'm not saying it's an immediate thing, but something to keep in mind.'.",
+        "output": "You should trust the message. Turkey's statement about the potential threat posed by France, while not urgent, indicates a strategic awareness that could lead to future collaboration or discussions on how to address the growing power of France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1905M",
+        "message": "For sure \ud83d\udc4d",
+        "input": "My response to TURKEY:'For sure \ud83d\udc4d'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "Alright, I'm going for Sev. You can take War but after we should strategize what to do with france",
+        "input": "Message from TURKEY:'Alright, I'm going for Sev. You can take War but after we should strategize what to do with france'.If the cicero recommended order for me is: A LON - WAL, F NTH - HEL, A DEN - KIE, F NWY - NTH, F BAL S F BER, A STP - MOS, F BER S A DEN - KIE, A PRU S A MOS - WAR, A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's straightforward communication about their intentions to go for Sevastopol and discussing future plans regarding France displays openness and potential willingness to coordinate efforts towards common goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "Ok, yea",
+        "input": "My response to TURKEY:'Ok, yea'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "It seems F is getting ready for moving into England proper.",
+        "input": "Message from TURKEY:'It seems F is getting ready for moving into England proper.'.If the cicero recommended order for me is: A LON - WAL, F NTH - HEL, A DEN - KIE, F NWY - NTH, F BAL S F BER, A STP - MOS, F BER S A DEN - KIE, A PRU S A MOS - WAR, A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's warning about France potentially targeting England indicates a shared interest in preventing aggression from France and suggests a need for coordinated defense or proactive measures to counteract the perceived threat."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "Yes, I am building defensively",
+        "input": "My response to TURKEY:'Yes, I am building defensively'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "Ok great",
+        "input": "Message from TURKEY:'Ok great'.If the cicero recommended order for me is: A LON - WAL, F NTH - HEL, A DEN - KIE, F NWY - NTH, F BAL S F BER, A STP - MOS, F BER S A DEN - KIE, A PRU S A MOS - WAR, A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's brief and positive response to your defensive preparations indicates a mutual understanding of the current situation and potentially sets the stage for further collaboration or communication on future strategies."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "I'm trying to pick up the last scraps of Austria but from then on it's going to be tough fighting",
+        "input": "Message from TURKEY:'I'm trying to pick up the last scraps of Austria but from then on it's going to be tough fighting'.If the cicero recommended order for me is: A LON - WAL, F NTH - HEL, A DEN - KIE, F NWY - NTH, F BAL S F BER, A STP - MOS, F BER S A DEN - KIE, A PRU S A MOS - WAR, A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's honesty about the upcoming challenges in their gameplay and the obstacles they anticipate facing showcases transparency and could indicate a potential for future collaboration or alliance discussions."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "Good job on the defense of the channel so far!  I'm tying down F's fleet mostly in the Mediterranean",
+        "input": "Message from TURKEY:'Good job on the defense of the channel so far!  I'm tying down F's fleet mostly in the Mediterranean'.If the cicero recommended order for me is: F LON - ENG, F NTH S F LON - ENG, A WAL - LVP, A DEN S F KIE, F BAL - BER, F KIE S F BAL - BER, A STP - MOS, A MOS - WAR, A SIL S A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's acknowledgment of your successful defense in the Channel and their apparent effort to contain France's fleet in the Mediterranean show alignment in strategic objectives, indicating a cooperative relationship."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Yep, the going's good -- do you need any support into sev or do you have that all covered?",
+        "input": "My response to TURKEY:'Yep, the going's good -- do you need any support into sev or do you have that all covered?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "I'm good, thanks.",
+        "input": "Message from TURKEY:'I'm good, thanks.'.If the cicero recommended order for me is: F LON - ENG, F NTH S F LON - ENG, A WAL - LVP, A DEN S F KIE, F BAL - BER, F KIE S F BAL - BER, A STP - MOS, A MOS - WAR, A SIL S A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's concise response signals that they do not require support at the moment and demonstrates a straightforward and uncomplicated communication, which increases the likelihood of a sincere and clear understanding between you both."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Alright \ud83d\udc4d",
+        "input": "My response to TURKEY:'Alright \ud83d\udc4d'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "I'll probably swing by Gal next year for support on Vie. I'm not sure if A is going to ally with F.",
+        "input": "Message from TURKEY:'I'll probably swing by Gal next year for support on Vie. I'm not sure if A is going to ally with F.'.If the cicero recommended order for me is: F LON - ENG, F NTH S F LON - ENG, A WAL - LVP, A DEN S F KIE, F BAL - BER, F KIE S F BAL - BER, A STP - MOS, A MOS - WAR, A SIL S A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's indication of potential future moves and uncertainties in Austria's alliances portrays openness and a willingness to share plans, suggesting a level of trust in the ongoing communication between both parties."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Ok, that sounds reasonable to me -- if we could DMZ ukr though, I'd appreciate that",
+        "input": "My response to TURKEY:'Ok, that sounds reasonable to me -- if we could DMZ ukr though, I'd appreciate that'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "Sure, that's fine with me.",
+        "input": "Message from TURKEY:'Sure, that's fine with me.'.If the cicero recommended order for me is: F LON - ENG, F NTH S F LON - ENG, A WAL - LVP, A DEN S F KIE, F BAL - BER, F KIE S F BAL - BER, A STP - MOS, A MOS - WAR, A SIL S A MOS - WAR. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's agreement to your proposal for a DMZ in Ukraine indicates a willingness to cooperate and uphold agreements, fostering trust in the ongoing diplomatic relationship between both parties."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Thanks \ud83d\udc4d",
+        "input": "My response to TURKEY:'Thanks \ud83d\udc4d'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "Anyways, what do you think of drawing once Austria and Russia are gone -- I don't think anyone else can get eliminated before the game ends in 1910",
+        "input": "My response to TURKEY:'Anyways, what do you think of drawing once Austria and Russia are gone -- I don't think anyone else can get eliminated before the game ends in 1910'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1908M",
+        "message": "We really aught to get rid of Russia soon if we want to make sure they can't sneak their way into the final draw in 1910",
+        "input": "My response to TURKEY:'We really aught to get rid of Russia soon if we want to make sure they can't sneak their way into the final draw in 1910'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1908M",
+        "message": "Sure, yeah",
+        "input": "Message from TURKEY:'Sure, yeah'.",
+        "output": "You should not trust the message. Turkey's response lacks commitment or elaboration, which may indicate a lack of genuine agreement or further strategic insight into the suggestion of eliminating Russia before the final draw in 1910."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "I'll support you in then?",
+        "input": "My response to TURKEY:'I'll support you in then?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Alright, I've got Gal standing by",
+        "input": "Message from TURKEY:'Alright, I've got Gal standing by'.If the cicero recommended order for me is: A EDI - KIE VIA, F LON S F BEL - ENG, F LVP - IRI, F NTH C A EDI - KIE, A WAL H, F BEL - ENG, F HEL C A EDI - KIE, A HOL - RUH, F KIE - BAL, A LVN - WAR, A MOS S A LVN - WAR, A SIL - MUN. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's acknowledgment of having support from Galicia indicates reliability and a commitment to the agreed-upon plan, suggesting a cooperative stance that aligns with the supportive role you offered."
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "I'm so confused -- it's not like you have any real chance of eliminating me at this point",
+        "input": "My response to TURKEY:'I'm so confused -- it's not like you have any real chance of eliminating me at this point'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1909M",
+        "message": "Yeah, I wasn't convinced you would support my move because we're still fighting for most centers",
+        "input": "Message from TURKEY:'Yeah, I wasn't convinced you would support my move because we're still fighting for most centers'.If the cicero recommended order for me is: F LON - ENG, F NTH S F BEL, A WAL H, F IRI - MAO, F BEL S F LON - ENG, F HEL H, A HOL S F BEL, F BAL H, A KIE S A SIL - MUN, A LVN S A MOS, A MOS S A GAL - WAR, A SIL - MUN. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's reasoning regarding your potential lack of support aligns with the competitive dynamic for centers between your two nations, demonstrating a rational assessment of the situation and a realistic perspective on the ongoing conflict."
+      }
+    ]
+  },
+  {
+    "name": "W1909M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1909M",
+        "message": "Well anyways, now we really have to get rid of the Russian -- I'll support you in?",
+        "input": "My response to TURKEY:'Well anyways, now we really have to get rid of the Russian -- I'll support you in?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1909M",
+        "message": "And you can support yourself in too if you want to be safe I guess",
+        "input": "My response to TURKEY:'And you can support yourself in too if you want to be safe I guess'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1909M",
+        "message": "Though I have absolutely zero reason to stab you at this point lol",
+        "input": "My response to TURKEY:'Though I have absolutely zero reason to stab you at this point lol'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "Ok, I'll just take war -- don't tap sil and we'll be good",
+        "input": "My response to TURKEY:'Ok, I'll just take war -- don't tap sil and we'll be good'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "-- let me know if you received this ok ?",
+        "input": "My response to TURKEY:'-- let me know if you received this ok ?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1910M",
+        "message": "Heya",
+        "input": "Message from TURKEY:'Heya'.If the cicero recommended order for me is: F NTH H, F ENG S F MAO - BRE, F IRI - MAO, A BEL - BUR, F HEL H, A HOL - RUH, F MAO - BRE, F BAL - BER, A KIE S A SIL - MUN, A LVN S A MOS, A MOS H, A SIL - MUN. Should I trust TURKEY?",
+        "output": "You should not trust the message. The abrupt and disconnected nature of Turkey's message does not offer any indication of their strategic intentions, which could lead to uncertainty regarding their plans and potential alignment with your interests."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1910M",
+        "message": "Sure let's do that.",
+        "input": "Message from TURKEY:'Sure let's do that.'.If the cicero recommended order for me is: F NTH H, F ENG S F MAO - BRE, F IRI - MAO, A BEL - BUR, F HEL H, A HOL - RUH, F MAO - BRE, F BAL - BER, A KIE S A SIL - MUN, A LVN S A MOS, A MOS H, A SIL - MUN. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's agreement with your proposed course of action demonstrates a willingness to cooperate and follow through on the mutually beneficial plan, indicating a level of trustworthiness in their communication."
+      }
+    ]
+  }
+]

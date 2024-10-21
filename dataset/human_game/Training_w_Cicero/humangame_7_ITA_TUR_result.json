@@ -1,0 +1,134 @@
+[
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I can support you in Trieste and leave you to convoy to Greece.",
+        "input": "Message from TURKEY:'I can support you in Trieste and leave you to convoy to Greece.'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. TURKEY does not have any units in a position to support you into Trieste, so their offer seems unlikely to be genuine."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "He speaks!",
+        "input": "My response to TURKEY:'He speaks!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I could say the same thing, what about what i said",
+        "input": "Message from TURKEY:'I could say the same thing, what about what i said'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their response indicates they are interested in continuing the conversation and potentially working together, which aligns with their previous proposal to support you in Trieste."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I think Austria is about dead anyway. Might as well.",
+        "input": "My response to TURKEY:'I think Austria is about dead anyway. Might as well.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ok lets do that",
+        "input": "Message from TURKEY:'Ok lets do that'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Your statement about Austria being \"about dead anyway\" could be seen as a sign that you may not fully trust them, potentially leading to an unreliable alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Austria just became a vassal of russia. We have to start talking at least.",
+        "input": "Message from TURKEY:'Austria just became a vassal of russia. We have to start talking at least.'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their acknowledgment of the evolving situation with Austria and the suggestion to start talking indicates a willingness to adapt and potentially work together in light of changing circumstances."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Agreed, I'm seeing it too",
+        "input": "My response to TURKEY:'Agreed, I'm seeing it too'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something",
+        "input": "Message from TURKEY:'now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their acknowledgment of the threat posed by Russia and the desire to strategize on how to counter it shows a shared understanding of the game dynamics and a potential alignment of interests between you and Turkey."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "what would you have me do?",
+        "input": "My response to TURKEY:'what would you have me do?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Will you be able to arrange convoying the army back?",
+        "input": "Message from TURKEY:'Will you be able to arrange convoying the army back?'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, F APU - ADR, A SYR - ARM. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their question about convoying your army back shows a proactive approach to coordination and suggests a willingness to work together strategically."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "I'll try",
+        "input": "My response to TURKEY:'I'll try'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Armenia?",
+        "input": "Message from TURKEY:'Armenia?'.If the cicero recommended order for me is: A TYR - VIE, F ION - AEG, A ARM - SMY, F ADR - TRI. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Their short message about Armenia without context or further elaboration raises suspicions about their intentions regarding that region. Be cautious in your interactions with Turkey."
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "We are going to lose anyway by the 1910",
+        "input": "Message from TURKEY:'We are going to lose anyway by the 1910'.If the cicero recommended order for me is: F NAP S A ROM, A ROM S A TRI - VEN, A VIE - TRI. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Given their assessment of the situation as unfavorable for both of you, their honesty and realism may indicate a genuine willingness to work together for a potentially mutual benefit in the upcoming turns."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "But we can at least work together, you, me and austria together to ensure we at least survive",
+        "input": "Message from TURKEY:'But we can at least work together, you, me and austria together to ensure we at least survive'.If the cicero recommended order for me is: F NAP S A ROM, A ROM S A TRI - VEN, A VIE - TRI. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their suggestion to work together with Austria and you to ensure survival indicates a willingness to collaborate and a potential shift towards a cooperative strategy for mutual survival."
+      }
+    ]
+  }
+]

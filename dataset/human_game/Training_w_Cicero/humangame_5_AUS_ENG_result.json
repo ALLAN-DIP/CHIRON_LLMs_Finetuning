@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "England, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.",
+        "input": "My response to ENGLAND:'England, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Agreed, but I would also be happy to",
+        "input": "Message from ENGLAND:'Agreed, but I would also be happy to'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should not trust the message. The message from ENGLAND lacks a clear continuation due to being cut-off mid-sentence, which may indicate a potential issue with communication or intent."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Good to hear. Awaiting messages from Russia who I imagine is the most important player that we both need to deal with.",
+        "input": "My response to ENGLAND:'Good to hear. Awaiting messages from Russia who I imagine is the most important player that we both need to deal with.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "So far, they've promised me they're not going for a Juggernaut, but pretty much every Russia would say that",
+        "input": "Message from ENGLAND:'So far, they've promised me they're not going for a Juggernaut, but pretty much every Russia would say that'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. The message from ENGLAND shows a level of transparency regarding their interaction with Russia, indicating a potential willingness to collaborate and share information which aligns with your current game strategy of maintaining communication with multiple players."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "They also told me they wanted to go after Turkey early; have you heard anything about that? Cuz if not, I'd have to think he's being sneaky ya",
+        "input": "Message from ENGLAND:'They also told me they wanted to go after Turkey early; have you heard anything about that? Cuz if not, I'd have to think he's being sneaky ya'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should not trust the message. ENGLAND's message shows a level of doubt regarding their conversation with Russia, suggesting potential inconsistencies or misinformation, which might indicate a lack of reliability in their statements."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Russia said the same to me",
+        "input": "My response to ENGLAND:'Russia said the same to me'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Ah ok, that's a bit reassuring at least",
+        "input": "Message from ENGLAND:'Ah ok, that's a bit reassuring at least'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. The response from ENGLAND indicates a positive reaction to the information provided, showing a willingness to consider and acknowledge your input, which suggests a potential openness to collaboration and alignment in your strategic approach."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "Just a heads up I'll be moving to Mun again, so we'll end up bouncing if you go for it",
+        "input": "Message from ENGLAND:'Just a heads up I'll be moving to Mun again, so we'll end up bouncing if you go for it'.If the cicero recommended order for me is: A TYR - MUN. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's message provides a clear and specific warning about their intended move to Munich, demonstrating transparency and potential cooperation by avoiding unnecessary conflict with you if you choose to go for that territory."
+      }
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?",
+        "input": "Message from RUSSIA:'Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. The proposal for an alliance from Russia, coupled with their diplomatic outreach, indicates a willingness to collaborate and build a positive relationship on the board. Proceed with caution and consider establishing a fruitful alliance with Russia based on shared strategic goals."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.",
+        "input": "My response to RUSSIA:'I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sounds good lets call a dmz in the black sea",
+        "input": "Message from RUSSIA:'Sounds good lets call a dmz in the black sea'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's agreement to establish a DMZ in the Black Sea aligns with the proposal made earlier, indicating a commitment to the alliance and a diplomatic effort to solidify the relationship. Their actions seem to be consistent with the proposed plan, suggesting a level of trustworthiness in their communication."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "What's our move this year?",
+        "input": "Message from RUSSIA:'What's our move this year?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - ARM, A BUL S A BUD - RUM, A CON S A BUL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's inquiry about the joint moves for the year signals a collaborative approach and a desire to coordinate actions with you. This demonstrates a genuine interest in working together towards common goals on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I've been away from the game for a while",
+        "input": "Message from RUSSIA:'I've been away from the game for a while'.If the cicero recommended order for me is: F ANK - BLA, A SMY - ARM, A BUL S A BUD - RUM, A CON S A BUL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's claim of being away from the game for a while contradicts their previous engagement and request for joint moves, potentially indicating a lack of transparency or commitment to the alliance. Exercise caution and consider reassessing the level of trust with Russia based on this inconsistency."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Not sure yet, what are your thoughts?",
+        "input": "My response to RUSSIA:'Not sure yet, what are your thoughts?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it",
+        "input": "Message from RUSSIA:'Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it'.If the cicero recommended order for me is: F ANK - CON, A SMY - SYR, A CON - SMY. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's openness about their concerns and request for assistance in stopping Italy's potential landings in Syria indicates a willingness to communicate and strategize together. Their sharing of valuable information suggests a genuine attempt to work collaboratively with you to address mutual threats on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.",
+        "input": "My response to RUSSIA:'That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.",
+        "input": "Message from RUSSIA:'Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.'.If the cicero recommended order for me is: F ANK S A CON, A SMY S F ANK, A CON S F ANK. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of missing a previous message, coupled with their proactive effort to assist you in repelling the Italian threat and protect Constantinople, reflects a genuine commitment to the alliance and mutual success. The communication appears consistent with the objective of jointly addressing common adversaries and securing strategic positions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'll defend con from both ank and smy.",
+        "input": "My response to RUSSIA:'I'll defend con from both ank and smy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?",
+        "input": "Message from RUSSIA:'Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?'.If the cicero recommended order for me is: . Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's apology for the previous betrayal, coupled with a reference to the positive experience of working together on the board, suggests an acknowledgment of past actions and a desire to reset the relationship positively. Consider the potential for reconciliation and collaboration with Russia based on their openness and reflection."
+      }
+    ]
+  }
+]

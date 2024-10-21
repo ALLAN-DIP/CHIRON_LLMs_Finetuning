@@ -1,0 +1,75 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy! How\u2019s it going?!",
+        "input": "Message from RUSSIA:'Hey Italy! How\u2019s it going?!'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust RUSSIA?",
+        "output": "You should not trust the message. The message from Russia seems overly friendly with no strategic content, which might indicate an attempt to deceive or distract you from their true intentions. It's better to prioritize your own strategic moves based on the recommended order provided."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey hey, what can I say?",
+        "input": "My response to RUSSIA:'Hey hey, what can I say?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hahha what\u2019s good?",
+        "input": "Message from RUSSIA:'Hahha what\u2019s good?'.",
+        "output": "You should not trust the message. Similar to the previous message, Russia's message appears casual and lacks strategic information, indicating a potential attempt to divert your attention. Stay focused on your own strategic decisions."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To crush your enemies, see them driven before you, and hear the lamentations of their women",
+        "input": "My response to RUSSIA:'To crush your enemies, see them driven before you, and hear the lamentations of their women'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hahahah that\u2019s the spirit sir!",
+        "input": "Message from RUSSIA:'Hahahah that\u2019s the spirit sir!'.If the cicero recommended order for me is: F TUN - ION, A BOH - VIE, F NAP S F TUN - ION, A VEN - TYR. Should I trust RUSSIA?",
+        "output": "You should trust the message. The response from Russia aligns with your tone and content, indicating a friendly interaction. Since there are no apparent discrepancies or signs of deceit, it seems safe to trust Russia based on this exchange."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Hey Italy - what\u2019s good?",
+        "input": "Message from RUSSIA:'Hey Italy - what\u2019s good?'.If the cicero recommended order for me is: F TYS - NAP, A TYR - VEN, A ROM S A TYR - VEN, F APU S A TYR - VEN. Should I trust RUSSIA?",
+        "output": "You should not trust the message. While the message seems casual, there have been previous instances where Russia's messages appeared friendly but lacked strategic content, indicating a potential attempt to mislead. It's best to focus on your strategic orders independently."
+      }
+    ]
+  }
+]

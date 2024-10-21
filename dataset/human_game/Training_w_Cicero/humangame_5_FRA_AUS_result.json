@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "France, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.",
+        "input": "Message from AUSTRIA:'France, it's tough for us to foster relations this early, but I hope we can keep each other posted on any intel we gain from opposite sides of the map from one another.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message. The message from Austria aligns with the diplomatic strategy of exchanging information early in the game, indicating a willingness to cooperate and communicate openly."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I certainly agree. Have you had any dialogue with Germany or Italy yet?",
+        "input": "My response to AUSTRIA:'I certainly agree. Have you had any dialogue with Germany or Italy yet?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Germany and I have agreed to demilitarize bohemia and tyrolia, and nothing from Italy yet. How about you?",
+        "input": "Message from AUSTRIA:'Germany and I have agreed to demilitarize bohemia and tyrolia, and nothing from Italy yet. How about you?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response is consistent with your shared strategy of exchanging information early in the game, and there is no indication of deception in the conversation so far."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I haven\u2019t heard from Germany or Italy. Me and England have agreed to dmz the channel. That\u2019s about it.",
+        "input": "My response to AUSTRIA:'I haven\u2019t heard from Germany or Italy. Me and England have agreed to dmz the channel. That\u2019s about it.'.",
+        "output": ""
+      }
+    ]
+  }
+]

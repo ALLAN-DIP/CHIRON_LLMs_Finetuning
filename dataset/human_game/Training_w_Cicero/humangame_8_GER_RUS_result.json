@@ -1,0 +1,246 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey there - just checking in noting that there are multiple ways our interests can coincide.",
+        "input": "Message from RUSSIA:'Hey there - just checking in noting that there are multiple ways our interests can coincide.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. The message from Russia seems general and lacking specific details that could demonstrate a genuine interest in collaborating. Moreover, the suggested moves for you do not align with typical strategic gameplay, indicating a possible attempt to mislead you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Certainly. Nice to meet you.",
+        "input": "My response to RUSSIA:'Certainly. Nice to meet you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Harrumph - that whole Western side of the board is setting off alarm bells.  I'd really appreciate if you let me into Sweden to slow England down - even if you take the dot next year, it's still to your and my advantage to let me position on him for a turn",
+        "input": "Message from RUSSIA:'Harrumph - that whole Western side of the board is setting off alarm bells.  I'd really appreciate if you let me into Sweden to slow England down - even if you take the dot next year, it's still to your and my advantage to let me position on him for a turn'.If the cicero recommended order for me is: F DEN - SWE, A RUH S F PIC - BEL, A KIE - HOL. Should I trust RUSSIA?",
+        "output": "You should trust the message. The message from Russia demonstrates a clear strategic rationale for requesting access to Sweden and offers a convincing argument regarding the benefits for both your positions. Additionally, the recommended orders provided align with the diplomatic conversation, indicating a potential genuine interest in cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "If I let you in you\u2019ll likely build 3",
+        "input": "My response to RUSSIA:'If I let you in you\u2019ll likely build 3'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not sure what the third is - Rum, Swe, and?  Anyway, again, I fully expect you to take Swe next year - I'm just saying it's in both our interests if you let me convert it to a different unit first.  If you bounce me out I have not way to get rid of the fleet, whereas I can disband it if you dislodge from Swe next year \ud83d\ude42",
+        "input": "Message from RUSSIA:'Not sure what the third is - Rum, Swe, and?  Anyway, again, I fully expect you to take Swe next year - I'm just saying it's in both our interests if you let me convert it to a different unit first.  If you bounce me out I have not way to get rid of the fleet, whereas I can disband it if you dislodge from Swe next year \ud83d\ude42'.If the cicero recommended order for me is: F DEN - SWE, A RUH S F PIC - BEL, A KIE - HOL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia provides a logical explanation for their request and highlights the mutual benefit of allowing them to convert the unit in Sweden before you take it. Their detailed reasoning and acknowledgment of your potential move indicate a genuine attempt to collaborate for mutual gain."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "There third was Vienna \ud83d\ude01",
+        "input": "My response to RUSSIA:'There third was Vienna \ud83d\ude01'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Well, yeah, but there's no rational reality in which that should have worked.  Good thing I forgot to go back in and change my order to Baltic. \ud83d\ude04",
+        "input": "Message from RUSSIA:'Well, yeah, but there's no rational reality in which that should have worked.  Good thing I forgot to go back in and change my order to Baltic. \ud83d\ude04'.",
+        "output": "You should not trust the message. Russia's tone appears dismissive and lacks accountability for their mistake in not adjusting their order. This may indicate a lack of sincerity in their communication and potential strategic manipulation."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Now I'm less glad that I forgot to go back in and change my order to Baltic. \ud83d\ude04",
+        "input": "Message from RUSSIA:'Now I'm less glad that I forgot to go back in and change my order to Baltic. \ud83d\ude04'.If the cicero recommended order for me is: F DEN S A KIE - SWE, A HOL S F BEL, F BAL C A KIE - SWE, A KIE - SWE VIA, A SIL - WAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia seems to be acknowledging their previous mistake in a lighthearted manner, which indicates openness and a willingness to maintain a good relationship. The current message aligns with their previous interactions, suggesting transparency and sincerity in their communication."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Well, this is fun.  On the bright side, looks like France left his English buddy out to dry, so...where do we go from here?",
+        "input": "Message from RUSSIA:'Well, this is fun.  On the bright side, looks like France left his English buddy out to dry, so...where do we go from here?'.If the cicero recommended order for me is: F DEN S A KIE - SWE, A HOL S F BEL, F BAL C A KIE - SWE, A KIE - SWE VIA, A SIL - WAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of the current game situation and willingness to discuss potential future moves in the context of the board position suggests a genuine interest in collaboration and strategizing together. This message aligns with maintaining an open dialogue and exploring mutual benefits."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "So... I'm not following back up to Silesia and Prussia because y'all need to deal with a monster France over there",
+        "input": "Message from RUSSIA:'So... I'm not following back up to Silesia and Prussia because y'all need to deal with a monster France over there'.If the cicero recommended order for me is: A DEN - SWE, A HOL H, F BAL - DEN, F SWE - NWY, A BOH - SIL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's rationale for not supporting you to Silesia and Prussia solely based on the threat of a powerful France may indicate a prioritization of their own interests over collaboration with you. This shift in strategy could suggest a potential deviation from previous cooperation and a focus on their own expansion."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "I'm not sure I actually believe that you're going to just let your units just hang out aimlessly.",
+        "input": "My response to RUSSIA:'I'm not sure I actually believe that you're going to just let your units just hang out aimlessly.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "Mate, you realize I'm just waiting for you guys to commit on France so I can deal with Turkey, right?  That gets harder the longer I have to hang back, btw",
+        "input": "Message from RUSSIA:'Mate, you realize I'm just waiting for you guys to commit on France so I can deal with Turkey, right?  That gets harder the longer I have to hang back, btw'.If the cicero recommended order for me is: A DEN - SWE, A HOL H, F BAL - DEN, F SWE - NWY, A BOH - SIL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's clarification about waiting for your actions against France to then focus on Turkey demonstrates a strategic approach that aligns with previous discussions. Their straightforward explanation of their intentions suggests a continued effort to work together towards common goals."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "My instincts to not trust you were accurate",
+        "input": "My response to RUSSIA:'My instincts to not trust you were accurate'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Say what?  I told you I was standing pat and I did. You responded by claiming you didn't believe I would stand pat even though I just had, and supporting the Austrian against me. So I moved, given it was obvious you were going to remain hostile despite my overtures.",
+        "input": "Message from RUSSIA:'Say what?  I told you I was standing pat and I did. You responded by claiming you didn't believe I would stand pat even though I just had, and supporting the Austrian against me. So I moved, given it was obvious you were going to remain hostile despite my overtures.'.If the cicero recommended order for me is: A HOL H, F SKA - DEN, A SWE - NWY, A BER - PRU, F BOT - STP/SC, A BOH S A VIE. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's defensive and accusatory tone indicating frustration over perceived mistrust suggests a lack of mutual understanding and cooperation. Their decision to move against you based on your response implies a breakdown in communication and trust, indicating a shift in strategy away from collaboration."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "Mate, I'm still just killing time until you realize you have to deal with the French guy who's expanding all the way around your flanks and not cutting you into any of the gains.",
+        "input": "Message from RUSSIA:'Mate, I'm still just killing time until you realize you have to deal with the French guy who's expanding all the way around your flanks and not cutting you into any of the gains.'.",
+        "output": "You should trust the message. Russia's consistent communication about their intention to focus on France and support you against the expanding French threat indicates a shared strategic goal. Their message aligns with previous conversations, demonstrating a continued effort to work together towards mutual interests."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1906M",
+        "message": "Thoughts?",
+        "input": "My response to RUSSIA:'Thoughts?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Now you want my thoughts?",
+        "input": "Message from RUSSIA:'Now you want my thoughts?'.If the cicero recommended order for me is: A DEN H, A HOL H, F NWY - NTH, A KIE S A BER, F SWE - BAL, A MUN S A BER, A BER S A BOH - SIL, A BOH - SIL. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response appears dismissive and may indicate a hint of frustration or sarcasm, which could suggest a lack of patience or willingness to engage in a constructive dialogue. This response may hint at a deteriorating relationship or communication breakdown."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Dots are being thrown your way. Good luck taking down France.",
+        "input": "My response to RUSSIA:'Dots are being thrown your way. Good luck taking down France.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Thank you?",
+        "input": "Message from RUSSIA:'Thank you?'.If the cicero recommended order for me is: A DEN H, A HOL H, F NWY - NWG, A KIE S A BER, F SWE - BAL, A MUN S A BER, A BER S A MUN. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's brief acknowledgment of your message in a polite manner indicates an openness to communication despite the ongoing game dynamics. Their response is neutral and does not show any signs of hostility or manipulation, suggesting a potential for continued cooperation."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1908M",
+        "message": "Now that I have a channel *past* you, I'm happy to ignore you and go pound France. You bring in North sea would be helpful there. No, I'm not putting to on St Pete, because I have to cover your rogue army",
+        "input": "Message from RUSSIA:'Now that I have a channel *past* you, I'm happy to ignore you and go pound France. You bring in North sea would be helpful there. No, I'm not putting to on St Pete, because I have to cover your rogue army'.If the cicero recommended order for me is: A DEN - SWE, F NWY - SKA, F STP/NC - NWY, A SIL - GAL. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's strategic explanation for not moving to St. Petersburg to cover your \"rogue army\" showcases a willingness to prioritize collaboration against a common enemy, France. Their request for your support in the North Sea aligns with their stated objective of focusing on the French threat, indicating a consistent approach to mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "I think I got this too late",
+        "input": "My response to RUSSIA:'I think I got this too late'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "Are you going to let me live?",
+        "input": "My response to RUSSIA:'Are you going to let me live?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Negative, Ghost Rider. The pattern is full.",
+        "input": "Message from RUSSIA:'Negative, Ghost Rider. The pattern is full.'.If the cicero recommended order for me is: A SWE S F NWY. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's direct and clear response indicating that they will not let you live suggests a lack of intention to cooperate or negotiate further. Their use of a film quote in a light-hearted manner to convey their decision may hint at a definitive stance against you."
+      }
+    ]
+  }
+]

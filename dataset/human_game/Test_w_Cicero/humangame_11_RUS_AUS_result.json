@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Russia?",
+        "input": "Message from AUSTRIA:'How\u2019s it going Russia?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria is initiating a friendly conversation with you, which aligns with establishing a positive relationship at the beginning of the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, how's your relationship with Turkey?",
+        "input": "My response to AUSTRIA:'Hi Austria, how's your relationship with Turkey?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Pretty basic so far, how about you?",
+        "input": "Message from AUSTRIA:'Pretty basic so far, how about you?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response is casual and mirrors your friendly tone, indicating a genuine exchange and potential for a cooperative relationship."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Ouch, so aggressive",
+        "input": "Message from AUSTRIA:'Ouch, so aggressive'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's comment seems out of context and slightly confrontational, potentially indicating a hidden agenda or strained relationship."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Living for the bounce!",
+        "input": "My response to AUSTRIA:'Living for the bounce!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I could say the same thing to you",
+        "input": "My response to AUSTRIA:'I could say the same thing to you'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "How\u2019s that?",
+        "input": "Message from AUSTRIA:'How\u2019s that?'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's inquiry seems open-ended and curious, showing an interest in understanding the dynamics or reasoning behind your previous statement, potentially leading to a deeper conversation or alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "rumania is yours if you want it!",
+        "input": "My response to AUSTRIA:'rumania is yours if you want it!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Sounds good!",
+        "input": "Message from AUSTRIA:'Sounds good!'.If the cicero recommended order for me is: A FIN - SWE, F BOT S A FIN - SWE, A WAR - MOS, F SEV - RUM, A GAL - VIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's positive response to your offer aligns with the friendly and cooperative dynamics between both of you, indicating a potential willingness to work together and honor agreements."
+      }
+    ]
+  }
+]

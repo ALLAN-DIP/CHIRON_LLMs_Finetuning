@@ -1,0 +1,68 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey there!  Just your friendly neighborhood Russian Bear here, checking in and letting you know communication channels are open.  \nI assume we're looking at a standard Black Sea bounce, see how the rest of the Spring board looks, and going from there?",
+        "input": "My response to TURKEY:'Hey there!  Just your friendly neighborhood Russian Bear here, checking in and letting you know communication channels are open.  \nI assume we're looking at a standard Black Sea bounce, see how the rest of the Spring board looks, and going from there?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi yes happy to bounce Black Sea \ud83c\udf0a what are your thoughts on austria?",
+        "input": "Message from TURKEY:'Hi yes happy to bounce Black Sea \ud83c\udf0a what are your thoughts on austria?'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust TURKEY?",
+        "output": "You should not trust the message. The sudden shift in focus from discussing game moves to inquiring about another player's intentions without any previous foundation raises suspicions about potential ulterior motives."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Betrayed?  Bewildered?  Wrong answer?\nSeriously, no real opinion formed yet.  He was first to reach out, standard fairly neutral greeting and fishing for info, noncommittal on plans  beyond bouncing Galicia and trying not to anger any of his neighbors.  I could go either way on that one.  Life is a little easier for us if we clear that early.\nSo far the only player that strikes me as a bit of a wildcard is Italy.  I suspect that one's going to move aggressively and erratically once he picks a direction - and that could be good or bad, depending.",
+        "input": "My response to TURKEY:'Betrayed?  Bewildered?  Wrong answer?\nSeriously, no real opinion formed yet.  He was first to reach out, standard fairly neutral greeting and fishing for info, noncommittal on plans  beyond bouncing Galicia and trying not to anger any of his neighbors.  I could go either way on that one.  Life is a little easier for us if we clear that early.\nSo far the only player that strikes me as a bit of a wildcard is Italy.  I suspect that one's going to move aggressively and erratically once he picks a direction - and that could be good or bad, depending.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Ok bounce in the black and let us assess in the fall",
+        "input": "Message from TURKEY:'Ok bounce in the black and let us assess in the fall'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust TURKEY?",
+        "output": "You should trust the message. The consistent approach from Turkey in focusing on the Black Sea bounce and evaluating the situation in the fall aligns with his previous messages and displays a clear and straightforward strategy without any red flags."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "*sigh*. This doesn't seem like the most productive way forward for either of us.",
+        "input": "My response to TURKEY:'*sigh*. This doesn't seem like the most productive way forward for either of us.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I have been playing a lot of gunboat lately",
+        "input": "Message from TURKEY:'I have been playing a lot of gunboat lately'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust TURKEY?",
+        "output": "You should not trust the message. The reference to playing gunboat, where players can act with anonymity and more aggressively, combined with the apparent lack of progress or collaboration in the current game phase, raises doubts about the genuineness of Turkey's intentions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Take Romania I will not hinder it in any way",
+        "input": "Message from TURKEY:'Take Romania I will not hinder it in any way'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's explicit assurance of not interfering with your move to take Romania aligns with the Cicero recommended order you provided, indicating a willingness to cooperate and potentially build trust in this phase of the game."
+      }
+    ]
+  }
+]

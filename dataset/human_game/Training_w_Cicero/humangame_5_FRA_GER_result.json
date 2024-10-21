@@ -1,0 +1,110 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Have you talked to England yet? I got an interesting message from them.",
+        "input": "Message from GERMANY:'Have you talked to England yet? I got an interesting message from them.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquiry about your communication with England shows transparency and a desire for collaboration, suggesting an open and possibly trustworthy relationship. Engage with Germany in a constructive dialogue about your interactions with England to strengthen your alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "yeah, he wants to do a western triple.  what do you think?",
+        "input": "My response to GERMANY:'yeah, he wants to do a western triple.  what do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "Message from GERMANY:'I'm in'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's direct affirmation of being on board with your plan aligns with your proposed movements and suggests a genuine commitment to the alliance. Proceed with cooperation with Germany to further solidify your position and strategic goals."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you",
+        "input": "Message from GERMANY:'What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's mention of keeping the alliance scheme between the two of you discreet and potential concern about upsetting you could hint at ulterior motives or a lack of full transparency. Exercise caution and reevaluate the level of trust within your alliance with Germany."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think we need to talk about how to split up bel hol and den",
+        "input": "My response to GERMANY:'I think we need to talk about how to split up bel hol and den'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think I should get hol you bel and England den",
+        "input": "My response to GERMANY:'I think I should get hol you bel and England den'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don't know how comfortable I am giving up Den, it's pretty close to home",
+        "input": "Message from GERMANY:'I don't know how comfortable I am giving up Den, it's pretty close to home'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany expressing hesitancy about giving up a territory close to their home indicates a personal attachment and potential sincerity in the negotiation process. Consider further discussions to find a mutually beneficial arrangement regarding the division of territories."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "What happened dude",
+        "input": "My response to GERMANY:'What happened dude'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?",
+        "input": "Message from GERMANY:'I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?'.If the cicero recommended order for me is: A BEL S A LON - HOL, F MAO - NAF, A BUR S A MUN, F SPA/SC - WES, A MAR - PIE, F LYO - TYS. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany admitting to missing turns and requesting your help to counter England and Russia signals vulnerability and a genuine intent to collaborate with you. Providing assistance aligns with your strategic interests and could strengthen your bond with Germany."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure",
+        "input": "My response to GERMANY:'Sure'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Cool, thanks",
+        "input": "Message from GERMANY:'Cool, thanks'.If the cicero recommended order for me is: A BEL - HOL, F MAO - NAF, A BUR S A MUN, F WES - TUN, F TYS S F WES - TUN, A PIE - TYR. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's simple acknowledgment of agreement and appreciation conveys a positive and cooperative attitude, indicating a stable and trustworthy relationship at the moment. Continue collaborating with Germany to achieve your shared objectives."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey",
+        "input": "My response to TURKEY:'Hey'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello",
+        "input": "Message from TURKEY:'Hello'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should not trust the message. The lack of substance and meaningful interaction in the conversation from both the initial message and the response suggests a lack of strategic communication and potential untrustworthiness."
+      }
+    ]
+  }
+]

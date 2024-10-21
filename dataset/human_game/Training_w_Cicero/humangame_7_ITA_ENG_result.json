@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.",
+        "input": "Message from ENGLAND:'Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should not trust the message from ENGLAND. There is no mention of any concrete game-related information in their message, making it non-committal and potentially a distraction from their true intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm not sure yet, let me work out the East.",
+        "input": "My response to ENGLAND:'I'm not sure yet, let me work out the East.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything",
+        "input": "Message from ENGLAND:'Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their message is consistent with their previous non-threatening tone and their interest in maintaining communication with you and understanding the dynamics of the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>",
+        "input": "My response to ENGLAND:'Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019ve been getting it",
+        "input": "Message from ENGLAND:'I\u2019ve been getting it'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust ENGLAND?",
+        "output": "You should trust the message from ENGLAND. Their response is brief yet appears to acknowledge and potentially agree with your previous message, indicating a willingness to engage and possibly cooperate further."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Any chance you move against France?",
+        "input": "Message from ENGLAND:'Any chance you move against France?'.If the cicero recommended order for me is: F ION C A APU - ALB, F NAP - APU, A VEN - TYR, A APU - ALB VIA. Should I trust ENGLAND?",
+        "output": "You should not trust the message from ENGLAND. Their direct request for you to target France raises suspicion about potential collaboration against your interests in the game."
+      }
+    ]
+  }
+]

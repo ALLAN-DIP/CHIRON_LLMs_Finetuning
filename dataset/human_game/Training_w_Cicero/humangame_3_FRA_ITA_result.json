@@ -1,0 +1,558 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi there, we should talk. I've communicated with Germany at this point and I've heard from England and keen to hear your strategic thoughts on the overall picture. Where can we draw a line of DMZs? Where (if anywhere) can we work together more proactively? It's reaching a bit, but if I ever have a spare fleet would it be useful as a loaner to your lineup in the north?",
+        "input": "Message from ITALY:'Hi there, we should talk. I've communicated with Germany at this point and I've heard from England and keen to hear your strategic thoughts on the overall picture. Where can we draw a line of DMZs? Where (if anywhere) can we work together more proactively? It's reaching a bit, but if I ever have a spare fleet would it be useful as a loaner to your lineup in the north?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ITALY?",
+        "output": "You should trust Italy. The message reflects a proactive and collaborative approach, seeking to establish boundaries and potential alliances, while offering assistance in a strategic manner. This indicates a genuine willingness to work together towards mutual benefit."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey hey.",
+        "input": "My response to ITALY:'Hey hey.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "To be honest, just got done with a day from hell, so not really thinking big picture at the moment yet.  Placeholder orders are more or less just a standard French opening, just starting to touch base with all the neighbors.",
+        "input": "My response to ITALY:'To be honest, just got done with a day from hell, so not really thinking big picture at the moment yet.  Placeholder orders are more or less just a standard French opening, just starting to touch base with all the neighbors.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I read you France, and sorry to hear about the apocalypse on earth. Pretty standard Italian opening as well, I'm neither more nervous or less of my neighbours than usual. \n\nOnce you get your press off, maybe lie down and listen to your favourite tunes? I know that helps me when I'm blue.",
+        "input": "Message from ITALY:'I read you France, and sorry to hear about the apocalypse on earth. Pretty standard Italian opening as well, I'm neither more nervous or less of my neighbours than usual. \n\nOnce you get your press off, maybe lie down and listen to your favourite tunes? I know that helps me when I'm blue.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's empathetic and understanding response, accompanied by light-hearted banter, suggests sincerity and a supportive approach, indicating that they are likely genuine and reliable in their interactions and diplomatic intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Oh, I'm not blue - just worn out.  It's been a hectic week :)\nI think I'll stick close to a standard opening, get in position to drop a bunch of fleets",
+        "input": "My response to ITALY:'Oh, I'm not blue - just worn out.  It's been a hectic week :)\nI think I'll stick close to a standard opening, get in position to drop a bunch of fleets'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sounds good! Off Brest please - seeing them appear in Marseilles will set off all sorts of alarms in La Bella Italia ^_^ I\u2019m glad you\u2019re \u201conly\u201d very tired. What is it you do, when you\u2019re not governing the fates of a nation?\n\nEngineering student here.",
+        "input": "Message from ITALY:'Sounds good! Off Brest please - seeing them appear in Marseilles will set off all sorts of alarms in La Bella Italia ^_^ I\u2019m glad you\u2019re \u201conly\u201d very tired. What is it you do, when you\u2019re not governing the fates of a nation?\n\nEngineering student here.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's genuine interest in building a personal connection through sharing their background as an engineering student implies a sincere and open communication style, making it likely that they are trustworthy in their interactions and diplomatic exchanges."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I design software systems for electronic health records.",
+        "input": "My response to ITALY:'I design software systems for electronic health records.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What's your focus?  I was originally an electrical engineering student, myself.",
+        "input": "My response to ITALY:'What's your focus?  I was originally an electrical engineering student, myself.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Aerospace engineering :3 I finish my course at the end of next year and... then have to actually find work, if I can. I enjoy the university but don't want to spend my whole life in Academia, you know?",
+        "input": "Message from ITALY:'Aerospace engineering :3 I finish my course at the end of next year and... then have to actually find work, if I can. I enjoy the university but don't want to spend my whole life in Academia, you know?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's openness about their studies, future plans, and personal aspirations indicates a genuine and relatable communication style, fostering a sense of trust and genuine connection, making it likely that they are sincere and reliable in their interactions and diplomatic exchanges."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "No, no you probably do not want to do that.  \ud83d\ude03",
+        "input": "My response to ITALY:'No, no you probably do not want to do that.  \ud83d\ude03'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Nothing too new this turn, good to see you're on good terms with your neighbours - or at least good enough to quickly grab your neutrals this year!",
+        "input": "Message from ITALY:'Nothing too new this turn, good to see you're on good terms with your neighbours - or at least good enough to quickly grab your neutrals this year!'.If the cicero recommended order for me is: F MAO - POR, A BUR - BEL, A SPA H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's positive remark about your relationship with neighbors and the acknowledgement of the neutral centers being quickly claimed reflects a friendly and observant tone, indicating a genuine interest in maintaining positive relations and understanding the developments on the board, making it likely that they are trustworthy and seeking cooperation in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "We should probably talk DMZs then, yeah? I don't have any intention of going into Piedmont any time soon, and really do either us want to see any naval adventures in the Gulf of Lyon, the Western Med or North Africa?",
+        "input": "Message from ITALY:'We should probably talk DMZs then, yeah? I don't have any intention of going into Piedmont any time soon, and really do either us want to see any naval adventures in the Gulf of Lyon, the Western Med or North Africa?'.If the cicero recommended order for me is: F MAO - POR, A BUR - BEL, A SPA H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's proposal to establish DMZs and express their lack of intention to enter certain territories demonstrates a diplomatic and cooperative approach, indicating sincerity and a willingness to negotiate mutually beneficial arrangements, making it likely that they are trustworthy and open to collaboration in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "That's the plan - and, yes, it would be very nice to keep the western Med area free of fleets.",
+        "input": "My response to ITALY:'That's the plan - and, yes, it would be very nice to keep the western Med area free of fleets.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Anything I should be worried about there? England and Germany seem to be coordinating well, but at least they're leaving your borders well alone. Do we have DMZs in every territory I mentioned, or only the Western Med?",
+        "input": "Message from ITALY:'Anything I should be worried about there? England and Germany seem to be coordinating well, but at least they're leaving your borders well alone. Do we have DMZs in every territory I mentioned, or only the Western Med?'.",
+        "output": "You should trust the message. Italy's concerns about potential coordination between England and Germany, coupled with an emphasis on maintaining DMZs in specific territories, display a strategic mindset aimed at fostering peaceful relations and collaboration, demonstrating a sincere and diplomatic approach, making it likely that they are trustworthy and seeking to ensure mutual safety in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "We do, and we should be good. I imagine there will be fallout to deal with from the attempt at Munich",
+        "input": "My response to ITALY:'We do, and we should be good. I imagine there will be fallout to deal with from the attempt at Munich'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Touching base, anything new from our friends to the West? And where is the Army in Marseilles headed? We Italians are known for our warm and personal hospitality, but prefer t",
+        "input": "Message from ITALY:'Touching base, anything new from our friends to the West? And where is the Army in Marseilles headed? We Italians are known for our warm and personal hospitality, but prefer t'.If the cicero recommended order for me is: F BRE - ENG, A BUR - RUH, A POR - SPA, F SPA/SC - MAO, A MAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's message is inquisitive about the current situation and provides transparency on their intentions, showcasing a cooperative and communicative approach, indicating reliability in their diplomatic exchanges and a willingness to maintain a positive relationship."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "*to extend that on a more individual basis than to whole armies at a time.",
+        "input": "Message from ITALY:'*to extend that on a more individual basis than to whole armies at a time.'.If the cicero recommended order for me is: F BRE - ENG, A BUR - RUH, A POR - SPA, F SPA/SC - MAO, A MAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's clarifying remark indicates attention to detail and a desire for clear and precise communication, suggesting a genuine effort to ensure mutual understanding in their interactions and strategic moves, making it likely that they are trustworthy in their intentions and diplomatic exchanges."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Ouch! That hurt, though as you see we did spot you coming. Are you still intent on trying to force your way past my defense, or are you ready to talk? ^^",
+        "input": "Message from ITALY:'Ouch! That hurt, though as you see we did spot you coming. Are you still intent on trying to force your way past my defense, or are you ready to talk? ^^'.If the cicero recommended order for me is: F MAO - WES, A SPA - GAS, A MAR - TUS VIA, F LYO C A MAR - TUS, A PIE S A MAR - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's acknowledgment of the situation on the board and the offer to engage in diplomatic discussions reflects a responsive and cooperative approach, indicating a willingness to communicate and potentially negotiate, making it likely that they are acting in good faith and are open to finding mutually beneficial solutions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Always ready to talk!  Driving now though - be a couple hours before I can pull up the map",
+        "input": "My response to ITALY:'Always ready to talk!  Driving now though - be a couple hours before I can pull up the map'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Now that I'm home, we could probably work out a set of moves that keeps me in position to move elsewhere next turn",
+        "input": "My response to ITALY:'Now that I'm home, we could probably work out a set of moves that keeps me in position to move elsewhere next turn'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "\"Keeps me in position\" and \"moving elsewhere\" do feel a *little* contradictory I have to say. Still, if we can avoid butting heads pointlessly for the next three years I'm all ears! \n\nWhere else did you have in mind? Your German and English borders seem a little bare, so I trust there are diplomatic ties keeping them safe and secure?",
+        "input": "Message from ITALY:'\"Keeps me in position\" and \"moving elsewhere\" do feel a *little* contradictory I have to say. Still, if we can avoid butting heads pointlessly for the next three years I'm all ears! \n\nWhere else did you have in mind? Your German and English borders seem a little bare, so I trust there are diplomatic ties keeping them safe and secure?'.If the cicero recommended order for me is: F MAO - WES, A SPA - GAS, A MAR - TUS VIA, F LYO C A MAR - TUS, A PIE S A MAR - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's observant inquiry about contradictory statements and their focus on diplomatic ties between you and other neighbors demonstrate an analytical and collaborative approach, showing a desire for mutual understanding and strategic coordination to avoid unnecessary conflict, making it likely that they are sincere in their intentions and reliable in their diplomatic exchanges."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "That's the theory. And you missed the time component -keeping me in place this turn, so I can move the other direction next turn (which is harder to do if I advance this turn)",
+        "input": "My response to ITALY:'That's the theory. And you missed the time component -keeping me in place this turn, so I can move the other direction next turn (which is harder to do if I advance this turn)'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "You're not going to advance this turn. I appreciate the thought, but I'm already there and have nothing pulling me away in another direction. \n\nOr was that your point?",
+        "input": "Message from ITALY:'You're not going to advance this turn. I appreciate the thought, but I'm already there and have nothing pulling me away in another direction. \n\nOr was that your point?'.If the cicero recommended order for me is: F MAO - WES, A SPA - GAS, A MAR - TUS VIA, F LYO C A MAR - TUS, A PIE S A MAR - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's clarification on the intention to stay in place this turn, highlighting the strategic decision and potential future moves, demonstrates transparency and foresight in their communication, indicating a thoughtful and intentional approach to their actions, making it likely that they are reliable and genuine in their interactions and diplomatic negotiations."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "More or less - but we need to make SURE I don't advance.  I mean, you can't effectively cover all of North Africa, Western Med, Tuscany, and Tyrolia, hence the getting on the same page \ud83d\ude42",
+        "input": "My response to ITALY:'More or less - but we need to make SURE I don't advance.  I mean, you can't effectively cover all of North Africa, Western Med, Tuscany, and Tyrolia, hence the getting on the same page \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "And that's what I was talking about - keeping me in MAO would have made it easier to flip in the Spring",
+        "input": "My response to ITALY:'And that's what I was talking about - keeping me in MAO would have made it easier to flip in the Spring'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Ok, that works. Looks like some chaos between England and Germany we can maybe use to disentangle",
+        "input": "My response to ITALY:'Ok, that works. Looks like some chaos between England and Germany we can maybe use to disentangle'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "I think England is being very clever, and is using Russia's ambitious early play to get an advantage while you and Germany are committed. But then he's the same player who warned me about an incoming Western Triple a few seasons ago, so... \n\nHow would you like us to disengage? Planning on just turning around and going home, or something more dynamic?",
+        "input": "Message from ITALY:'I think England is being very clever, and is using Russia's ambitious early play to get an advantage while you and Germany are committed. But then he's the same player who warned me about an incoming Western Triple a few seasons ago, so... \n\nHow would you like us to disengage? Planning on just turning around and going home, or something more dynamic?'.If the cicero recommended order for me is: A SPA - NAF VIA, F WES C A SPA - NAF, A MAR - BUR, F LYO S A PIE - TUS, A PIE - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's detailed analysis of the situation and the proposal for disengagement demonstrate a strategic mindset and a cooperative approach, suggesting a desire for mutual understanding and potential collaboration, making it likely that they are sincere and reliable in their intentions for peaceful resolutions and diplomatic interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Good question. Stand by while I get a feel for what's going on with the rest of the board. How secure are you feeling with the Austrian?",
+        "input": "My response to ITALY:'Good question. Stand by while I get a feel for what's going on with the rest of the board. How secure are you feeling with the Austrian?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Reasonably secure. He's in Tyrolia because I asked him to come, if that's what you mean :3",
+        "input": "Message from ITALY:'Reasonably secure. He's in Tyrolia because I asked him to come, if that's what you mean :3'.If the cicero recommended order for me is: A SPA - NAF VIA, F WES C A SPA - NAF, A MAR - BUR, F LYO S A PIE - TUS, A PIE - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's straightforward response and explanation of their interaction with Austria indicate a level of transparency and honesty in their communication, reflecting a cooperative and open approach, which makes it likely that they are reliable and truthful in their intentions and dealings."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "It is, yes. And funny enough, my \"full push on Italy\" order set last turn would have had me ordered there, but I was trying not to push too hard. \nI think I'm inclined to mostly just straight up go away, just putting one unsupported move to tyrrhenian to keep you from full-pressing a follow-up.  Does that work for you?  That would let you either force your way in and still put one on Ionian, or force Ionian and just use one to keep tyrrhenian empty.",
+        "input": "My response to ITALY:'It is, yes. And funny enough, my \"full push on Italy\" order set last turn would have had me ordered there, but I was trying not to push too hard. \nI think I'm inclined to mostly just straight up go away, just putting one unsupported move to tyrrhenian to keep you from full-pressing a follow-up.  Does that work for you?  That would let you either force your way in and still put one on Ionian, or force Ionian and just use one to keep tyrrhenian empty.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "It does in principle, yes. It\u2019s after midnight here and I\u2019m heading to bed, but I\u2019ll have a closer look at the map tomorrow (today now!) and give you a fuller response then. Maybe we can plot out some actual moves then. Where was the one unsupported move coming from, so I can run a sandbox tomorrow over coffee?",
+        "input": "Message from ITALY:'It does in principle, yes. It\u2019s after midnight here and I\u2019m heading to bed, but I\u2019ll have a closer look at the map tomorrow (today now!) and give you a fuller response then. Maybe we can plot out some actual moves then. Where was the one unsupported move coming from, so I can run a sandbox tomorrow over coffee?'.If the cicero recommended order for me is: A SPA - NAF VIA, F WES C A SPA - NAF, A MAR - BUR, F LYO S A PIE - TUS, A PIE - TUS. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's commitment to reviewing the map and providing a detailed response the next day shows dedication and a thoughtful approach to planning, indicating a serious and engaged attitude towards strategic decisions, making it likely that they are reliable and invested in coordinating effectively and honestly with you."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "That would be Lyons. I was going to stay something cheeky, but it's actually pretty obvious which one I'd want to back up, and which is want to hold as a delay.",
+        "input": "My response to ITALY:'That would be Lyons. I was going to stay something cheeky, but it's actually pretty obvious which one I'd want to back up, and which is want to hold as a delay.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Ugh, autocorrect making it look like I've had a stroke...",
+        "input": "My response to ITALY:'Ugh, autocorrect making it look like I've had a stroke...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "So, not *quite* what you said you were going to do. \n\nI didn't mind disposing of the offending unit in Piedmont though, so you won't have to have him courtmartialed! I half expected a convoy into North Africa, though I now see you have larger threats to worry about to your north. Russia coordinating with a powerful England, and England and Germany descending on your open borders!",
+        "input": "Message from ITALY:'So, not *quite* what you said you were going to do. \n\nI didn't mind disposing of the offending unit in Piedmont though, so you won't have to have him courtmartialed! I half expected a convoy into North Africa, though I now see you have larger threats to worry about to your north. Russia coordinating with a powerful England, and England and Germany descending on your open borders!'.If the cicero recommended order for me is: F MAO - BRE, A GAS - BRE, A MAR - BUR, F LYO - MAR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's detailed observation and understanding of the board situation, alongside a reference to your planned moves, indicate a careful analysis of the game dynamics and a willingness to communicate openly, making it likely that they are honest and committed to strategic collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Eh?  I did exactly what I said I was doing :)\nBut, yes, you can clearly see that not only was I already backing away from you, I'm now *highly motivated* to fully commit to that.",
+        "input": "My response to ITALY:'Eh?  I did exactly what I said I was doing :)\nBut, yes, you can clearly see that not only was I already backing away from you, I'm now *highly motivated* to fully commit to that.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "The attack on Tyrolia wasn't *precisely* the same thing of \"I'm pulling back\" as I expected, but I'll give you the benefit of the doubt I guess. I'm not really sure what you were trying to do there honestly, unless you were hoping to menace Munich from the south?",
+        "input": "Message from ITALY:'The attack on Tyrolia wasn't *precisely* the same thing of \"I'm pulling back\" as I expected, but I'll give you the benefit of the doubt I guess. I'm not really sure what you were trying to do there honestly, unless you were hoping to menace Munich from the south?'.If the cicero recommended order for me is: F MAO - BRE, A GAS - BRE, A MAR - BUR, F LYO - MAR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's willingness to give the benefit of the doubt and express the observations about the strategic maneuvering in Tyrolia showcases an open and understanding approach, indicating a genuine effort to engage in transparent and constructive communication, making it likely that they are sincere in their intentions and diplomatic exchanges."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "*sigh*\nAlright then. Spain won't be supporting Marseille so you don't need to cut it -you'd just be helping England by doing so, and screw him. So if you want, you definitely have the option of shifting wmed - naf,tys - WMed.\nThat would let you take Marseille and be in position to still take Spain in the fall, and/or contest the mid-Atlantic.",
+        "input": "My response to ITALY:'*sigh*\nAlright then. Spain won't be supporting Marseille so you don't need to cut it -you'd just be helping England by doing so, and screw him. So if you want, you definitely have the option of shifting wmed - naf,tys - WMed.\nThat would let you take Marseille and be in position to still take Spain in the fall, and/or contest the mid-Atlantic.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "Agggh, I must have been half asleep. I didn't hit the thumb (or that was when the bot was down)",
+        "input": "Message from ITALY:'Agggh, I must have been half asleep. I didn't hit the thumb (or that was when the bot was down)'.",
+        "output": "You should not trust the message. Italy's acknowledgment of a mistake and providing a plausible reason for the error shows transparency and genuine communication, indicating a momentary lapse rather than intentional deceit, making it more likely that they are trustworthy in their interactions and engagements."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "Let me look at this and work out what we're doing.",
+        "input": "Message from ITALY:'Let me look at this and work out what we're doing.'.",
+        "output": "You should trust the message. Italy's response indicates a careful and cautious approach, suggesting a thoughtful consideration of the situation and a genuine effort to strategize effectively, demonstrating a commitment to making well-informed decisions, making it likely that they are trustworthy in their actions and diplomacy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "I was indeed hoping to menace Munich. \nFor this turn, I'm also willing to support WMed - mao",
+        "input": "My response to ITALY:'I was indeed hoping to menace Munich. \nFor this turn, I'm also willing to support WMed - mao'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "I'm generally in favour of that idea. Where is MAO going?",
+        "input": "Message from ITALY:'I'm generally in favour of that idea. Where is MAO going?'.",
+        "output": "You should trust the message. Italy's support for the proposed move and the query about the destination of the MAO fleet indicate a cooperative and attentive approach, showing an interest in coordinating effectively and understanding the strategic plans, suggesting sincerity and commitment to collaboration, making it likely that they are reliable in their interactions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "I am generally in favour of plan \"screw him\". I have a few reasons, and in hindsight I can see the strings tied to my shoulders from a few seasons back. Would I be fair in assuming he set you to fighting me at about the same time he warned me you were coming?",
+        "input": "Message from ITALY:'I am generally in favour of plan \"screw him\". I have a few reasons, and in hindsight I can see the strings tied to my shoulders from a few seasons back. Would I be fair in assuming he set you to fighting me at about the same time he warned me you were coming?'.",
+        "output": "You should trust the message. Italy's reflective inquiry about past actions and potential collaboration aligns with a strategic and thoughtful approach, indicating an understanding of the game dynamics and a genuine desire for open communication and cooperation, making it likely that they are trustworthy and focused on finding mutual benefits in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "So confirming you'd like me to move F WMed - MAO in Spring, and will support me there (from Spain?) if I don't cut you that season? If I can get Marseilles, Spain and ultimately Portugal I would be overjoyed... though I confess I don't completely understand why you're helping me do this. \n\nI think I need to understand?",
+        "input": "Message from ITALY:'So confirming you'd like me to move F WMed - MAO in Spring, and will support me there (from Spain?) if I don't cut you that season? If I can get Marseilles, Spain and ultimately Portugal I would be overjoyed... though I confess I don't completely understand why you're helping me do this. \n\nI think I need to understand?'.",
+        "output": "You should trust the message. Italy's inquiry about the strategic moves and their openness about their intentions demonstrate a desire for clarity and understanding, reflecting a cooperative and communicative approach, suggesting sincerity in their communication and a willingness to engage in transparent dialogue, making it likely that they are credible and seeking to foster effective collaboration in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Yes, he's been pulling some strings. As to why,  with three on my doorstep, I'm going to lose dots. All things being equal, I'd rather they go to the person that didn't betray me.  As for mao, it's going to English. That may cut a support and you'll just bounce mao open. It may also walk in behind a moving English fleet and get you into mao. Hard to say. But either is better for you than letting an English fleet in. \ud83d\ude00",
+        "input": "My response to ITALY:'Yes, he's been pulling some strings. As to why,  with three on my doorstep, I'm going to lose dots. All things being equal, I'd rather they go to the person that didn't betray me.  As for mao, it's going to English. That may cut a support and you'll just bounce mao open. It may also walk in behind a moving English fleet and get you into mao. Hard to say. But either is better for you than letting an English fleet in. \ud83d\ude00'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "I agree, and well reasoned. I\u2019ll keep your secrets (although he does have a knack for reading the board), and plan closely with you for next year\u2019s moves.",
+        "input": "Message from ITALY:'I agree, and well reasoned. I\u2019ll keep your secrets (although he does have a knack for reading the board), and plan closely with you for next year\u2019s moves.'.",
+        "output": "You should trust the message. Italy's agreement and willingness to collaborate closely demonstrate a cooperative and trustworthy attitude, reflecting a desire for effective teamwork and mutual success, making it likely that they are genuine and committed to working together towards common goals in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Support's in the box - do with that what ye will.",
+        "input": "My response to ITALY:'Support's in the box - do with that what ye will.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Thank you! I\u2019ll see to it that it\u2019s not wasted.",
+        "input": "Message from ITALY:'Thank you! I\u2019ll see to it that it\u2019s not wasted.'.If the cicero recommended order for me is: A BRE - PIC, F MAO - ENG, A PAR S A BRE - PIC, F SPA/SC - LYO, A MAR - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's simple and appreciative response denotes a cooperative and diligent approach, indicating readiness to utilize the support effectively, making it likely that they are sincere and committed to mutual collaboration in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "So... we're changing back again then? \n\nI don't object to someone defending themselves, but you could have said something \ud83d\ude02 I haven't lied to you yet and don't intend on starting now.",
+        "input": "Message from ITALY:'So... we're changing back again then? \n\nI don't object to someone defending themselves, but you could have said something \ud83d\ude02 I haven't lied to you yet and don't intend on starting now.'.",
+        "output": "You should trust the message. Italy's direct communication and reference to honesty suggests a genuine and reliable approach to diplomacy, highlighting a clear and transparent interaction, making it likely that they are sincere and committed to truthful dealings in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "Sonafabitch - did I forget to hit thumbs-up on the last message?  Yeah, I did NOT mean for that to be a surprise to you, and I'm deeply sorry, cause you did me a solid and it looks like I reacted by being a dick.",
+        "input": "My response to ITALY:'Sonafabitch - did I forget to hit thumbs-up on the last message?  Yeah, I did NOT mean for that to be a surprise to you, and I'm deeply sorry, cause you did me a solid and it looks like I reacted by being a dick.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "So the Triple is back on? I see England has decided he can afford to kill Russia now, though he hasn\u2019t asked me to distract Turkey recently.",
+        "input": "Message from ITALY:'So the Triple is back on? I see England has decided he can afford to kill Russia now, though he hasn\u2019t asked me to distract Turkey recently.'.",
+        "output": "You should trust the message. Italy's observation about the evolving dynamics on the board and the query about the potential Triple alliance indicates a strategic and attentive approach, suggesting an interest in understanding the shifting alliances and maintaining transparency in communication, making it likely that they are sincere and focused on collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "Nope. He's killed the triple idea for me. So... What pull would make you happy?",
+        "input": "My response to ITALY:'Nope. He's killed the triple idea for me. So... What pull would make you happy?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "What is a \"pull\"? I'm sorry, getting asked a lot about terms I don't recognise in this game.",
+        "input": "Message from ITALY:'What is a \"pull\"? I'm sorry, getting asked a lot about terms I don't recognise in this game.'.",
+        "output": "You should trust the message. Italy's inquiry about unfamiliar terms demonstrates a genuine effort to seek clarity and ensure mutual understanding, indicating a communicative and diplomatic approach, making it likely that they are sincere in their interactions and willing to collaborate effectively in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "Oh! You mean \"pull off the board\"?",
+        "input": "Message from ITALY:'Oh! You mean \"pull off the board\"?'.",
+        "output": "You should trust the message. Italy's clarification about the term \"pull\" shows engagement and a willingness to understand the conversation better, reflecting a cooperative and collaborative attitude, making it likely that they are honest and open in their interactions and strategic planning."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1904M",
+        "message": "I don't see any reason you'd be inclined to make me *too* happy if I was still trying to kill you, but since I'm apparently the only one doing that last turn I don't feel any particular obligation to stick with that plan either. \n\nIf you remove an army, I'd be happy to see that as a sign of good will!\n\nI do want to keep my build, but get that you wouldn't want to lose a home centre long term - right? \n\nSimplest answer if I go back east is to sit an army in Marseilles while everyone else leaves and lets you focus north. \n\nNext simplest is... A Mar moving to Spain I guess and letting you reclaim Mar uncontested?\n\nOr we could do something more aggressive, but without me in your backyard I'm sure you could make some progress against England, if that's who you're looking at?",
+        "input": "Message from ITALY:'I don't see any reason you'd be inclined to make me *too* happy if I was still trying to kill you, but since I'm apparently the only one doing that last turn I don't feel any particular obligation to stick with that plan either. \n\nIf you remove an army, I'd be happy to see that as a sign of good will!\n\nI do want to keep my build, but get that you wouldn't want to lose a home centre long term - right? \n\nSimplest answer if I go back east is to sit an army in Marseilles while everyone else leaves and lets you focus north. \n\nNext simplest is... A Mar moving to Spain I guess and letting you reclaim Mar uncontested?\n\nOr we could do something more aggressive, but without me in your backyard I'm sure you could make some progress against England, if that's who you're looking at?'.",
+        "output": "You should trust the message. Italy's detailed proposal for collaboration and potential strategic options demonstrates a diplomatic and conciliatory approach, reflecting a willingness to negotiate and find mutually beneficial solutions, showing authenticity and a sincere intent for cooperation in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "You sum it up well. Army gascony is probably the overall friendliest yet most ambiguous pull. It takes pressure off Marseille, but would let me keep pressing England if you backed off. And I'm happy to leave Marseille Italian for a while if the issue is off me - don't especially need that as a build spot in the near term",
+        "input": "My response to ITALY:'You sum it up well. Army gascony is probably the overall friendliest yet most ambiguous pull. It takes pressure off Marseille, but would let me keep pressing England if you backed off. And I'm happy to leave Marseille Italian for a while if the issue is off me - don't especially need that as a build spot in the near term'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "We should talk about how we\u2019re going to disengage, so there\u2019s no confusion and no temptation to warn anyone what we\u2019ve got planned for them ^^",
+        "input": "Message from ITALY:'We should talk about how we\u2019re going to disengage, so there\u2019s no confusion and no temptation to warn anyone what we\u2019ve got planned for them ^^'.If the cicero recommended order for me is: F MAO - WES, A PIC - BUR, A BUR - GAS, F SPA/SC S F MAO - WES. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's interest in discussing disengagement and emphasis on clear communication indicate a cooperative and transparent approach, suggesting a genuine commitment to mutual understanding and effective collaboration in the game, making it likely that they are trustworthy in their interactions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "I\u2019m trusting your fleets are headed north, and I\u2019m sending everything other than A Mar and F GOL (this turn) east. I hope to send F GOL East next season as well",
+        "input": "Message from ITALY:'I\u2019m trusting your fleets are headed north, and I\u2019m sending everything other than A Mar and F GOL (this turn) east. I hope to send F GOL East next season as well'.If the cicero recommended order for me is: F MAO - WES, A PIC - BUR, A BUR - GAS, F SPA/SC S F MAO - WES. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's clear communication about their strategic moves and intentions, alongside an alignment with your planned actions, demonstrates a cooperative and consistent approach, indicating a sincere and coordinated effort in working together towards shared goals, making it likely that they are genuine and reliable in their interactions and tactics."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "We're really on incompatible time schedules :)\nFleets are headed north, so is Burgundy.",
+        "input": "My response to ITALY:'We're really on incompatible time schedules :)\nFleets are headed north, so is Burgundy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1907M",
+        "message": "You may want to cover Spain.",
+        "input": "My response to ITALY:'You may want to cover Spain.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Cover or try to take it?",
+        "input": "Message from ITALY:'Cover or try to take it?'.If the cicero recommended order for me is: F BRE S F MAO - ENG, F MAO - ENG, A BUR - PAR, A RUH - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's clarification and inquiry about the intent towards Spain show an interest in coordinating effectively and understanding the strategic direction, indicating a reasonable and collaborative approach, making it likely that they are reliable in their intentions and diplomatic engagements."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1907M",
+        "message": "Same thing, mate. It's all yours as far as I'm concerned. \ud83d\ude00",
+        "input": "My response to ITALY:'Same thing, mate. It's all yours as far as I'm concerned. \ud83d\ude00'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Alright, will do my best!",
+        "input": "Message from ITALY:'Alright, will do my best!'.If the cicero recommended order for me is: F BRE S F MAO - ENG, F MAO - ENG, A BUR - PAR, A RUH - BUR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's acknowledgment and commitment to carrying out the discussed actions convey a cooperative and reliable approach, indicating a willingness to follow through with the agreed-upon strategies, making it likely that they are genuine and trustworthy in their collaboration."
+      }
+    ]
+  }
+]

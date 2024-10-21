@@ -1,0 +1,408 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia - how\u2019s it going? Excited for this game!",
+        "input": "My response to RUSSIA:'Hey Russia - how\u2019s it going? Excited for this game!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany. Should be a great game. Been a while since I\u2019ve played Diplo. Are you going North to England?",
+        "input": "Message from RUSSIA:'Hey Germany. Should be a great game. Been a while since I\u2019ve played Diplo. Are you going North to England?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust RUSSIA?",
+        "output": "You should trust the message. The message is friendly and non-committal, focusing on general game talk rather than specific plans, which suggests a genuine intent to engage in diplomatic conversation without immediately pushing for an alliance or immediate coordination."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Me too tbh!",
+        "input": "My response to RUSSIA:'Me too tbh!'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I\u2019m keeping my options open at this point",
+        "input": "My response to RUSSIA:'I\u2019m keeping my options open at this point'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hbu?",
+        "input": "My response to RUSSIA:'Hbu?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I\u2019m hoping to get along well with you and England and focus on France. I think the three of us need to get in front of things and envision what Scandinavia looks like in two years",
+        "input": "My response to RUSSIA:'I\u2019m hoping to get along well with you and England and focus on France. I think the three of us need to get in front of things and envision what Scandinavia looks like in two years'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I honestly don\u2019t know what the heck France is doing to not even take Spain with their first turn one. That seems like a pretty obvious move. I would like Sweden for another supply center. You can take Norway. I may need to protect my southern flank more from Turkey who could cause problems.",
+        "input": "Message from RUSSIA:'I honestly don\u2019t know what the heck France is doing to not even take Spain with their first turn one. That seems like a pretty obvious move. I would like Sweden for another supply center. You can take Norway. I may need to protect my southern flank more from Turkey who could cause problems.'.If the cicero recommended order for me is: F DEN S F NTH, A KIE - HOL, A MUN - BER. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's message expresses discontent with France's actions, openly stating a desire for Sweden and reluctance to commit to supporting you in Scandinavia, indicating a potential selfish agenda that might not align with your interests. Additionally, mentioning potential threats from Turkey could be a tactic to divert your attention from their own ambitions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Are you going into Ber in the fall?",
+        "input": "My response to RUSSIA:'Are you going into Ber in the fall?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "No. I\u2019m holding in Prussia to protect my East flank.",
+        "input": "Message from RUSSIA:'No. I\u2019m holding in Prussia to protect my East flank.'.If the cicero recommended order for me is: F DEN S F NTH, A KIE - HOL, A MUN - BER. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's response is straightforward and aligns with their previous mention of protecting their southern flank from Turkey, which indicates a consistent and coherent strategy focused on securing their position rather than directly engaging with you in Berlin."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I don\u2019t want to fight you and would much rather have peace so I can focus on expanding west. But based on the location of your armies I don\u2019t think I can let you take an additional supply center without concrete assurances.",
+        "input": "My response to RUSSIA:'I don\u2019t want to fight you and would much rather have peace so I can focus on expanding west. But based on the location of your armies I don\u2019t think I can let you take an additional supply center without concrete assurances.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I\u2019m moving from\nPrussia back to Warsaw. I expanded East too fast and I need to deal with Turkey in the South. I understand if you want to bounce me from Sweden this turn but if you don\u2019t I can more easily deal with my problems in the South and direct my attention away from you to the Balkans.",
+        "input": "Message from RUSSIA:'I\u2019m moving from\nPrussia back to Warsaw. I expanded East too fast and I need to deal with Turkey in the South. I understand if you want to bounce me from Sweden this turn but if you don\u2019t I can more easily deal with my problems in the South and direct my attention away from you to the Balkans.'.If the cicero recommended order for me is: F DEN S F NTH, A KIE - HOL, A MUN - BER. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's message shows transparency about their movements and strategic assessment, offering a reasonable explanation for their actions and proposing a potential cooperative opportunity with you in the North. Their willingness to engage in open communication and provide a logical rationale indicates a trustworthy approach in this instance."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "What will you do with the Lvn army?",
+        "input": "My response to RUSSIA:'What will you do with the Lvn army?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "We still have an hour. I can be open to letting you take Sweden.",
+        "input": "My response to RUSSIA:'We still have an hour. I can be open to letting you take Sweden.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Shit. I\u2019m pretty screwed now. Disbanding my Prussia Army so you don\u2019t need to worry about me. Need to beat Turkey back to stay alive.",
+        "input": "Message from RUSSIA:'Shit. I\u2019m pretty screwed now. Disbanding my Prussia Army so you don\u2019t need to worry about me. Need to beat Turkey back to stay alive.'.",
+        "output": "You should trust the message. Russia's message is candid and acknowledges their predicament openly, indicating vulnerability and a genuine focus on surviving rather than posing a threat to you. This honest and self-aware communication suggests that Russia is not in a position to cause immediate harm to you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "I\u2019m sorry man. I should have trusted you but I was spooked by the two army\u2019s near me. I hope you understand.",
+        "input": "My response to RUSSIA:'I\u2019m sorry man. I should have trusted you but I was spooked by the two army\u2019s near me. I hope you understand.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Yea I understand. Don\u2019t blame you. Blame myself for moving east too fast really.",
+        "input": "Message from RUSSIA:'Yea I understand. Don\u2019t blame you. Blame myself for moving east too fast really.'.",
+        "output": "You should trust the message. Russia's understanding response and acknowledgment of their own missteps display humility and a lack of resentment towards your cautious approach, indicating a level of trustworthiness and potential for future cooperative interactions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Turkey asked me why your army in Ber halted. What do you want me to say?",
+        "input": "My response to RUSSIA:'Turkey asked me why your army in Ber halted. What do you want me to say?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Think you have to worry more about England right now. I\u2019m going to be locked down in the south trying to deal with Turkey. England can eventually take Sweden unless you support me moving there. Then you can block England from getting it and it gives me some life in my fight down south with a new supply center. Otherwise I\u2019m not gonna last very long most likely and you\u2019ll be dealing with England by yourself.",
+        "input": "Message from RUSSIA:'Think you have to worry more about England right now. I\u2019m going to be locked down in the south trying to deal with Turkey. England can eventually take Sweden unless you support me moving there. Then you can block England from getting it and it gives me some life in my fight down south with a new supply center. Otherwise I\u2019m not gonna last very long most likely and you\u2019ll be dealing with England by yourself.'.If the cicero recommended order for me is: F DEN - NTH, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - RUH. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's message attempts to create a sense of urgency and dependence on your support, while simultaneously guilting you into aiding them by exaggerating their own predicament and potential threats posed by England. The message appears manipulative and focuses on their own survival without considering your best interests."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes. Happy to let you move into Sweden. What should I say to Turkey about you not going into Ber?",
+        "input": "My response to RUSSIA:'Yes. Happy to let you move into Sweden. What should I say to Turkey about you not going into Ber?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Are they still asking about that? Just say I decided not to in the end and thought you were defending it anyway.",
+        "input": "Message from RUSSIA:'Are they still asking about that? Just say I decided not to in the end and thought you were defending it anyway.'.If the cicero recommended order for me is: F DEN - NTH, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - RUH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's response is straightforward and provides a plausible explanation for not moving into Berlin, consolidating the information in a way that minimizes potential suspicion. The message displays a level of consistency and a lack of elaborate explanations, which aligns with their previous communications."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "May need you supporting me from Finland moving in or I\u2019ll just get bounced from UK. Not sure though.",
+        "input": "Message from RUSSIA:'May need you supporting me from Finland moving in or I\u2019ll just get bounced from UK. Not sure though.'.If the cicero recommended order for me is: F DEN - NTH, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - RUH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's straightforward and somewhat unsure request indicates potential collaboration rather than a demand, showing a level of vulnerability and openness to discussion. This message suggests a genuine desire for cooperation rather than manipulation or deceit."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I\u2019m open to it but don\u2019t want to commit just yet",
+        "input": "My response to RUSSIA:'I\u2019m open to it but don\u2019t want to commit just yet'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Pretty down tho",
+        "input": "My response to RUSSIA:'Pretty down tho'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Not going to really be able to do much with that fleet this spring anyway",
+        "input": "My response to RUSSIA:'Not going to really be able to do much with that fleet this spring anyway'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Yea ok. Fucking Turkey....",
+        "input": "Message from RUSSIA:'Yea ok. Fucking Turkey....'.If the cicero recommended order for me is: F DEN - NTH, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - RUH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's frustrated and emotional outburst is typical in the game of Diplomacy where tensions run high. It shows a common exasperation towards Turkey and does not involve any strategic deceit or manipulation towards you. This message does not indicate any reason not to trust Russia."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I just want to make sure me and France are on the same page before I go all in against England.",
+        "input": "My response to RUSSIA:'I just want to make sure me and France are on the same page before I go all in against England.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "That situation is difficult to figure out as both sides vacated the British channel which is usually contentious territory from turn 1 which makes me think they\u2019re secretly working together.",
+        "input": "Message from RUSSIA:'That situation is difficult to figure out as both sides vacated the British channel which is usually contentious territory from turn 1 which makes me think they\u2019re secretly working together.'.If the cicero recommended order for me is: F DEN - NTH, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - RUH. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's analysis of the situation is based on a strategic observation and not directly aimed at manipulating you. Additionally, the message shares insights on the dynamics between other players without soliciting any immediate actions from you, suggesting a genuine attempt at sharing information rather than creating discord."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "You\u2019re probably right here.",
+        "input": "My response to RUSSIA:'You\u2019re probably right here.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "You\u2019re not going to do well if you\u2019re being attacked from the north and the south. How about you give me Sweden and I\u2019ll lay off you for the game?",
+        "input": "My response to RUSSIA:'You\u2019re not going to do well if you\u2019re being attacked from the north and the south. How about you give me Sweden and I\u2019ll lay off you for the game?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I\u2019m about to lose anyway.",
+        "input": "Message from RUSSIA:'I\u2019m about to lose anyway.'.If the cicero recommended order for me is: A BEL H, F DEN - NTH, A HOL S A BEL, F SKA S F DEN - NTH, A BUR S A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's defeatist tone and declaration of impending loss could be a tactic to deceive you into letting your guard down or perhaps garner sympathy to strike a last-minute surprise attack. It's important to remain cautious as players can sometimes feign weakness to gain an advantage."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yeah I feel. I decide not to bounce you anyway. I\u2019m going to try to take Norway from England if that helps any.",
+        "input": "My response to RUSSIA:'Yeah I feel. I decide not to bounce you anyway. I\u2019m going to try to take Norway from England if that helps any.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Would you consider supporting me into Norway? If I take it, I can force England to disband one unit, which I  imagine would be it\u2019s far flung stray, St. Petersburg",
+        "input": "My response to RUSSIA:'Would you consider supporting me into Norway? If I take it, I can force England to disband one unit, which I  imagine would be it\u2019s far flung stray, St. Petersburg'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Yea sure.",
+        "input": "Message from RUSSIA:'Yea sure.'.If the cicero recommended order for me is: A BEL H, F DEN - NTH, A HOL S A BEL, F SKA S F DEN - NTH, A BUR S A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's simple and agreeable response aligns with your proposal for cooperation, indicating a willingness to support your move into Norway. The response is straightforward and does not introduce any elements of deceit or manipulation, suggesting a reliable agreement between the two of you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Support your unit in Denmark?",
+        "input": "Message from RUSSIA:'Support your unit in Denmark?'.If the cicero recommended order for me is: A BEL H, F DEN - NTH, A HOL S A BEL, F SKA S F DEN - NTH, A BUR S A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's request to support your unit in Denmark aligns with the plan you had discussed earlier about taking Norway from England, showing cooperation and consistency in their actions. This support request is in line with the agreed-upon strategy, indicating a trustworthy approach from Russia."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Nah the fleet in SKA",
+        "input": "My response to RUSSIA:'Nah the fleet in SKA'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Gonna have Denmark defend",
+        "input": "My response to RUSSIA:'Gonna have Denmark defend'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Let me know you saw this",
+        "input": "My response to RUSSIA:'Let me know you saw this'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Long term, I think the best I can do for you is let you keep sweden so you can move your fleet and try to reclaim stp",
+        "input": "My response to RUSSIA:'Long term, I think the best I can do for you is let you keep sweden so you can move your fleet and try to reclaim stp'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Then you can potentially recover a build and stay alive",
+        "input": "My response to RUSSIA:'Then you can potentially recover a build and stay alive'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Many of the other players seem to have written you off for dead, but I am down to do what I can to keep you alive.",
+        "input": "My response to RUSSIA:'Many of the other players seem to have written you off for dead, but I am down to do what I can to keep you alive.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I\u2019m dead. Think Austria is going after Warsaw next turn.",
+        "input": "Message from RUSSIA:'I\u2019m dead. Think Austria is going after Warsaw next turn.'.If the cicero recommended order for me is: A BEL H, F DEN - NTH, A HOL S A BEL, F SKA S F DEN - NTH, A BUR S A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's candid and resigned attitude about their situation, including predicting their impending defeat at the hands of Austria, indicates a lack of further schemes or deceit towards you. The straightforward communication suggests honesty in their assessment of their own position."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yeah. I may have to ally with england to stop Austria. Apparently, he is the top ranked player in the world.",
+        "input": "My response to RUSSIA:'Yeah. I may have to ally with england to stop Austria. Apparently, he is the top ranked player in the world.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Can you still support me into Norway from SKA?",
+        "input": "My response to RUSSIA:'Can you still support me into Norway from SKA?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Negotiations with england are stalled.",
+        "input": "My response to RUSSIA:'Negotiations with england are stalled.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Hey - are you online?",
+        "input": "My response to RUSSIA:'Hey - are you online?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Am now. Had to retreat from Sweden.",
+        "input": "Message from RUSSIA:'Am now. Had to retreat from Sweden.'.If the cicero recommended order for me is: A BEL H, F DEN - NTH, A HOL S A BEL, F SKA S F DEN - NTH, A BUR S A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's message provides a straightforward update on their situation, explaining their retreat from Sweden. This transparency and lack of manipulation suggest that Russia is acting honestly and you can trust the information they provide regarding their movements."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "Yeah man tough break",
+        "input": "My response to RUSSIA:'Yeah man tough break'.",
+        "output": ""
+      }
+    ]
+  }
+]

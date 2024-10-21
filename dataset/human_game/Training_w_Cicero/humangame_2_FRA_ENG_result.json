@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?",
+        "input": "Message from ENGLAND:'Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's proposal for a DMZ in the Channel suggests a willingness to cooperate and avoid conflict, which aligns with the suggested strategy of establishing early alliances."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "My response to ENGLAND:'Sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up",
+        "input": "My response to ENGLAND:'That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.",
+        "input": "Message from ENGLAND:'Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust ENGLAND?",
+        "output": "You should trust England's message. Their update on ongoing conversations with Germany and Russia suggests transparency and a cautious approach, indicating a desire for peaceful resolutions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "sounds good",
+        "input": "My response to ENGLAND:'sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?",
+        "input": "Message from ENGLAND:'Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust ENGLAND?",
+        "output": "You should not trust the message. England's inquiry about Italy's fleet movements, despite the mention of Italian troubles, could indicate an attempt to gather information for potential strategic advantage in the region."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m supporting Paris to burgundy FYI",
+        "input": "Message from ENGLAND:'I\u2019m supporting Paris to burgundy FYI'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust ENGLAND?",
+        "output": "You should trust the message. England openly sharing their intention to support Paris to Burgundy indicates a commitment to cooperation and potentially strengthening your position in the region."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Hello France",
+        "input": "Message from ENGLAND:'Hello France'.If the cicero recommended order for me is: A POR S F SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's friendly greeting is a simple gesture that does not raise any red flags or indicate any immediate threats or hostility."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "How you doing?",
+        "input": "Message from ENGLAND:'How you doing?'.If the cicero recommended order for me is: A POR S F SPA/SC. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's casual inquiry about your well-being does not raise any concerns or hint at any deceptive intentions, indicating a neutral and amicable interaction."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Any chance you\u2019d support me into Spain?",
+        "input": "Message from ENGLAND:'Any chance you\u2019d support me into Spain?'.If the cicero recommended order for me is: A POR S F SPA/SC. Should I trust ENGLAND?",
+        "output": "You should not trust this message. England's request for support to enter Spain could indicate a desire to expand aggressively into your territory, potentially putting your position at risk."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "I can offer keeping you in the game so you make the draw.",
+        "input": "Message from ENGLAND:'I can offer keeping you in the game so you make the draw.'.If the cicero recommended order for me is: A POR S F SPA/SC. Should I trust ENGLAND?",
+        "output": "You should not trust the message. England's offer to keep you in the game in order to secure a draw could be a ploy to manipulate your decisions for their benefit in the long run. Be cautious and consider your own strategic interests."
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! How\u2019s it going? Looking forward to a fun game!",
+        "input": "My response to GERMANY:'Hey Germany! How\u2019s it going? Looking forward to a fun game!'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together",
+        "input": "Message from GERMANY:'Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together'.If the cicero recommended order for me is: F STP/SC - FIN, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's response is positive and receptive to collaborating with Russia, indicating a willingness to work together towards common goals. The friendly tone and cooperative attitude suggest that Germany could be a reliable ally in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work",
+        "input": "My response to GERMANY:'Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol",
+        "input": "My response to GERMANY:'But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.",
+        "input": "Message from GERMANY:'To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.'.If the cicero recommended order for me is: F BOT - STP/SC, A WAR - MOS, A UKR - SEV. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's message is genuine and contains valuable information about England's potential move, showing a willingness to communicate openly. This transparency suggests that Germany is likely to be a trustworthy ally in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Haha word",
+        "input": "My response to GERMANY:'Haha word'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello there! What's your general plan for this game? My inclination when I play Austria is to piss off as few people as possible, so I don't plan on making any overtly aggressive moves this turn.",
+        "input": "Message from AUSTRIA:'Hello there! What's your general plan for this game? My inclination when I play Austria is to piss off as few people as possible, so I don't plan on making any overtly aggressive moves this turn.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their expressed intent to avoid aggressive moves aligns with a peaceful approach, indicating a potential for cooperation and stability in your relationship as Turkey."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I suggest containment of Russia at the very least and perhaps his destruction",
+        "input": "My response to AUSTRIA:'I suggest containment of Russia at the very least and perhaps his destruction'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That certainly sounds just fine to me. I think Turkey and Austria can make for a very good alliance - you build a bunch of fleets, I build a bunch of armies, and we crush a bunch of dots.",
+        "input": "Message from AUSTRIA:'That certainly sounds just fine to me. I think Turkey and Austria can make for a very good alliance - you build a bunch of fleets, I build a bunch of armies, and we crush a bunch of dots.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their positive response to your containment strategy and alliance proposal indicates a willingness to work together to target common enemies, showing a promising foundation for an alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Ok lets roll I\u2019ll go north for the opening",
+        "input": "My response to AUSTRIA:'Ok lets roll I\u2019ll go north for the opening'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "If you want to contain Russia I am willing to support you into rum if you want to wait that\u2019s ok too",
+        "input": "My response to AUSTRIA:'If you want to contain Russia I am willing to support you into rum if you want to wait that\u2019s ok too'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I'd love the support, thanks.",
+        "input": "Message from AUSTRIA:'I'd love the support, thanks.'.If the cicero recommended order for me is: A ARM - ANK, F ANK - CON, A BUL - GRE. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their appreciation of your support offer indicates a willingness to collaborate towards containing Russia, showing a mutual understanding and cooperation in the alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Done",
+        "input": "My response to AUSTRIA:'Done'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Ok",
+        "input": "My response to AUSTRIA:'Ok'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "However nothing bad came if it and I still think we can work together your thoughts?",
+        "input": "My response to AUSTRIA:'However nothing bad came if it and I still think we can work together your thoughts?'.",
+        "output": ""
+      }
+    ]
+  }
+]

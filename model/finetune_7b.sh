@@ -23,5 +23,3 @@ python sft.py \
     --lora_target_modules "q_proj" "v_proj"\
     --torch_dtype=bfloat16 \
     --bf16=True
-    
-    

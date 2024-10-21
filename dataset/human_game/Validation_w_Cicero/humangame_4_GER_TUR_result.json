@@ -1,0 +1,100 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "We might have some space between us now, but it won't be long until we're on each other's door steps. You want to hash out a long term plan for cooperation?",
+        "input": "My response to TURKEY:'We might have some space between us now, but it won't be long until we're on each other's door steps. You want to hash out a long term plan for cooperation?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello and thanks for your message! I am certainly interested in your ideas on this. Have you heard from Italy or Austria at all yet?",
+        "input": "Message from TURKEY:'Hello and thanks for your message! I am certainly interested in your ideas on this. Have you heard from Italy or Austria at all yet?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey showing interest in discussing future cooperation and asking about Italy and Austria's moves shows a genuine willingness to engage strategically. Their response aligns with building alliances and sharing information, indicating sincerity in potential negotiations."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Not yet. Have you?",
+        "input": "My response to TURKEY:'Not yet. Have you?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Nothing yet either.",
+        "input": "Message from TURKEY:'Nothing yet either.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's response matching your lack of information on Italy and Austria indicates consistency and honesty in their communication, supporting the trustworthiness of their intentions for future cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Alright keep me updated",
+        "input": "My response to TURKEY:'Alright keep me updated'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think Russia is committing south. Do you plan to bounce him out of Sweden?",
+        "input": "Message from TURKEY:'I think Russia is committing south. Do you plan to bounce him out of Sweden?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's sudden shift in focus to Russia's actions and seeking your response to bouncing Russia out of Sweden could indicate an attempt to divert attention or influence your moves to benefit Turkey's position. Their change in topic and strategic suggestion seem slightly manipulative and potentially self-serving."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "What makes you say that? And no not likely",
+        "input": "My response to TURKEY:'What makes you say that? And no not likely'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well he has told me he wants to attack Austria. And Austria has told me that he told them that he wanted to attack me. If either of those are true then a 3 unit south start seems likely.",
+        "input": "Message from TURKEY:'Well he has told me he wants to attack Austria. And Austria has told me that he told them that he wanted to attack me. If either of those are true then a 3 unit south start seems likely.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's attempt to sow discord between you, Russia, and Austria could indicate a strategy to divide and conquer, potentially aiming to weaken all parties for their benefit. Their spreading of unverified information and creating distrust among allies might suggest a manipulative approach to advance their position in the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hm understood. I think either way it might be in your best interests to jump on Russia. I can't right away but I can come help you later in the game",
+        "input": "My response to TURKEY:'Hm understood. I think either way it might be in your best interests to jump on Russia. I can't right away but I can come help you later in the game'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Yeah, I guess you have France to worry about? Otherwise Warsaw would be a pretty easy option for you.",
+        "input": "Message from TURKEY:'Yeah, I guess you have France to worry about? Otherwise Warsaw would be a pretty easy option for you.'.If the cicero recommended order for me is: A BEL S A KIE - RUH, F HOL S A BEL, A KIE - RUH, A MUN S A KIE - RUH, A BER S A MUN. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's suggestion that you have France to worry about while subtly hinting at the possibility of attacking Warsaw could potentially be a ploy to divert your attention. Their attempt to steer your focus towards a potential threat from France might indicate a hidden agenda or intention to manipulate your moves in their favor."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Yes this much is true. Once I figure out the west thought I think we're in a great situation to collaborate",
+        "input": "My response to TURKEY:'Yes this much is true. Once I figure out the west thought I think we're in a great situation to collaborate'.",
+        "output": ""
+      }
+    ]
+  }
+]

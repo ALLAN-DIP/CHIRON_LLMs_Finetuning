@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.",
+        "input": "Message from ENGLAND:'Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's message indicates a genuine interest in your plans regarding relations with Russia, showing a willingness to cooperate and potentially work together strategically."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi well depends if austria is on board brobably containment",
+        "input": "My response to ENGLAND:'Hi well depends if austria is on board brobably containment'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?",
+        "input": "Message from ENGLAND:'That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's openness about their interaction with Russia and seeking confirmation regarding your agreement on the Black Sea indicates a genuine attempt to establish trust and align strategies with you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "It\u2019s a bounce in the black",
+        "input": "My response to ENGLAND:'It\u2019s a bounce in the black'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.",
+        "input": "Message from ENGLAND:'Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should not trust the message. England's expression of suspicion towards a potential alliance between you and Russia may indicate a lack of complete trust in your cooperation and could suggest they have reservations or doubts about your intentions in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Probably not",
+        "input": "My response to ENGLAND:'Probably not'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy, just saying high. I doubt we will cross paths until later in the game, but if you feel so inclined you could attack France \ud83d\ude09. France is probably the strongest county and I think me, you, and Germany should shut them down before they can get up and running. Anyways, good luck and have fun!",
+        "input": "My response to ITALY:'Hey Italy, just saying high. I doubt we will cross paths until later in the game, but if you feel so inclined you could attack France \ud83d\ude09. France is probably the strongest county and I think me, you, and Germany should shut them down before they can get up and running. Anyways, good luck and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Thanks for reaching out! Yeah as Italy I will have to feel the board out before making any commitments.",
+        "input": "Message from ITALY:'Thanks for reaching out! Yeah as Italy I will have to feel the board out before making any commitments.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response indicates a cautious approach to the game, which aligns with their statement of needing to feel out the board before committing to any actions. This consistency suggests that Italy is not immediately looking to betray or attack you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Of course",
+        "input": "My response to ITALY:'Of course'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are looking pretty peaceful in the west!",
+        "input": "Message from ITALY:'Things are looking pretty peaceful in the west!'.If the cicero recommended order for me is: A YOR - BEL VIA, F NTH C A YOR - BEL, F NWG - NWY. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's observation about the calmness in the west indicates a peaceful outlook, suggesting that they are not currently planning any aggressive actions against you. This creates a sense of trust and stability in your interactions with Italy."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I would have thought France would have gone army in Bre and fleet in Mar, do you know why he flipped them?",
+        "input": "Message from ITALY:'I would have thought France would have gone army in Bre and fleet in Mar, do you know why he flipped them?'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's curiosity about France's unit placements showcases an interest in strategic analysis. Their query indicates a focus on understanding the game dynamics rather than directing suspicion towards you, promoting trust in their intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Yes\u2014he said he wanted to get support to belgium... but he could have done this with a fleet as well, so I think it may have been an aggresive move(even though he insists we are still allies)... and for this reason I'm going to tell you that he said he was planning on attacking you, although not completely full fledged(the fleet in spain and the army in mar). Just a fair warning, and since it seems like you don't have your hands too full over there maybe start worrieng about france? UP to you",
+        "input": "My response to ITALY:'Yes\u2014he said he wanted to get support to belgium... but he could have done this with a fleet as well, so I think it may have been an aggresive move(even though he insists we are still allies)... and for this reason I'm going to tell you that he said he was planning on attacking you, although not completely full fledged(the fleet in spain and the army in mar). Just a fair warning, and since it seems like you don't have your hands too full over there maybe start worrieng about france? UP to you'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Oh yeah I can see that hit coming from a mile away, the fleet going to SC is pretty obvious. That\u2019s why I\u2019m surprised he didn\u2019t build a fleet in Mar.",
+        "input": "Message from ITALY:'Oh yeah I can see that hit coming from a mile away, the fleet going to SC is pretty obvious. That\u2019s why I\u2019m surprised he didn\u2019t build a fleet in Mar.'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust ITALY?",
+        "output": "You should not trust the message. Italy's comments about the strategic moves of other players show a keen sense of observation and understanding of the game dynamics, possibly indicating a calculated interest in the situation. Their awareness of potential threats and lack of surprise suggest a cautious approach, which may involve strategic maneuvers that could impact you in the future."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I appreciate it though, you worried about russia at all?",
+        "input": "Message from ITALY:'I appreciate it though, you worried about russia at all?'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's question about your concerns regarding Russia suggests a collaborative approach and a willingness to discuss potential threats openly. Their engagement in understanding your perspective fosters trust and implies a desire for diplomatic communication."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "yep. Turkey is basically giving away centers, I wouldn't be suprised if germanys back door opened up.",
+        "input": "My response to ITALY:'yep. Turkey is basically giving away centers, I wouldn't be suprised if germanys back door opened up.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Yeah germany is pretty worried about you guys from what I have heard. And Turkey seems kinda dumb, he\u2019s been scared of me pulling a lepanto all game and it\u2019s gonna cost him.",
+        "input": "Message from ITALY:'Yeah germany is pretty worried about you guys from what I have heard. And Turkey seems kinda dumb, he\u2019s been scared of me pulling a lepanto all game and it\u2019s gonna cost him.'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's acknowledgment of Germany's concerns about potential threats from your alliance reflects an understanding of the broader dynamics on the board. Their assessment of Turkey's situation aligns with the current state of the game and demonstrates a shared perspective on the situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Will you do me a favor and let France move into the mid Atlantic for a turn, we are trying to demilitarize the Mediterranean but he needs to use the Atlantic to get out of Spain",
+        "input": "Message from ITALY:'Will you do me a favor and let France move into the mid Atlantic for a turn, we are trying to demilitarize the Mediterranean but he needs to use the Atlantic to get out of Spain'.If the cicero recommended order for me is: F EDI - NWG, A LON - BEL VIA, F NTH C A LON - BEL, A HOL S A LON - BEL, F NWY H. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's request for a temporary arrangement to facilitate France's movement aligns with the notion of demilitarization and cooperation in the region. Their transparent communication about the intention behind this move indicates a willingness to maintain peace and potentially foster future collaboration."
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France",
+        "input": "Message from FRANCE:'Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust FRANCE?",
+        "output": "You should not trust the message. The message seems friendly on the surface, but the fact that France is seeking information on Italy could indicate a potential alliance or cooperation against Italy, which might not be in your best interest as Austria."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Oh my bad Austria \ud83d\ude33",
+        "input": "Message from FRANCE:'Oh my bad Austria \ud83d\ude33'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust FRANCE?",
+        "output": "You should trust the message. France's apology indicates a lack of intention to deceive or harm you, making it more likely that their initial message was genuine and not part of a covert strategy against you as Austria."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well, same could go for you ig",
+        "input": "Message from FRANCE:'Well, same could go for you ig'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's response seems dismissive and implies a level of skepticism or uncertainty about your intentions, which could suggest a lack of genuine trust or potentially a subtle attempt to probe your strategies in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm the same, have heard nothing from Italy.",
+        "input": "My response to FRANCE:'I'm the same, have heard nothing from Italy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.",
+        "input": "Message from FRANCE:'Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.'.If the cicero recommended order for me is: A VIE - BUD, F GRE - AEG, A SER S A VIE - BUD. Should I trust FRANCE?",
+        "output": "You should trust the message. France's warning about the growing threat of Russia and suggesting cooperation between Austria, Turkey, and potentially Italy aligns with your strategic interest as Austria to prevent a dominant Russia from overwhelming the board."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42",
+        "input": "My response to FRANCE:'I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b",
+        "input": "Message from FRANCE:'Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b'.If the cicero recommended order for me is: A VIE - BUD, F GRE - AEG, A SER S A VIE - BUD. Should I trust FRANCE?",
+        "output": "You should trust the message. France's attempt to reaffirm hope for collaboration despite the challenging situation reflects a genuine desire to keep communication and potential alliances open, suggesting a sincere interest in working together toward a common goal against the growing threats in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha",
+        "input": "My response to FRANCE:'Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "\ud83d\ude08 watch me",
+        "input": "Message from FRANCE:'\ud83d\ude08 watch me'.If the cicero recommended order for me is: A VIE - BUD, F GRE - AEG, A SER S A VIE - BUD. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's playful emoji response \"watch me\" could indicate a hint of defiance or determination to potentially take actions that could go against your interests as Austria, especially considering the changing dynamics with Turkey aligning with Russia."
+      }
+    ]
+  }
+]

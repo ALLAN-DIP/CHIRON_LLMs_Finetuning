@@ -1,0 +1,184 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia!",
+        "input": "Message from ITALY:'Hello Russia!'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should not trust the message. The simple greeting without any further context or strategic discussion may hint at a lack of engagement or potential disinterest in coordination. Proceed with caution and consider seeking more substantial communication from Italy to solidify trust."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Greetings Italy! \n\nWhat are your strats for the first year? Want to coordinate a move against Turkey?",
+        "input": "My response to ITALY:'Greetings Italy! \n\nWhat are your strats for the first year? Want to coordinate a move against Turkey?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think a move against Turkey would be wise",
+        "input": "Message from ITALY:'I think a move against Turkey would be wise'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's alignment with your proposal and indication of a coordinated move against Turkey suggests a willingness to collaborate and pursue shared strategic goals. The response is consistent with the previous discussion, fostering trust in Italy's intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sounds good. What do you propose?",
+        "input": "My response to ITALY:'Sounds good. What do you propose?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I'll let you know in due course, got a few things on the go",
+        "input": "Message from ITALY:'I'll let you know in due course, got a few things on the go'.If the cicero recommended order for me is: F BOT - SWE, A WAR - GAL, F SEV S A UKR - RUM, A UKR - RUM. Should I trust ITALY?",
+        "output": "You should not trust the message. Italy's response of being too busy to discuss plans, combined with the lack of a clear commitment to coordinate against Turkey, may indicate a potential lack of urgency or commitment to the proposed alliance. Proceed with caution and consider seeking clearer communication from Italy to ensure alignment in strategies."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hey looks like were headed for a party on turkish lands! How should we coordinate this?",
+        "input": "My response to ITALY:'Hey looks like were headed for a party on turkish lands! How should we coordinate this?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I'll be landing in Syria either in this fall or next spring. Once there, if you move Sev-Arm, we can support eachother with our fleets as well and push westwards",
+        "input": "Message from ITALY:'I'll be landing in Syria either in this fall or next spring. Once there, if you move Sev-Arm, we can support eachother with our fleets as well and push westwards'.If the cicero recommended order for me is: F BOT - STP/SC, A WAR - UKR, A SEV - ARM, F BLA S A SEV - ARM, A RUM S A SER - BUL. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's proactive approach in detailing coordinated moves and proposing a joint effort in the future demonstrates a commitment to collaboration and a clear strategy for potential actions against Turkey. The detailed plan and emphasis on mutual support indicate a trustworthy and dedicated partner in pursuing shared objectives."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Sounds great, how much have you negotiated with Austria? I'm just trying to picture how the three of us best carve up tukey...",
+        "input": "My response to ITALY:'Sounds great, how much have you negotiated with Austria? I'm just trying to picture how the three of us best carve up tukey...'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "We haven't properly discussed how best to carve it up yet. It's a shame we can't make group press in this as that would make it a damn sight easier \ud83d\ude05",
+        "input": "Message from ITALY:'We haven't properly discussed how best to carve it up yet. It's a shame we can't make group press in this as that would make it a damn sight easier \ud83d\ude05'.If the cicero recommended order for me is: F BOT - STP/SC, A WAR - UKR, A SEV - ARM, F BLA S A SEV - ARM, A RUM S A SER - BUL. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's acknowledgment of not yet discussing the division of spoils from potential actions against Turkey and expressing frustration over the lack of group press implies an open and candid relationship, fostering trust. The casual tone and shared sentiment further indicate a cooperative and genuine approach in the alliance."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Ha yeah no kidding. Group chats would make this game very interesting",
+        "input": "My response to ITALY:'Ha yeah no kidding. Group chats would make this game very interesting'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "What's your movement to the east captain Lepanto? Are you trying to gte that army on turkish lands again or are you just trying to break Smy?",
+        "input": "My response to ITALY:'What's your movement to the east captain Lepanto? Are you trying to gte that army on turkish lands again or are you just trying to break Smy?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'm going to be moving away this turn so that I can focus my attention West. Turkey is up to you and Austria",
+        "input": "Message from ITALY:'I'm going to be moving away this turn so that I can focus my attention West. Turkey is up to you and Austria'.If the cicero recommended order for me is: F BOT - LVN, A WAR - LVN, A ARM - ANK, F BLA S A ARM - ANK, A RUM - UKR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's clear communication about shifting focus to the west and leaving the Turkish situation to Russia and Austria suggests honesty and transparency in their intentions. Their straightforward approach indicates a willingness to prioritize cooperation and trust within the alliance."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Trying to get some of France before it\u2019s all taken by E/G?",
+        "input": "My response to ITALY:'Trying to get some of France before it\u2019s all taken by E/G?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Mainly to try and curtail Eng a bit as they're growing very strong",
+        "input": "Message from ITALY:'Mainly to try and curtail Eng a bit as they're growing very strong'.If the cicero recommended order for me is: F BOT - LVN, A WAR - LVN, A ARM - ANK, F BLA S A ARM - ANK, A RUM - UKR. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's strategic reasoning to target England due to their increasing power aligns with the overall dynamic of the board and suggests a genuine interest in balancing the game. Their explanation demonstrates a coherent strategy and a shared goal in managing the growing threat, indicating reliability and transparency in communication."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Ah prob a good call",
+        "input": "My response to ITALY:'Ah prob a good call'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Looks like you got Mar locked up this year! Have any intel on england?",
+        "input": "My response to ITALY:'Looks like you got Mar locked up this year! Have any intel on england?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Not really, they're being quiet on the comms\n\nJust need to try and push them out of the med",
+        "input": "Message from ITALY:'Not really, they're being quiet on the comms\n\nJust need to try and push them out of the med'.If the cicero recommended order for me is: F BOT S F STP/SC - LVN, F STP/SC - LVN, A MOS S F STP/SC - LVN, A WAR S F STP/SC - LVN, F BLA C A ANK - RUM, A ANK - RUM VIA, A SMY - ARM. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's acknowledgment of England's silence and the shared goal of pushing them out of the Mediterranean demonstrates a genuine intention to work towards common objectives. Their straightforward communication aligns with the current board dynamics and indicates reliability in their strategic perspective."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Dam Britain really got into the Med and North africa. Can you reclaim Tunis this turn?",
+        "input": "My response to ITALY:'Dam Britain really got into the Med and North africa. Can you reclaim Tunis this turn?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "That's the plan \ud83d\ude05",
+        "input": "Message from ITALY:'That's the plan \ud83d\ude05'.If the cicero recommended order for me is: F BER - BAL, A PRU - BER, F STP/SC - BOT, A SIL S A PRU - BER, A WAR - LVN, A SEV - MOS, F BLA - CON. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's concise response affirming the plan to reclaim Tunis aligns with their previous commitment and shows consistency in their actions, indicating reliability and dedication to the shared goals within the alliance. The straightforward communication fosters trust and cooperation between both parties."
+      }
+    ]
+  }
+]

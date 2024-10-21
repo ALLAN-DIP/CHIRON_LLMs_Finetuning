@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, how is it over there in the east?",
+        "input": "My response to RUSSIA:'Hey Russia, how is it over there in the east?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?",
+        "input": "Message from RUSSIA:'Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's response shows a genuine interest in both the eastern and western fronts, indicating a willingness to engage in open and strategic discussions, making them a trustworthy communication partner."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How do you know they are plotting each-others destruction? Not sure which side to take yet.",
+        "input": "My response to RUSSIA:'How do you know they are plotting each-others destruction? Not sure which side to take yet.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Inception obviously",
+        "input": "Message from RUSSIA:'Inception obviously'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response seems dismissive and lacks substance, indicating a lack of transparency and strategic insight into the situation, which could suggest a potential attempt to mislead or manipulate you. Be cautious and verify information from other sources."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.",
+        "input": "My response to RUSSIA:'One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Germany is going to move into sweden with englands support. Germany is also moving two armies east.",
+        "input": "My response to RUSSIA:'Germany is going to move into sweden with englands support. Germany is also moving two armies east.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "how do you know?",
+        "input": "Message from RUSSIA:'how do you know?'.If the cicero recommended order for me is: F BEL S F BRE - ENG, F BRE - ENG, A PAR - PIC, A POR H, A SPA - GAS, F MAR - SPA/SC. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's straightforward response seeking clarification on your information indicates an open dialogue and a genuine desire to understand the reasoning behind your statement, suggesting a reliable and honest communication style from Russia."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "see?",
+        "input": "My response to RUSSIA:'see?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "yeah Germany has done me real dirty these last couple of moves",
+        "input": "Message from RUSSIA:'yeah Germany has done me real dirty these last couple of moves'.If the cicero recommended order for me is: F ENG C A PIC - WAL, F BEL S F ENG, A PIC - WAL VIA, A SPA - TUS VIA, A MAR - PIE, F LYO C A SPA - TUS. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of Germany's actions aligns with your previous information about Germany's movements, showing consistency and a shared understanding of the situation, indicating reliability and trustworthiness in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "eh not that bad. althought they are sending two units over to you.",
+        "input": "My response to RUSSIA:'eh not that bad. althought they are sending two units over to you.'.",
+        "output": ""
+      }
+    ]
+  }
+]

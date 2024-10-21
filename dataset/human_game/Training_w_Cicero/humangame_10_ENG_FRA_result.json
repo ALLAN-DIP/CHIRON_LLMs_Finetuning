@@ -1,0 +1,145 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France, world you like to discuss working together?",
+        "input": "My response to FRANCE:'Hello France, world you like to discuss working together?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello there, I am interested, mostly in keeping the  channel empty for now and we could work together later if this works. Can we agree not to move in the channel",
+        "input": "Message from FRANCE:'Hello there, I am interested, mostly in keeping the  channel empty for now and we could work together later if this works. Can we agree not to move in the channel'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's message may appear friendly, but the request to keep the channel empty could be a tactic to gain a strategic advantage. Consider their potential to exploit the agreement for their benefit in future turns."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Yes, that sounds great",
+        "input": "My response to FRANCE:'Yes, that sounds great'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019m also willing to exchange not building F Yor for you not building F Bre at the end of 1901.",
+        "input": "My response to FRANCE:'I\u2019m also willing to exchange not building F Yor for you not building F Bre at the end of 1901.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sorry, F Liv",
+        "input": "My response to FRANCE:'Sorry, F Liv'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Yeah, that works for me",
+        "input": "Message from FRANCE:'Yeah, that works for me'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message. France's agreement aligns with your proposal and appears to be in both parties' interests. Continuing to build a positive relationship and honoring agreements can be beneficial in future engagements."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "You might want to hit Pie. Austria and Italy keep talking about you being a threat for some unknown reason. Austria is really pushing for Italy to go west instead of to turkey.",
+        "input": "My response to FRANCE:'You might want to hit Pie. Austria and Italy keep talking about you being a threat for some unknown reason. Austria is really pushing for Italy to go west instead of to turkey.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Why would austria want italy move west?",
+        "input": "Message from FRANCE:'Why would austria want italy move west?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message. France's question about Austria's motives shows they are seeking further information and understanding of the situation, indicating an openness to collaborate and potentially work towards aligning objectives. This communication may lead to a deeper discussion on potential alliances and strategies."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don\u2019t know. I\u2019m a little annoyed.",
+        "input": "My response to FRANCE:'I don\u2019t know. I\u2019m a little annoyed.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I told Italy about the Lepanto opening and am hoping that will solve Italy going west. Either way, I don\u2019t see Italy and Austria being very strong long-term.",
+        "input": "My response to FRANCE:'I told Italy about the Lepanto opening and am hoping that will solve Italy going west. Either way, I don\u2019t see Italy and Austria being very strong long-term.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I guess we will see what happens",
+        "input": "Message from FRANCE:'I guess we will see what happens'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message. France's non-committal response indicates a wait-and-see approach, which is reasonable in this situation. It suggests an open-minded and adaptive stance rather than making firm commitments prematurely."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Is there any way of me actually ending this conflict?",
+        "input": "Message from FRANCE:'Is there any way of me actually ending this conflict?'.If the cicero recommended order for me is: F NTH H, F NWG - NAO, F ENG S A PIC - BRE, F IRI - MAO, A PIC - BRE. Should I trust FRANCE?",
+        "output": "You should trust the message. France's inquiry about resolving the conflict shows a genuine interest in seeking a diplomatic solution, indicating a willingness to negotiate and potentially de-escalate tensions. This could be an opportunity to explore peace talks and avoid further hostilities."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Can we agree on peace? What are your demands?",
+        "input": "Message from FRANCE:'Can we agree on peace? What are your demands?'.If the cicero recommended order for me is: F NTH H, F NWG - NAO, F ENG S A PIC - BRE, F IRI - MAO, A PIC - BRE. Should I trust FRANCE?",
+        "output": "You should trust the message. France's explicit request for peace and discussion about demands shows a willingness to negotiate and potentially find a resolution beneficial to both parties. Engaging in diplomatic talks could lead to a mutually beneficial agreement."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Neutrality in exchange for current holdings, Spain, and Portugal. You can hold Paris and marseille with just armies of Italy backs off",
+        "input": "My response to FRANCE:'Neutrality in exchange for current holdings, Spain, and Portugal. You can hold Paris and marseille with just armies of Italy backs off'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Thats a bit too much, can I keep Spain and i help you get some german centers?",
+        "input": "Message from FRANCE:'Thats a bit too much, can I keep Spain and i help you get some german centers?'.If the cicero recommended order for me is: F NTH H, F NWG - NAO, F ENG S A PIC - BRE, F IRI - MAO, A PIC - BRE. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's request to retain Spain and not meeting your demands may indicate potential insincerity in their offer for peace. Consider the imbalance in the proposed agreement and be cautious in negotiations."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Any deals?",
+        "input": "Message from FRANCE:'Any deals?'.If the cicero recommended order for me is: F EDI - NTH, F ENG S F NAO - MAO, F NAO - MAO, F BEL H, A BRE - PAR, F MAO - POR. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's vague inquiry about deals without offering any specific proposal may indicate a lack of commitment to making a concrete agreement. Proceed with caution and consider seeking more concrete details before engaging in negotiations with France."
+      }
+    ]
+  }
+]

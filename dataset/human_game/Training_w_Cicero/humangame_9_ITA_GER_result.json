@@ -1,0 +1,787 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hi there! Not sure we have much to talk about but I figured I would reach out.",
+        "input": "My response to GERMANY:'Hi there! Not sure we have much to talk about but I figured I would reach out.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yeah for sure! How\u2019s it going Italy?",
+        "input": "Message from GERMANY:'Yeah for sure! How\u2019s it going Italy?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's casual and friendly approach in the previous phase, along with the neutral content of their current message, indicates they are not posing an immediate threat to you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Not bad, I\u2019ve heard from everyone but Austria, hbu?",
+        "input": "My response to GERMANY:'Not bad, I\u2019ve heard from everyone but Austria, hbu?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019ve heard from a few players. Don\u2019t have much to discuss with Turkey at this point lol. I\u2019ve had a fairly busy week so I haven\u2019t been reaching out much.",
+        "input": "Message from GERMANY:'I\u2019ve heard from a few players. Don\u2019t have much to discuss with Turkey at this point lol. I\u2019ve had a fairly busy week so I haven\u2019t been reaching out much.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's consistent casual and friendly tone, coupled with the lack of any hostile intentions towards you, suggests they are likely not a threat to you in this phase."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019m really excited for this game!",
+        "input": "Message from GERMANY:'I\u2019m really excited for this game!'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should not trust the message. Despite Germany's continued friendly demeanor, their seemingly excessive excitement could potentially be a ploy to disarm you and gain an advantage in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "How\u2019s it going in the West? Was that bounce in Bur arranged?",
+        "input": "My response to GERMANY:'How\u2019s it going in the West? Was that bounce in Bur arranged?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yessir!",
+        "input": "Message from GERMANY:'Yessir!'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's affirmation of the arranged bounce in Burgundy indicates honesty in their communication and cooperation in managing the shared border effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Curious about the alliances over there... I\u2019d be willing to exchange information",
+        "input": "My response to GERMANY:'Curious about the alliances over there... I\u2019d be willing to exchange information'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah for sure",
+        "input": "Message from GERMANY:'Yeah for sure'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's continued willingness to engage in conversation and exchange information suggests they are open to cooperation and negotiation, making them a potentially trustworthy ally in this phase."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Happy to tell you what I know",
+        "input": "Message from GERMANY:'Happy to tell you what I know'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's ongoing willingness to share information and maintain a cooperative tone indicates they are likely to be trustworthy and open to working together towards mutual goals."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "So what\u2019s it looking like",
+        "input": "My response to GERMANY:'So what\u2019s it looking like'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Idk really know that truth tbh",
+        "input": "Message from GERMANY:'Idk really know that truth tbh'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's uncertainty and lack of information sharing may indicate they are either withholding information or not fully committed to genuine collaboration, raising doubts about their trustworthiness in this phase."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Ive spoken to a lot the players in my theatre but I don\u2019t know who trust. I might be able to get a better picture based on what they told you.",
+        "input": "Message from GERMANY:'Ive spoken to a lot the players in my theatre but I don\u2019t know who trust. I might be able to get a better picture based on what they told you.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's honesty about their uncertainty and willingness to gather information to potentially collaborate with you indicates a genuine attempt to establish trust and work together towards mutual benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I haven\u2019t heard much from england, France told me they\u2019re staying neutral until they know who they can trust, and that they have an idea of who but they won\u2019t tell me who. His main worry is keeping you guys from joining up against him.",
+        "input": "My response to GERMANY:'I haven\u2019t heard much from england, France told me they\u2019re staying neutral until they know who they can trust, and that they have an idea of who but they won\u2019t tell me who. His main worry is keeping you guys from joining up against him.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah that makes sense. I feel like France. Both him and England have reached out. I think it\u2019s kind of a three way diplomatic stalemate for the moment",
+        "input": "Message from GERMANY:'Yeah that makes sense. I feel like France. Both him and England have reached out. I think it\u2019s kind of a three way diplomatic stalemate for the moment'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's acknowledgment of the current diplomatic situation and their alignment with your experience indicates a shared understanding, potentially fostering trust and cooperation between your two nations to navigate the stalemate effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Anything you have heard about my side?",
+        "input": "My response to GERMANY:'Anything you have heard about my side?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "No to be honest :/. My communication with Austria and Turkey has been minimal. I am down to try to chat them up if I can be helpful to you.",
+        "input": "Message from GERMANY:'No to be honest :/. My communication with Austria and Turkey has been minimal. I am down to try to chat them up if I can be helpful to you.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's honesty about their lack of information regarding your side and their offer to help facilitate communication with Austria and Turkey suggests a genuine willingness to collaborate and assist you, making them a potentially trustworthy ally in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not sure how much luck you would have, you\u2019re welcome to try though. Austria has not been talkative at all.",
+        "input": "My response to GERMANY:'Not sure how much luck you would have, you\u2019re welcome to try though. Austria has not been talkative at all.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah we\u2019ve barely spoken! Well I\u2019m glad you\u2019re responsive. I am so so so much more likely to help and ally with talkative players than players who kinda ghost.",
+        "input": "Message from GERMANY:'Yeah we\u2019ve barely spoken! Well I\u2019m glad you\u2019re responsive. I am so so so much more likely to help and ally with talkative players than players who kinda ghost.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's candid preference for communicative players and their expressed gratitude for your responsiveness suggest a genuine interest in collaboration and alliance with active and engaged players like yourself, indicating they are likely to be trustworthy in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I know right, despite that I\u2019m trying to ally with Austria. Fighting them doesn\u2019t usually end up well for me when I play as Italy.",
+        "input": "My response to GERMANY:'I know right, despite that I\u2019m trying to ally with Austria. Fighting them doesn\u2019t usually end up well for me when I play as Italy.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah that\u2019s fair. I was Germany in my last game, never fought with Italy once. We had a pretty good relationship and I ended up allying with them in the late game.",
+        "input": "Message from GERMANY:'Yeah that\u2019s fair. I was Germany in my last game, never fought with Italy once. We had a pretty good relationship and I ended up allying with them in the late game.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's shared experience from a previous game and their positive relationship with Italy demonstrates a track record of trustworthiness and potential for successful alliances, indicating they are likely to be a reliable ally in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Always nice to have the option! I have no clue who I hope to ally with so far.",
+        "input": "My response to GERMANY:'Always nice to have the option! I have no clue who I hope to ally with so far.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah same.",
+        "input": "Message from GERMANY:'Yeah same.'.If the cicero recommended order for me is: F ION C A APU - TUN, A VEN H, A APU - TUN VIA. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's agreement with your sentiment and similar stance on alliance prospects suggests a shared perspective and mutual uncertainty, fostering a potential basis for trust and collaboration in this phase."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Oh dear",
+        "input": "Message from GERMANY:'Oh dear'.",
+        "output": "You should not trust the message. Germany's brief and vague message of \"Oh dear\" does not provide any clear information or context, possibly indicating a shift in their attitude or potential concerns that they may not be openly sharing. Be cautious and vigilant in your interactions with Germany in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "What\u2019s wrong? Was england not supposed to do that?",
+        "input": "My response to GERMANY:'What\u2019s wrong? Was england not supposed to do that?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "No sir lol",
+        "input": "Message from GERMANY:'No sir lol'.",
+        "output": "You should trust the message. Germany's casual and straightforward response aligns with the context provided in your previous message, indicating a shared acknowledgment of an unexpected or possibly unfavorable development related to England's actions. This simplicity suggests transparency and potential honesty in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "What is your relationship with France like?",
+        "input": "Message from GERMANY:'What is your relationship with France like?'.",
+        "output": "You should trust the message. Germany's inquiry about your relationship with France indicates an interest in gathering information and potentially assessing diplomatic relationships and alliances. Their question seems straightforward and not overly manipulative, suggesting a genuine interest in understanding the dynamics on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Well it was supposed to be good but they just moved their fleet to the SC of Spain, which seems unnecessary",
+        "input": "My response to GERMANY:'Well it was supposed to be good but they just moved their fleet to the SC of Spain, which seems unnecessary'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Why?",
+        "input": "My response to GERMANY:'Why?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Also what are your thoughts on Russia?",
+        "input": "My response to GERMANY:'Also what are your thoughts on Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Mostly just curiousity",
+        "input": "Message from GERMANY:'Mostly just curiousity'.",
+        "output": "You should trust the message. Germany's straightforward response aligns with the context of the question, indicating genuine curiosity rather than any hidden agenda. Their simple and direct communication suggests openness and a willingness to engage in honest discussions, potentially making them a trustworthy conversation partner in this phase."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Seems like a good dude",
+        "input": "Message from GERMANY:'Seems like a good dude'.",
+        "output": "You should trust the message. Germany's positive assessment of Russia as \"a good dude\" signals a favorable view and potential willingness to cooperate or ally with them. This straightforward and casual comment indicates openness and honesty in their perception of the situation on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "I\u2019m pretty sure France and England are gonna go for you. I mentioned to him that he could help you out in the north as that would benefit me (I like you and don\u2019t want France getting too big)",
+        "input": "My response to GERMANY:'I\u2019m pretty sure France and England are gonna go for you. I mentioned to him that he could help you out in the north as that would benefit me (I like you and don\u2019t want France getting too big)'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Did he say anything?",
+        "input": "My response to GERMANY:'Did he say anything?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "What have your conversations with France been like? Do you think France is allied with England?",
+        "input": "Message from GERMANY:'What have your conversations with France been like? Do you think France is allied with England?'.If the cicero recommended order for me is: A TUN - APU VIA, F ION C A TUN - APU, F NAP - TYS, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquisitive nature about your conversations with France, coupled with exploring the potential alliance between France and England, showcases an interest in gathering information and understanding the diplomatic landscape. Their questions appear to be aimed at fostering cooperation and potentially aligning interests strategically."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Yes I do, I am negotiating him getting that fleet out of Spain and he said he has to clear it with england.",
+        "input": "My response to GERMANY:'Yes I do, I am negotiating him getting that fleet out of Spain and he said he has to clear it with england.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Yikes",
+        "input": "Message from GERMANY:'Yikes'.If the cicero recommended order for me is: A TUN - APU VIA, F ION C A TUN - APU, F NAP - TYS, A VEN H. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's reaction of \"Yikes\" could indicate that they view the situation with concern or uncertainty, potentially hinting at a shift in dynamics or a development that may have negative implications. Be cautious in your interactions and consider possible changing dynamics in your relationship with Germany."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Yeah so you\u2019re in trouble, have you heard from russia or Austria?",
+        "input": "My response to GERMANY:'Yeah so you\u2019re in trouble, have you heard from russia or Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Yeah been talking to Russia. Austria, only a little",
+        "input": "Message from GERMANY:'Yeah been talking to Russia. Austria, only a little'.If the cicero recommended order for me is: A TUN - APU VIA, F ION C A TUN - APU, F NAP - TYS, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's openness about their communication with Russia and limited interaction with Austria suggests transparency and a willingness to share information with you. This can indicate a potential basis for trust and cooperation in navigating the evolving dynamics on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Is russia gonna help or nah",
+        "input": "My response to GERMANY:'Is russia gonna help or nah'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "We\u2019ll see",
+        "input": "Message from GERMANY:'We\u2019ll see'.If the cicero recommended order for me is: A TUN - TUS VIA, F TYS C A TUN - TUS, F ION - AEG, A VEN S A TUN - TUS. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's ambiguous response of 'We'll see' may indicate a lack of commitment or a potentially vague stance on the situation at hand. Exercise caution and consider other diplomatic options while engaging with Germany in this phase."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Hey Italy! How\u2019s it going?",
+        "input": "Message from GERMANY:'Hey Italy! How\u2019s it going?'.",
+        "output": "You should trust the message. Germany's friendly and casual greeting indicates a positive and non-threatening approach, suggesting they are likely open to communication and potential cooperation. This message could be an opportunity to engage in diplomatic discussions with Germany."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Some good some bad as I think you can see. Austria was being uncooperative so it was nice to coordinate a little hit on them. Unfortunately France got a little bold.",
+        "input": "My response to GERMANY:'Some good some bad as I think you can see. Austria was being uncooperative so it was nice to coordinate a little hit on them. Unfortunately France got a little bold.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Yes that is unfortunate. It seems to me that France and England are in lock step.",
+        "input": "Message from GERMANY:'Yes that is unfortunate. It seems to me that France and England are in lock step.'.",
+        "output": "You should trust the message. Germany's observation about the alignment between France and England indicates awareness of the broader dynamics, showcasing a keen understanding of the strategic landscape. This insight may present an opportunity for further collaboration and coordinated actions against common threats."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I wanted to ask what your plans for that army in Tyr are",
+        "input": "Message from GERMANY:'I wanted to ask what your plans for that army in Tyr are'.",
+        "output": "You should not trust the message. Germany's specific inquiry about your army in Tyrolia suggests a keen interest in your strategic moves, which could potentially indicate a desire to gather intelligence or plan actions against you. Be cautious and consider keeping your plans guarded when discussing details with Germany."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Well with the French being aggressive I might have to support Ven holding (after I build) otherwise it\u2019ll probably be attacking Austria.",
+        "input": "My response to GERMANY:'Well with the French being aggressive I might have to support Ven holding (after I build) otherwise it\u2019ll probably be attacking Austria.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Is France asking you about attacking England? He told me he would and I was curious whether or not he\u2019s being honest",
+        "input": "My response to GERMANY:'Is France asking you about attacking England? He told me he would and I was curious whether or not he\u2019s being honest'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Yes he asked me!!",
+        "input": "Message from GERMANY:'Yes he asked me!!'.If the cicero recommended order for me is: F TYS S A VEN - TUS, A TYR - VEN, F ION - ADR, A VEN - TUS, A GRE S A BUL - SER. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's direct confirmation of France's inquiry regarding the attack on England indicates transparency and honesty in their communication. This information could help you navigate the diplomatic and strategic landscape effectively."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Can I trust him?",
+        "input": "Message from GERMANY:'Can I trust him?'.If the cicero recommended order for me is: F TYS S A VEN - TUS, A TYR - VEN, F ION - ADR, A VEN - TUS, A GRE S A BUL - SER. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's openness in seeking advice or insight on whether to trust France demonstrates a willingness to engage in discussions and potentially collaborate on strategic decisions. This could indicate a genuine interest in working together and fostering trust between your nations."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "He has been extremely untrustworthy this game. I would recommend trying to work with him, but protect yourself as much as you can. Don\u2019t trust him in any places where it makes you vulnerable.",
+        "input": "My response to GERMANY:'He has been extremely untrustworthy this game. I would recommend trying to work with him, but protect yourself as much as you can. Don\u2019t trust him in any places where it makes you vulnerable.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "But negotiating peace/an attack on England can\u2019t hurt",
+        "input": "My response to GERMANY:'But negotiating peace/an attack on England can\u2019t hurt'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Not saying to betray him at all, he has been a fantastic ally that I would love to end the game with but we should keep an eye on Russia\u2019s growth",
+        "input": "My response to GERMANY:'Not saying to betray him at all, he has been a fantastic ally that I would love to end the game with but we should keep an eye on Russia\u2019s growth'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Yeah I\u2019m totally with you. Russia says he wants a three way victory with me you and him. I think the best thing we can do is build to parity",
+        "input": "Message from GERMANY:'Yeah I\u2019m totally with you. Russia says he wants a three way victory with me you and him. I think the best thing we can do is build to parity'.",
+        "output": "You should trust the message. Germany's alignment with your strategic concerns and their shared perspective on the game's dynamics, along with revealing Russia's plans, indicates an open and collaborative approach. Their suggestion to build to parity demonstrates a willingness to work together towards a balanced game state, highlighting a potential for trust and mutual cooperation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Exactly, France is gonna try and get us to break off, I\u2019m good staying with russia for now though",
+        "input": "My response to GERMANY:'Exactly, France is gonna try and get us to break off, I\u2019m good staying with russia for now though'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Agreed.",
+        "input": "Message from GERMANY:'Agreed.'.",
+        "output": "You should trust the message. Germany's simple agreement with your stance on staying aligned with Russia despite potential pressure from France indicates a shared understanding and potential commitment to the current alliance. Their concurrence with your strategy suggests reliability and a willingness to maintain cooperation in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "If he helps me with turkey and Austria and actually gives me supply centers then I will have enough that he can\u2019t really stab both of us. Which is the point he made. If he\u2019s gonna go for a solo we will know this year",
+        "input": "My response to GERMANY:'If he helps me with turkey and Austria and actually gives me supply centers then I will have enough that he can\u2019t really stab both of us. Which is the point he made. If he\u2019s gonna go for a solo we will know this year'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "I think our best bet is to ride this out, take Russia at his word, but be prepared to work together if he turns on one of us.",
+        "input": "Message from GERMANY:'I think our best bet is to ride this out, take Russia at his word, but be prepared to work together if he turns on one of us.'.",
+        "output": "You should trust the message. Germany's pragmatic approach of staying vigilant while maintaining trust in Russia's current intentions, alongside the readiness to collaborate if the situation changes, displays a cautious and strategic mindset. This response suggests a level-headed and adaptable approach, indicating trustworthiness and a willingness to navigate potential future challenges together."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Sounds great",
+        "input": "My response to GERMANY:'Sounds great'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Lol",
+        "input": "Message from GERMANY:'Lol'.",
+        "output": "You should trust the message. Germany's lighthearted response of \"Lol\" appears to be a casual and informal acknowledgment of the exchange. This does not suggest any immediate concerns or threats, indicating a friendly and amicable interaction between you both in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Is france trying to recruit you?",
+        "input": "My response to GERMANY:'Is france trying to recruit you?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Yes, he said \u201cwe need to do something about Russia\u201d",
+        "input": "Message from GERMANY:'Yes, he said \u201cwe need to do something about Russia\u201d'.",
+        "output": "You should trust the message. Germany's disclosure of France's intentions to collaborate against Russia and their transparency about the ongoing diplomatic interactions demonstrate honesty and openness in their communication. This insight into France's alliances can help you navigate the shifting alliances effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Yeah I\u2019m playing along with him right now, I\u2019m supposed to be convincing you that France is trustworthy",
+        "input": "My response to GERMANY:'Yeah I\u2019m playing along with him right now, I\u2019m supposed to be convincing you that France is trustworthy'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Lolololololol",
+        "input": "Message from GERMANY:'Lolololololol'.",
+        "output": "You should trust the message. Germany's response of \"Lolololololol\" is likely a humorous reaction to the situation and does not indicate any immediate concerns or threats. This lighthearted exchange suggests a friendly and relaxed tone in the communication between you and Germany."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "He hasn\u2019t even convinced me that he\u2019s trustworthy so I don\u2019t know why he thinks I would do that \ud83d\ude02",
+        "input": "My response to GERMANY:'He hasn\u2019t even convinced me that he\u2019s trustworthy so I don\u2019t know why he thinks I would do that \ud83d\ude02'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Yeah he\u2019s a real champ",
+        "input": "Message from GERMANY:'Yeah he\u2019s a real champ'.",
+        "output": "You should trust the message. Germany's agreement with your perspective on France's reliability and referring to France as \"a real champ\" likely indicates a shared understanding of the diplomatic dynamics on the board. This casual response suggests a common ground between you and Germany in assessing other players' positions, fostering trust in your continued dialogue."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "He\u2019s been so annoying all game",
+        "input": "My response to GERMANY:'He\u2019s been so annoying all game'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "And he wants me to ally with Austria and turkey, who have both already stabbed me this game",
+        "input": "My response to GERMANY:'And he wants me to ally with Austria and turkey, who have both already stabbed me this game'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Yes, just as France has also support england in stabbing me.",
+        "input": "Message from GERMANY:'Yes, just as France has also support england in stabbing me.'.",
+        "output": "You should trust the message. Germany's acknowledgment of France's actions supporting England's aggression against them highlights a shared experience of betrayal and potential reinforcement of understanding between you and Germany. This may indicate a common ground for future cooperation or alignment against mutual threats."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "He knows he\u2019s kinda beat. With Russia\u2019s support, France will be worn down over the next few years.",
+        "input": "Message from GERMANY:'He knows he\u2019s kinda beat. With Russia\u2019s support, France will be worn down over the next few years.'.",
+        "output": "You should trust the message. Germany's assessment of the situation with France, acknowledging the pressure they are under due to Russia's support and predicting potential exhaustion over time, demonstrates an understanding of the strategic dynamics on the board. This shared analysis could foster trust in Germany's strategic acumen and pave the way for collaborative decision-making."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Yeah he picked a bad ally and then that ally quit, I\u2019ll be turning to crush him once we deal with the East",
+        "input": "My response to GERMANY:'Yeah he picked a bad ally and then that ally quit, I\u2019ll be turning to crush him once we deal with the East'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Amen. I\u2019m hoping to take many of his supply centers to establish some parity. I think the best thing we can do to keep the alliance strong is make sure we\u2019re all about the same size.",
+        "input": "Message from GERMANY:'Amen. I\u2019m hoping to take many of his supply centers to establish some parity. I think the best thing we can do to keep the alliance strong is make sure we\u2019re all about the same size.'.",
+        "output": "You should trust the message. Germany's alignment with your strategic goals of achieving parity and maintaining balance within the alliance suggests a collaborative and cooperative mindset. Their focus on shared strength and proportional growth indicates a commitment to the alliance's stability and potential for trustworthiness in working towards common objectives."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "Yeah that was the only reason I got a little worried is because he\u2019s now doubled us",
+        "input": "My response to GERMANY:'Yeah that was the only reason I got a little worried is because he\u2019s now doubled us'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hey Italy good looks!! Looks like england, Austria and turkey are virtually toast.",
+        "input": "Message from GERMANY:'Hey Italy good looks!! Looks like england, Austria and turkey are virtually toast.'.If the cicero recommended order for me is: F TUN - ION, F ION - ALB, A VEN - TRI, A VIE S A TRI - BUD, A TRI - BUD. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's acknowledgment of the precarious positions of England, Austria, and Turkey implies an understanding of the board dynamics and potential opportunities for coordinated actions. This shared observation could indicate a trustworthy ally who is strategically aware and possibly open to collaboration in this critical phase of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "Hey Italy! Wanted to check in and say hi! Things seem to being going really well for our alliance!",
+        "input": "Message from GERMANY:'Hey Italy! Wanted to check in and say hi! Things seem to being going really well for our alliance!'.If the cicero recommended order for me is: F TUN - ION, F ION - GRE, F ROM - TYS, A VEN - TRI, A VIE S A TRI - BUD, A TRI - BUD, A SER S A TRI - BUD. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's positive and friendly check-in, coupled with the assessment that things are going well for your alliance, indicates a strong sense of camaraderie and cooperation. This message suggests that Germany is supportive and maintains a positive outlook on the alliance, making them a reliable ally in this phase of the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Yeah I agree! I still wanna make sure that France doesn\u2019t become a threat, russia is playing nice",
+        "input": "My response to GERMANY:'Yeah I agree! I still wanna make sure that France doesn\u2019t become a threat, russia is playing nice'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "Russia is been good to me, I\u2019m still weary of a stab",
+        "input": "Message from GERMANY:'Russia is been good to me, I\u2019m still weary of a stab'.If the cicero recommended order for me is: F TUN - ION, F ION - GRE, F ROM - TYS, A VEN - TRI, A VIE S A TRI - BUD, A TRI - BUD, A SER S A TRI - BUD. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's cautious approach regarding Russia and their acknowledgment of being vigilant against a potential stab indicate a level of wariness and strategic foresight. Their honesty about their concerns shows transparency and a realistic assessment of the diplomatic situation, hinting at a trustworthy and cooperative mindset in navigating the game's complexities."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "How\u2019s it going Italy?! wanted to check in",
+        "input": "Message from GERMANY:'How\u2019s it going Italy?! wanted to check in'.If the cicero recommended order for me is: F TYS - ION, F ION - AEG, A VIE S A TRI - BUD, A TRI - BUD, F GRE S F ION - AEG, A SER - RUM, A BUL S A SER - RUM. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's friendly check-in and open communication style reflect a positive and collaborative tone. This indicates a willingness to engage and potentially strategize together, making them a trustworthy ally at this point in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "Pretty good! I\u2019ll be heading toward France here",
+        "input": "My response to GERMANY:'Pretty good! I\u2019ll be heading toward France here'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Epic. Let\u2019s carve them up.",
+        "input": "Message from GERMANY:'Epic. Let\u2019s carve them up.'.If the cicero recommended order for me is: F TYS - ION, F ION - AEG, A VIE S A TRI - BUD, A TRI - BUD, F GRE S F ION - AEG, A SER - RUM, A BUL S A SER - RUM. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's enthusiastic response of \"Epic. Let\u2019s carve them up.\" suggests alignment with your strategic goals and a readiness to collaborate in targeting France. This shared objective and proactive approach indicate a strong and reliable alliance, making Germany a trustworthy partner in your upcoming moves."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "How are you feeling about Russia",
+        "input": "Message from GERMANY:'How are you feeling about Russia'.If the cicero recommended order for me is: F TYS - ION, F ION - AEG, A VIE S A TRI - BUD, A TRI - BUD, F GRE S F ION - AEG, A SER - RUM, A BUL S A SER - RUM. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's inquiry about your sentiments towards Russia demonstrates an interest in understanding your perspective and potentially aligning strategies. Their openness to discussing diplomatic dynamics suggests a cooperative and communicative approach, indicating a trustworthy and collaborative relationship with you in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "Good, he\u2019s been nice to me and has continued to support me",
+        "input": "My response to GERMANY:'Good, he\u2019s been nice to me and has continued to support me'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Yeah I still trust him and feel good about the alliance",
+        "input": "Message from GERMANY:'Yeah I still trust him and feel good about the alliance'.If the cicero recommended order for me is: F TYS - ION, F ION - AEG, A VIE S A TRI - BUD, A TRI - BUD, F GRE S F ION - AEG, A SER - RUM, A BUL S A SER - RUM. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's affirmation of trust towards Russia and feeling positive about the alliance indicates a consistent and stable diplomatic relationship. Their confidence and reassurance suggest a reliable ally, making Germany a trustworthy partner in continuing the alliance with Russia and coordinating future moves effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "Me too",
+        "input": "My response to GERMANY:'Me too'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "I think when Turkey is officially eliminated we be able to get France to surrender",
+        "input": "My response to GERMANY:'I think when Turkey is officially eliminated we be able to get France to surrender'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1906M",
+        "message": "Yeah he\u2019s just starting to break",
+        "input": "Message from GERMANY:'Yeah he\u2019s just starting to break'.If the cicero recommended order for me is: F LYO S A PIE - MAR, F TYS - WES, A PIE - MAR, A TYR H, A TUS - PIE, A VEN H, F GRE - ION, A SER - BUD, F SMY H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's observation about France beginning to weaken corroborates your strategic assessment and suggests a shared understanding of the overall situation on the board. This alignment in perspectives indicates a basis for trust and potentially effective collaboration in pursuing common goals."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1906M",
+        "message": "And HAPPY NEW YEAR! Cheers to the Russia-Germany-Italy alliance!",
+        "input": "Message from GERMANY:'And HAPPY NEW YEAR! Cheers to the Russia-Germany-Italy alliance!'.If the cicero recommended order for me is: F LYO S A PIE - MAR, F TYS - WES, A PIE - MAR, A TYR H, A TUS - PIE, A VEN H, F GRE - ION, A SER - BUD, F SMY H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's New Year wishes and toast to the Russia-Germany-Italy alliance convey a sense of camaraderie and positivity. This message indicates a solid and amicable relationship, highlighting Germany as a trustworthy and committed ally in the ongoing alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Happy new year!!",
+        "input": "My response to GERMANY:'Happy new year!!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "I will support Pic to Bre and set my win condition to three way win",
+        "input": "My response to GERMANY:'I will support Pic to Bre and set my win condition to three way win'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Sounds great Italy! Thanks for being such a great ally!",
+        "input": "Message from GERMANY:'Sounds great Italy! Thanks for being such a great ally!'.If the cicero recommended order for me is: A GAS - BRE, F SPA/SC - POR, F WES - SPA/SC, A MAR - GAS, F TYS - WES, A PIE - MAR, A TYR H, A TUS - PIE, A TRI H, F AEG - ION, A APU H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's appreciation of your role as a great ally demonstrates a positive and grateful attitude towards the alliance. Their acknowledgment of your contributions and positive sentiments suggest a strong and reliable partnership, making Germany a trustworthy player in this phase."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "You as well, good game!",
+        "input": "My response to GERMANY:'You as well, good game!'.",
+        "output": ""
+      }
+    ]
+  }
+]

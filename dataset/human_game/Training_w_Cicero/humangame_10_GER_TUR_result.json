@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.",
+        "input": "My response to TURKEY:'Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello! I would be happy to accept this agreement.",
+        "input": "Message from TURKEY:'Hello! I would be happy to accept this agreement.'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message. The reason is that in the previous phase, Turkey seemed willing to share information with you about interactions with France and England, which is not directly relevant to the current orders you provided."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Great to hear! How is your relationship with Russia? Plans for Black Sea?",
+        "input": "My response to TURKEY:'Great to hear! How is your relationship with Russia? Plans for Black Sea?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "At the moment I'm speaking with him about a potential dmz",
+        "input": "Message from TURKEY:'At the moment I'm speaking with him about a potential dmz'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should trust the message. The reason is that Turkey's response aligns with the information they previously provided about discussing a potential demilitarized zone with Russia, indicating consistency in their communication."
+      }
+    ]
+  }
+]

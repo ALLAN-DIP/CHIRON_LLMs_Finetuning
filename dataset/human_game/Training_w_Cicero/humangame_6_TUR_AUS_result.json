@@ -1,0 +1,94 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Howdy diddly do, neighbor!\n\nAny thoughts on how you'd like the opening stages to go?",
+        "input": "My response to AUSTRIA:'Howdy diddly do, neighbor!\n\nAny thoughts on how you'd like the opening stages to go?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I'd love to take all of the balkans and Rumania then all of Italy and France in the next 2 years. Seems like a decent opening!? How about you? \ud83d\ude42",
+        "input": "Message from AUSTRIA:'I'd love to take all of the balkans and Rumania then all of Italy and France in the next 2 years. Seems like a decent opening!? How about you? \ud83d\ude42'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message. The enthusiastic response and willingness to share strategic intentions suggest a genuine effort for collaboration and potential alignment of interests."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Wouldn't we all love that?  I mean, not specifically you taking all that...\nSeriously, though, you have any thoughts on what kind if longer term partner you want? Any grudges you need to work out on the board?",
+        "input": "My response to AUSTRIA:'Wouldn't we all love that?  I mean, not specifically you taking all that...\nSeriously, though, you have any thoughts on what kind if longer term partner you want? Any grudges you need to work out on the board?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "You, umm, want to ask me to get my fleet out to help slow down Italy?",
+        "input": "My response to AUSTRIA:'You, umm, want to ask me to get my fleet out to help slow down Italy?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "I think we are both an early dinner at this point but sure!",
+        "input": "Message from AUSTRIA:'I think we are both an early dinner at this point but sure!'.",
+        "output": "You should trust the message. The shared acknowledgment of the current situation implies a realistic approach to the game and a potential openness to collaboration despite the challenging circumstances."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I've put prelim orders in to support Greece to ion and stand Italy out.  Let me know if that's wasted effort",
+        "input": "My response to AUSTRIA:'I've put prelim orders in to support Greece to ion and stand Italy out.  Let me know if that's wasted effort'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I'll support you into ION instead. I don't want to be leaving Greece.",
+        "input": "Message from AUSTRIA:'I'll support you into ION instead. I don't want to be leaving Greece.'.If the cicero recommended order for me is: F AEG S A BUL - GRE, A ANK - CON, F SMY - EAS, A BUL - GRE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's willingness to support your moves and prioritize retaining Greece indicates a cooperative and mutually beneficial relationship."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "https://tenor.com/view/turkey-slice-cut-thanksgiving-gif-3575755",
+        "input": "Message from AUSTRIA:'https://tenor.com/view/turkey-slice-cut-thanksgiving-gif-3575755'.If the cicero recommended order for me is: F AEG S A BUL - GRE, A ANK - CON, F SMY - EAS, A BUL - GRE. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. The use of a gif depicting \"turkey slice cut Thanksgiving\" could be interpreted as a subtle indication of potential betrayal or hostility towards Turkey."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Good idea - help Russia, I'm sure that will work out well for you haha",
+        "input": "Message from AUSTRIA:'Good idea - help Russia, I'm sure that will work out well for you haha'.If the cicero recommended order for me is: F AEG S A BUL - GRE, A ANK - CON, F SMY - EAS, A BUL - GRE. Should I trust AUSTRIA?",
+        "output": "You should not trust the message. Austria's sarcastic tone and the mention of helping Russia could indicate a lack of sincerity and potentially hint at a hidden agenda against Turkey."
+      }
+    ]
+  }
+]

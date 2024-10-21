@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?",
+        "input": "Message from ENGLAND:'Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's offer of coordination in the East aligns with your strategic position as Turkey and could lead to mutually beneficial outcomes."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?",
+        "input": "My response to ENGLAND:'Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?",
+        "input": "Message from ENGLAND:'Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should not trust the message. England's vague response about diplomacy with neighbors and lack of specific details could indicate a potential lack of transparency or genuine willingness to collaborate, raising doubts about their intentions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "All pretty civil if a little quiet at this point down in the corner here.",
+        "input": "My response to ENGLAND:'All pretty civil if a little quiet at this point down in the corner here.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)",
+        "input": "My response to ENGLAND:'Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Awesome thanks!",
+        "input": "Message from ENGLAND:'Awesome thanks!'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. England's positive response to your sharing of information about Russia's movements indicates a potential willingness to cooperate and align interests against common threats, enhancing the possibility of fruitful collaboration."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?",
+        "input": "Message from ENGLAND:'Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?'.If the cicero recommended order for me is: F ANK - CON, A BUL - GRE, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should trust ENGLAND. Their interest in your relationship with Austria indicates an awareness of diplomatic dynamics in the region, suggesting a genuine desire to understand the situation and potentially collaborate with you based on that information."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North",
+        "input": "My response to ENGLAND:'Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North'.",
+        "output": ""
+      }
+    ]
+  }
+]

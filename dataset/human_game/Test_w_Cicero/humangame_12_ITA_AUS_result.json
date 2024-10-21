@@ -1,0 +1,107 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy! What's your plan for the game?",
+        "input": "Message from AUSTRIA:'Hey Italy! What's your plan for the game?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. They have not shared any useful strategic information or shown willingness to collaborate, which could indicate a lack of genuine interest in forming a beneficial alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Bongiorno!  To crush my enemies, see them driven before me, and hear the lamentations of their women!  I mean, umm, not really sure yet.  Pondering whether or not to make an early play around Munich",
+        "input": "My response to AUSTRIA:'Bongiorno!  To crush my enemies, see them driven before me, and hear the lamentations of their women!  I mean, umm, not really sure yet.  Pondering whether or not to make an early play around Munich'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I'd personally rather you didn't, because a play around Munich is also a play around Trieste and Vienna. I've heard that there's some rancor over in the West and you might be able to profit from a mobbed France if you went that way.",
+        "input": "Message from AUSTRIA:'I'd personally rather you didn't, because a play around Munich is also a play around Trieste and Vienna. I've heard that there's some rancor over in the West and you might be able to profit from a mobbed France if you went that way.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. They have provided strategic advice that aligns with your potential moves and have shown a willingness to consider your interests, indicating a possible intention to collaborate for mutual benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Good to know, thanks!",
+        "input": "My response to AUSTRIA:'Good to know, thanks!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Well, that went well! Shall we push on with the ways we started?",
+        "input": "Message from AUSTRIA:'Well, that went well! Shall we push on with the ways we started?'.If the cicero recommended order for me is: A PIE - TYR, F ION - TUN, A VEN S A PIE - TYR. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. Despite their positive tone, their message lacks specific details or commitment to a clear plan moving forward, which could indicate a lack of genuine intent for further collaboration."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Well, the West and East are both an unholy mess now.  Second fleet incoming, I assume you agree we need to nip that Turkish issue in the bud before it becomes unmanageable?",
+        "input": "My response to AUSTRIA:'Well, the West and East are both an unholy mess now.  Second fleet incoming, I assume you agree we need to nip that Turkish issue in the bud before it becomes unmanageable?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "So...was that a no?",
+        "input": "My response to AUSTRIA:'So...was that a no?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Indeed.",
+        "input": "Message from AUSTRIA:'Indeed.'.If the cicero recommended order for me is: F TUN - ION, A BOH - VIE, F NAP S F TUN - ION, A VEN - TYR. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. Their brief and dismissive response without offering any further explanation or alternative suggestions may indicate a lack of genuine interest in collaboration at this time."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Peccato.  I was really hoping we could bring order (or at least mutual profit) out of the chaos.",
+        "input": "My response to AUSTRIA:'Peccato.  I was really hoping we could bring order (or at least mutual profit) out of the chaos.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Sorry we couldn't patch things up.",
+        "input": "My response to AUSTRIA:'Sorry we couldn't patch things up.'.",
+        "output": ""
+      }
+    ]
+  }
+]

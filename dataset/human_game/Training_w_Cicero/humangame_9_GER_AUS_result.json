@@ -1,0 +1,97 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Austria? Looking forward to a fun and exciting game!",
+        "input": "My response to AUSTRIA:'How\u2019s it going Austria? Looking forward to a fun and exciting game!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?",
+        "input": "Message from AUSTRIA:'Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's proposal to leave Bohemia and Tyrol as neutral zones aligns with their friendly approach expressed in the message, indicating a genuine interest in working together."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah let\u2019s do it!",
+        "input": "My response to AUSTRIA:'Yeah let\u2019s do it!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "sounds great.  Hopefully when that plays out we can work together more in the future",
+        "input": "Message from AUSTRIA:'sounds great.  Hopefully when that plays out we can work together more in the future'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's response reinforces their commitment to collaboration and future cooperation, indicating a trustworthy relationship moving forward."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah for sure!",
+        "input": "My response to AUSTRIA:'Yeah for sure!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hey Austria! How\u2019s it going?",
+        "input": "My response to AUSTRIA:'Hey Austria! How\u2019s it going?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?",
+        "input": "Message from AUSTRIA:'doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's acknowledgment of the successful neutral territory arrangement and willingness to discuss potential future collaboration indicates a genuine interest in maintaining a positive relationship with you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way",
+        "input": "My response to AUSTRIA:'I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so",
+        "input": "Message from AUSTRIA:'I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so'.If the cicero recommended order for me is: F BEL - HOL, A DEN - SWE, F KIE S F BEL - HOL, A MUN - RUH, A BER - MUN. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's reassurance of maintaining neutral territories and expressing a desire for future alliance further solidifies their commitment to cooperation, making them a trustworthy partner for potential collaboration."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Agreed!! Looking forward to it!",
+        "input": "My response to AUSTRIA:'Agreed!! Looking forward to it!'.",
+        "output": ""
+      }
+    ]
+  }
+]

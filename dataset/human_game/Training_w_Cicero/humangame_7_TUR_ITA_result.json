@@ -1,0 +1,134 @@
+[
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I can support you in Trieste and leave you to convoy to Greece.",
+        "input": "My response to ITALY:'I can support you in Trieste and leave you to convoy to Greece.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "He speaks!",
+        "input": "Message from ITALY:'He speaks!'.If the cicero recommended order for me is: F BLA - CON, F AEG - GRE, A SER S A GAL - BUD, A BUL S A SER. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their acknowledgment of your initial offer and response with a positive attitude indicates a potential interest in working together towards common goals, which aligns with your support offer for them to capture Trieste and convoy to Greece."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I could say the same thing, what about what i said",
+        "input": "My response to ITALY:'I could say the same thing, what about what i said'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I think Austria is about dead anyway. Might as well.",
+        "input": "Message from ITALY:'I think Austria is about dead anyway. Might as well.'.If the cicero recommended order for me is: F BLA - CON, F AEG - GRE, A SER S A GAL - BUD, A BUL S A SER. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their assessment of Austria being in a weakened state and the suggestion to take advantage of the situation aligns with your strategic interests, indicating a potential opportunity for collaboration."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ok lets do that",
+        "input": "My response to ITALY:'Ok lets do that'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Austria just became a vassal of russia. We have to start talking at least.",
+        "input": "My response to ITALY:'Austria just became a vassal of russia. We have to start talking at least.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Agreed, I'm seeing it too",
+        "input": "Message from ITALY:'Agreed, I'm seeing it too'.If the cicero recommended order for me is: F BLA - CON, F AEG - GRE, A SER S A GAL - BUD, A BUL S A SER. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. The acknowledgment and alignment with your observation about Austria becoming a vassal of Russia suggests a shared understanding of the evolving dynamics on the board and a willingness to strategize and potentially work together against common threats."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something",
+        "input": "My response to ITALY:'now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "what would you have me do?",
+        "input": "Message from ITALY:'what would you have me do?'.If the cicero recommended order for me is: A GRE S A BUL, A ANK S F SMY, F SMY S F CON - AEG, A BUL S A GRE, F CON - AEG. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their question about what actions they should take suggests a willingness to coordinate and align their moves with your own, potentially indicating a cooperative stance in the upcoming turns."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Will you be able to arrange convoying the army back?",
+        "input": "My response to ITALY:'Will you be able to arrange convoying the army back?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "I'll try",
+        "input": "Message from ITALY:'I'll try'.If the cicero recommended order for me is: A GRE S A BUL, A ANK S F SMY, F SMY S F CON - AEG, A BUL S A GRE, F CON - AEG. Should I trust ITALY?",
+        "output": "You should trust the message from ITALY. Their commitment to attempting to arrange the convoy for your army back demonstrates a willingness to follow through on potential coordinated moves, indicating a level of trust and cooperation in the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Armenia?",
+        "input": "My response to ITALY:'Armenia?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "We are going to lose anyway by the 1910",
+        "input": "My response to ITALY:'We are going to lose anyway by the 1910'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "But we can at least work together, you, me and austria together to ensure we at least survive",
+        "input": "My response to ITALY:'But we can at least work together, you, me and austria together to ensure we at least survive'.",
+        "output": ""
+      }
+    ]
+  }
+]

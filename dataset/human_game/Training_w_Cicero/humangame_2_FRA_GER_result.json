@@ -1,0 +1,277 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "We should bounce in Bur this turn",
+        "input": "My response to GERMANY:'We should bounce in Bur this turn'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France! Sorry for the delay - still getting the hang of this app. Why do you think we should bounce in Bur?",
+        "input": "Message from GERMANY:'Hi France! Sorry for the delay - still getting the hang of this app. Why do you think we should bounce in Bur?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their response shows a reasonable approach of questioning the suggestion and seeking clarification, indicating a genuine interest in understanding the situation before making decisions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "To start, I'd like us to have a good relationship, so I'm starting by telling you what I'm going to do, which is move an Army to Burgundy, ideally to bounce. This allows me to protect in case you were planning on doing something to begin with. Second, bouncing helps you out because Germany's first move with the Munich army is either to move to Burgundy or the Ruhr. If you dont move to Bur, then I'm there and you have to move the Ruhr army back to protect Mun anyway. I think we both have other issues than creating a relatively pointless stalemate here when there are better targets if we work together",
+        "input": "My response to GERMANY:'To start, I'd like us to have a good relationship, so I'm starting by telling you what I'm going to do, which is move an Army to Burgundy, ideally to bounce. This allows me to protect in case you were planning on doing something to begin with. Second, bouncing helps you out because Germany's first move with the Munich army is either to move to Burgundy or the Ruhr. If you dont move to Bur, then I'm there and you have to move the Ruhr army back to protect Mun anyway. I think we both have other issues than creating a relatively pointless stalemate here when there are better targets if we work together'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Interesting. I will have to think it over. What does it look like three years down the road if we\u2019re working together?",
+        "input": "Message from GERMANY:'Interesting. I will have to think it over. What does it look like three years down the road if we\u2019re working together?'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their response indicates a willingness to consider and contemplate the potential outcomes of collaboration, showcasing an open-minded and strategic approach to decision-making, suggesting trustworthiness in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "England destroyed and divided, you in the north sweeping up Russia with support, ive swept down into Italy",
+        "input": "My response to GERMANY:'England destroyed and divided, you in the north sweeping up Russia with support, ive swept down into Italy'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Okay - this works for me. I was going into Rohr will adjust my order and bounce. If we work together against England offers a lot of advantages for both of us, especially in the early game.",
+        "input": "Message from GERMANY:'Okay - this works for me. I was going into Rohr will adjust my order and bounce. If we work together against England offers a lot of advantages for both of us, especially in the early game.'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Their positive response aligns with your shared strategy against England and showcases a willingness to cooperate and prioritize mutual interests, indicating reliability and trustworthiness in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019ve set my order to Mun -> Burg",
+        "input": "Message from GERMANY:'I\u2019ve set my order to Mun -> Burg'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust GERMANY?",
+        "output": "You should not trust GERMANY. Germany's change in orders without prior discussion or explanation may indicate a shift in strategy or a lack of alignment with the previously agreed upon plan against England, suggesting a potential deviation from the agreed-upon course of action."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I\u2019d say Russia is a bit of an issue for you, but the player can\u2019t be very good because moving the fleet to Finland was literally useless and Turkey is about to wreck his southern half",
+        "input": "My response to GERMANY:'I\u2019d say Russia is a bit of an issue for you, but the player can\u2019t be very good because moving the fleet to Finland was literally useless and Turkey is about to wreck his southern half'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I\u2019m not going to move against you and England is going to be an issue for both of us, since they\u2019ll have 5 builds in 1902.",
+        "input": "My response to GERMANY:'I\u2019m not going to move against you and England is going to be an issue for both of us, since they\u2019ll have 5 builds in 1902.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Agreed. Russia also is not very communicative.",
+        "input": "Message from GERMANY:'Agreed. Russia also is not very communicative.'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's agreement and shared observation about Russia's lack of communication signify an alignment in perspectives and a potential basis for collaboration, indicating trustworthiness in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "What\u2019s your strategy regarding England",
+        "input": "Message from GERMANY:'What\u2019s your strategy regarding England'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's inquiry about your strategy regarding England demonstrates an interest in understanding the dynamics of the game and potentially collaborating on strategies, indicating a trustworthy and open approach to communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Try to survive for now I guess, was hoping Russia wouldn't fall flat on their face in Scandinavia. I'll consolidate and try and support you against an English attack in Belgium after winter",
+        "input": "My response to GERMANY:'Try to survive for now I guess, was hoping Russia wouldn't fall flat on their face in Scandinavia. I'll consolidate and try and support you against an English attack in Belgium after winter'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Russia tells me that we will hold in Pru - not sure to believe him but I think it\u2019s a little early to start screwing people.",
+        "input": "Message from GERMANY:'Russia tells me that we will hold in Pru - not sure to believe him but I think it\u2019s a little early to start screwing people.'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's skepticism about Russia's intentions and reluctance to betray others at an early stage of the game display a cautious and strategic approach, indicating honesty and a thoughtful consideration of the current situation in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Do you mind if I move into Ruh to support a potential future attack on bel",
+        "input": "Message from GERMANY:'Do you mind if I move into Ruh to support a potential future attack on bel'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's request to move into Ruhr to support a potential attack on Belgium reflects an open and collaborative approach, suggesting a willingness to coordinate and work together towards common goals, indicating reliability in their communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Yeah that should be fine",
+        "input": "My response to GERMANY:'Yeah that should be fine'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I\u2019m going to move Mun to Ber instead. I don\u2019t trust Russia right now.",
+        "input": "Message from GERMANY:'I\u2019m going to move Mun to Ber instead. I don\u2019t trust Russia right now.'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should not trust GERMANY. Germany's unilateral decision to change their orders without prior discussion or coordination may indicate a shift in their strategy and a lack of alignment with the previously agreed-upon plans, suggesting a potential deviation from the agreed-upon course of action."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "What\u2019s your strategy with going after England? Will you take the channel shortly?",
+        "input": "Message from GERMANY:'What\u2019s your strategy with going after England? Will you take the channel shortly?'.If the cicero recommended order for me is: F MAO - POR, A GAS - SPA, A MAR - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's strategic inquiry about your plans to go after England demonstrates a collaborative approach and a genuine interest in coordinating efforts, indicating trustworthiness in their communication and a potential basis for cooperation."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Hey France - I want to check in on plans to go after England.",
+        "input": "Message from GERMANY:'Hey France - I want to check in on plans to go after England.'.",
+        "output": "You should trust GERMANY. Germany reaching out to discuss plans about going after England shows transparency and the willingness to coordinate, indicating reliability and a potential partnership."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Circling back ^",
+        "input": "Message from GERMANY:'Circling back ^'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's message indicating a return to the discussion reflects engagement and a desire to follow up on previous conversations, suggesting attentiveness and reliability in communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Because I suspect that we\u2019d just bounce, I have a better plan to attack the Irish Sea",
+        "input": "My response to GERMANY:'Because I suspect that we\u2019d just bounce, I have a better plan to attack the Irish Sea'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I\u2019m not going to take the channel",
+        "input": "My response to GERMANY:'I\u2019m not going to take the channel'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "What should I do with regards to england?",
+        "input": "Message from GERMANY:'What should I do with regards to england?'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany seeking advice on how to proceed concerning England shows openness to collaboration and a willingness to consider different strategies, indicating trustworthiness in their communication and a potential for cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Hello",
+        "input": "Message from GERMANY:'Hello'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Despite the brief message, Germany's greeting indicates a continuation of communication and engagement, suggesting an open line of dialogue and potential collaboration, which aligns with trustworthiness in their communication."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Hey France",
+        "input": "Message from GERMANY:'Hey France'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's simple greeting is a positive sign of communication, indicating a friendly and open approach to dialogue that suggests trustworthiness in their communication."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m thinking about attacking England. I\u2019ve been supporting other players because you have not been responsive, but I\u2019m still open to working with you.",
+        "input": "Message from GERMANY:'I\u2019m thinking about attacking England. I\u2019ve been supporting other players because you have not been responsive, but I\u2019m still open to working with you.'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should not trust GERMANY. Germany's statement about considering attacking England due to perceived lack of responsiveness from you suggests potential shifts in alliance and strategy, indicating a level of uncertainty and possible divergence from a collaborative approach."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Sorry, work's been a nightmare",
+        "input": "My response to GERMANY:'Sorry, work's been a nightmare'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm still on attacking him",
+        "input": "My response to GERMANY:'I'm still on attacking him'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "It\u2019s okay.",
+        "input": "Message from GERMANY:'It\u2019s okay.'.If the cicero recommended order for me is: F BRE - PIC, F MAO C A POR - GAS, A PAR - BUR, A POR - GAS VIA, A SPA - MAR. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's brief acknowledgment of your decision to attack England in a non-confrontational manner shows acceptance and understanding, indicating a level of respect and maintaining a positive tone in communication that suggests trustworthiness."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Hey France how\u2019s it going?",
+        "input": "Message from GERMANY:'Hey France how\u2019s it going?'.If the cicero recommended order for me is: F GAS - SPA/NC, A POR S F GAS - SPA. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's polite inquiry about your well-being shows a friendly and non-confrontational approach to communication, indicating a positive and respectful tone that suggests trustworthiness in their interaction."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "Hey just wanted to say hello",
+        "input": "Message from GERMANY:'Hey just wanted to say hello'.",
+        "output": "You should trust GERMANY. Germany's simple greeting indicates a friendly and non-aggressive approach to communication, suggesting a positive and respectful tone that can foster trust in their interaction."
+      }
+    ]
+  }
+]

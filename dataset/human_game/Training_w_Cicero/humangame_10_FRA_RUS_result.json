@@ -1,0 +1,160 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings My Good Frenchman! \n\nHow are your opening moves looking? I would love a solid Russo-French relationship so I\u2019ll start off with some intel for you: Italy is headed west for you",
+        "input": "Message from RUSSIA:'Greetings My Good Frenchman! \n\nHow are your opening moves looking? I would love a solid Russo-French relationship so I\u2019ll start off with some intel for you: Italy is headed west for you'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's offer of forming a solid Russo-French relationship and sharing intel about Italy heading west indicates a willingness to cooperate and build trust between the two nations."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi there,\n\nHow is that going to work? Austria vs turkey without Italy?",
+        "input": "My response to RUSSIA:'Hi there,\n\nHow is that going to work? Austria vs turkey without Italy?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Ha I honestly don't know, just trying to tip you off",
+        "input": "Message from RUSSIA:'Ha I honestly don't know, just trying to tip you off'.If the cicero recommended order for me is: F BRE - MAO, A PAR - BUR, A MAR S A PAR - BUR. Should I trust RUSSIA?",
+        "output": "You should not trust the message. Russia's response of not knowing how it will work followed by simply trying to tip you off raises doubts about the level of commitment or sincerity in the proposed alliance, indicating a possible lack of transparency or genuine intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "How'd the first turn go for you? I was hoping to make gains in Gal and BLA but was bounced out. Do you think E/G are working against you?",
+        "input": "Message from RUSSIA:'How'd the first turn go for you? I was hoping to make gains in Gal and BLA but was bounced out. Do you think E/G are working against you?'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's inquiry about potential cooperation against the E/G alliance aligns with your strategic interests and shows an openness to discuss and potentially address mutual threats on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I have expected a bounce in Pie because you and another power told me so",
+        "input": "My response to RUSSIA:'I have expected a bounce in Pie because you and another power told me so'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Looks like a conspiracy here against me",
+        "input": "My response to RUSSIA:'Looks like a conspiracy here against me'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Well if you makes it feel any better I think I might have been used as a pawn in that conspiracy, bc I was legitimately trying to protect you. I hope E/G don't have another country in their pocket, who else told you about Italy going west?",
+        "input": "Message from RUSSIA:'Well if you makes it feel any better I think I might have been used as a pawn in that conspiracy, bc I was legitimately trying to protect you. I hope E/G don't have another country in their pocket, who else told you about Italy going west?'.If the cicero recommended order for me is: F MAO - POR, A PIC - BEL, A PIE - MAR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of potentially being used as a pawn in a conspiracy, along with expressing genuine intent to protect you, indicates sincerity and a desire for cooperation, making them a trustworthy ally in this situation."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Just two of you. But their alliance will go for you after, as it is the most likely. Therefore I suggest we ally against Germany mostly",
+        "input": "My response to RUSSIA:'Just two of you. But their alliance will go for you after, as it is the most likely. Therefore I suggest we ally against Germany mostly'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Yeah probably not a bad idea, we'll have to coordinate in the coming years",
+        "input": "Message from RUSSIA:'Yeah probably not a bad idea, we'll have to coordinate in the coming years'.If the cicero recommended order for me is: A BRE - GAS, A PAR S A MAR - BUR, F SPA/SC - MAO, A MAR - BUR. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's agreement with your suggestion to ally against Germany and acknowledgment of the need for coordination in the future actions reflects a willingness to collaborate and work together strategically, indicating trustworthiness in their intentions."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Any success switching England or Germany to your side",
+        "input": "Message from RUSSIA:'Any success switching England or Germany to your side'.If the cicero recommended order for me is: A BUR - MAR, F SPA/SC - POR, A MAR - SPA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's inquiry into your success in swaying England or Germany to your side suggests an interest in your diplomatic relationships and potential alignments, demonstrating openness and a collaborative approach that can be seen as trustworthy in the conversation context."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Nah, I am going to give some centers to england instead and hope i can survive",
+        "input": "My response to RUSSIA:'Nah, I am going to give some centers to england instead and hope i can survive'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Well you can keep spain and mar, but you lose Paris sadly",
+        "input": "Message from RUSSIA:'Well you can keep spain and mar, but you lose Paris sadly'.If the cicero recommended order for me is: A BUR - MAR, F SPA/SC - POR, A MAR - SPA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's straightforward response, indicating the consequences of your actions, shows a level of honesty and transparency in their communication, making them a reliable source of information in this situation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Huh, never mind. Congrats on not losing Paris. What are your plans for next year, especially with Italy headed west?",
+        "input": "Message from RUSSIA:'Huh, never mind. Congrats on not losing Paris. What are your plans for next year, especially with Italy headed west?'.If the cicero recommended order for me is: A BUR - MAR, F SPA/SC - POR, A MAR - SPA. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's acknowledgment of the evolving situation and inquiry about your plans for the future, considering Italy's movements, indicates a genuine interest in strategizing together and suggests a trustworthy approach in the ongoing discussions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "My plans rely heavily on praying...",
+        "input": "My response to RUSSIA:'My plans rely heavily on praying...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Keep on preying brother! For what its worth I doubt your dead this turn bc i bet you can get italy to protect you from england since thye dont want English controlled spain",
+        "input": "Message from RUSSIA:'Keep on preying brother! For what its worth I doubt your dead this turn bc i bet you can get italy to protect you from england since thye dont want English controlled spain'.If the cicero recommended order for me is: F SPA/SC - MAO. Should I trust RUSSIA?",
+        "output": "You should trust the message. Russia's reassurance and strategic assessment, indicating a potential path for you to navigate the situation, shows a supportive and collaborative attitude, making them a credible ally in this instance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "That's what i did",
+        "input": "My response to RUSSIA:'That's what i did'.",
+        "output": ""
+      }
+    ]
+  }
+]

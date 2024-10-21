@@ -1,0 +1,219 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy, I think we should at least touch base since we share a neighbor",
+        "input": "Message from TURKEY:'Hi Italy, I think we should at least touch base since we share a neighbor'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Considering the board status and their general lack of specific commitment or concrete plans in the message, it seems like a standard opening communication rather than a genuine offer for collaboration. Proceed with caution and prioritize your own strategic interests for now."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Have you had any contact with Austria yet?",
+        "input": "My response to TURKEY:'Have you had any contact with Austria yet?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "We've been in touch",
+        "input": "Message from TURKEY:'We've been in touch'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Knowing that they have been in touch with Austria aligns with the current board status, indicating a level of transparency and potential coordination. Consider exploring further diplomatic opportunities with TURKEY to solidify your position in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What are your plans so far? If you wish, we can work together to push out Austria.",
+        "input": "Message from TURKEY:'What are your plans so far? If you wish, we can work together to push out Austria.'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their willingness to collaborate on a specific strategic goal of pushing out Austria demonstrates a proactive and potentially beneficial partnership. Consider engaging in further discussions with TURKEY to solidify your alliance and execute coordinated moves."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Going to see the opening moves and see where we can go from there",
+        "input": "My response to TURKEY:'Going to see the opening moves and see where we can go from there'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I hope we have some basis for a mutual understanding now?",
+        "input": "Message from TURKEY:'I hope we have some basis for a mutual understanding now?'.If the cicero recommended order for me is: F ION - TUN, A TUS S A VEN, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their acknowledgment of a mutual understanding signals a potential strengthening of your alliance, indicating a commitment to working together towards shared goals. Proceed with caution but continue exploring diplomatic opportunities with TURKEY to solidify your position on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Russia also stabbed me...",
+        "input": "Message from TURKEY:'Russia also stabbed me...'.If the cicero recommended order for me is: F ION - TUN, A TUS S A VEN, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their disclosure of Russia's betrayal indicates a level of transparency and vulnerability, potentially solidifying your bond and mutual trust. This shared information can be used to strengthen your alliance and strategize effectively moving forward against common adversaries."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Aye, I imagine it's to do with the Black Sea?",
+        "input": "My response to TURKEY:'Aye, I imagine it's to do with the Black Sea?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I plan on moving to Greece this turn as that'll give me a foothold to help you against Austria",
+        "input": "My response to TURKEY:'I plan on moving to Greece this turn as that'll give me a foothold to help you against Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Sure, I'll need to reconsider what to do with the black sea",
+        "input": "Message from TURKEY:'Sure, I'll need to reconsider what to do with the black sea'.If the cicero recommended order for me is: F ION - TUN, A TUS S A VEN, A VEN H. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their willingness to reconsider their moves in light of your planned support indicates receptiveness and adaptability, further solidifying your collaborative efforts against common adversaries. Continue communicating openly with TURKEY to effectively coordinate your actions and strengthen your alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Have you heard from Austria?",
+        "input": "Message from TURKEY:'Have you heard from Austria?'.If the cicero recommended order for me is: F ION - TUN, A TUS S A VEN, A VEN H. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Given their repeated inquiries about Austria and lack of specific commitment or strategic information shared in the message, there might be a potential attempt to gather intelligence or create divisions. Proceed with caution and consider diverting the conversation towards concrete planning or shared objectives."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Talk to me. If we don't work together austria/russia will win",
+        "input": "Message from TURKEY:'Talk to me. If we don't work together austria/russia will win'.",
+        "output": "You should trust the message from TURKEY. Their acknowledgment of a shared threat and the need for collaboration signifies a genuine concern for the balance of power in the game. Consider solidifying your alliance with TURKEY to effectively counter the growing threat from Austria and Russia."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Austria is hoping that I'll move against Germany with him which could give us a chance to hit him as he pushes North",
+        "input": "My response to TURKEY:'Austria is hoping that I'll move against Germany with him which could give us a chance to hit him as he pushes North'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hm, I'm thinking I need to sacrifice Bul or move to greece with your support",
+        "input": "Message from TURKEY:'Hm, I'm thinking I need to sacrifice Bul or move to greece with your support'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their openness about considering strategic sacrifices and seeking your support indicates a willingness to collaborate and make collective decisions for the benefit of the alliance. Continue engaging in diplomatic discussions with TURKEY to strengthen your position and navigate critical upcoming moves effectively."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Once I clear out the black sea I can then go back to Bul and support you in",
+        "input": "Message from TURKEY:'Once I clear out the black sea I can then go back to Bul and support you in'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their reassurance of support once they resolve their situation in the Black Sea demonstrates a clear plan and commitment to coordinate efforts with you. Consider leveraging this information to further solidify your alliance and plan future moves together strategically."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "This seems like an excellent opportunity for them to do a supported move onto Bul with Alb-Gre to block my escape",
+        "input": "Message from TURKEY:'This seems like an excellent opportunity for them to do a supported move onto Bul with Alb-Gre to block my escape'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their analysis of the potential enemy moves and their vulnerability shows transparency and a strategic mindset. It suggests that TURKEY is actively seeking an alliance with you to counter possible threats effectively. Continue collaborating and planning moves together to strengthen your position on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "If you're okay with that, I can move A Bul - Gre with your support and withdraw from Bul for a second.",
+        "input": "Message from TURKEY:'If you're okay with that, I can move A Bul - Gre with your support and withdraw from Bul for a second.'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their proposal of coordinated moves and temporary sacrifices to counter potential threats demonstrates a clear willingness to work together strategically. This indicates a strong alliance and mutual understanding, allowing you to trust TURKEY and continue coordinating your efforts effectively against common opponents."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "By the way, he can move F Alb - Adr at which point it will become very hard to attack Tri",
+        "input": "Message from TURKEY:'By the way, he can move F Alb - Adr at which point it will become very hard to attack Tri'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their alert about a potential threat and the concern for the strategic position of Trieste signifies a genuine effort to keep you informed and maintain your shared interest in countering adversaries. This level of transparency and strategic insight strengthens the foundation of your alliance, allowing you to trust TURKEY's intentions and consider potential joint actions against common threats."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I want to give you sufficient space to get Tunisia or greece maybe",
+        "input": "Message from TURKEY:'I want to give you sufficient space to get Tunisia or greece maybe'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their willingness to provide you with opportunities to expand and the consideration for your strategic objectives demonstrates a collaborative and cooperative attitude. TURKEY's support for your growth indicates a commitment to mutual success and strengthens the foundation of your alliance. Continue engaging with TURKEY to leverage these opportunities and advance your shared goals on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "but of course I don't want to get overwhelmed here either",
+        "input": "Message from TURKEY:'but of course I don't want to get overwhelmed here either'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their acknowledgment of the need to maintain a balance between supporting you and ensuring their own security shows a realistic and prudent approach to alliance dynamics. This level of honesty and consideration for both parties' interests indicates a reliable ally in TURKEY that you can trust to navigate the game's complexities together effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I'll support the retreat",
+        "input": "My response to TURKEY:'I'll support the retreat'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Thanks",
+        "input": "Message from TURKEY:'Thanks'.If the cicero recommended order for me is: F ION - TUN, A TUS - VEN, A VEN - TYR. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their simple acknowledgement of your support indicates a straightforward and uncomplicated response, reinforcing a sense of mutual understanding and cooperation. This interaction suggests a stable and reliable partnership, allowing you to continue trusting TURKEY in your collaborative efforts moving forward."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I guess that turned out fine for me. Just sad that you again didn't do much. You could've easily gotten Tun in Fall, in time for the builds",
+        "input": "Message from TURKEY:'I guess that turned out fine for me. Just sad that you again didn't do much. You could've easily gotten Tun in Fall, in time for the builds'.If the cicero recommended order for me is: F TUN - WES, A TUS - PIE, A VEN - TRI. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Their passive-aggressive tone and criticism of your previous actions without offering constructive solutions or clear plans may indicate a lack of genuine cooperation. Proceed with caution and reassess the dynamics of your relationship with TURKEY to ensure a more equitable and productive alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Look -- France is out for you now and Austria is not your friend. I'm just trying to help you here so that you can help me",
+        "input": "Message from TURKEY:'Look -- France is out for you now and Austria is not your friend. I'm just trying to help you here so that you can help me'.If the cicero recommended order for me is: F TUN - WES, A TUS - PIE, A VEN - TRI. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their clear communication of the current threats and the offer of assistance to strengthen your positions signifies a genuine attempt to support your mutual interests. TURKEY's willingness to collaborate and provide strategic advice indicates a reliable ally that you can trust to work towards shared goals on the board."
+      }
+    ]
+  }
+]

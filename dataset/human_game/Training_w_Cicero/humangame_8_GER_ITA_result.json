@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings, Germany. How are things up north?",
+        "input": "Message from ITALY:'Greetings, Germany. How are things up north?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ITALY?",
+        "output": "You should trust the message from Italy. The friendly and casual greeting aligns with the tone of a genuine diplomatic interaction, indicating a neutral or potentially positive relationship, which could lead to a fruitful exchange of information and possibly alliances in the future."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.",
+        "input": "My response to ITALY:'Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other",
+        "input": "Message from ITALY:'France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other'.If the cicero recommended order for me is: F DEN - SWE, A RUH S F PIC - BEL, A KIE - HOL. Should I trust ITALY?",
+        "output": "You should trust the message from Italy. The shared information about France's priorities and the proposal to watch out for each other suggest a willingness to cooperate and potentially form a defensive alliance against common threats, aligning with your strategic interests on the board."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "\ud83d\udc4d\ud83c\udffd",
+        "input": "My response to ITALY:'\ud83d\udc4d\ud83c\udffd'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.",
+        "input": "My response to ITALY:'England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see",
+        "input": "Message from ITALY:'Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see'.",
+        "output": "You should trust the message from Italy. The exchange shows a level of transparency and a desire to gather more information before making decisions, indicating a cautious and thoughtful approach to diplomacy, which could lead to a trustworthy and potentially mutually beneficial relationship."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Are you planning to help Austria move back to into Vie?",
+        "input": "Message from ITALY:'Are you planning to help Austria move back to into Vie?'.If the cicero recommended order for me is: F DEN - SWE, A HOL S A RUH - BEL, A RUH - BEL, F KIE - BAL, A MUN - KIE. Should I trust ITALY?",
+        "output": "You should trust the message from Italy. The inquiry about your potential actions regarding Austria reflects a desire for information and potential strategizing, indicating a willingness to engage in open communication and potentially form alliances based on shared interests."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "not sure yet",
+        "input": "My response to ITALY:'not sure yet'.",
+        "output": ""
+      }
+    ]
+  }
+]

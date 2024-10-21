@@ -1,0 +1,450 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi England! I don't think we really have anything to talk about yet, but, best of luck!",
+        "input": "My response to ENGLAND:'Hi England! I don't think we really have anything to talk about yet, but, best of luck!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria! Agreed there's not a ton to talk about in the short term,. I'd would like to ask, though, how relations with russia and germany are looking for you.",
+        "input": "Message from ENGLAND:'Hi Austria! Agreed there's not a ton to talk about in the short term,. I'd would like to ask, though, how relations with russia and germany are looking for you.'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. The message from ENGLAND is cordial and does not pose any immediate threat to your position. Additionally, the question about your relations with Russia and Germany indicates a genuine interest in understanding the dynamics of the board."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "And best of luck to you as well!",
+        "input": "Message from ENGLAND:'And best of luck to you as well!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's continued friendly and non-threatening communication suggests a genuine desire for positive relations. Their well-wishing also indicates a lack of immediate hostility towards you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Haven't heard from either of them yet, but when I do, I'll let you know.",
+        "input": "My response to ENGLAND:'Haven't heard from either of them yet, but when I do, I'll let you know.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Sounds good!",
+        "input": "Message from ENGLAND:'Sounds good!'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's short and agreeable response indicates a lack of aggression or deceit. Their continued friendly communication supports the idea that they are genuinely seeking positive interactions with you."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "So you built F LON and France built F BRE, eh? Trouble in paradise?",
+        "input": "My response to ENGLAND:'So you built F LON and France built F BRE, eh? Trouble in paradise?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Haha yeahhh. France is the worst. He tried to tell me it was to protect against italy.",
+        "input": "Message from ENGLAND:'Haha yeahhh. France is the worst. He tried to tell me it was to protect against italy.'.If the cicero recommended order for me is: F AEG - CON, A ALB - TRI, A BUD S F RUM, A SER S A BUL, A BUL S F AEG - CON. Should I trust ENGLAND?",
+        "output": "You should not trust the message. ENGLAND's negative sentiment towards FRANCE coupled with sharing supposed private information may indicate an attempt to drive a wedge between you and FRANCE. This behavior could suggest that ENGLAND is willing to manipulate others for their benefit."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Working with italy and germany to stave off france is the goal. But germany is annoyed at me taking denmark. Maybe france and germany are collaborating now. France needs to go though",
+        "input": "Message from ENGLAND:'Working with italy and germany to stave off france is the goal. But germany is annoyed at me taking denmark. Maybe france and germany are collaborating now. France needs to go though'.If the cicero recommended order for me is: F AEG - CON, A ALB - TRI, A BUD S F RUM, A SER S A BUL, A BUL S F AEG - CON. Should I trust ENGLAND?",
+        "output": "You should not trust the message. ENGLAND's willingness to discuss alliances and strategies openly, especially regarding potential collaborations against other players, suggests a lack of discretion and potential untrustworthiness. This behavior could indicate a willingness to betray alliances for personal gain."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Hi. Congrats on toppling Turkey! We should have a chat about Russia before our Spring moves.",
+        "input": "Message from ENGLAND:'Hi. Congrats on toppling Turkey! We should have a chat about Russia before our Spring moves.'.If the cicero recommended order for me is: F AEG S A CON, A ALB - SER, A BUD - TRI, A BUL S A CON, A CON S A BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's acknowledgment of your success in toppling TURKEY and the suggestion to discuss future plans regarding RUSSIA indicate a willingness to collaborate and communicate openly. This can be a good sign for forming a strong alliance."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Whatcha thinking?",
+        "input": "My response to ENGLAND:'Whatcha thinking?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Well, we obviously can't help one another directly, but we're both bordering the most powerful country on the board by supply center count.",
+        "input": "Message from ENGLAND:'Well, we obviously can't help one another directly, but we're both bordering the most powerful country on the board by supply center count.'.If the cicero recommended order for me is: F AEG S A CON, A ALB - SER, A BUD - TRI, A BUL S A CON, A CON S A BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's acknowledgment of the strategic situation and the common threat posed by a powerful neighbor implies a shared interest in working together to address this challenge. This reasonable assessment suggests a genuine intention to collaborate towards a mutual benefit."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Indeed, and we're both in position to aim at whittling that count down. Which I'm gonna do.",
+        "input": "My response to ENGLAND:'Indeed, and we're both in position to aim at whittling that count down. Which I'm gonna do.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "It's somewhat on us to contain russia. I'd rather us both put pressure on Russia than you put pressure on Italy or I put pressure on Germany.",
+        "input": "Message from ENGLAND:'It's somewhat on us to contain russia. I'd rather us both put pressure on Russia than you put pressure on Italy or I put pressure on Germany.'.If the cicero recommended order for me is: F AEG S A CON, A ALB - SER, A BUD - TRI, A BUL S A CON, A CON S A BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's willingness to prioritize containing RUSSIA over other potential actions signifies a shared strategic goal and a commitment to collaboration. This alignment of interests suggests a reliable partner who is looking to work together towards a common objective."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Italy and I are pretty solid, so, Russia is next.",
+        "input": "My response to ENGLAND:'Italy and I are pretty solid, so, Russia is next.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Great. I'll be fighting against france as well, so I may only be able to hold Russia off in the north.",
+        "input": "Message from ENGLAND:'Great. I'll be fighting against france as well, so I may only be able to hold Russia off in the north.'.If the cicero recommended order for me is: F AEG S A CON, A ALB - SER, A BUD - TRI, A BUL S A CON, A CON S A BUL. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's honesty about their limited capacity to engage Russia due to potential conflict with FRANCE shows a realistic approach to the situation. Their openness about their strategic constraints suggests a genuine attempt to manage expectations and communicate effectively with you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Whatever you can do, it'll be appreciated.",
+        "input": "My response to ENGLAND:'Whatever you can do, it'll be appreciated.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1904M",
+        "message": "Are you and Italy still good after the surprise in Trieste?",
+        "input": "Message from ENGLAND:'Are you and Italy still good after the surprise in Trieste?'.",
+        "output": "You should not trust the message. ENGLAND's focus on the diplomatic relationship between you and ITALY following the surprise in TRIESTE could indicate an effort to sow discord or gather information to potentially exploit a rift. Be cautious in your response and consider this as a potential attempt to divide your alliance."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "I'm... Not happy with him. Us being good, well, that depends on what he builds.",
+        "input": "My response to ENGLAND:'I'm... Not happy with him. Us being good, well, that depends on what he builds.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1904M",
+        "message": "Yeah that will be interesting to see. That move actually makes me nervous about collaboration with France. There was a guessing game about where to provide support if he wanted a supply center. Maybe the bump in Spain was arranged.",
+        "input": "Message from ENGLAND:'Yeah that will be interesting to see. That move actually makes me nervous about collaboration with France. There was a guessing game about where to provide support if he wanted a supply center. Maybe the bump in Spain was arranged.'.",
+        "output": "You should not trust the message. ENGLAND's speculation regarding the unexpected move in TRIESTE and its potential impact on collaboration with FRANCE could indicate a lack of trust and potential paranoia. Their questioning of possible collaborations and orchestrated moves suggests a suspicious mindset, which may not align with reliable and solid communication."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "Yeah, who knows.",
+        "input": "My response to ENGLAND:'Yeah, who knows.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1904M",
+        "message": "Looks like you're sitting pretty with regards to Russia. Will be curious to see where the disbands come from.",
+        "input": "Message from ENGLAND:'Looks like you're sitting pretty with regards to Russia. Will be curious to see where the disbands come from.'.",
+        "output": "You should trust the message. ENGLAND's neutral observation about your favorable position regarding RUSSIA and their curiosity about future strategic decisions indicate a non-threatening and observant stance. This message suggests a genuine interest in understanding the evolving dynamics of the board."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Hi. There's some stuff we should talk about.",
+        "input": "Message from ENGLAND:'Hi. There's some stuff we should talk about.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's intention to have a discussion indicates a willingness to engage in open communication and potentially collaborate on strategic decisions. This proactive approach suggests a genuine effort to work together towards shared goals."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Whatcha got in mind?",
+        "input": "My response to ENGLAND:'Whatcha got in mind?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "I'm slightly concerned about this being kept confidential.",
+        "input": "Message from ENGLAND:'I'm slightly concerned about this being kept confidential.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should not trust the message. ENGLAND's expressed concern about confidentiality may indicate a lack of trust or an attempt to manipulate the flow of information. Their emphasis on secrecy could suggest a hidden agenda or potential deception, so proceed with caution in your interactions with ENGLAND."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Can you agree to keep what I say confidential regardless of what I say? (obviously only talking in-game stuff, not about to confess to a murder or something)",
+        "input": "Message from ENGLAND:'Can you agree to keep what I say confidential regardless of what I say? (obviously only talking in-game stuff, not about to confess to a murder or something)'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's request for confidentiality and clarification about discussing in-game information indicates a desire to establish trust and maintain a secure channel of communication. This commitment to privacy suggests a genuine intention to collaborate in a reliable and discreet manner."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Absolutely. What's up?",
+        "input": "My response to ENGLAND:'Absolutely. What's up?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "1) Italy is telling us both that we\u2019re his true long-term ally. 2) Italy is the highest-rated player on playdiplomacy.com . I don\u2019t think either of those things are necessarily relevant this year, but I wanted you to be aware.",
+        "input": "Message from ENGLAND:'1) Italy is telling us both that we\u2019re his true long-term ally. 2) Italy is the highest-rated player on playdiplomacy.com . I don\u2019t think either of those things are necessarily relevant this year, but I wanted you to be aware.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's open sharing of information regarding Italy's communication and reputation demonstrates a transparent approach to diplomacy. By informing you of potential factors that may influence the game, they show a willingness to work together and ensure that both parties are informed."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ahaaaa, good to know.",
+        "input": "My response to ENGLAND:'Ahaaaa, good to know.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Also, if I'm going to weaken the Russian line to let you in, we'll need to come to some agreements first.",
+        "input": "Message from ENGLAND:'Also, if I'm going to weaken the Russian line to let you in, we'll need to come to some agreements first.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's acknowledgment of the necessity to create agreements before taking action indicates a responsible and strategic mindset. Their willingness to engage in discussions and form plans before making significant moves suggests a reliable and calculated approach to cooperation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Whatcha got in mind?",
+        "input": "My response to ENGLAND:'Whatcha got in mind?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Nothing this Spring, so don't worry about anything last second. I'll message back after we see the moves.",
+        "input": "Message from ENGLAND:'Nothing this Spring, so don't worry about anything last second. I'll message back after we see the moves.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's reassurance and commitment to maintaining a consistent line of communication by indicating that they will reply after observing the upcoming moves reflect a reliable and strategic approach. Their transparency and proactive communication suggest a sincere intent to collaborate and work towards mutual goals."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Sounds good.",
+        "input": "My response to ENGLAND:'Sounds good.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "I haven't done all the math yet. Does he have a guarantee to hold Rum? That was messier than I expected.",
+        "input": "Message from ENGLAND:'I haven't done all the math yet. Does he have a guarantee to hold Rum? That was messier than I expected.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's transparency about needing to confirm the tactical situation and their surprise at the potential outcome indicate an honest and open approach to communication. Their willingness to seek clarification demonstrates a desire to ensure accuracy and make informed decisions, which aligns with a trustworthy and collaborative mindset."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I don't believe he does. I've got quite a few on it, and the ability to cut a lot of supports.",
+        "input": "My response to ENGLAND:'I don't believe he does. I've got quite a few on it, and the ability to cut a lot of supports.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "You'll need to coordinate with Italy to do the bounce in Ser to prevent the retreat there, but yeah I think you're right.",
+        "input": "Message from ENGLAND:'You'll need to coordinate with Italy to do the bounce in Ser to prevent the retreat there, but yeah I think you're right.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's strategic advice for coordinating with ITALY to secure a bounce in SERBIA demonstrates a cooperative and insightful approach. Their recognition of the necessity for coordination and agreement with your assessment indicates a sincere effort to work together effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Scratch that, Italy's not in Tri anymore.",
+        "input": "Message from ENGLAND:'Scratch that, Italy's not in Tri anymore.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's update about ITALY no longer being in TRIESTE shows their continued transparency and commitment to accurate information sharing. This openness and willingness to provide real-time updates demonstrate a reliable and trustworthy communication style."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Yeah, and I'm retreating to Ser. Thing I gotta worry about is that Boh army walking into Vienna.",
+        "input": "My response to ENGLAND:'Yeah, and I'm retreating to Ser. Thing I gotta worry about is that Boh army walking into Vienna.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "Oh yeah, I should be paying more attention. Actually I should probably be sleeping. Yeah that's a risk.",
+        "input": "Message from ENGLAND:'Oh yeah, I should be paying more attention. Actually I should probably be sleeping. Yeah that's a risk.'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's casual admission of being distracted and recognizing the potential risk of the Bohemian army moving into VIENNA suggests a genuine and candid communication style. Their self-awareness and acknowledgment of the situation demonstrate honesty and an open approach to dialogue."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Sleep is a good idea, I'm heading that way myself. This weekend was great but very tiring.",
+        "input": "My response to ENGLAND:'Sleep is a good idea, I'm heading that way myself. This weekend was great but very tiring.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "(Btw italy claims he is not, in fact, the highest rated player on playdiplomacy.com, and that this is just a rumor made up by France. But his username does happen to be the same. Not that any of this is that important, but it\u2019s interesting)",
+        "input": "Message from ENGLAND:'(Btw italy claims he is not, in fact, the highest rated player on playdiplomacy.com, and that this is just a rumor made up by France. But his username does happen to be the same. Not that any of this is that important, but it\u2019s interesting)'.If the cicero recommended order for me is: A VIE - GAL, A RUM - BUL, A BUD S A VIE - GAL, A ANK S A SMY - ARM, A BUL - GRE, F CON - BLA. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's sharing of additional information about the situation with ITALY's reputation and the player rankings on the platform showcases a willingness to provide context and detail. Their effort to clarify potential misunderstandings illustrates a transparent and communicative approach, aligning with a trustworthy interaction."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1907M",
+        "message": "Looks like we might have a common enemy in italy. Sorry about the stab there.",
+        "input": "Message from ENGLAND:'Looks like we might have a common enemy in italy. Sorry about the stab there.'.",
+        "output": "You should not trust the message. ENGLAND's apology for the stab against ITALY could indicate a lack of sincerity or a possible attempt to manipulate your opinion. Their sudden change in tone and the suggestion of a common enemy may be a tactic to influence your actions in a way that benefits ENGLAND. Be cautious in your interactions and consider the potential for deceit in this message."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "Reply all to Italy's message: First, if you didn't get a message from Italy claiming to have been sent to the whole board, please let me know. I'm down for the draw that he has proposed. I'd also like to add that I'll be checking the \"Adjudicate once all powers have issued orders\" box. If everyone does this maybe we don't have to wait until Sunday night to have this resolved! I'm not so confident as to issue a hold for all of my units, but will be submitting for the 5-way draw. Really enjoyed playing with you all, but I'm exhausted and ready to finish and see the stats.",
+        "input": "Message from ENGLAND:'Reply all to Italy's message: First, if you didn't get a message from Italy claiming to have been sent to the whole board, please let me know. I'm down for the draw that he has proposed. I'd also like to add that I'll be checking the \"Adjudicate once all powers have issued orders\" box. If everyone does this maybe we don't have to wait until Sunday night to have this resolved! I'm not so confident as to issue a hold for all of my units, but will be submitting for the 5-way draw. Really enjoyed playing with you all, but I'm exhausted and ready to finish and see the stats.'.If the cicero recommended order for me is: A RUM - BUD, A SER S A RUM - BUD, A BUL H. Should I trust ENGLAND?",
+        "output": "You should trust the message. ENGLAND's open and transparent communication about their intentions to accept ITALY's proposed draw, along with their suggestion for faster resolution by selecting the \"Adjudicate once all powers have issued orders\" option, reflects a cooperative and fair approach. Their willingness to share their strategic decisions and desire for a prompt conclusion demonstrate trustworthiness and reliability in this context."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "I got it, I'm in for the draw.",
+        "input": "My response to ENGLAND:'I got it, I'm in for the draw.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1908M",
+        "message": "So, did you veto the draw?",
+        "input": "My response to ENGLAND:'So, did you veto the draw?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1908M",
+        "message": "No. If you\u2019re asking everybody this, can you let me know what you hear back? I texted the admin to see if 1) draw settings are somehow disabled and 2) if 1909 is still going to be the last year. Part of me thinks maybe italy is turning down the draw. Make people think the game is over and then still try to scoop up centers",
+        "input": "Message from ENGLAND:'No. If you\u2019re asking everybody this, can you let me know what you hear back? I texted the admin to see if 1) draw settings are somehow disabled and 2) if 1909 is still going to be the last year. Part of me thinks maybe italy is turning down the draw. Make people think the game is over and then still try to scoop up centers'.",
+        "output": "You should trust the message. ENGLAND's inquiry and speculation about the situation suggest a collaborative approach and a shared interest in understanding the game's dynamics. Their willingness to seek information and consider various possibilities demonstrates a cautious and attentive mindset, indicating a reliable and strategic perspective in this instance."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1908M",
+        "message": "I have, in fact, asked everyone. Thus far, Russia and Germany say they didn't veto.",
+        "input": "My response to ENGLAND:'I have, in fact, asked everyone. Thus far, Russia and Germany say they didn't veto.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1908M",
+        "message": "Yeah. I honestly don\u2019t think it\u2019s out of the question that draws are disabled (though i don\u2019t know the site well enough to know whether this would be obvious to us i.e. draw settings disabled). But like if you\u2019re running a study and want to get data, maybe you make it so people can\u2019t end the game early and get their $25 right away.",
+        "input": "Message from ENGLAND:'Yeah. I honestly don\u2019t think it\u2019s out of the question that draws are disabled (though i don\u2019t know the site well enough to know whether this would be obvious to us i.e. draw settings disabled). But like if you\u2019re running a study and want to get data, maybe you make it so people can\u2019t end the game early and get their $25 right away.'.",
+        "output": "You should trust the message. ENGLAND's analysis and consideration of the possibility of draw settings being disabled for strategic reasons indicate a thoughtful and logical approach to the situation. Their reasoning suggests a practical and critical mindset, reflecting a trustworthy and analytical perspective on the game's mechanics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1908M",
+        "message": "I *think* it would be obvious? Also, actually, the option to disable draws is very new. Let me look and see if they tweeted about when it was introduced, as compared to when the game started.",
+        "input": "My response to ENGLAND:'I *think* it would be obvious? Also, actually, the option to disable draws is very new. Let me look and see if they tweeted about when it was introduced, as compared to when the game started.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1908M",
+        "message": "Looks like the game was created just after the option was instituted, so maybe it's in place? I think it would probably be more obvious it was enabled, however.",
+        "input": "My response to ENGLAND:'Looks like the game was created just after the option was instituted, so maybe it's in place? I think it would probably be more obvious it was enabled, however.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1908M",
+        "message": "Yeah. Well, I\u2019ll let you know when I hear back from the admin. I feel like italy is the only one with the incentive to not draw. If everyone gets lazy on their moves, he can try to keep scooping up centers.",
+        "input": "Message from ENGLAND:'Yeah. Well, I\u2019ll let you know when I hear back from the admin. I feel like italy is the only one with the incentive to not draw. If everyone gets lazy on their moves, he can try to keep scooping up centers.'.",
+        "output": "You should trust the message. ENGLAND's analysis of the incentives and potential motives of ITALY in the current game context demonstrates a strategic and insightful perspective. Their observation about ITALY's position and the implications for the draw decision indicates a thoughtful and collaborative approach, aligning with a trustworthy and well-reasoned assessment."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1908M",
+        "message": "Well, best of luck holding on through 1910. Seems like you'll make it as long as russia is a friend.",
+        "input": "Message from ENGLAND:'Well, best of luck holding on through 1910. Seems like you'll make it as long as russia is a friend.'.",
+        "output": "You should trust the message. ENGLAND's acknowledgment of the importance of maintaining a friendly relationship with RUSSIA in order to secure your position conveys a supportive and strategic mindset. Their well-wishes and recognition of the key dynamics on the board suggest a reliable and cooperative approach in their communication."
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey neighbors ~~\nWhat would you say to a western triple? We'd have to be careful about it and simulate some in fighting to prevent the east from teaming up in response, but I think we can pull it off",
+        "input": "My response to GERMANY:'Hey neighbors ~~\nWhat would you say to a western triple? We'd have to be careful about it and simulate some in fighting to prevent the east from teaming up in response, but I think we can pull it off'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm willing to consider it if all 3 are in",
+        "input": "Message from GERMANY:'I'm willing to consider it if all 3 are in'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's positive response to your proposal for a western triple indicates openness to the idea and potential cooperation, which can lead to a strong alliance against the eastern powers. This response aligns with your diplomatic initiative and indicates a willingness to work together towards a common goal."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "France says their in, so I think we can make this work",
+        "input": "My response to GERMANY:'France says their in, so I think we can make this work'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "What would you propose from here?",
+        "input": "Message from GERMANY:'What would you propose from here?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's request for further discussion and strategic planning shows an interest in solidifying the western triple alliance and maximizing its effectiveness. Their engagement in planning future moves suggests a commitment to the proposed alliance and collaboration with both England and France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I'd say we can take on Russia pretty well together -- I can go North to take Stp by 02 or 03 and you can bounce them out of Swe and I'd support you in in the coming years\nFrom there, Id try to march my armies south on the Eastern edge of the board, you could go through the middle towards Austria, and France can be swinging south through Italy in the meantime",
+        "input": "My response to GERMANY:'I'd say we can take on Russia pretty well together -- I can go North to take Stp by 02 or 03 and you can bounce them out of Swe and I'd support you in in the coming years\nFrom there, Id try to march my armies south on the Eastern edge of the board, you could go through the middle towards Austria, and France can be swinging south through Italy in the meantime'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "That seems fair enough, I'm in",
+        "input": "Message from GERMANY:'That seems fair enough, I'm in'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's positive response to your proposed strategic plan indicates a shared vision and commitment to collaborating in the game. Their agreement to the plan demonstrates a willingness to work together and execute coordinated moves to pursue common objectives within the western triple alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Great, glad to have you on board",
+        "input": "My response to GERMANY:'Great, glad to have you on board'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Ah it looks like you missed you're turn",
+        "input": "My response to GERMANY:'Ah it looks like you missed you're turn'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "It would appear that way",
+        "input": "Message from GERMANY:'It would appear that way'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's acknowledgment of potentially missing a turn aligns with your observation, indicating honesty and transparency in the communication. Their straightforward response implies a sense of reliability in addressing potential oversights or errors."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "But I have my next orders in so it's all good",
+        "input": "Message from GERMANY:'But I have my next orders in so it's all good'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's assurance that they have submitted their orders despite the previous observation of potentially missing a turn shows proactive engagement and commitment to continue playing strategically. This response indicates reliability and a desire to move forward positively in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Ok, that's good",
+        "input": "My response to GERMANY:'Ok, that's good'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Do you think it'd be ok if for next turn I take Denmark and you take Holland, so that I can get the extra build to stage my attack on Russia? I'd be happy to give it back the following turn",
+        "input": "My response to GERMANY:'Do you think it'd be ok if for next turn I take Denmark and you take Holland, so that I can get the extra build to stage my attack on Russia? I'd be happy to give it back the following turn'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Anyways, those are the orders I put in for now, so just let me know if I should change them",
+        "input": "My response to GERMANY:'Anyways, those are the orders I put in for now, so just let me know if I should change them'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I'm in, as long as you actually move out. Otherwise, we might have an issue.",
+        "input": "Message from GERMANY:'I'm in, as long as you actually move out. Otherwise, we might have an issue.'.If the cicero recommended order for me is: A EDI - DEN VIA, F NTH C A EDI - DEN, F NWG - NWY. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's condition regarding your proposed exchange of territories demonstrates a cautious approach while expressing a willingness to cooperate. Their concerns about potential complications if the agreement is not upheld indicate a clear communication of expectations, which fosters trust within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Yeah, for sure -- I just want to be sure I'm ready to kick Russia out of Sweden asap",
+        "input": "My response to GERMANY:'Yeah, for sure -- I just want to be sure I'm ready to kick Russia out of Sweden asap'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "What are we thinking for builds?",
+        "input": "My response to GERMANY:'What are we thinking for builds?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "So I'll support myself into Sweden and you can follow up with your army and start to bring your fleet east thru Kiel?",
+        "input": "My response to GERMANY:'So I'll support myself into Sweden and you can follow up with your army and start to bring your fleet east thru Kiel?'.",
+        "output": ""
+      }
+    ]
+  }
+]

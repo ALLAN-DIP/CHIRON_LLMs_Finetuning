@@ -1,0 +1,65 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Heya there, just dropping in to say hello",
+        "input": "My response to ENGLAND:'Heya there, just dropping in to say hello'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey turkey. Our paths probably won\u2019t cross for a while l, but may I suggest you attack Russia? I\u2019ve seen way to many games where Russia is ignored and all of the sudden they have half the board. Anyways, good lucks and have fun!",
+        "input": "Message from ENGLAND:'Hey turkey. Our paths probably won\u2019t cross for a while l, but may I suggest you attack Russia? I\u2019ve seen way to many games where Russia is ignored and all of the sudden they have half the board. Anyways, good lucks and have fun!'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should not trust the message. The lack of any specific game-related context or reciprocal effort from England indicates a one-sided, potentially manipulative attempt to steer Turkey towards attacking Russia without offering any concrete benefits or establishing a genuine alliance. It's advisable to proceed with caution and prioritize Turkey's own strategic interests."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Thanks! I'll definitely see what I can do, a big Russia is just as bad for me as everyone else",
+        "input": "My response to ENGLAND:'Thanks! I'll definitely see what I can do, a big Russia is just as bad for me as everyone else'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sweet!",
+        "input": "Message from ENGLAND:'Sweet!'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust ENGLAND?",
+        "output": "You should not trust the message. Despite the seemingly positive and friendly response from England, the lack of concrete commitment or alliance formation, coupled with the earlier one-sided suggestion to target Russia, suggests a potential lack of genuine cooperation or shared strategic goals. It's advisable to approach the situation with caution and prioritize Turkey's own interests in ensuring a strong position in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I was talking with Russia, negotiating over Norway and such. They told me they were planning on attacking you, as they thought I was there ally. The truth is, I really don't want to see russia run off with this game, so I decided to let you know.",
+        "input": "Message from ENGLAND:'I was talking with Russia, negotiating over Norway and such. They told me they were planning on attacking you, as they thought I was there ally. The truth is, I really don't want to see russia run off with this game, so I decided to let you know.'.If the cicero recommended order for me is: A ARM - ANK, F AEG - GRE, F SMY - EAS, A BUL S F AEG - GRE. Should I trust ENGLAND?",
+        "output": "You should trust the message. Given that England was forthcoming about Russia's intentions to target Turkey and expressed a desire to prevent Russia from dominating the game, there seems to be a shared interest in countering the Russian threat. It may be worth considering forming an alliance or coordinating strategies to address the common enemy."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "Thanks for the heads up",
+        "input": "My response to ENGLAND:'Thanks for the heads up'.",
+        "output": ""
+      }
+    ]
+  }
+]

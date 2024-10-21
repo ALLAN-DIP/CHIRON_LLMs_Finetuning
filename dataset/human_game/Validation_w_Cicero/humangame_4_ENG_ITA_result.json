@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello dearest Italy. How goes things in your section of Europe?",
+        "input": "My response to ITALY:'Hello dearest Italy. How goes things in your section of Europe?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Turning my attention to Greece for now, but would be interested in a long-term strategy against France!",
+        "input": "Message from ITALY:'Turning my attention to Greece for now, but would be interested in a long-term strategy against France!'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust ITALY?",
+        "output": "'You should trust the message.' ITALY's mention of being interested in a long-term strategy against France aligns with your potential objectives, suggesting a mutual interest in collaboration and coordination against a common adversary."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hello Italy!",
+        "input": "My response to ITALY:'Hello Italy!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I'd like to discuss the Franco-German conflict with you",
+        "input": "My response to ITALY:'I'd like to discuss the Franco-German conflict with you'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Italy? If you are available I have an offer for you.",
+        "input": "My response to ITALY:'Italy? If you are available I have an offer for you.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I am listening!",
+        "input": "Message from ITALY:'I am listening!'.If the cicero recommended order for me is: A LON - DEN VIA, F NTH C A LON - DEN, F NWG - NWY, F SKA S A LON - DEN. Should I trust ITALY?",
+        "output": "'You should trust the message.' ITALY's response of 'I am listening!' demonstrates an openness to communication and potentially collaborating or negotiating with you, aligning with your attempt to engage in diplomacy and discuss potential offers."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/",
+        "input": "My response to ITALY:'So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "?*",
+        "input": "My response to ITALY:'?*'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "My northern neighbors, how goes it?",
+        "input": "Message from ITALY:'My northern neighbors, how goes it?'.If the cicero recommended order for me is: A LON - HOL VIA, A LVP - YOR, F NTH C A LON - HOL, A WAL - LON, F HOL - KIE, F KIE - DEN. Should I trust ITALY?",
+        "output": "'You should trust the message.' ITALY's inquiry about the situation with your northern neighbors could indicate an interest in maintaining communication and potentially exploring collaborative opportunities in the region, aligning with your strategic moves in that area."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "How are your relations with Russia and France?",
+        "input": "Message from ITALY:'How are your relations with Russia and France?'.If the cicero recommended order for me is: A LON - HOL VIA, A LVP - YOR, F NTH C A LON - HOL, A WAL - LON, F HOL - KIE, F KIE - DEN. Should I trust ITALY?",
+        "output": "'You should trust the message.' ITALY's inquiry about your relations with Russia and France shows a keen interest in the diplomatic landscape and potential alliances within the game, indicating a strategic mindset and a possible interest in aligning with your own objectives."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hello dearest Italy, I have reasonably close relations with my fellow northerners",
+        "input": "My response to ITALY:'Hello dearest Italy, I have reasonably close relations with my fellow northerners'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Hey Germany, looks like you missed the first turn but what are you plans for the future?",
+        "input": "Message from TURKEY:'Hey Germany, looks like you missed the first turn but what are you plans for the future?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. The message seems innocuous but it's unusual to point out a missed turn early in the game, which could indicate potential manipulation. It's better to be cautious and not reveal your strategies to potentially untrustworthy players."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'm not on good odds with Russia at this point so wouldn't mind working together against them",
+        "input": "Message from TURKEY:'I'm not on good odds with Russia at this point so wouldn't mind working together against them'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their statement aligns with your strategic interest to potentially target Russia together, making it a plausible offer for cooperation. It could be beneficial to explore this opportunity further while remaining cautious and verifying their intentions through subsequent actions."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game",
+        "input": "My response to TURKEY:'IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure, though I can see that is a big if at the moment!",
+        "input": "Message from TURKEY:'Sure, though I can see that is a big if at the moment!'.If the cicero recommended order for me is: F HOL - KIE, A MUN S F HOL - KIE. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. The comment about your potential survival being a big if may indicate skepticism about your chances in the game, potentially signaling a lack of commitment to a future alliance. It's advisable to be cautious and consider alternative diplomatic options."
+      }
+    ]
+  }
+]

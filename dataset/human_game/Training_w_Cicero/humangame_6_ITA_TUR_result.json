@@ -1,0 +1,49 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Bongiorno! \nAny deep thoughts on how we want the board to shape up in the early years?",
+        "input": "Message from TURKEY:'Bongiorno! \nAny deep thoughts on how we want the board to shape up in the early years?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. There is no indication of any alliance or specific plan mentioned in their message, which may suggest a lack of commitment to working closely with you."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "D'oh, my initial Spring '01 commo I had never selected an emoji for, so it probably just sent now, a turn late \ud83d\ude42",
+        "input": "Message from TURKEY:'D'oh, my initial Spring '01 commo I had never selected an emoji for, so it probably just sent now, a turn late \ud83d\ude42'.If the cicero recommended order for me is: F ION - TUN, A VEN - TYR, A TRI - VIE. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their explanation about the delayed emoji suggests a harmless, lighthearted communication error rather than any deceitful intentions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Anyway, nice aggressive opening to Trieste.  I hope you sold it ahead of time as a Key Lepanto, but either way, let's carve the Balkans quick so we can both head north and you can look to the West.",
+        "input": "Message from TURKEY:'Anyway, nice aggressive opening to Trieste.  I hope you sold it ahead of time as a Key Lepanto, but either way, let's carve the Balkans quick so we can both head north and you can look to the West.'.If the cicero recommended order for me is: F ION - TUN, A VEN - TYR, A TRI - VIE. Should I trust TURKEY?",
+        "output": "You should not trust the message from TURKEY. Their mention of an \"aggressive opening to Trieste\" and a desire to \"carve the Balkans quick\" may indicate intentions to target your territories, potentially leading to your detriment."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "We should probably be talking by now.",
+        "input": "Message from TURKEY:'We should probably be talking by now.'.If the cicero recommended order for me is: F WES - TUN, F TYS - ION, F NAP S F TYS - ION, A VEN S A TRI, A TRI S A BUD. Should I trust TURKEY?",
+        "output": "You should trust the message from TURKEY. Their straightforward statement indicating the necessity of communication suggests a willingness to establish dialogue and potentially form a strategic partnership."
+      }
+    ]
+  }
+]

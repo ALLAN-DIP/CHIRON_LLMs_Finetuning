@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.",
+        "input": "Message from FRANCE:'Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should not trust the message. The message from France seems to be suggesting a potential alliance based on your interactions with Germany and England, which could be manipulative and aimed at gathering sensitive information about your plans. Be cautious in your response and maintain a neutral stance until you gather more information about France's intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.",
+        "input": "My response to FRANCE:'I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds good. Let me know.",
+        "input": "Message from FRANCE:'Sounds good. Let me know.'.If the cicero recommended order for me is: F STP/SC - BOT, A MOS - UKR, A WAR - GAL, F SEV - BLA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's response to your message seems to be understanding and non-committal, indicating a diplomatic and neutral stance. It aligns well with your current strategy of maintaining a cautious and observant approach."
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?",
+        "input": "My response to TURKEY:'Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?",
+        "input": "Message from TURKEY:'Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's response shows openness to dialogue and cooperation, which aligns with your strategic interest in coordinating with them in the East."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?",
+        "input": "My response to TURKEY:'Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "All pretty civil if a little quiet at this point down in the corner here.",
+        "input": "Message from TURKEY:'All pretty civil if a little quiet at this point down in the corner here.'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should not trust the message. Turkey's response seems vague and lacks detailed information about their diplomatic interactions, which could indicate a lack of transparency or potential hidden agendas."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)",
+        "input": "Message from TURKEY:'Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's sharing of Russia's movements could be valuable information for your strategic planning, indicating a level of transparency and potential alignment of interests between you and Turkey against Russia."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Awesome thanks!",
+        "input": "My response to TURKEY:'Awesome thanks!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?",
+        "input": "My response to TURKEY:'Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North",
+        "input": "Message from TURKEY:'Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North'.If the cicero recommended order for me is: A LVP - YOR, F NTH - DEN, F NWG - NWY. Should I trust TURKEY?",
+        "output": "You should trust the message. Turkey's concerns about Russia's gains and potential northern expansion align with your strategic interest in containing Russia, indicating a shared perspective and potential for cooperation against a common threat."
+      }
+    ]
+  }
+]

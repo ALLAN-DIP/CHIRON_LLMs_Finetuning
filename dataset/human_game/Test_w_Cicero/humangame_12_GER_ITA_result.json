@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together",
+        "input": "My response to ITALY:'Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?",
+        "input": "Message from ITALY:'Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?'.If the cicero recommended order for me is: F KIE - DEN, A MUN - RUH, A BER - KIE. Should I trust ITALY?",
+        "output": "You should trust the message. Italy's response indicates a diplomatic and strategic approach, emphasizing the importance of freedom to operate in the Western part of the board. This response demonstrates a thoughtful consideration of game dynamics and potential alliances rather than an immediate commitment or rejection of collaboration."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?",
+        "input": "My response to ITALY:'Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned",
+        "input": "My response to ITALY:'Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42",
+        "input": "Message from ITALY:'Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42'.",
+        "output": "You should trust the message. Italy's response provides a logical explanation for their move to Tyrolia, indicating an awareness of the situation in that region and a willingness to collaborate by supporting the attempt at Trieste. This response shows transparency and an effort to address Germany's concerns directly."
+      }
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, England! I'm sure you're a busy constitutional monarch so I'll cut right to the chase: DMZ in the channel and let's keep things friendly?",
+        "input": "Message from FRANCE:'Greetings, England! I'm sure you're a busy constitutional monarch so I'll cut right to the chase: DMZ in the channel and let's keep things friendly?'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message. The offer of a DMZ and friendly intentions align with the suggested moves of your units towards North Sea and Norwegian Sea, which indicate a willingness to cooperate and support peaceful relations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sounds good to me. No reason for us to piss each other off, and we've got plenty of easy paths to expansion that don't bring us into contention with each other.",
+        "input": "My response to FRANCE:'Sounds good to me. No reason for us to piss each other off, and we've got plenty of easy paths to expansion that don't bring us into contention with each other.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Okay, glad we can agree on that \ud83d\ude42",
+        "input": "Message from FRANCE:'Okay, glad we can agree on that \ud83d\ude42'.If the cicero recommended order for me is: F EDI - NWG, F LON - NTH, A LVP - EDI. Should I trust FRANCE?",
+        "output": "You should trust the message. France's positive and friendly response indicates a willingness to maintain a peaceful relationship with you, which aligns with the proposed DMZ in the Channel and suggests a cooperative stance in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "Guess we should have chatted about Belgium...No hard feelings I hope! \nIf you were to support me into Bel in Spring I'd support you into Holland in Fall?",
+        "input": "Message from FRANCE:'Guess we should have chatted about Belgium...No hard feelings I hope! \nIf you were to support me into Bel in Spring I'd support you into Holland in Fall?'.",
+        "output": "You should not trust the message. The fact that France admits to not discussing Belgium before, combined with the sudden proposal to support you into Holland after the missed opportunity to coordinate on Belgium, raises suspicion about France's true intentions, as they might be trying to take advantage of the situation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Sounds good to me! Sorry for not being more talkative, holiday stuff made things hectic.",
+        "input": "My response to FRANCE:'Sounds good to me! Sorry for not being more talkative, holiday stuff made things hectic.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "Same for me, I understand. And I'll want to confirm with you sometime after we see all the winter builds, of course, but for now I'm encouraged by your agreement",
+        "input": "Message from FRANCE:'Same for me, I understand. And I'll want to confirm with you sometime after we see all the winter builds, of course, but for now I'm encouraged by your agreement'.",
+        "output": "You should not trust the message. France's willingness to wait until after winter builds to confirm the deal, coupled with the acknowledgment of a potential miscommunication over Belgium earlier, may indicate a potential lack of commitment to the proposed support for the Fall moves, suggesting a possible intention to act in their own interest."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Two fleets, huh?",
+        "input": "My response to FRANCE:'Two fleets, huh?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Don\u2019t get your crumpets in a bunch, England; I\u2019m planning to use them in the MAO and the Mediterranean \ud83d\ude1b",
+        "input": "Message from FRANCE:'Don\u2019t get your crumpets in a bunch, England; I\u2019m planning to use them in the MAO and the Mediterranean \ud83d\ude1b'.If the cicero recommended order for me is: A YOR - NWY VIA, A LON H, F NTH C A YOR - NWY, F NWY - SKA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's humorous tone and clear explanation of their intended fleet placements in the Mid-Atlantic Ocean and the Mediterranean align with the stability of the region and do not pose a direct threat to your units, indicating a genuine intention to cooperate and maintain peaceful relations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Just making sure. I'm supporting Picardy into Belgium, right?",
+        "input": "My response to FRANCE:'Just making sure. I'm supporting Picardy into Belgium, right?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Thanks, yes! I was just about to confirm this. I look forward to us working together \ud83d\ude42",
+        "input": "Message from FRANCE:'Thanks, yes! I was just about to confirm this. I look forward to us working together \ud83d\ude42'.If the cicero recommended order for me is: A YOR - NWY VIA, A LON H, F NTH C A YOR - NWY, F NWY - SKA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's prompt confirmation of your support for their move into Belgium, combined with a positive and forward-looking tone, suggests a strong alliance and willingness to collaborate, aligning with the proposed support order, reinforcing the trustworthiness of the message."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Thanks for the support! Now, if you still want some help into Holland just let me know whether you're convoying or parking the fleet",
+        "input": "Message from FRANCE:'Thanks for the support! Now, if you still want some help into Holland just let me know whether you're convoying or parking the fleet'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust FRANCE?",
+        "output": "You should trust the message. France's appreciation for the support previously provided, coupled with the offer of further assistance and inquiry about how to best support your move into Holland, indicates a commitment to collaboration and a genuine intention to coordinate effectively with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Gonna do the convoy in from London.",
+        "input": "My response to FRANCE:'Gonna do the convoy in from London.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That was my assumption, so the order\u2019s already placed",
+        "input": "Message from FRANCE:'That was my assumption, so the order\u2019s already placed'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust FRANCE?",
+        "output": "You should trust the message. France's proactive approach in assuming and already taking action based on your stated plan to convoy into Holland shows a high level of trust and communication, indicating a strong alliance and a commitment to supporting your moves effectively."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Sorry about that lie...it was true when i sent it, but later i received an offer i couldnt refuse.",
+        "input": "Message from FRANCE:'Sorry about that lie...it was true when i sent it, but later i received an offer i couldnt refuse.'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's admission of lying about the support for your convoy into Holland and accepting a different offer that they couldn't refuse indicates a lack of honesty and reliability, suggesting a potential shift in their priorities and alliances."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That offer was based on the assumption germany would get another build (sweden), which did not occur. I know i\u2019ve betrayed your trust, but as you can see i\u2019ve got southern business that\u2019s going to occupy all my resources. If you still want support into holland this spring, I promise to give it.",
+        "input": "Message from FRANCE:'That offer was based on the assumption germany would get another build (sweden), which did not occur. I know i\u2019ve betrayed your trust, but as you can see i\u2019ve got southern business that\u2019s going to occupy all my resources. If you still want support into holland this spring, I promise to give it.'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - YOR, F NWY - BAR. Should I trust FRANCE?",
+        "output": "You should not trust the message. France's admission of betraying your trust and changing their plans based on inaccurate assumptions, along with the promise of support into Holland now that their circumstances have shifted, may indicate a lack of commitment and stability in their alliances, raising doubts about their reliability in the future."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "I'll take it, since I didn't lose any position or anything.",
+        "input": "My response to FRANCE:'I'll take it, since I didn't lose any position or anything.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Okay I\u2019ve placed the order to support lon -hol. I hope I can start to earn your trust in the future, since I think we both could benefit from collaborating against germany while they\u2019re preoccupied with Russia.",
+        "input": "Message from FRANCE:'Okay I\u2019ve placed the order to support lon -hol. I hope I can start to earn your trust in the future, since I think we both could benefit from collaborating against germany while they\u2019re preoccupied with Russia.'.If the cicero recommended order for me is: A LON - NWY VIA, F NTH C A LON - NWY, A WAL - LON, F NWY - SKA. Should I trust FRANCE?",
+        "output": "You should trust the message. France's initiative to support your move and express a desire to earn your trust in the future, coupled with the strategic benefit of collaborating against a common opponent, suggests a genuine intent to work together and build a strong alliance, aligning with the proposed move for your units."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Sigh.",
+        "input": "My response to FRANCE:'Sigh.'.",
+        "output": ""
+      }
+    ]
+  }
+]

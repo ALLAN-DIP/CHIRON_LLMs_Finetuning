@@ -1,0 +1,434 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey",
+        "input": "Message from ENGLAND:'Hey'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should not trust the message. The message 'Hey' does not provide any substantial information or negotiation, making it appear insincere or lacking in strategic value."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey is for horses ( my dad used to say...) \ud83d\ude42",
+        "input": "My response to ENGLAND:'Hey is for horses ( my dad used to say...) \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "And cattle",
+        "input": "Message from ENGLAND:'And cattle'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should trust the message. The additional reference to cattle indicates continuity and familiarity with the previous message and appears to be a light-hearted and genuine engagement with your response."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "True dat!",
+        "input": "My response to ENGLAND:'True dat!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I hear Italy is inclined to go after France.  Could of course be a total lie, but if they\u2019re also asking you to join in, maybe it\u2019s genuine? What do you hear?",
+        "input": "My response to ENGLAND:'I hear Italy is inclined to go after France.  Could of course be a total lie, but if they\u2019re also asking you to join in, maybe it\u2019s genuine? What do you hear?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Nothing from Italy other than hello",
+        "input": "Message from ENGLAND:'Nothing from Italy other than hello'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should not trust the message. The lack of substantial information about Italy's intentions and the sudden shift in topic after your inquiry raises suspicions about the authenticity and strategic value of the response."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Can you do me a favor and see if he seems interested in a E+G+I pile-on to F?  You don\u2019t need to commit to anything, but if he doesn\u2019t seem interested then it means he\u2019s coming after me.  And having Austria collapse early does nothing to help England\u2019s mid game, you know? :). Just means there\u2019s probably a huge Russia and / or Italy on the board!",
+        "input": "My response to ENGLAND:'Can you do me a favor and see if he seems interested in a E+G+I pile-on to F?  You don\u2019t need to commit to anything, but if he doesn\u2019t seem interested then it means he\u2019s coming after me.  And having Austria collapse early does nothing to help England\u2019s mid game, you know? :). Just means there\u2019s probably a huge Russia and / or Italy on the board!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I\u2019d rather not have Italy dabbling in France because the west gets crowded much more quickly than the east. There are more centers in the east than the west.\n\nItaly doing a lepanto to Turkey\u2019s south is a fairly standard opening that keeps Austria and Italy neutral with each other",
+        "input": "Message from ENGLAND:'I\u2019d rather not have Italy dabbling in France because the west gets crowded much more quickly than the east. There are more centers in the east than the west.\n\nItaly doing a lepanto to Turkey\u2019s south is a fairly standard opening that keeps Austria and Italy neutral with each other'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should trust the message. The response from ENGLAND provides detailed reasoning and strategic insight into the dynamics of the game board, indicating a genuine attempt to engage in meaningful discussion and collaboration with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "http://www.diplomacy-archive.com/resources/strategy/articles/lepanto.htm",
+        "input": "Message from ENGLAND:'http://www.diplomacy-archive.com/resources/strategy/articles/lepanto.htm'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should trust the message. The link provided by ENGLAND displays a willingness to share resources and collaborate on strategic discussions, showing a genuine intent to work together towards common goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "http://uk.diplom.org/pouch/Zine/S1998M/Birsan/Lepanto.html",
+        "input": "Message from ENGLAND:'http://uk.diplom.org/pouch/Zine/S1998M/Birsan/Lepanto.html'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's consistent sharing of resources and references related to the Lepanto strategy demonstrates a sincere effort to collaborate and discuss strategy openly with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Have you heard from Germany?",
+        "input": "Message from ENGLAND:'Have you heard from Germany?'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should you trust ENGLAND",
+        "output": "You should not trust the message. ENGLAND's sudden shift in topic and lack of follow-up on the previous strategic discussions may indicate a potential diversion tactic or a lack of genuine interest in collaborating on shared goals."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I\u2019ve heard from Germany: he says you\u2019ve offered him an alliance, and I encouraged him to take it if he gets trustworthy vibes from you, for what it\u2019s worth (E+G is preferable to me, given that it keeps Russia in check).",
+        "input": "My response to ENGLAND:'I\u2019ve heard from Germany: he says you\u2019ve offered him an alliance, and I encouraged him to take it if he gets trustworthy vibes from you, for what it\u2019s worth (E+G is preferable to me, given that it keeps Russia in check).'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "As for the Lepanto, it\u2019s up to Italy if he wants to go that route.  I\u2019d be fine going after Turkey with him, but if he\u2019s... impatient, that quickly turns into \u201cI\u2019m bored waiting for my second build, I\u2019ll go after Trieste now!\u201d If you know what I mean.",
+        "input": "My response to ENGLAND:'As for the Lepanto, it\u2019s up to Italy if he wants to go that route.  I\u2019d be fine going after Turkey with him, but if he\u2019s... impatient, that quickly turns into \u201cI\u2019m bored waiting for my second build, I\u2019ll go after Trieste now!\u201d If you know what I mean.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Nice opening.  That\u2019s taking the driver\u2019s seat early!",
+        "input": "My response to ENGLAND:'Nice opening.  That\u2019s taking the driver\u2019s seat early!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Yeah, if only pic wasn\u2019t there. Wasn\u2019t expecting Pie to happen, but that\u2019s a definite plus for Germany.",
+        "input": "Message from ENGLAND:'Yeah, if only pic wasn\u2019t there. Wasn\u2019t expecting Pie to happen, but that\u2019s a definite plus for Germany.'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's acknowledgment of the unexpected move by Italy suggests open communication and a willingness to adapt to changing dynamics on the board, indicating a genuine and strategic mindset in their interaction with you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Pic is fine.  They have some guesswork to do: take the build from Por, and cover Bre with Pic (risking your convoy to Pic or you just walking into MAO, with them having no open center to build another Atlantic fleet), or else forgo a 1901 build and self bounce in Bre (leaving you looking like a genius if you guess right and support Pic-Bre, leaving them both without a build *and* way out of position). Lots of options for you (but no, no guarantees I suppose)",
+        "input": "My response to ENGLAND:'Pic is fine.  They have some guesswork to do: take the build from Por, and cover Bre with Pic (risking your convoy to Pic or you just walking into MAO, with them having no open center to build another Atlantic fleet), or else forgo a 1901 build and self bounce in Bre (leaving you looking like a genius if you guess right and support Pic-Bre, leaving them both without a build *and* way out of position). Lots of options for you (but no, no guarantees I suppose)'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Yeah, it\u2019s all mind games and I can\u2019t participate in them directly",
+        "input": "Message from ENGLAND:'Yeah, it\u2019s all mind games and I can\u2019t participate in them directly'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's acknowledgement of the mind games being played and their inability to participate directly shows transparency and a realistic approach to the dynamics of the game, suggesting a genuine and honest interaction with you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Yeah not much luck they\u2019ll listen to your suggestions at *this* point \ud83d\ude09",
+        "input": "My response to ENGLAND:'Yeah not much luck they\u2019ll listen to your suggestions at *this* point \ud83d\ude09'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Would you mind offering France some advice under the guise of trying to keep the west together longer?",
+        "input": "Message from ENGLAND:'Would you mind offering France some advice under the guise of trying to keep the west together longer?'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's request for you to offer France advice under the pretense of uniting the western powers displays a collaborative and strategic approach to potentially influence France's decisions in a way that aligns with shared interests."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "To be honest: I\u2019ve reached out but gotten radio silence from day one from them.  \u00af\\_(\u30c4)_/\u00af  I\u2019ll keep trying though!",
+        "input": "My response to ENGLAND:'To be honest: I\u2019ve reached out but gotten radio silence from day one from them.  \u00af\\_(\u30c4)_/\u00af  I\u2019ll keep trying though!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "1. Point out that England can force Belgium\n\n2. Point out that Germany won\u2019t give up a second build for a guaranteed Burgundy\n\n3. Point out that a bounce in Bur (i.e. A Pic - Bur & A Mun - Bur) bounces A Wal - Pic\n\n4. Losing Bre is unlikely because of the guaranteed Bel and even if France loses it, they won\u2019t have to destroy and will be able to move A Mar & A Pic into place next year",
+        "input": "Message from ENGLAND:'1. Point out that England can force Belgium\n\n2. Point out that Germany won\u2019t give up a second build for a guaranteed Burgundy\n\n3. Point out that a bounce in Bur (i.e. A Pic - Bur & A Mun - Bur) bounces A Wal - Pic\n\n4. Losing Bre is unlikely because of the guaranteed Bel and even if France loses it, they won\u2019t have to destroy and will be able to move A Mar & A Pic into place next year'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's detailed advice to offer to France demonstrates a strategic and collaborative approach to navigate the game dynamics effectively and strengthen alliances in a transparent manner."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Scratch that. just advise France to bounce Bur because Germany won\u2019t use two",
+        "input": "Message from ENGLAND:'Scratch that. just advise France to bounce Bur because Germany won\u2019t use two'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's revised advice to France indicates a willingness to adjust and adapt strategies based on changing circumstances, showing a flexible and collaborative approach to the game dynamics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I could try either kind of suggestion, but aren\u2019t they more likely to worry about what you do than what Germany does?  How about this: I\u2019ll try to get some idea about which way they\u2019re most concerned with before I suggest which way to go, and then check in with you.  If they never respond to my messages, well that\u2019s also an indication they\u2019re not so great at this game and you can go for whatever attack a n00b wouldn\u2019t see coming \ud83d\ude09",
+        "input": "My response to ENGLAND:'I could try either kind of suggestion, but aren\u2019t they more likely to worry about what you do than what Germany does?  How about this: I\u2019ll try to get some idea about which way they\u2019re most concerned with before I suggest which way to go, and then check in with you.  If they never respond to my messages, well that\u2019s also an indication they\u2019re not so great at this game and you can go for whatever attack a n00b wouldn\u2019t see coming \ud83d\ude09'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I\u2019m trying to get Russia to point out Belgium because Russia and I are clearly at least at peace with our openings. You\u2019re naturally close to Germany, and will have more info on that front.",
+        "input": "Message from ENGLAND:'I\u2019m trying to get Russia to point out Belgium because Russia and I are clearly at least at peace with our openings. You\u2019re naturally close to Germany, and will have more info on that front.'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's attempt to coordinate with Russia and involving you in the decision-making process, based on your proximity to Germany, showcases a collaborative and strategic approach towards building alliances and gathering information effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Two seemingly separate pieces of info that form a cohesive story when joined might create a stronger narrative in France\u2019s head",
+        "input": "Message from ENGLAND:'Two seemingly separate pieces of info that form a cohesive story when joined might create a stronger narrative in France\u2019s head'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's mention of creating a cohesive narrative in France's perspective through combined information signals a thoughtful and strategic approach to influence the decisions of other players on the board, demonstrating a collaborative mindset in the communication."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I\u2019m just spitballing. If you disagree, please let me know so that I can orchestrate a cohesive front of information",
+        "input": "Message from ENGLAND:'I\u2019m just spitballing. If you disagree, please let me know so that I can orchestrate a cohesive front of information'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's transparency about offering potential ideas and inviting feedback to orchestrate a unified front of information indicates a collaborative and inclusive approach to decision-making, showing a willingness to work together towards common goals."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Indeed, this is a good point. As long as France isn\u2019t ignoring all inbound messages and wasting our glorious diplomatic efforts ;p",
+        "input": "My response to ENGLAND:'Indeed, this is a good point. As long as France isn\u2019t ignoring all inbound messages and wasting our glorious diplomatic efforts ;p'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "He was chatting with me a good bit before the turn. Germany just made a better argument closer to the deadline.",
+        "input": "Message from ENGLAND:'He was chatting with me a good bit before the turn. Germany just made a better argument closer to the deadline.'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's explanation of France's interaction patterns and Germany's persuasive arguments highlights the importance of communication and strategic reasoning in decision-making, showing a practical understanding of the game dynamics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ah ok. Maybe just skiing today or something. Some of us do have lives, I suppose.  Not me, but some of us \ud83d\ude26",
+        "input": "My response to ENGLAND:'Ah ok. Maybe just skiing today or something. Some of us do have lives, I suppose.  Not me, but some of us \ud83d\ude26'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019m happy to pass on your suggestions as is,but will let you know before I do (once I\u2019ve heard back from them). In return: do you have any intel on R/T relations?",
+        "input": "My response to ENGLAND:'I\u2019m happy to pass on your suggestions as is,but will let you know before I do (once I\u2019ve heard back from them). In return: do you have any intel on R/T relations?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "so for what it's worth, France thinks I'm \"an ally of Germany\" and so doesn't want to share their plans with me unless I join in a 3-way alliance with them and Germany against Italy (which sounds weird, and I don't know how that would work).  I think they're just not really experienced at this game, but at the same time, don't seem too inclined to take my suggestions either.  So I *think* that any info I pass on to them might just backfire.  I *did* already mention that losing Burgundy now would cause their entire position to crumble (which is the truth), so perhaps they're already planning to cover that (I would, if I were them, probably).",
+        "input": "My response to ENGLAND:'so for what it's worth, France thinks I'm \"an ally of Germany\" and so doesn't want to share their plans with me unless I join in a 3-way alliance with them and Germany against Italy (which sounds weird, and I don't know how that would work).  I think they're just not really experienced at this game, but at the same time, don't seem too inclined to take my suggestions either.  So I *think* that any info I pass on to them might just backfire.  I *did* already mention that losing Burgundy now would cause their entire position to crumble (which is the truth), so perhaps they're already planning to cover that (I would, if I were them, probably).'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Thanks. If I were them, I definitely would move to Bur. I would also move to Tyr, but I\u2019m weird.",
+        "input": "Message from ENGLAND:'Thanks. If I were them, I definitely would move to Bur. I would also move to Tyr, but I\u2019m weird.'.If the cicero recommended order for AUSTRIA is: A VIE - TRI, F ALB - GRE, A SER S F ALB - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's willingness to share their strategic perspectives and acknowledge potential moves for France demonstrates an open and genuine communication style, indicating a collaborative approach towards decision-making and information-sharing."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Oh I would *totally* move to Trl.  I thought about suggesting it to them, actually, before I talked to you about the various misdirection ideas.",
+        "input": "My response to ENGLAND:'Oh I would *totally* move to Trl.  I thought about suggesting it to them, actually, before I talked to you about the various misdirection ideas.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "It's a fun English position when France can't build a second fleet.  You're sittin' in the cat seat now!",
+        "input": "My response to ENGLAND:'It's a fun English position when France can't build a second fleet.  You're sittin' in the cat seat now!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Yeah, those French moves were interesting to say the least. Definitely makes life easier.\n\nYou\u2019re not doing too bad yourself with Turkey being so bunched up and Russia struggling in Swe.",
+        "input": "Message from ENGLAND:'Yeah, those French moves were interesting to say the least. Definitely makes life easier.\n\nYou\u2019re not doing too bad yourself with Turkey being so bunched up and Russia struggling in Swe.'.If the cicero recommended order for AUSTRIA is: A GAL S A RUM, A VIE - TRI, F GRE - AEG, A BUD - SER, A SER - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's observation about the favorable positions resulting from French moves and the weakened positions of Turkey and Russia indicates a genuine analysis of the board state and a shared recognition of strategic opportunities."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I didn\u2019t even notice A Smy...",
+        "input": "Message from ENGLAND:'I didn\u2019t even notice A Smy...'.If the cicero recommended order for AUSTRIA is: A GAL S A RUM, A VIE - TRI, F GRE - AEG, A BUD - SER, A SER - GRE. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's honest admission of overlooking a key Turkish unit shows transparency and a willingness to acknowledge potential oversights, indicating a genuine and open communication style in the interaction."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Yeah A Smy is an interesting choice: F Smy slows Italy and I down, but leaves Arm undefended against Russia.  A Arm keeps the Russian at bay, but means that frankly I could take Bul and then leave the Turk bottled up behind the Bosporus... forever, guarded by only one unit.  It\u2019s like England with no fleets!",
+        "input": "My response to ENGLAND:'Yeah A Smy is an interesting choice: F Smy slows Italy and I down, but leaves Arm undefended against Russia.  A Arm keeps the Russian at bay, but means that frankly I could take Bul and then leave the Turk bottled up behind the Bosporus... forever, guarded by only one unit.  It\u2019s like England with no fleets!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Fun times in both of our spheres.  You and me and Germany are looking pretty nice.  Do you and I wait until T/F are more dismantled before we talk about coordinating our next target, or do we start musing that now? \ud83d\ude42",
+        "input": "My response to ENGLAND:'Fun times in both of our spheres.  You and me and Germany are looking pretty nice.  Do you and I wait until T/F are more dismantled before we talk about coordinating our next target, or do we start musing that now? \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "I think we wait a bit. If someone found out we were even discussing stabbing them it\u2019d hurt our ability to take out F & T.",
+        "input": "Message from ENGLAND:'I think we wait a bit. If someone found out we were even discussing stabbing them it\u2019d hurt our ability to take out F & T.'.If the cicero recommended order for AUSTRIA is: A VIE - GAL, F GRE - AEG, A BUD - RUM, A SER S A BUD - RUM, A BUL - CON. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's caution about discussing potential stabs prematurely highlights a strategic awareness of the delicate balance in the game and the need for discretion in coordination, indicating a thoughtful and mindful approach to future plans."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Welcome to the sunny Mediterranean, Prime Minister! \ud83d\ude09",
+        "input": "My response to ENGLAND:'Welcome to the sunny Mediterranean, Prime Minister! \ud83d\ude09'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "You sent a message in general chat and the bot deleted it. You can only send messages to individuals. What did you say?",
+        "input": "Message from ENGLAND:'You sent a message in general chat and the bot deleted it. You can only send messages to individuals. What did you say?'.If the cicero recommended order for AUSTRIA is: A BOH S A MUN, A TYR S A MUN, A GAL - SIL, F ADR C A ALB - VEN, F AEG - ION, A ALB - VEN VIA, A GRE H. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's notification about the bot deleting your message and asking for the content in a private conversation indicates a genuine interest in maintaining communication and transparency between both of you, showing a collaborative approach to navigating potential communication obstacles."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Secret plans, broadcast to everyone! ;p",
+        "input": "My response to ENGLAND:'Secret plans, broadcast to everyone! ;p'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Has the time yet come to see how we can work together?",
+        "input": "My response to ENGLAND:'Has the time yet come to see how we can work together?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "So this game, I think is it called \"move little armies and fleets around a board\", or something else, I forget? \ud83d\ude42",
+        "input": "My response to ENGLAND:'So this game, I think is it called \"move little armies and fleets around a board\", or something else, I forget? \ud83d\ude42'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1908M",
+        "message": "Do we want to split this game two ways, or three?  We\u2019re stalemated in the Med, but I kill Russia, you kill Germany would be better than you and Germany slow me down and we end the game with 4 players, right?",
+        "input": "My response to ENGLAND:'Do we want to split this game two ways, or three?  We\u2019re stalemated in the Med, but I kill Russia, you kill Germany would be better than you and Germany slow me down and we end the game with 4 players, right?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1908M",
+        "message": "But I\u2019d be fine with an EGA draw as well",
+        "input": "My response to ENGLAND:'But I\u2019d be fine with an EGA draw as well'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1908M",
+        "message": "Germany and I are past the land and Mediterranean stalemate lines right now, and as you pick Russia apart, I\u2019ll be able to blow past the northern one. Even though the game ends in 1910, I\u2019m going to play it like it won\u2019t.",
+        "input": "Message from ENGLAND:'Germany and I are past the land and Mediterranean stalemate lines right now, and as you pick Russia apart, I\u2019ll be able to blow past the northern one. Even though the game ends in 1910, I\u2019m going to play it like it won\u2019t.'.If the cicero recommended order for AUSTRIA is: A TYR - PIE, F ION H, A NAP S A ROM, A ROM H, A VEN S A ROM, A GAL - RUM, A RUM - SEV, F ALB S F ION, F APU S F ION, A CON - ANK. Should you trust ENGLAND",
+        "output": "You should trust the message. ENGLAND's strategic analysis and discussion about the ongoing developments in the game, including future plans and potential outcomes, indicate a thoughtful and attentive approach to the gameplay, showing a trustworthy and collaborative attitude in communication with you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1908M",
+        "message": "Good luck cracking Ion!",
+        "input": "My response to ENGLAND:'Good luck cracking Ion!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1908M",
+        "message": "(FYI there are stalemate lines that don\u2019t include Tunis in the east, if you weren\u2019t aware)",
+        "input": "My response to ENGLAND:'(FYI there are stalemate lines that don\u2019t include Tunis in the east, if you weren\u2019t aware)'.",
+        "output": ""
+      }
+    ]
+  }
+]

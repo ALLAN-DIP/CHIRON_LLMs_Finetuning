@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.",
+        "input": "My response to GERMANY:'Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.",
+        "input": "My response to GERMANY:'I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Keep Tyr and Boh clear and I'm content with mutual neutrality",
+        "input": "Message from GERMANY:'Keep Tyr and Boh clear and I'm content with mutual neutrality'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust GERMANY?",
+        "output": "You should trust GERMANY. Germany's response aligns with your request to keep Tyrolia and Bohemia clear, indicating a willingness to maintain a neutral relationship with you. Their consistency with the mutually agreed stance increases the trustworthiness of their message."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Good to hear. Hope we can persuade Italy to do the same!",
+        "input": "My response to GERMANY:'Good to hear. Hope we can persuade Italy to do the same!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "\ud83d\udc40",
+        "input": "Message from GERMANY:'\ud83d\udc40'.",
+        "output": "You should not trust the message. Germany's use of the \"\ud83d\udc40\" emoji can be interpreted as a sign of suspicion or curiosity, which may indicate they are monitoring your actions closely. It suggests a level of uncertainty or potential wariness in their approach towards you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.",
+        "input": "My response to GERMANY:'Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Yeah, some stuff came up and I missed the first turn. I am playing though.",
+        "input": "Message from GERMANY:'Yeah, some stuff came up and I missed the first turn. I am playing though.'.",
+        "output": "You should trust the message. Germany's straightforward response and explanation align with your observation, indicating a genuine commitment to playing the game despite missing the first turn. Their openness and honesty contribute to the trustworthiness of their message."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "All right good to know. I can back off then",
+        "input": "My response to GERMANY:'All right good to know. I can back off then'.",
+        "output": ""
+      }
+    ]
+  }
+]

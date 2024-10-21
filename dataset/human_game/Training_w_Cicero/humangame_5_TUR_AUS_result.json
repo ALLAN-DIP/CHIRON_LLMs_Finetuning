@@ -1,0 +1,118 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. We share natural enemies in Russia and Italy, so I'm interested in a partnership between the two of us.",
+        "input": "Message from AUSTRIA:'Hello Turkey. We share natural enemies in Russia and Italy, so I'm interested in a partnership between the two of us.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's mention of common enemies in Russia and Italy and expressing interest in a partnership suggests a potential alliance based on shared strategic goals, indicating a promising start for collaboration between the two of you."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I would like to know if there's any chance you try a slightly unorthodox opening to Armenia to try to shut down Russia quickly and early, working with me. I would be very interested in helping you on anything like that.",
+        "input": "Message from AUSTRIA:'I would like to know if there's any chance you try a slightly unorthodox opening to Armenia to try to shut down Russia quickly and early, working with me. I would be very interested in helping you on anything like that.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's proposal for an unorthodox opening to Armenia to target Russia early shows a strategic mindset and a willingness to work together towards a common goal, indicating a sincere interest in collaboration and potential long-term cooperation between both of you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, I'm not against an armenia opening but I'm not sure I can commit as of yet. In what way can you assist?",
+        "input": "My response to AUSTRIA:'Hi Austria, I'm not against an armenia opening but I'm not sure I can commit as of yet. In what way can you assist?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Well I will very likely be moving to Galicia in the spring",
+        "input": "Message from AUSTRIA:'Well I will very likely be moving to Galicia in the spring'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's transparency about their planned move to Galicia indicates a level of openness and honesty in communication, suggesting a potential alignment of interests and a willingness to coordinate actions, making them a reliable ally for your current and future plans."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "And I could also move to rumania if it would assist you",
+        "input": "Message from AUSTRIA:'And I could also move to rumania if it would assist you'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust AUSTRIA?",
+        "output": "You should trust Austria. Their offer to move to Romania to assist you shows a willingness to support your strategic objectives, indicating a cooperative attitude and a sincere intention to work together towards a common goal, making them a trustworthy partner in your diplomatic endeavors."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hey, best of luck with Russia in black sea. Hope things go well for you",
+        "input": "Message from AUSTRIA:'Hey, best of luck with Russia in black sea. Hope things go well for you'.If the cicero recommended order for me is: A ANK H, A BUL - GRE, F CON - BUL/SC. Should I trust AUSTRIA?",
+        "output": "You should trust the message. Austria's supportive and non-threatening message about your situation with Russia in the Black Sea indicates a friendly and neutral stance, suggesting they are not currently posing a direct threat or challenge to your position, making them a trustworthy and potentially non-aggressive neighbor for your diplomatic considerations."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Yeah it's kind of problematic",
+        "input": "My response to AUSTRIA:'Yeah it's kind of problematic'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Do you still plan to go for Rum?",
+        "input": "My response to AUSTRIA:'Do you still plan to go for Rum?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "What are your long term plans here? Russia has a much better developed board state and will end up in a much nicer position after I'm done for.",
+        "input": "My response to AUSTRIA:'What are your long term plans here? Russia has a much better developed board state and will end up in a much nicer position after I'm done for.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "I think Russia is going to have to retreat very soon",
+        "input": "My response to AUSTRIA:'I think Russia is going to have to retreat very soon'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "England has a way in through Nwy - Stp",
+        "input": "My response to AUSTRIA:'England has a way in through Nwy - Stp'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "and I'm sure you've realised that, as it stands you're not getting Munich",
+        "input": "My response to AUSTRIA:'and I'm sure you've realised that, as it stands you're not getting Munich'.",
+        "output": ""
+      }
+    ]
+  }
+]

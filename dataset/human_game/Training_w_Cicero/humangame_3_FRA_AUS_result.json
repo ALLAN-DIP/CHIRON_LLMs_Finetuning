@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "What's the play, mate? Something I can help with?",
+        "input": "My response to AUSTRIA:'What's the play, mate? Something I can help with?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?",
+        "input": "Message from AUSTRIA:'Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?'.If the cicero recommended order for me is: F BRE S F MAO - ENG, F MAO - ENG, A BUR - PAR, A RUH - BUR. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their playful language and inquiry about your alliance with Italy show a willingness to engage and strategize with you, indicating sincerity in seeking collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1907M",
+        "message": "More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00",
+        "input": "My response to AUSTRIA:'More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.",
+        "input": "Message from AUSTRIA:'Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.'.If the cicero recommended order for me is: F ENG - BEL, F BRE - PIC, A BUR - PAR, A RUH S F ENG - BEL. Should I trust AUSTRIA?",
+        "output": "You should trust the message from AUSTRIA. Their advice on being cautious about Italy's potential betrayal demonstrates an understanding of the game dynamics and a willingness to share strategic insights for your benefit."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Italy stabs you in the back. What a shock.",
+        "input": "Message from AUSTRIA:'Italy stabs you in the back. What a shock.'.",
+        "output": "You should trust the message from AUSTRIA. Their acknowledgment of Italy's betrayal aligns with the current game situation and indicates a shared understanding of the dynamics, making their message reliable."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Might I recommend striking back with your last dying breath? Join me and destroy Italy.",
+        "input": "Message from AUSTRIA:'Might I recommend striking back with your last dying breath? Join me and destroy Italy.'.",
+        "output": "You should trust the message from AUSTRIA. Their call to unite against Italy and their proactive approach suggest a genuine willingness to collaborate and strategize together, making their proposal trustworthy."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "I invited him in. England has been my bigger issue",
+        "input": "My response to AUSTRIA:'I invited him in. England has been my bigger issue'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Disgusting",
+        "input": "Message from AUSTRIA:'Disgusting'.If the cicero recommended order for me is: F BRE - ENG, A BUR - PAR. Should I trust AUSTRIA?",
+        "output": "You should not trust the message from AUSTRIA. Their strong response of \"disgusting\" could indicate frustration or disapproval, suggesting potential animosity towards your actions, making their intentions unclear and possibly untrustworthy."
+      }
+    ]
+  }
+]

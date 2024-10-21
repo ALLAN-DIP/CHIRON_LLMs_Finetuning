@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!",
+        "input": "My response to ENGLAND:'Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.",
+        "input": "Message from ENGLAND:'If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.'.If the cicero recommended order for me is: A VIE - GAL, F TRI - ALB, A BUD - SER. Should I trust ENGLAND?",
+        "output": "You should trust the message. England seems open to sharing information and providing benefits, which aligns with their previous message of potentially sharing relevant intel. This positive and cooperative attitude suggests a willingness to work together and build trust."
+      }
+    ]
+  }
+]

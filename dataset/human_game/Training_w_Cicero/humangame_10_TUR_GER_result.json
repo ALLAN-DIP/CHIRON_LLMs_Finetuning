@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.",
+        "input": "Message from GERMANY:'Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust GERMANY?",
+        "output": "You should trust the message. The reason is that Germany is offering a reasonable and strategic proposition for information sharing, which aligns with the lack of direct conflict mentioned and the information you might gain from France and England."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello! I would be happy to accept this agreement.",
+        "input": "My response to GERMANY:'Hello! I would be happy to accept this agreement.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Great to hear! How is your relationship with Russia? Plans for Black Sea?",
+        "input": "Message from GERMANY:'Great to hear! How is your relationship with Russia? Plans for Black Sea?'.If the cicero recommended order for me is: F ANK - BLA, A SMY - CON, A CON - BUL. Should I trust GERMANY?",
+        "output": "You should not trust the message. The reason is that Germany's inquiry about your relationship with Russia and plans for the Black Sea seem unrelated to the information sharing agreement proposed earlier, indicating a possible shift in their motives or intentions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "At the moment I'm speaking with him about a potential dmz",
+        "input": "My response to GERMANY:'At the moment I'm speaking with him about a potential dmz'.",
+        "output": ""
+      }
+    ]
+  }
+]

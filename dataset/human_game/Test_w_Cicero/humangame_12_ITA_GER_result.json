@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together",
+        "input": "Message from GERMANY:'Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should trust the message. Germany's friendly and open-ended approach indicates a willingness to establish a diplomatic relationship. The message does not contain any specific demands or threats, which suggests a genuine interest in collaboration."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?",
+        "input": "My response to GERMANY:'Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?",
+        "input": "Message from GERMANY:'Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?'.If the cicero recommended order for me is: F NAP - ION, A ROM - APU, A VEN H. Should I trust GERMANY?",
+        "output": "You should not trust the message. Germany's proposal seems overly aggressive and self-serving, aiming to benefit significantly at the expense of France and potentially Italy. This plan could result in a power imbalance in favor of Germany rather than fostering true collaboration."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned",
+        "input": "Message from GERMANY:'Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned'.",
+        "output": "You should trust the message. Germany's expression of concern about your move to Tyrolia indicates a genuine interest in understanding your intentions and potentially resolving any potential misunderstandings or conflicts. It's a reasonable and non-threatening inquiry that seeks clarification rather than immediately assuming hostility."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42",
+        "input": "My response to GERMANY:'Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42'.",
+        "output": ""
+      }
+    ]
+  }
+]
